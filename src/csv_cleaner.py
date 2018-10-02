@@ -18,19 +18,19 @@ def main():
         sys.exit(1)
 
     with open(file, 'r', newline='') as f:
-        reader = csv.reader(f, delimiter=',', quotechar='\"')
         # create the csv reader for the input file
+        reader = csv.reader(f, delimiter=',', quotechar='\"')
         with open(new_file, 'w', newline='') as nf:
-            writer = csv.writer(nf, delimiter=',', quotechar='\"', quoting=csv.QUOTE_ALL)
             # create the csv writer for the output file
-            writer.writerow(reader.__next__())
+            writer = csv.writer(nf, delimiter=',', quotechar='\"', quoting=csv.QUOTE_ALL)
             # first line is the header row. always take it
+            writer.writerow(reader.__next__())
+            # the first has already been read, so it isn't in 'reader' anymore
+            # iterate on remaining lines
             for row in reader:
-                # the first has already been read, so it isn't in 'reader' anymore
-                # iterate on remaining lines
                 new_row = row.copy()
-                new_row[len(new_row) - 1] = new_row[len(new_row) - 1].replace('\n', '')
                 # delete all '\n' (line breaks) from the last element of the row
+                new_row[len(new_row) - 1] = new_row[len(new_row) - 1].replace('\n', '')
                 writer.writerow(new_row)
 
 
