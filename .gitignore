@@ -1,4 +1,8 @@
 .~*
 ~*
 .idea/
+*/.idea/
+*.iml
+*/out
+*/__pycache__/
 *.pycache
