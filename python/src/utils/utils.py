@@ -1,4 +1,9 @@
 # for reference in color codes: https://github.com/DavidPerezGomez/ANSI-escape-codes/blob/master/ANSI%20escapes
+import sys
+import os
+
+def get_exec_path():
+    return os.path.abspath(os.path.join(sys.path[0], os.pardir, os.pardir, 'run'))
 
 
 def turn_color(color, text):
