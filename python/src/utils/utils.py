@@ -2,8 +2,13 @@
 import sys
 import os
 
+
 def get_exec_path():
     return os.path.abspath(os.path.join(sys.path[0], os.pardir, os.pardir, 'run'))
+
+
+def get_files_path():
+    return os.path.abspath(os.path.join(sys.path[0], os.pardir, os.pardir, 'files'))
 
 
 def turn_color(color, text):

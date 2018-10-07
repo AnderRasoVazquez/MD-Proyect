@@ -30,7 +30,7 @@ def main():
             for row in reader:
                 new_row = row.copy()
                 # delete all '\n' (line breaks) from the last element of the row
-                new_row[len(new_row) - 1] = new_row[len(new_row) - 1].replace('\n', '')
+                new_row[-1] = new_row[-1].replace('_x000D_', '').replace('\n', '')
                 writer.writerow(new_row)
 
 
