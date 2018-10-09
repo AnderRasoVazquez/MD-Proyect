@@ -29,9 +29,14 @@ def main():
             # iterate on remaining lines
             for row in reader:
                 new_row = row.copy()
-                # delete all '\n' (line breaks) from the last element of the row
-                new_row[-1] = new_row[-1].replace('_x000D_', '').replace('\n', '')
+                # clean last attribute of each row (the string)
+                new_row[-1] = clean_string(new_row[-1])
                 writer.writerow(new_row)
+
+
+def clean_string(string):
+    new_string = string.replace('_x000D_', '').replace('\n', '')
+    new_string = new_string.replace('/', ' ')
 
 
 if __name__ == "__main__":
