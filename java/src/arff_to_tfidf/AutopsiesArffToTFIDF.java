@@ -4,6 +4,7 @@ import utils.Utils;
 import weka.core.Instances;
 import weka.core.stemmers.IteratedLovinsStemmer;
 import weka.core.stemmers.LovinsStemmer;
+import weka.core.stemmers.SnowballStemmer;
 import weka.core.stopwords.Rainbow;
 import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.StringToWordVector;
@@ -34,7 +35,7 @@ public class AutopsiesArffToTFIDF {
 
     private static void autopsiesArffToTFIDF(String pInputPath, String pOutputPath) {
         Instances instances = Utils.loadInstances(pInputPath, 3);
-        StringToWordVector stringToWordVector = new StringToWordVector(5000);
+        StringToWordVector stringToWordVector = new StringToWordVector(50000000);
         String diccPath = new File(pOutputPath).getParentFile().getAbsolutePath() + "/dictionary.txt";
         if (instances != null) {
             try {
@@ -47,8 +48,7 @@ public class AutopsiesArffToTFIDF {
                 stringToWordVector.setDictionaryFileToSaveTo(new File(diccPath));
                 stringToWordVector.setIDFTransform(true);
                 stringToWordVector.setStopwordsHandler(new Rainbow());
-                stringToWordVector.setStemmer(new LovinsStemmer());
-//                stringToWordVector.setStemmer(new IteratedLovinsStemmer());
+                stringToWordVector.setStemmer(new IteratedLovinsStemmer());
                 String relationName = instances.relationName();
                 stringToWordVector.setInputFormat(instances);
                 instances = Filter.useFilter(instances, stringToWordVector);
