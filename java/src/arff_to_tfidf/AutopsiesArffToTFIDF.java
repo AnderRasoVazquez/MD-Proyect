@@ -1,11 +1,12 @@
 package arff_to_tfidf;
 
 import utils.Utils;
-import weka.*;
 import weka.core.Instances;
+import weka.core.stemmers.IteratedLovinsStemmer;
+import weka.core.stemmers.LovinsStemmer;
+import weka.core.stopwords.Rainbow;
 import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.StringToWordVector;
-import weka.filters.unsupervised.instance.SparseToNonSparse;
 
 import java.io.File;
 
@@ -45,18 +46,12 @@ public class AutopsiesArffToTFIDF {
                 stringToWordVector.setOutputWordCounts(true);
                 stringToWordVector.setDictionaryFileToSaveTo(new File(diccPath));
                 stringToWordVector.setIDFTransform(true);
-                stringToWordVector.setInputFormat(instances);
+                stringToWordVector.setStopwordsHandler(new Rainbow());
+                stringToWordVector.setStemmer(new LovinsStemmer());
+//                stringToWordVector.setStemmer(new IteratedLovinsStemmer());
                 String relationName = instances.relationName();
+                stringToWordVector.setInputFormat(instances);
                 instances = Filter.useFilter(instances, stringToWordVector);
-
-//                SparseToNonSparse sparseToNonSparse = new SparseToNonSparse();
-//                sparseToNonSparse.setInputFormat(instances);
-//                instances = Filter.useFilter(instances, sparseToNonSparse);
-
-//                if (instances.classIndex() == 0) {
-//                    instances = Utils.moveFirstAttrToLast(instances);
-//                }
-
                 instances.setRelationName(relationName);
             } catch (Exception e) {
                 e.printStackTrace();
