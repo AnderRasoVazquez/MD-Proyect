@@ -1,6 +1,6 @@
 \documentclass[10pt,a4paper,draft]{article}
 \usepackage[utf8]{inputenc}
-%\usepackage[spanish]{babel}
+\usepackage[spanish]{babel}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
@@ -39,6 +39,7 @@
 	\end{itemize}
 
 \section{Descripción y análisis de datos}
+
 \section{Preproceso de datos}
 El formato original del archivo de autopsias es un xlsx, es decir, una hoja de cálculo de Microsoft Office. Esto nos facilita mucho la tarea de procesar los textos, ya que es muy fácil convertir de xlsx a formatos de texto plano. En nuestro caso elegimos csv, ya que es un formato muy limpio y que más adelante nos será útil para transformarlo al formato arff, el cual es compatible con Weka y gran parte de las librerias de Data Mining que hemos utilizado.\\
 
@@ -46,11 +47,12 @@ Una vez tenemos nuestro documento como csv, procedemos a preprocesarlo. Ya que l
 \begin{itemize}
 \item \textbf{Mayúsculas y minúsculas:} Para evitar diferencias entre palabras escritas completamente en mínuscula, completamente en mayúscula o con la primera letra mayúscula, debemos transformar todas ellas a un mismo formato. En nuestro caso el formato escogido son las minúsculas.
 \item \textbf{Saltos de línea:} En algunos casos nos encontramos con saltos de línea internos en el texto. Ya que csv separa sus diferentes atributos por comas y las instancias por líneas, los saltos de línea internos en el texto crean inconsistencias y errores al procesar el csv. El método más fácil para desacerse de ellos pero mantener el texto en el mismo formato es sustituírlos por espacios.
+\item \textbf{Números:} Los números, pese a ser uno de los elementos más comunes en los textos, han sido uno de los más díficiles de preprocesar, no por su dificultad en cuanto a programar, sino a la decisión que tomar en cuanto a ellos. Esto se debe a que se toman como una palabra por si mismos y pese a tener un peso informativo alto, sólo es así cuando va acompañado de otra palabra a la que calificar. Ya que los programas de text mining los van a considerar independientes del resto de palabras, hemos considerado que la información que van a aportar es suficientemente baja como para simplemente eliminarlos del texto.
+\item \textbf{Tokens:} Se consideran tokens a todas las palabras recurrentes que no tienen ni significado ni peso informativo, como por ejemplo ''the'' o ''a''. Mediante un diccionario de tokens en la lengua inglesa hemos podido detectar todos ellos y eliminarlos del texto.
 \item \textbf{Símbolos:} Aquí tenemos varios problemas que debemos arreglar de diferentes formas.
 \begin{itemize} 
-\item \textbf{Barras "/":} En ocasiones nos encontramos con dos palabras escritas de modo "palabra1/palabra2". Para evitar que se procesen ambas como una misma palabra, realizamos el mismo procedimiento que utilizamos con los saltos de línea: cambiamos las barras por espacios.
-\item \textbf{Corchetes "[ ]":} En gran parte de las instancias que disponen de autopsia verbal nos encontramos con referencias a nombres de personas, hospitales, años concretos, etc. Para preservar la privacidad de los fallecidos y sus relativos estos han sido sustituídos por palabras clave entre corchetes, como por ejemplo "[PATIENT]" o "[HOSPITAL]". Ya que estos datos son en la inmensa mayoría de casos de poca utilidad, hemos decidido que estás palabras serán completamente eliminadas de los textos.
-\item \textbf{Números "[ ]":} TODO: Luego sigo.
+\item \textbf{Barras ''/'':} En ocasiones nos encontramos con dos palabras escritas de modo "palabra1/palabra2". Para evitar que se procesen ambas como una misma palabra, realizamos el mismo procedimiento que utilizamos con los saltos de línea: cambiamos las barras por espacios.
+\item \textbf{Corchetes ''[ ]'':} En gran parte de las instancias que disponen de autopsia verbal nos encontramos con referencias a nombres de personas, hospitales, años concretos, etc. Para preservar la privacidad de los fallecidos y sus relativos estos han sido sustituídos por sus correspondientes palabras clave entre corchetes, como por ejemplo ''[PATIENT]'' o ''[HOSPITAL]''. Ya que estos datos son en la inmensa mayoría de casos de poca utilidad, hemos decidido que estás palabras serán completamente eliminadas de los textos.
 \end{itemize}
 \end{itemize}
 \section{Clustering}
