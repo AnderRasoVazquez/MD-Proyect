@@ -39,6 +39,21 @@
 	\end{itemize}
 
 \section{Descripción y análisis de datos}
+En este proyecto vamos a trabajar con autopsias verbales. Éstas son reportes que dan familiares o personas cercanas a un fallecido en lugares donde por norma general no se realiza una autopsia post-mortem a menos que sea estrictamente necesario. Estas autopsias se componen de información básica del paciente (edad, sexo, etc) así como del reporte oral que ha dado el relativo al que se ha entrevistado.\\
+
+La base de datos de las autopsias verbales se compone de más de 7500 instancias. En cada instancia disponemos de una serie de atributos:
+
+\begin{itemize}
+\item \textbf{newid:} Identificador númerico de la instancia.
+\item \textbf{module:} Grupo de edad del fallecido. Los valores posibles son ''neonate'', ''child'' y ''adult''.
+\item \textbf{site:} Lugar del que proviene la autopsia: los valores posibles para este campo son: AP=Andhra Pradesh, India; Dar=Dar es Salaam, Tanzania; UP=Uttar Pradesh, India; Pemba=Pemba, Tanzania; Bohol=Bohol, Philippines; Mexico=Distrito Federal, Mexico; AP=Andhra Pradesh, India; Dar=Dar es Salaam, Tanzania; UP=Uttar Pradesh, India; Pemba=Pemba, Tanzania; Bohol=Bohol, Philippines; Mexico=Distrito Federal, Mexico
+\item \textbf{gs\_text34:} TODO: Cómo defino esto??
+\item \textbf{sex:} Sexo del fallecido. Los valores posibles son 1, 2, 3 y 4. Cada uno de estos valores hace referencia a ''hombre'', ''mujer'', ''se niega a responder'' y ''desconocido'' respectivamente.
+\item \textbf{age\_years:} Edad del fallecido en años. En caso de ser igual a 999 significa que es desconocida.
+\item \textbf{age\_months:} Edad del fallecido en meses. En caso de ser igual a 99 significa que es desconocida.
+\item \textbf{age\_days:} Edad del fallecido en días. En caso de ser igual a 99 significa que es desconocida.
+\item \textbf{open\_response:} Declaración de la persona cercana al fallecido en caso de que se diese una. En este texto se han eliminado todas las referencias que se diesen en la declaración que pudiesen relacionarse con el fallecido para asegurar su privacidad, tales como menciones a los lugares y hospitales en los que se ha encontrado, el nombre de personas o fechas concretas en relación al fallecido, etc. En su lugar se han sustituído por palabras neutrales entre corchetes, tales como ''[PERSON]'' o ''[HOSPITAL]''.
+\end{itemize}
 
 \section{Preproceso de datos}
 El formato original del archivo de autopsias es un xlsx, es decir, una hoja de cálculo de Microsoft Office. Esto nos facilita mucho la tarea de procesar los textos, ya que es muy fácil convertir de xlsx a formatos de texto plano. En nuestro caso elegimos csv, ya que es un formato muy limpio y que más adelante nos será útil para transformarlo al formato arff, el cual es compatible con Weka y gran parte de las librerias de Data Mining que hemos utilizado.\\
@@ -59,5 +74,5 @@ Una vez tenemos nuestro documento como csv, procedemos a preprocesarlo. Ya que l
 \section{Evaluación}
 \section{Experimentos}
 \section{Conclusiones}
-\section{Bbliografía}
+\section{Bibliografía}
 \end{document}

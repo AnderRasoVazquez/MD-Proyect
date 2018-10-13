@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  12 OCT 2018 23:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  13 OCT 2018 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -476,25 +476,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (1.0629pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 Dar=Dar es Sa-laam, Tan-za-nia; UP=Uttar Pra-desh, In-dia; Pem-
+ba=Pemba,|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+[2]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 53.
- [2] [3]
-(./borrador_memoria.aux
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 69.
+ [3] [4] (./borrador_memoria.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 2360 strings out of 494820
- 27262 string characters out of 6177788
+ 2362 strings out of 494820
+ 27288 string characters out of 6177788
  89834 words of memory out of 5000000
- 5692 multiletter control sequences out of 15000+600000
+ 5694 multiletter control sequences out of 15000+600000
  10150 words of font info for 38 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
  27i,7n,30p,674b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -505,10 +515,10 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmti10.pfb>
-Output written on borrador_memoria.pdf (3 pages, 93898 bytes).
+Output written on borrador_memoria.pdf (4 pages, 100427 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 45 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
