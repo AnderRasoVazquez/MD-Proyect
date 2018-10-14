@@ -35,7 +35,7 @@ public class AutopsiesArffToTFIDF {
 
     private static void autopsiesArffToTFIDF(String pInputPath, String pOutputPath) {
         Instances instances = Utils.loadInstances(pInputPath, 3);
-        StringToWordVector stringToWordVector = new StringToWordVector(50000000);
+        StringToWordVector stringToWordVector = new StringToWordVector(2000);
         String diccPath = new File(pOutputPath).getParentFile().getAbsolutePath() + "/dictionary.txt";
         if (instances != null) {
             try {
@@ -44,6 +44,7 @@ public class AutopsiesArffToTFIDF {
                 instances.renameAttribute(2, "attr_" + instances.attribute(2).name());
                 instances.renameAttribute(4, "attr_" + instances.attribute(4).name());
                 stringToWordVector.setLowerCaseTokens(true);
+                stringToWordVector.setAttributeIndices("last");
                 stringToWordVector.setOutputWordCounts(true);
                 stringToWordVector.setDictionaryFileToSaveTo(new File(diccPath));
                 stringToWordVector.setIDFTransform(true);
