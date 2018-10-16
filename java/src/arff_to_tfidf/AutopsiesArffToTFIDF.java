@@ -35,7 +35,7 @@ public class AutopsiesArffToTFIDF {
 
     private static void autopsiesArffToTFIDF(String pInputPath, String pOutputPath) {
         Instances instances = Utils.loadInstances(pInputPath, 3);
-        StringToWordVector stringToWordVector = new StringToWordVector(2000);
+        StringToWordVector stringToWordVector = new StringToWordVector(5000);
         String diccPath = new File(pOutputPath).getParentFile().getAbsolutePath() + "/dictionary.txt";
         if (instances != null) {
             try {
@@ -48,8 +48,8 @@ public class AutopsiesArffToTFIDF {
                 stringToWordVector.setOutputWordCounts(true);
                 stringToWordVector.setDictionaryFileToSaveTo(new File(diccPath));
                 stringToWordVector.setIDFTransform(true);
-                stringToWordVector.setStopwordsHandler(new Rainbow());
-                stringToWordVector.setStemmer(new IteratedLovinsStemmer());
+//                stringToWordVector.setStopwordsHandler(new Rainbow());
+//                stringToWordVector.setStemmer(new IteratedLovinsStemmer());
                 String relationName = instances.relationName();
                 stringToWordVector.setInputFormat(instances);
                 instances = Filter.useFilter(instances, stringToWordVector);

@@ -48,14 +48,14 @@ def main():
             for row in reader:
                 new_row = row.copy()
                 # clean last attribute of each row (the string)
-                new_row[-1] = clean_string(new_row[-1])
+                new_row[-1] = clean_string(new_row[-1], True)
                 writer.writerow(new_row)
 
 
 def clean_string(t, use_stemmer):
 
-    t = string.replace('_x000D_', '').replace('\n', '')
-    t = new_string.replace('/', ' ')
+    #t = string.replace('_x000D_', '').replace('\n', '')
+    #t = new_string.replace('/', ' ')
 
     #sentences = sent_tokenize(t)
     # Genera un array de palabras (word_tokenize)
@@ -80,7 +80,7 @@ def clean_string(t, use_stemmer):
         words = [porter.stem(word) for word in words]
 
     # Genera una nueva lista “limpia” de oraciones
-    return words
+    return " ".join(words)
 
 
 if __name__ == "__main__":

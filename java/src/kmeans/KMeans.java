@@ -20,14 +20,14 @@ public class KMeans {
 
 
     public static void main(String[] args) {
-        Instances instances = Utils.loadInstances("/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_raw_tfidf.arff", 0);
+        Instances instances = Utils.loadInstances("/media/david/data/Shared/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_raw_tfidf.arff", 0);
         System.out.println(instances.numInstances());
         KMeans kmeans = new KMeans(instances, 96, "9-last");
-        kmeans.formClusters(true);
+        kmeans.formClusters("/media/david/data/Shared/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/clusters", true);
     }
 
     public KMeans(Instances pInstances, int pClusters, String pAttrRange) {
-        this(pInstances, pClusters, 0.1, pAttrRange);
+        this(pInstances, pClusters, 0.3, pAttrRange);
     }
 
     public KMeans(Instances pInstances, int pClusters, double pTolerance, String pAttrRange) {
@@ -50,11 +50,11 @@ public class KMeans {
         this.maxIt = 50;
     }
 
-    public void formClusters() {
-        this.formClusters(false);
+    public void formClusters(String pSavePath) {
+        this.formClusters(pSavePath, false);
     }
 
-    public String formClusters(boolean pVerbose) {
+    public String formClusters(String pSavePath, boolean pVerbose) {
         // initialize centroids to random instances
         this.initializeCentroids();
         int it = 0;
@@ -75,6 +75,7 @@ public class KMeans {
         String clusters = this.getClusters();
         if (pVerbose)
             System.out.print(clusters);
+        this.saveClusters(pSavePath);
         return clusters;
     }
 
@@ -128,10 +129,10 @@ public class KMeans {
             for (int t = 0; t < this.instances.length; t++) {
                 if (this.belongingBits[t][i]) {
                     bits_i++;
-                    instance_sum = addInstances(instance_sum, this.instances[t]);
+                    instance_sum = Utils.addInstances(instance_sum, this.instances[t]);
                 }
             }
-            this.centroids[i] = divideInstance(instance_sum, bits_i);
+            this.centroids[i] = Utils.divideInstance(instance_sum, bits_i);
             this.centroidsInstances[i] = 0;
         }
     }
@@ -150,68 +151,40 @@ public class KMeans {
         return true;
     }
 
-    private static Instance addInstances(Instance pInstanceA, Instance pInstanceB) {
-        if (pInstanceA == null)
-            return pInstanceB;
-        else if (pInstanceB == null)
-            return pInstanceA;
-        else {
-            if (pInstanceA.numAttributes() != pInstanceB.numAttributes())
-                return null;
-            else {
-                Instance res = pInstanceA.copy(pInstanceA.toDoubleArray());
-                for (int i = 0; i < pInstanceA.numAttributes(); i++) {
-                    // if attribute is numeric
-                    if (pInstanceA.attribute(i).type() == Attribute.NUMERIC) {
-                        res.setValue(i, pInstanceA.value(i) + pInstanceB.value(i));
-                    }
-                }
-                return res;
-            }
-        }
-    }
-
-    private static Instance divideInstance(Instance pInstance, double pNum) {
-        Instance res = pInstance.copy(pInstance.toDoubleArray());
-        for (int i = 0; i < pInstance.numAttributes(); i++) {
-            // if attribute is numeric
-            if (pInstance.attribute(i).type() == Attribute.NUMERIC) {
-                res.setValue(i, pInstance.value(i) / pNum);
-            }
-        }
-        return res;
-    }
-
     private String getClusters() {
         StringBuilder clusters = new StringBuilder();
         clusters.append(String.format("k: %d\n", this.k));
         int attrToPrint = 4;
         for (int i = 0; i < this.centroids.length; i++) {
             clusters.append(String.format("CLUSTER %d\n", i));
-            clusters.append(String.format("\tcentroid: %s\n", instanceToString(this.centroids[i], attrToPrint)));
+            clusters.append(String.format("\tcentroid: %s\n", Utils.instanceToString(this.centroids[i], attrToPrint)));
             clusters.append("\tinstances:\n");
             for (int t = 0; t < this.instances.length; t++) {
                 if (this.belongingBits[t][i])
-                    clusters.append(String.format("\t\t%s\n", instanceToString(this.instances[t], attrToPrint)));
+                    clusters.append(String.format("\t\t%s\n", Utils.instanceToString(this.instances[t], attrToPrint)));
             }
         }
         return clusters.toString();
     }
 
-    private static String instanceToString(Instance pInstance, int pAttributes) {
-        StringBuilder res = new StringBuilder();
-        for (int i = 0; i < pAttributes; i++) {
-            Attribute attr = pInstance.attribute(i);
-            if (attr.type() == Attribute.NUMERIC) {
-                res.append(pInstance.value(i));
-            } else {
-                res.append(attr.value((int) pInstance.value(i)));
+    private void saveClusters(String pPath) {
+        Instances cluster = new Instances(this.instances[0].dataset());
+        for (int i = 0; i < this.centroids.length; i++) {
+            cluster.delete();
+            for (int t = 0; t < this.instances.length; t++) {
+                if (this.belongingBits[t][i]) {
+                    cluster.add(this.instances[t]);
+                }
             }
-            if (i < pAttributes -1) {
-                res.append(", ");
-            }
+            cluster.setClassIndex(3);
+            cluster = Utils.filterPCA(cluster, 3, 2);
+
+            String path = pPath;
+            if (path.endsWith("/"))
+                path = path.substring(0, path.length() - 1);
+            path += String.format("/Cluster%d.csv", i);
+            Utils.saveInstancesCSV(cluster, path);
         }
-        return res.toString();
     }
 
     private void saveCentroids(String pPath, boolean pPrevious) {

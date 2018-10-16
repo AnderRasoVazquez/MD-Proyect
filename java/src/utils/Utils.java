@@ -1,13 +1,19 @@
 package utils;
 
+import weka.core.Attribute;
+import weka.core.Instance;
 import weka.core.Instances;
 import weka.core.converters.ArffSaver;
+import weka.core.converters.CSVSaver;
 import weka.core.converters.ConverterUtils;
+import weka.filters.Filter;
+import weka.filters.unsupervised.attribute.PrincipalComponents;
 
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.security.Principal;
 
 /**
  * Esta clase contiene método estáticos para realizar variedad de funciones genéricas e independientes.
@@ -69,6 +75,79 @@ public class Utils {
         }
     }
 
+    public static void saveInstancesCSV(Instances pInstances, String pPath) {
+        try {
+            CSVSaver csvSaver = new CSVSaver();
+            csvSaver.setInstances(pInstances);
+            csvSaver.setFile(new File(pPath));
+            csvSaver.writeBatch();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static String instanceToString(Instance pInstance, int pAttributes) {
+        StringBuilder res = new StringBuilder();
+        for (int i = 0; i < pAttributes; i++) {
+            Attribute attr = pInstance.attribute(i);
+            if (attr.type() == Attribute.NUMERIC) {
+                res.append(pInstance.value(i));
+            } else {
+                res.append(attr.value((int) pInstance.value(i)));
+            }
+            if (i < pAttributes -1) {
+                res.append(", ");
+            }
+        }
+        return res.toString();
+    }
+    
+    public static Instance addInstances(Instance pInstanceA, Instance pInstanceB) {
+        if (pInstanceA == null)
+            return pInstanceB;
+        else if (pInstanceB == null)
+            return pInstanceA;
+        else {
+            if (pInstanceA.numAttributes() != pInstanceB.numAttributes())
+                return null;
+            else {
+                Instance res = pInstanceA.copy(pInstanceA.toDoubleArray());
+                for (int i = 0; i < pInstanceA.numAttributes(); i++) {
+                    // if attribute is numeric
+                    if (pInstanceA.attribute(i).type() == Attribute.NUMERIC) {
+                        res.setValue(i, pInstanceA.value(i) + pInstanceB.value(i));
+                    }
+                }
+                return res;
+            }
+        }
+    }
+
+    public static Instance divideInstance(Instance pInstance, double pNum) {
+        Instance res = pInstance.copy(pInstance.toDoubleArray());
+        for (int i = 0; i < pInstance.numAttributes(); i++) {
+            // if attribute is numeric
+            if (pInstance.attribute(i).type() == Attribute.NUMERIC) {
+                res.setValue(i, pInstance.value(i) / pNum);
+            }
+        }
+        return res;
+    }
+    
+    public static Instances filterPCA(Instances pInstances, int pClassIndex, int pPCAAttr) {
+        Instances instances = null;
+        try {
+            pInstances.setClassIndex(pClassIndex);
+            PrincipalComponents pca = new PrincipalComponents();
+            pca.setMaximumAttributes(pPCAAttr);
+            pca.setMaximumAttributeNames(1);
+            pca.setInputFormat(pInstances);
+            instances = Filter.useFilter(pInstances, pca);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return instances;
+    }
 
     /**
      * Escribe el texto pTexto en el archivo en la ruta pPath.
