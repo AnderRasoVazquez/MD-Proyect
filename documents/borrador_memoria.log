@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  16 OCT 2018 23:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  16 OCT 2018 23:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -592,30 +592,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 <figures/plot_grupo_edad.png, id=12, 403.5075pt x 308.15125pt>
 
-Overfull \hbox (58.50652pt too wide) in paragraph at lines 54--55
- [][] |
+Overfull \hbox (83.50655pt too wide) in paragraph at lines 52--53
+[][] |
  []
 
 
-Overfull \hbox (20.94518pt too wide) in paragraph at lines 58--59
+Overfull \hbox (20.94518pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 dia; Dar=Dar es Salaam, Tan-za-nia; UP=Uttar Pradesh, In-dia; P
 emba=Pemba,|
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
 [3] [4] (./borrador_memoria.aux) ) 
 Here is how much of TeX's memory you used:
- 2789 strings out of 494880
- 35305 string characters out of 6179600
+ 2788 strings out of 494880
+ 35299 string characters out of 6179600
  90580 words of memory out of 5000000
- 6053 multiletter control sequences out of 15000+600000
+ 6052 multiletter control sequences out of 15000+600000
  10318 words of font info for 39 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 41i,7n,25p,674b,303s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,7n,25p,674b,264s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
@@ -624,7 +624,7 @@ r12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on borrador_memoria.pdf (4 pages, 111701 bytes).
+Output written on borrador_memoria.pdf (4 pages, 111619 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
