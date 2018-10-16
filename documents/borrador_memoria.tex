@@ -4,6 +4,7 @@
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
+\usepackage{graphicx}
 \author{Markus Fischer • Guzmán López • David Pérez • Ander Raso}
 \title{Proyecto de Minería de Datos: \linebreak Borrador de memoria completa}
 \date{}
@@ -46,8 +47,16 @@ La base de datos de las autopsias verbales se compone de más de 7500 instancias
 \begin{itemize}
 \item \textbf{newid:} Identificador númerico de la instancia.
 \item \textbf{module:} Grupo de edad del fallecido. Los valores posibles son ''neonate'', ''child'' y ''adult''.
+
+\begin{figure}[hbtp]
+\caption{Grupos de edad}
+\centering
+\includegraphics[scale=1]{figures/plot_grupo_edad.png}
+\end{figure}
+
+
 \item \textbf{site:} Lugar del que proviene la autopsia: los valores posibles para este campo son: AP=Andhra Pradesh, India; Dar=Dar es Salaam, Tanzania; UP=Uttar Pradesh, India; Pemba=Pemba, Tanzania; Bohol=Bohol, Philippines; Mexico=Distrito Federal, Mexico; AP=Andhra Pradesh, India; Dar=Dar es Salaam, Tanzania; UP=Uttar Pradesh, India; Pemba=Pemba, Tanzania; Bohol=Bohol, Philippines; Mexico=Distrito Federal, Mexico
-\item \textbf{gs\_text34:} TODO: Cómo defino esto??
+\item \textbf{gs\_text34:} Causa de la muerte del paciente.
 \item \textbf{sex:} Sexo del difunto. Los valores posibles son 1, 2, 3 y 4. Cada uno de estos valores hace referencia a ''hombre'', ''mujer'', ''se niega a responder'' y ''desconocido'' respectivamente.
 \item \textbf{age\_years:} Edad del fallecido en años. En caso de ser igual a 999 significa que es desconocida.
 \item \textbf{age\_months:} Edad del fallecido en meses. En caso de ser igual a 99 significa que es desconocida.
