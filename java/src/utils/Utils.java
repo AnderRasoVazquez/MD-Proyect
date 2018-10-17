@@ -86,17 +86,39 @@ public class Utils {
         }
     }
 
-    public static String instanceToString(Instance pInstance, int pAttributes) {
+    public static String instanceToString(Instance pInstance, boolean pSparse) {
+        return instanceToString(pInstance, pInstance.numAttributes(), pSparse);
+    }
+
+    public static String instanceToString(Instance pInstance, int pAttributes, boolean pSparse) {
         StringBuilder res = new StringBuilder();
+        boolean coma = false;
         for (int i = 0; i < pAttributes; i++) {
             Attribute attr = pInstance.attribute(i);
             if (attr.type() == Attribute.NUMERIC) {
-                res.append(pInstance.value(i));
+                if (pSparse) {
+                    if (pInstance.value(i) != 0.0D) {
+                        res.append(String.format("%d %f", i, pInstance.value(i)));
+                        coma = true;
+                    }
+                }
+                else {
+                    res.append(pInstance.value(i));
+                    coma = true;
+                }
             } else {
-                res.append(attr.value((int) pInstance.value(i)));
+                if (pSparse) {
+                    res.append(String.format("%d %s", i, attr.value((int) pInstance.value(i))));
+                    coma = true;
+                }
+                else {
+                    res.append(attr.value((int) pInstance.value(i)));
+                    coma = true;
+                }
             }
-            if (i < pAttributes -1) {
+            if (coma && i < pAttributes -1) {
                 res.append(", ");
+                coma = false;
             }
         }
         return res.toString();

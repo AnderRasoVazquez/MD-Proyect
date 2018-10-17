@@ -3,6 +3,9 @@ package kmeans;
 import utils.Utils;
 import weka.core.*;
 
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.Arrays;
 import java.util.Random;
 
@@ -20,10 +23,12 @@ public class KMeans {
 
 
     public static void main(String[] args) {
-        Instances instances = Utils.loadInstances("/media/david/data/Shared/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_raw_tfidf.arff", 0);
-        System.out.println(instances.numInstances());
+        Instances instances = Utils.loadInstances("/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_raw_tfidf.arff", 0);
+        String instancesPath = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/assigned_instances.txt";
+        String[] instancesPathList = instancesPath.split("/");
+        String clustersDir = String.join("/", (String[]) Arrays.asList(instancesPathList).subList(0, instancesPathList.length - 1).toArray(new String[0]));
         KMeans kmeans = new KMeans(instances, 96, "9-last");
-        kmeans.formClusters("/media/david/data/Shared/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/clusters", true);
+        kmeans.formClusters(instancesPath, clustersDir, true);
     }
 
     public KMeans(Instances pInstances, int pClusters, String pAttrRange) {
@@ -47,14 +52,14 @@ public class KMeans {
         this.distance = new EuclideanDistance();
         this.distance.setInstances(pInstances);
         this.distance.setAttributeIndices(pAttrRange);
-        this.maxIt = 50;
+        this.maxIt = 5;
     }
 
     public void formClusters(String pSavePath) {
-        this.formClusters(pSavePath, false);
+        this.formClusters(pSavePath, pSavePath, false);
     }
 
-    public String formClusters(String pSavePath, boolean pVerbose) {
+    public String formClusters(String pInstancesPath, String pClustersDir, boolean pVerbose) {
         // initialize centroids to random instances
         this.initializeCentroids();
         int it = 0;
@@ -72,11 +77,14 @@ public class KMeans {
         }
         // obtain final belonging matrix
         this.updateBelongingBits();
-        String clusters = this.getClusters();
+        String centroids = this.getCentroids();
         if (pVerbose)
-            System.out.print(clusters);
-        this.saveClusters(pSavePath);
-        return clusters;
+            System.out.print(centroids);
+        if (pClustersDir != null)
+            this.saveClusters(pClustersDir);
+        if (pInstancesPath != null)
+            this.saveAssignedInstances(pInstancesPath);
+        return centroids;
     }
 
     private void initializeCentroids() {
@@ -150,25 +158,60 @@ public class KMeans {
         }
         return true;
     }
-
+    
+    private String getCentroids() {
+        StringBuilder centroids = new StringBuilder();
+        centroids.append(String.format("k: %d\n", this.k));
+        for (int i = 0; i < this.centroids.length; i++) {
+            centroids.append(String.format("CENTROID %d -> %s\n", i, Utils.instanceToString(this.centroids[i], true)));
+        }
+        return centroids.toString();
+    }
+    
     private String getClusters() {
         StringBuilder clusters = new StringBuilder();
         clusters.append(String.format("k: %d\n", this.k));
         int attrToPrint = 4;
         for (int i = 0; i < this.centroids.length; i++) {
             clusters.append(String.format("CLUSTER %d\n", i));
-            clusters.append(String.format("\tcentroid: %s\n", Utils.instanceToString(this.centroids[i], attrToPrint)));
+            clusters.append(String.format("\tcentroid: %s\n", Utils.instanceToString(this.centroids[i], attrToPrint, true)));
             clusters.append("\tinstances:\n");
             for (int t = 0; t < this.instances.length; t++) {
                 if (this.belongingBits[t][i])
-                    clusters.append(String.format("\t\t%s\n", Utils.instanceToString(this.instances[t], attrToPrint)));
+                    clusters.append(String.format("\t\t%s\n", Utils.instanceToString(this.instances[t], attrToPrint, true)));
             }
         }
         return clusters.toString();
     }
 
-    private void saveClusters(String pPath) {
+    private void saveAssignedInstances(String pPath) {
+        StringBuilder instances = new StringBuilder();
+        try {
+            BufferedWriter bw = new BufferedWriter(new FileWriter(pPath));
+            PrintWriter out = new PrintWriter(bw);
+            for (int t = 0; t < this.instances.length; t++) {
+                for (int i = 0; i < this.centroids.length; i++) {
+                    if (this.belongingBits[t][i]) {
+                        out.println(String.format("INSTANCE %d -> CLUSTER %d // %s\n",
+                                t, i, Utils.instanceToString(this.instances[t], true)));
+                        break;
+                    }
+                }
+            }
+            out.close();
+            bw.close();
+        } catch (IOException e) {
+            Utils.printlnError(String.format("Error al escribir en %s", pPath));
+            e.printStackTrace();
+        }
+    }
+
+    private void saveClusters(String pDir) {
         Instances cluster = new Instances(this.instances[0].dataset());
+        File dirFile = new File(pDir);
+        if (!dirFile.exists()) {
+            dirFile.mkdir();
+        }
         for (int i = 0; i < this.centroids.length; i++) {
             cluster.delete();
             for (int t = 0; t < this.instances.length; t++) {
@@ -177,23 +220,16 @@ public class KMeans {
                 }
             }
             cluster.setClassIndex(3);
-            cluster = Utils.filterPCA(cluster, 3, 2);
+//            TODO fix this
+//            cluster = Utils.filterPCA(cluster, 3, 2);
 
-            String path = pPath;
+            String path = pDir;
             if (path.endsWith("/"))
                 path = path.substring(0, path.length() - 1);
-            path += String.format("/Cluster%d.csv", i);
+            path += String.format("/cluster%d.csv", i);
+            System.out.println(path);
             Utils.saveInstancesCSV(cluster, path);
         }
     }
 
-    private void saveCentroids(String pPath, boolean pPrevious) {
-        Instances centroids = new Instances(this.centroids[0].dataset());
-        centroids.delete();
-        centroids.addAll(Arrays.asList(this.centroids));
-        if (pPrevious) {
-            centroids.addAll(Arrays.asList(this.prevCentroids));
-        }
-        Utils.saveInstances(centroids, pPath);
-    }
 }
