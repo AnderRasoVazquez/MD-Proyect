@@ -2,7 +2,10 @@ package kmeans;
 
 import utils.Utils;
 import weka.core.*;
+import weka.core.stopwords.Null;
+import weka.filters.unsupervised.attribute.PrincipalComponents;
 
+import javax.rmi.CORBA.Util;
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -27,6 +30,7 @@ public class KMeans {
         String instancesPath = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/assigned_instances.txt";
         String[] instancesPathList = instancesPath.split("/");
         String clustersDir = String.join("/", (String[]) Arrays.asList(instancesPathList).subList(0, instancesPathList.length - 1).toArray(new String[0]));
+        clustersDir += "/clusters";
         KMeans kmeans = new KMeans(instances, 96, "9-last");
         kmeans.formClusters(instancesPath, clustersDir, true);
     }
@@ -52,7 +56,7 @@ public class KMeans {
         this.distance = new EuclideanDistance();
         this.distance.setInstances(pInstances);
         this.distance.setAttributeIndices(pAttrRange);
-        this.maxIt = 5;
+        this.maxIt = 1;
     }
 
     public void formClusters(String pSavePath) {
@@ -78,12 +82,12 @@ public class KMeans {
         // obtain final belonging matrix
         this.updateBelongingBits();
         String centroids = this.getCentroids();
-        if (pVerbose)
-            System.out.print(centroids);
-        if (pClustersDir != null)
-            this.saveClusters(pClustersDir);
+//        if (pClustersDir != null)
+//            this.saveClusters(pClustersDir);
         if (pInstancesPath != null)
             this.saveAssignedInstances(pInstancesPath);
+        if (pVerbose)
+            System.out.println(this.getCentroids());
         return centroids;
     }
 
@@ -207,21 +211,61 @@ public class KMeans {
     }
 
     private void saveClusters(String pDir) {
-        Instances cluster = new Instances(this.instances[0].dataset());
         File dirFile = new File(pDir);
         if (!dirFile.exists()) {
             dirFile.mkdir();
         }
         for (int i = 0; i < this.centroids.length; i++) {
+            Instances cluster = new Instances(this.centroids[i].dataset());
             cluster.delete();
+            cluster.add(this.centroids[i]);
+            for (int t = 0; t < this.instances.length; t++) {
+                if (this.belongingBits[t][i]) {
+                    cluster.add(this.instances[i]);
+                }
+            }
+            try {
+                cluster.setClassIndex(3);
+                cluster = Utils.filterPCA(cluster, 3, 2);
+                cluster.renameAttribute(0, "x");
+                cluster.renameAttribute(1, "y");
+            } catch (NullPointerException e) {
+                System.out.println("ERROR");
+                continue;
+            }
+
+            String path = pDir;
+            if (path.endsWith("/"))
+                path = path.substring(0, path.length() - 1);
+            path += String.format("/cluster%d.csv", i);
+            System.out.println(path);
+            Utils.saveInstancesCSV(cluster, path);
+        }
+    }
+
+    private void saveClustersBad(String pDir) {
+        File dirFile = new File(pDir);
+        if (!dirFile.exists()) {
+            dirFile.mkdir();
+        }
+        for (int i = 0; i < this.centroids.length; i++) {
+            Instances cluster = new Instances(this.centroids[i].dataset());
+            cluster.delete();
+            cluster.add(this.centroids[i]);
             for (int t = 0; t < this.instances.length; t++) {
                 if (this.belongingBits[t][i]) {
                     cluster.add(this.instances[t]);
                 }
             }
-            cluster.setClassIndex(3);
-//            TODO fix this
-//            cluster = Utils.filterPCA(cluster, 3, 2);
+            try {
+                cluster.setClassIndex(3);
+                cluster = Utils.filterPCA(cluster, 3, 2);
+                cluster.renameAttribute(0, "x");
+                cluster.renameAttribute(1, "y");
+            } catch (NullPointerException e) {
+                System.out.println("ERROR");
+                continue;
+            }
 
             String path = pDir;
             if (path.endsWith("/"))

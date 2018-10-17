@@ -166,6 +166,7 @@ public class Utils {
             pca.setInputFormat(pInstances);
             instances = Filter.useFilter(pInstances, pca);
         } catch (Exception e) {
+            System.out.println(pInstances.numInstances());
             e.printStackTrace();
         }
         return instances;
