@@ -20,10 +20,10 @@ public class AutopsiesArffToTFIDF {
         try {
             inputPath = args[0];
             outputPath = args[1];
-            wordsToKeep = Integer.parseInt(args[3]);
+            wordsToKeep = Integer.parseInt(args[2]);
         } catch (IndexOutOfBoundsException | NumberFormatException e) {
             String documentacion = "Este ejecutable aplica el filtro StringToWordVector al atributo de texto de las autopsias verbales.\n" +
-                                    "Dos argumetos esperados:\n" +
+                                    "Tres argumetos esperados:\n" +
                                          "\t1 - Ruta del archivo .arff a leer\n" +
                                          "\t2 - Ruta del archivo .arff a crear\n" +
                                          "\t3 - Palabras para quedarse en la transición de String a WordVector\n" +

@@ -26,13 +26,31 @@ public class KMeans {
 
 
     public static void main(String[] args) {
-        Instances instances = Utils.loadInstances("/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_raw_tfidf.arff", 0);
-        String instancesPath = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/assigned_instances.txt";
-        String[] instancesPathList = instancesPath.split("/");
+        String inputPath = null;
+        String outputPath = null;
+        int k = 0;
+        try {
+            inputPath = args[0];
+            outputPath = args[1];
+            k = Integer.parseInt(args[2]);
+        } catch (IndexOutOfBoundsException e) {
+            String documentacion = "Este ejecutable realiza el algoritmo de clustering K-Means sobre el conjuto de instancias dado.\n" +
+                                    "Tres argumetos esperados:\n" +
+                                         "\t1 - Ruta del archivo .arff a leer\n" +
+                                         "\t2 - Ruta del archivo .txt a crear. Este archivo contendrá una lista de las instancias y el cluster asignado a cada una\n" +
+                                         "\t3 - El número de clusters a formar (k)\n" +
+                                    "\nEjemplo: java -jar kMeans.jar /path/to/input/arff /path/to/output/txt k";
+            System.out.println(documentacion);
+            System.exit(1);
+        }
+
+
+        Instances instances = Utils.loadInstances(inputPath, 0);
+        String[] instancesPathList = outputPath.split("/");
         String clustersDir = String.join("/", (String[]) Arrays.asList(instancesPathList).subList(0, instancesPathList.length - 1).toArray(new String[0]));
         clustersDir += "/clusters";
-        KMeans kmeans = new KMeans(instances, 96, "9-last");
-        kmeans.formClusters(instancesPath, clustersDir, true);
+        KMeans kmeans = new KMeans(instances, k, "9-last");
+        kmeans.formClusters(outputPath, clustersDir, true);
     }
 
     public KMeans(Instances pInstances, int pClusters, String pAttrRange) {
@@ -56,7 +74,7 @@ public class KMeans {
         this.distance = new EuclideanDistance();
         this.distance.setInstances(pInstances);
         this.distance.setAttributeIndices(pAttrRange);
-        this.maxIt = 1;
+        this.maxIt = 50;
     }
 
     public void formClusters(String pSavePath) {
