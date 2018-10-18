@@ -1,4 +1,4 @@
-\documentclass[10pt,a4paper,draft]{article}
+\documentclass[10pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
 \usepackage{amsmath}
@@ -52,16 +52,6 @@ La base de datos de las autopsias verbales se compone de casi 12000 instancias. 
 \item \textbf{newid:} Identificador númerico de la instancia.
 \item \textbf{module:} Grupo de edad del fallecido. Los valores posibles son ``neonate'', ``child'' y ``adult''.
 
-% TODO no me aparece en el pdf (Ander).
-% Ni idea. He probado a utilizar el formato .eps y tampoco (David)
-% Comentado por el momento
-%\begin{figure}
-%  \includegraphics[width=\linewidth]{figures/plot_grupo_edad.png}
-%  \caption{A boat.}
-%  \label{fig:boat1}
-%\end{figure}
-
-
 \item \textbf{site:} Lugar del que proviene la autopsia: los valores posibles para este campo son:
     \begin{itemize}
     \item AP=Andhra Pradesh, India
@@ -71,6 +61,26 @@ La base de datos de las autopsias verbales se compone de casi 12000 instancias. 
     \item Bohol=Bohol, Philippines
     \item Mexico=Distrito Federal, Mexico
     \end{itemize}
+
+
+\begin{figure}
+  \includegraphics[width=\linewidth]{figures/plot_grupo_edad.png}
+  \caption{Número de instancias según la edad del fallecido}
+  \label{fig:boat1}
+\end{figure}
+
+\begin{figure}
+  \includegraphics[width=\linewidth]{figures/plot_sexo.png}
+  \caption{Número de instancias según el sexo del fallecido}
+  \label{fig:boat1}
+\end{figure}
+
+\begin{figure}
+  \includegraphics[width=\linewidth]{figures/plot_ubicacion.png}
+  \caption{Número de instancias según la ubicación del fallecido}
+  \label{fig:boat1}
+\end{figure}    
+    
 \item \textbf{gs\_text34:} Causa de la muerte del paciente.
 \item \textbf{sex:} Sexo del difunto. Los valores posibles son 1, 2, 3 y 4. Cada uno de estos valores hace referencia a ``hombre'', ``mujer'', ``se niega a responder'' y ``desconocido'' respectivamente.
 \item \textbf{age\_years:} Edad del fallecido en años. En caso de ser igual a 999 significa que es desconocida.
