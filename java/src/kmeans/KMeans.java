@@ -50,7 +50,7 @@ public class KMeans {
         String clustersDir = String.join("/", (String[]) Arrays.asList(instancesPathList).subList(0, instancesPathList.length - 1).toArray(new String[0]));
         clustersDir += "/clusters";
         KMeans kmeans = new KMeans(instances, k, "9-last");
-        kmeans.formClusters(outputPath, clustersDir, true);
+        System.out.println(kmeans.formClusters(outputPath, clustersDir, true));
     }
 
     public KMeans(Instances pInstances, int pClusters, String pAttrRange) {
@@ -77,11 +77,11 @@ public class KMeans {
         this.maxIt = 50;
     }
 
-    public void formClusters(String pSavePath) {
+    private void formClusters(String pSavePath) {
         this.formClusters(pSavePath, pSavePath, false);
     }
 
-    public String formClusters(String pInstancesPath, String pClustersDir, boolean pVerbose) {
+    private String formClusters(String pInstancesPath, String pClustersDir, boolean pVerbose) {
         // initialize centroids to random instances
         this.initializeCentroids();
         int it = 0;
@@ -233,24 +233,31 @@ public class KMeans {
         if (!dirFile.exists()) {
             dirFile.mkdir();
         }
+
+        // aplicar el PCA a las instancias.
+        // aquí es donde da problemas por falta de memoria.
+        Instances pcaInstances = new Instances(this.instances[0].dataset());
+        pcaInstances = Utils.filterPCA(pcaInstances, 3, 2);
+
         for (int i = 0; i < this.centroids.length; i++) {
             Instances cluster = new Instances(this.centroids[i].dataset());
             cluster.delete();
             cluster.add(this.centroids[i]);
             for (int t = 0; t < this.instances.length; t++) {
                 if (this.belongingBits[t][i]) {
-                    cluster.add(this.instances[i]);
+//                    cluster.add(this.instances[i]);
+                    cluster.add(pcaInstances.get(i));
                 }
             }
-            try {
-                cluster.setClassIndex(3);
-                cluster = Utils.filterPCA(cluster, 3, 2);
-                cluster.renameAttribute(0, "x");
-                cluster.renameAttribute(1, "y");
-            } catch (NullPointerException e) {
-                System.out.println("ERROR");
-                continue;
-            }
+//            try {
+//                cluster.setClassIndex(3);
+//                cluster = Utils.filterPCA(cluster, 3, 2);
+//                cluster.renameAttribute(0, "x");
+//                cluster.renameAttribute(1, "y");
+//            } catch (NullPointerException e) {
+//                System.out.println("ERROR");
+//                continue;
+//            }
 
             String path = pDir;
             if (path.endsWith("/"))
@@ -260,38 +267,4 @@ public class KMeans {
             Utils.saveInstancesCSV(cluster, path);
         }
     }
-
-    private void saveClustersBad(String pDir) {
-        File dirFile = new File(pDir);
-        if (!dirFile.exists()) {
-            dirFile.mkdir();
-        }
-        for (int i = 0; i < this.centroids.length; i++) {
-            Instances cluster = new Instances(this.centroids[i].dataset());
-            cluster.delete();
-            cluster.add(this.centroids[i]);
-            for (int t = 0; t < this.instances.length; t++) {
-                if (this.belongingBits[t][i]) {
-                    cluster.add(this.instances[t]);
-                }
-            }
-            try {
-                cluster.setClassIndex(3);
-                cluster = Utils.filterPCA(cluster, 3, 2);
-                cluster.renameAttribute(0, "x");
-                cluster.renameAttribute(1, "y");
-            } catch (NullPointerException e) {
-                System.out.println("ERROR");
-                continue;
-            }
-
-            String path = pDir;
-            if (path.endsWith("/"))
-                path = path.substring(0, path.length() - 1);
-            path += String.format("/cluster%d.csv", i);
-            System.out.println(path);
-            Utils.saveInstancesCSV(cluster, path);
-        }
-    }
-
 }
