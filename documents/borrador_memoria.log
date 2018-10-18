@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.18)  18 OCT 2018 23:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.18)  18 OCT 2018 23:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -454,13 +454,6 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 (./borrador_memoria.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
-
-
-LaTeX Warning: Label `fig:boat1' multiply defined.
-
-
-LaTeX Warning: Label `fig:boat1' multiply defined.
-
 )
 \openout1 = `borrador_memoria.aux'.
 
@@ -478,7 +471,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
- (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count102
 \scratchdimen=\dimen115
@@ -584,26 +578,26 @@ File: figures/plot_grupo_edad.png Graphic file (type png)
 Package pdftex.def Info: figures/plot_grupo_edad.png used on input line 67.
 (pdftex.def)             Requested size: 345.0pt x 263.47205pt.
 
-<figures/plot_sexo.png, id=20, 401.5pt x 316.18124pt>
-File: figures/plot_sexo.png Graphic file (type png)
-
-<use figures/plot_sexo.png>
-Package pdftex.def Info: figures/plot_sexo.png used on input line 73.
-(pdftex.def)             Requested size: 345.0pt x 271.70793pt.
-
-<figures/plot_ubicacion.png, id=21, 408.52625pt x 300.12125pt>
+<figures/plot_ubicacion.png, id=20, 408.52625pt x 300.12125pt>
 File: figures/plot_ubicacion.png Graphic file (type png)
 
 <use figures/plot_ubicacion.png>
-Package pdftex.def Info: figures/plot_ubicacion.png used on input line 79.
+Package pdftex.def Info: figures/plot_ubicacion.png used on input line 73.
 (pdftex.def)             Requested size: 345.0pt x 253.46481pt.
+
+<figures/plot_sexo.png, id=21, 401.5pt x 316.18124pt>
+File: figures/plot_sexo.png Graphic file (type png)
+
+<use figures/plot_sexo.png>
+Package pdftex.def Info: figures/plot_sexo.png used on input line 79.
+(pdftex.def)             Requested size: 345.0pt x 271.70793pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
-[4 <./figures/plot_grupo_edad.png>] [5 <./figures/plot_sexo.png> <./figures/plo
-t_ubicacion.png>] [6]
+[4 <./figures/plot_grupo_edad.png>] [5 <./figures/plot_ubicacion.png> <./figure
+s/plot_sexo.png>] [6]
 Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
@@ -621,29 +615,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--137
 [8] (./borrador_memoria.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
-)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 3534 strings out of 494277
- 44810 string characters out of 6162221
- 112759 words of memory out of 5000000
- 6801 multiletter control sequences out of 15000+600000
+ 3536 strings out of 494277
+ 44844 string characters out of 6162221
+ 112736 words of memory out of 5000000
+ 6803 multiletter control sequences out of 15000+600000
  12567 words of font info for 48 fonts, out of 8000000 for 9000
  398 hyphenation exceptions out of 8191
  37i,7n,30p,718b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmti10.pfb>
-Output written on borrador_memoria.pdf (8 pages, 155506 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb>
+Output written on borrador_memoria.pdf (8 pages, 156129 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream

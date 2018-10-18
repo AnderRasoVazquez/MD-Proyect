@@ -50,9 +50,9 @@ La base de datos de las autopsias verbales se compone de casi 12000 instancias. 
 
 \begin{itemize}
 \item \textbf{newid:} Identificador númerico de la instancia.
-\item \textbf{module:} Grupo de edad del fallecido. Los valores posibles son ``neonate'', ``child'' y ``adult''.
+\item \textbf{module:} Grupo de edad del fallecido. Los valores posibles son ``neonate'', ``child'' y ``adult'' (Fig: \ref{fig:age_graph}). 
 
-\item \textbf{site:} Lugar del que proviene la autopsia: los valores posibles para este campo son:
+\item \textbf{site:} Lugar del que proviene la autopsia: los valores posibles para este campo son (Fig: \ref{fig:loc_graph}): 
     \begin{itemize}
     \item AP=Andhra Pradesh, India
     \item Dar=Dar es Salaam, Tanzania
@@ -66,23 +66,23 @@ La base de datos de las autopsias verbales se compone de casi 12000 instancias. 
 \begin{figure}
   \includegraphics[width=\linewidth]{figures/plot_grupo_edad.png}
   \caption{Número de instancias según la edad del fallecido}
-  \label{fig:boat1}
-\end{figure}
-
-\begin{figure}
-  \includegraphics[width=\linewidth]{figures/plot_sexo.png}
-  \caption{Número de instancias según el sexo del fallecido}
-  \label{fig:boat1}
+  \label{fig:age_graph}
 \end{figure}
 
 \begin{figure}
   \includegraphics[width=\linewidth]{figures/plot_ubicacion.png}
   \caption{Número de instancias según la ubicación del fallecido}
-  \label{fig:boat1}
-\end{figure}    
+  \label{fig:loc_graph}
+\end{figure}  
+
+\begin{figure}
+  \includegraphics[width=\linewidth]{figures/plot_sexo.png}
+  \caption{Número de instancias según el sexo del fallecido}
+  \label{fig:sex_graph}
+\end{figure}  
     
 \item \textbf{gs\_text34:} Causa de la muerte del paciente.
-\item \textbf{sex:} Sexo del difunto. Los valores posibles son 1, 2, 3 y 4. Cada uno de estos valores hace referencia a ``hombre'', ``mujer'', ``se niega a responder'' y ``desconocido'' respectivamente.
+\item \textbf{sex:} Sexo del difunto. Los valores posibles son 1, 2, 3 y 4. Cada uno de estos valores hace referencia a ``hombre'', ``mujer'', ``se niega a responder'' y ``desconocido'' respectivamente (Fig: \ref{fig:sex_graph}).
 \item \textbf{age\_years:} Edad del fallecido en años. En caso de ser igual a 999 significa que es desconocida.
 \item \textbf{age\_months:} Edad del fallecido en meses. En caso de ser igual a 99 significa que es desconocida.
 \item \textbf{age\_days:} Edad del fallecido en días. En caso de ser igual a 99 significa que es desconocida.
@@ -141,4 +141,5 @@ Pensamos en llevar a cabo el PCA individualmente en cada clusters, dividiendo la
 %\section{Experimentos}
 %\section{Conclusiones}
 %\section{Bibliografía}
+
 \end{document}
