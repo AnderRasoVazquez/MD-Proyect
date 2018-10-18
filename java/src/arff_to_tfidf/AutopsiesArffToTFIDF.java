@@ -16,26 +16,35 @@ public class AutopsiesArffToTFIDF {
     public static void main(String[] args) {
         String inputPath = null;
         String outputPath = null;
+        int wordsToKeep = 0;
         try {
             inputPath = args[0];
             outputPath = args[1];
-        } catch (IndexOutOfBoundsException e) {
-            String documentacion = "Este ejecutable convierte el conjunto de datos de autopsias verbales de formato .csv a .arff.\n" +
-                                    "El archivo a convertir debe estar en formato .csv y su primera línea debe ser la cabecera de los valores.\n" +
+            wordsToKeep = Integer.parseInt(args[3]);
+        } catch (IndexOutOfBoundsException | NumberFormatException e) {
+            String documentacion = "Este ejecutable aplica el filtro StringToWordVector al atributo de texto de las autopsias verbales.\n" +
                                     "Dos argumetos esperados:\n" +
-                                         "\t1 - Ruta del archivo .csv a leer\n" +
+                                         "\t1 - Ruta del archivo .arff a leer\n" +
                                          "\t2 - Ruta del archivo .arff a crear\n" +
-                                    "\nEjemplo: java -jar autopsiesCSVToArff.jar /path/to/input/csv /path/to/output/arff";
+                                         "\t3 - Palabras para quedarse en la transición de String a WordVector\n" +
+                                    "\nEjemplo: java -jar autopsiesArffToTFIDF.jar /path/to/input/arff /path/to/output/arff 5000";
             System.out.println(documentacion);
             System.exit(1);
         }
-        autopsiesArffToTFIDF(inputPath, outputPath);
+        autopsiesArffToTFIDF(inputPath, outputPath, wordsToKeep, true);
     }
 
-
-    private static void autopsiesArffToTFIDF(String pInputPath, String pOutputPath) {
+    /**
+     * Convierte el atributo de texto de las autopsias a TFIDF.
+     *
+     * @param pInputPath ruta del archivo .arff con las autopsias.
+     * @param pOutputPath ruta del archivo .arff a crear.
+     * @param pWordsToKeep número de palabras para mantener en el TFIDF.
+     * @param pVerbose si true, se imprime más información por consola.
+     */
+    private static void autopsiesArffToTFIDF(String pInputPath, String pOutputPath, int pWordsToKeep,  boolean pVerbose) {
         Instances instances = Utils.loadInstances(pInputPath, 3);
-        StringToWordVector stringToWordVector = new StringToWordVector(5000);
+        StringToWordVector stringToWordVector = new StringToWordVector(pWordsToKeep);
         String diccPath = new File(pOutputPath).getParentFile().getAbsolutePath() + "/dictionary.txt";
         if (instances != null) {
             try {
@@ -60,7 +69,11 @@ public class AutopsiesArffToTFIDF {
             }
 
             Utils.saveInstances(instances, pOutputPath);
-            System.out.println(String.format("Conversión completa. Nuevo archivo: %s", pOutputPath));
+            if (pVerbose)
+                System.out.println(String.format("Conversión completa. Nuevo archivo: %s", pOutputPath));
+        } else {
+            if (pVerbose)
+                utils.Utils.printlnError("Error en la conversión");
         }
 
     }

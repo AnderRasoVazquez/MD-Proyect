@@ -1,12 +1,9 @@
 package csv_to_arff;
 
+import utils.Utils;
 import weka.core.Instances;
-import weka.core.converters.CSVLoader;
 import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.NominalToString;
-
-import java.io.File;
-import java.io.IOException;
 
 
 public class AutopsiesCSVToArff {
@@ -36,13 +33,12 @@ public class AutopsiesCSVToArff {
      * @param pInputPath  ruta del arvhico .csv que se quiere transformar
      * @param pOutputPath ruta del archivo .arff que se quiere generar
      * @param pVerbose    si true, se imprime más información por consola
-     * @return true si la conversión se lleva a cabo correctamente
      */
     private static void autopsiesCSVToArff(String pInputPath, String pOutputPath, boolean pVerbose) {
         if (pVerbose)
             System.out.println(String.format("Procediendo a la conversión de %s a .arff", pInputPath));
 
-        Instances instances = loadCSV(pInputPath);
+        Instances instances = Utils.loadInstancesCSV(pInputPath);
         if (instances != null) {
             // ponemos el cuarto atributo (gs_text34) como clase
             instances.setClassIndex(3);
@@ -69,25 +65,5 @@ public class AutopsiesCSVToArff {
                 utils.Utils.printlnError("Error en la conversión");
         }
     }
-
-    /**
-     * Carga los datos de un archivo .csv en instancias.
-     *
-     * @param pPath ruta del archivo a leer
-     * @return objeto Instances con las instancias del .csv
-     */
-    private static Instances loadCSV(String pPath) {
-        CSVLoader csvLoader = new CSVLoader();
-        Instances instances;
-        try {
-            csvLoader.setSource(new File(pPath));
-            instances = csvLoader.getDataSet();
-        } catch (IOException e) {
-            utils.Utils.printlnError(e.getMessage());
-            instances = null;
-        }
-        return instances;
-    }
-
 
 }

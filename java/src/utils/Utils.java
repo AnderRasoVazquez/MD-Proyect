@@ -4,6 +4,7 @@ import weka.core.Attribute;
 import weka.core.Instance;
 import weka.core.Instances;
 import weka.core.converters.ArffSaver;
+import weka.core.converters.CSVLoader;
 import weka.core.converters.CSVSaver;
 import weka.core.converters.ConverterUtils;
 import weka.filters.Filter;
@@ -57,6 +58,25 @@ public class Utils {
     public static Instances loadInstances(String pPath) {
         return loadInstances(pPath, -1);
     }
+    
+    /**
+     * Carga los datos de un archivo .csv en instancias.
+     *
+     * @param pPath ruta del archivo a leer
+     * @return objeto Instances con las instancias del .csv
+     */
+    public static Instances loadInstancesCSV(String pPath) {
+        CSVLoader csvLoader = new CSVLoader();
+        Instances instances;
+        try {
+            csvLoader.setSource(new File(pPath));
+            instances = csvLoader.getDataSet();
+        } catch (IOException e) {
+            utils.Utils.printlnError(e.getMessage());
+            instances = null;
+        }
+        return instances;
+    }
 
     /**
      * Guarda las instancias pInstances en formato .arff en el archivo pPath.
@@ -75,6 +95,12 @@ public class Utils {
         }
     }
 
+    /**
+     * Guarda las instancias pInstances en formato .csv en el archivo pPath.
+     *
+     * @param pInstances
+     * @param pPath
+     */
     public static void saveInstancesCSV(Instances pInstances, String pPath) {
         try {
             CSVSaver csvSaver = new CSVSaver();
@@ -86,10 +112,23 @@ public class Utils {
         }
     }
 
+    /**
+     * Obtiene una representacion escrita de todos los valores de la instancia dada.
+     * @param pInstance instancia a escribir.
+     * @param pSparse flag sparse. Si true, los atributos numéricos con valor 0 se omiten.
+     * @return String con los valores de todos los atributos separados por comas.
+     */
     public static String instanceToString(Instance pInstance, boolean pSparse) {
         return instanceToString(pInstance, pInstance.numAttributes(), pSparse);
     }
 
+    /**
+     * Obtiene una representacion escrita de los valores de la instancia dada.
+     * @param pInstance instancia a escribir.
+     * @param pAttributes número de atributos de la instancia a escribir.
+     * @param pSparse flag sparse. Si true, los atributos numéricos con valor 0 se omiten.
+     * @return String con los valores de los atributos separados por comas.
+     */
     public static String instanceToString(Instance pInstance, int pAttributes, boolean pSparse) {
         StringBuilder res = new StringBuilder();
         boolean coma = false;
@@ -123,7 +162,16 @@ public class Utils {
         }
         return res.toString();
     }
-    
+
+    /**
+     * Suma las dos instancias dadas y obtiene una nueva instancia resultado.
+     * Los atributos numéricos de las insctancias se suman de forma normal.
+     * Los atributos no númericos se omiten, y la instancia resultado tendrá los mismos
+     * valores en estos atributos que la primera de las instancias.
+     * @param pInstanceA primera instancia a sumar.
+     * @param pInstanceB seguna instancia a sumar.
+     * @return instancia resultado de la suma.
+     */
     public static Instance addInstances(Instance pInstanceA, Instance pInstanceB) {
         if (pInstanceA == null)
             return pInstanceB;
@@ -145,6 +193,12 @@ public class Utils {
         }
     }
 
+    /**
+     * Divide todos los atributos numéricos de la instancia por el valor dado.
+     * @param pInstance Instancia sobre la que aplicar la división.
+     * @param pNum Valor por el que dividir los atributos numéricos.
+     * @return Instancia con los valores numéricos divididos.
+     */
     public static Instance divideInstance(Instance pInstance, double pNum) {
         Instance res = pInstance.copy(pInstance.toDoubleArray());
         for (int i = 0; i < pInstance.numAttributes(); i++) {
@@ -155,7 +209,14 @@ public class Utils {
         }
         return res;
     }
-    
+
+    /**
+     * Aplica el filtro PCA al conjunto de instancias dado.
+     * @param pInstances conjunto de instancias para filtrar.
+     * @param pClassIndex índice del atributo clase de las instancias.
+     * @param pPCAAttr número de atributos (componentes principales) para obtener.
+     * @return conjunto de instancias filtradas.
+     */
     public static Instances filterPCA(Instances pInstances, int pClassIndex, int pPCAAttr) {
         Instances instances = null;
         try {
