@@ -100,12 +100,12 @@ public class KMeans {
         // obtain final belonging matrix
         this.updateBelongingBits();
         String centroids = this.getCentroids();
-//        if (pClustersDir != null)
-//            this.saveClusters(pClustersDir);
         if (pInstancesPath != null)
             this.saveAssignedInstances(pInstancesPath);
         if (pVerbose)
             System.out.println(this.getCentroids());
+        if (pClustersDir != null)
+            this.saveClusters(pClustersDir);
         return centroids;
     }
 
@@ -229,6 +229,11 @@ public class KMeans {
     }
 
     private void saveClusters(String pDir) {
+        Instances instances = new Instances(this.instances[0].dataset());
+        instances.setClassIndex(3);
+        instances = Utils.filterPCA(instances, 3, 2);
+        instances.renameAttribute(0, "x");
+        instances.renameAttribute(1, "y");
         File dirFile = new File(pDir);
         if (!dirFile.exists()) {
             dirFile.mkdir();
@@ -239,17 +244,8 @@ public class KMeans {
             cluster.add(this.centroids[i]);
             for (int t = 0; t < this.instances.length; t++) {
                 if (this.belongingBits[t][i]) {
-                    cluster.add(this.instances[i]);
+                    cluster.add(instances.get(t));
                 }
-            }
-            try {
-                cluster.setClassIndex(3);
-                cluster = Utils.filterPCA(cluster, 3, 2);
-                cluster.renameAttribute(0, "x");
-                cluster.renameAttribute(1, "y");
-            } catch (NullPointerException e) {
-                System.out.println("ERROR");
-                continue;
             }
 
             String path = pDir;
