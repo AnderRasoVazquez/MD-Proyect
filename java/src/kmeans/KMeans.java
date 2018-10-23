@@ -2,13 +2,8 @@ package kmeans;
 
 import utils.Utils;
 import weka.core.*;
-import weka.core.stopwords.Null;
-import weka.filters.unsupervised.attribute.PrincipalComponents;
 
-import javax.rmi.CORBA.Util;
 import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.util.Arrays;
 import java.util.Random;
 
@@ -50,7 +45,7 @@ public class KMeans {
         String clustersDir = String.join("/", (String[]) Arrays.asList(instancesPathList).subList(0, instancesPathList.length - 1).toArray(new String[0]));
         clustersDir += "/clusters";
         KMeans kmeans = new KMeans(instances, k, "9-last");
-        kmeans.formClusters(outputPath, clustersDir, true);
+        System.out.println(kmeans.formClusters(outputPath, clustersDir, true));
     }
 
     public KMeans(Instances pInstances, int pClusters, String pAttrRange) {
@@ -77,11 +72,11 @@ public class KMeans {
         this.maxIt = 50;
     }
 
-    public void formClusters(String pSavePath) {
+    private void formClusters(String pSavePath) {
         this.formClusters(pSavePath, pSavePath, false);
     }
 
-    public String formClusters(String pInstancesPath, String pClustersDir, boolean pVerbose) {
+    private String formClusters(String pInstancesPath, String pClustersDir, boolean pVerbose) {
         // initialize centroids to random instances
         this.initializeCentroids();
         int it = 0;
@@ -229,25 +224,28 @@ public class KMeans {
     }
 
     private void saveClusters(String pDir) {
-        Instances instances = new Instances(this.instances[0].dataset());
-        instances.setClassIndex(3);
-        instances = Utils.filterPCA(instances, 3, 2);
-        instances.renameAttribute(0, "x");
-        instances.renameAttribute(1, "y");
         File dirFile = new File(pDir);
         if (!dirFile.exists()) {
             dirFile.mkdir();
         }
+
+        // aplicar el PCA a las instancias.
+        // aquí es donde da problemas por falta de memoria.
+        Instances pcaInstances = new Instances(this.instances[0].dataset());
+        pcaInstances.setClassIndex(3);
+        pcaInstances = Utils.filterPCA(pcaInstances, 3, 2);
+        pcaInstances.renameAttribute(0, "x");
+        pcaInstances.renameAttribute(1, "y");
+
         for (int i = 0; i < this.centroids.length; i++) {
             Instances cluster = new Instances(this.centroids[i].dataset());
             cluster.delete();
             cluster.add(this.centroids[i]);
             for (int t = 0; t < this.instances.length; t++) {
                 if (this.belongingBits[t][i]) {
-                    cluster.add(instances.get(t));
+                    cluster.add(pcaInstances.get(i));
                 }
             }
-
             String path = pDir;
             if (path.endsWith("/"))
                 path = path.substring(0, path.length() - 1);
@@ -256,38 +254,4 @@ public class KMeans {
             Utils.saveInstancesCSV(cluster, path);
         }
     }
-
-    private void saveClustersBad(String pDir) {
-        File dirFile = new File(pDir);
-        if (!dirFile.exists()) {
-            dirFile.mkdir();
-        }
-        for (int i = 0; i < this.centroids.length; i++) {
-            Instances cluster = new Instances(this.centroids[i].dataset());
-            cluster.delete();
-            cluster.add(this.centroids[i]);
-            for (int t = 0; t < this.instances.length; t++) {
-                if (this.belongingBits[t][i]) {
-                    cluster.add(this.instances[t]);
-                }
-            }
-            try {
-                cluster.setClassIndex(3);
-                cluster = Utils.filterPCA(cluster, 3, 2);
-                cluster.renameAttribute(0, "x");
-                cluster.renameAttribute(1, "y");
-            } catch (NullPointerException e) {
-                System.out.println("ERROR");
-                continue;
-            }
-
-            String path = pDir;
-            if (path.endsWith("/"))
-                path = path.substring(0, path.length() - 1);
-            path += String.format("/cluster%d.csv", i);
-            System.out.println(path);
-            Utils.saveInstancesCSV(cluster, path);
-        }
-    }
-
 }
