@@ -160,6 +160,9 @@ if __name__ == '__main__':
     # KMeans.main("/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/test_s.csv",
     #             "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/assigned_instances.txt",
     #             3, 2)
-    KMeans.main("/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_tfidf_s.csv",
-                "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/assigned_instances.txt",
+    # KMeans.main("/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_tfidf_s.csv",
+    #             "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/assigned_instances.txt",
+    #             48, 2)
+    KMeans.main("/home/ander/github/MD-Proyect/files/verbal_autopsies_tfidf_s.csv",
+                "/home/ander/github/MD-Proyect/files/assigned_instances.txt",
                 48, 2)
