@@ -9,3 +9,4 @@ javaDoc/
 **/__pycache__/
 *.pycache
 **.ipynb_checkpoints/
+**/*.pyc
