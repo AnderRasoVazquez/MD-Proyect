@@ -34,20 +34,19 @@ def csv_to_sparse_csv(path1, path2):
 
 def sparse_csv_to_dataframe(path, empty_value):
     with open(path, 'r') as f:
-        for index, line in enumerate(f):
-            pass
-        line_count = index + 1
-    with open(path, 'r') as f:
-        dict = {}
+        vector = []
         headers = f.readline().split(',')
-        for header in headers:
+        for i in range(len(headers)):
+            header = headers[i]
             if header.endswith('\n'):
                 header = header[:-1]
+                headers[i] = header
             if header.startswith('\''):
                 header = header[1:-1]
-            dict[header] = [empty_value] * (line_count - 1)
-        for instance_index, line in enumerate(f):
-            instance_index -= 1
+                headers[i] = header
+        data = []
+        for index, line in enumerate(f):
+            vector = [empty_value] * len(headers)
             for element in line.split(','):
                 attr_index, value = element.split(' ', maxsplit=1)
                 attr_index = int(attr_index)
@@ -55,8 +54,9 @@ def sparse_csv_to_dataframe(path, empty_value):
                     value = float(value)
                 elif value.startswith('\''):
                     value = value[1:-1]
-                dict[headers[attr_index]][instance_index] = value
-    return pn.DataFrame(dict).to_sparse(empty_value)
+                vector[attr_index] = value
+            data.append(vector)
+    return pn.SparseDataFrame(data, columns=headers)
 
 
 def dataframe_to_sparse_csv(data, path, empty_value):

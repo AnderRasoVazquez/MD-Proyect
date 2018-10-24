@@ -17,7 +17,7 @@ class KMeans:
         kmeans = KMeans(output_path, data, k=k, m=m)
         kmeans._form_clusters(verbose=True)
 
-    def __init__(self, output_path, data, k=10, tolerance=0.3, m=2, max_it=50, init_strat="random"):
+    def __init__(self, output_path, data, k=10, tolerance=0.3, m=2, max_it=1, init_strat="random"):
         self._data = data  # no está en forma values
         self._k = min(k, len(self._data))
         self._centroids = [None] * k
@@ -44,9 +44,13 @@ class KMeans:
 
         self._update_belonging_bits()
         if verbose:
-            print("Finished clustering. Saving results")
+            print("Finished clustering. Saving results...")
         self._save_instances()
-        self._save_clusters()
+        if verbose:
+            print("Instances Saved")
+        self._save_clusters(verbose)
+        if verbose:
+            print("Clusters Saved")
 
     def _initialize_centroids(self, init_strat):
         # default: INIT_RANDOM
@@ -112,8 +116,7 @@ class KMeans:
                 if self._belonging_bits[t][i]:
                     bits_i += 1
                     if instance_sum is None:
-                        instance_sum = self._instances[t].copy()
-                        instance_sum = np.array([x if utils.is_number(x) else np.nan for x in instance_sum])
+                        instance_sum = np.array([x if utils.is_number(x) else np.nan for x in self._instances[t].copy()])
                     else:
                         instance_sum = instance_sum + self._instances[t]
 
@@ -128,7 +131,7 @@ class KMeans:
                         f.write('INSTANCE {} -> CLUSTER {} // {}\n'
                                 .format(t, i, utils.vector_to_sparse_string(self._data.get_values()[t], value_to_omit=0)))
 
-    def _save_clusters(self):
+    def _save_clusters(self, verbose=False):
         tmp_path = self._output_path
         if tmp_path.endswith('/'):
             tmp_path = tmp_path[:-1]
@@ -140,18 +143,23 @@ class KMeans:
             pass
 
         for i in range(self._k):
-            cluster = pandas.DataFrame(columns=self._data.columns)
+            cluster = pandas.SparseDataFrame(columns=self._data.columns)
 
             for t in range(len(self._instances)):
                 if self._belonging_bits[t][i]:
-                    instance_data = pandas.DataFrame([self._data.get_values()[t]], columns=self._data.columns)
+                    instance_data = pandas.SparseDataFrame([self._data.get_values()[t]], columns=self._data.columns)
                     cluster = cluster.append(instance_data.copy(), ignore_index=True)
 
             cluster_path = os.path.join(dir_path, 'cluster{}.csv'.format(i))
             utils.dataframe_to_sparse_csv(cluster, cluster_path, 0)
+            if verbose:
+                print("Saved cluster nº {}".format(i))
 
 
 if __name__ == '__main__':
-    KMeans.main("/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/test_s.csv",
+    # KMeans.main("/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/test_s.csv",
+    #             "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/assigned_instances.txt",
+    #             3, 2)
+    KMeans.main("/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_tfidf_s.csv",
                 "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/assigned_instances.txt",
-                3, 2)
+                48, 2)
