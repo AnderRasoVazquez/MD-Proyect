@@ -1,0 +1,234 @@
+newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
+0 20,1 Adult,2 UP,3 Cirrhosis,4 1.0,5 45.0,6 nan,7 nan,8 nan
+0 53,1 Adult,2 Mexico,3 Suicide,4 2.0,5 15.0,6 nan,7 nan,8 nan
+0 93,1 Adult,2 AP,3 Bite of Venomous Animal,4 1.0,5 39.0,6 nan,7 nan,8 nan
+0 145,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 18.0,6 nan,7 nan,8 nan
+0 233,1 Adult,2 AP,3 Pneumonia,4 2.0,5 25.0,6 nan,7 nan,8 nan
+0 301,1 Adult,2 AP,3 COPD,4 1.0,5 60.0,6 nan,7 nan,8 nan
+0 345,1 Adult,2 Mexico,3 Acute Myocardial Infarction,4 1.0,5 66.0,6 nan,7 nan,8 nan
+0 409,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 52.0,6 nan,7 nan,8 nan
+0 519,1 Adult,2 Mexico,3 Other Cardiovascular Diseases,4 2.0,5 58.0,6 nan,7 nan,8 nan
+0 555,1 Adult,2 UP,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 nan
+0 595,1 Adult,2 Mexico,3 Other Infectious Diseases,4 1.0,5 48.0,6 nan,7 nan,8 nan
+0 675,1 Adult,2 Mexico,3 Prostate Cancer,4 1.0,5 80.0,6 nan,7 nan,8 nan
+0 723,1 Adult,2 Mexico,3 Cirrhosis,4 1.0,5 51.0,6 nan,7 nan,8 nan
+0 806,1 Adult,2 AP,3 Pneumonia,4 1.0,5 19.0,6 nan,7 nan,8 nan
+0 830,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 2.0,5 60.0,6 nan,7 nan,8 nan
+0 881,1 Adult,2 Mexico,3 Diabetes,4 1.0,5 54.0,6 nan,7 nan,8 nan
+0 924,1 Adult,2 AP,3 Malaria,4 1.0,5 25.0,6 nan,7 nan,8 nan
+0 953,1 Adult,2 UP,3 Diarrhea/Dysentery,4 1.0,5 24.0,6 nan,7 nan,8 nan
+0 983,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 75.0,6 nan,7 nan,8 nan
+0 1053,1 Adult,2 Mexico,3 Renal Failure,4 2.0,5 89.0,6 nan,7 nan,8 nan
+0 1100,1 Adult,2 Bohol,3 Maternal,4 2.0,5 41.0,6 nan,7 nan,8 nan
+0 1125,1 Adult,2 Bohol,3 Acute Myocardial Infarction,4 2.0,5 78.0,6 nan,7 nan,8 nan
+0 1147,1 Adult,2 Mexico,3 Other Non-communicable Diseases,4 2.0,5 62.0,6 nan,7 nan,8 nan
+0 1249,1 Adult,2 AP,3 Pneumonia,4 1.0,5 28.0,6 nan,7 nan,8 nan
+0 1292,1 Adult,2 AP,3 Renal Failure,4 2.0,5 74.0,6 nan,7 nan,8 nan
+0 1351,1 Adult,2 AP,3 Acute Myocardial Infarction,4 1.0,5 54.0,6 nan,7 nan,8 nan
+0 1384,1 Adult,2 Mexico,3 Other Infectious Diseases,4 1.0,5 49.0,6 nan,7 nan,8 nan
+0 1466,1 Adult,2 AP,3 Maternal,4 2.0,5 26.0,6 nan,7 nan,8 nan
+0 1526,1 Adult,2 AP,3 Renal Failure,4 2.0,5 55.0,6 nan,7 nan,8 nan
+0 1561,1 Adult,2 Bohol,3 Falls,4 1.0,5 65.0,6 nan,7 nan,8 nan
+0 1600,1 Adult,2 Mexico,3 Colorectal Cancer,4 2.0,5 60.0,6 nan,7 nan,8 nan
+0 1656,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 1.0,5 25.0,6 nan,7 nan,8 nan
+0 1754,1 Adult,2 AP,3 Bite of Venomous Animal,4 1.0,5 26.0,6 nan,7 nan,8 nan
+0 1828,1 Adult,2 AP,3 Diarrhea/Dysentery,4 2.0,5 58.0,6 nan,7 nan,8 nan
+0 1863,1 Adult,2 Bohol,3 Other Non-communicable Diseases,4 1.0,5 50.0,6 nan,7 nan,8 nan
+0 1929,1 Adult,2 UP,3 Renal Failure,4 1.0,5 85.0,6 nan,7 nan,8 nan
+0 1982,1 Adult,2 AP,3 Diabetes,4 1.0,5 57.0,6 nan,7 nan,8 nan
+0 2034,1 Adult,2 AP,3 Drowning,4 1.0,5 23.0,6 nan,7 nan,8 nan
+0 2092,1 Adult,2 Bohol,3 Other Infectious Diseases,4 1.0,5 31.0,6 nan,7 nan,8 nan
+0 2156,1 Adult,2 AP,3 Other Non-communicable Diseases,4 2.0,5 16.0,6 nan,7 nan,8 nan
+0 2189,1 Adult,2 AP,3 Renal Failure,4 1.0,5 60.0,6 nan,7 nan,8 nan
+0 2261,1 Adult,2 AP,3 TB,4 2.0,5 14.0,6 nan,7 nan,8 nan
+0 2305,1 Adult,2 AP,3 Drowning,4 1.0,5 28.0,6 nan,7 nan,8 nan
+0 2330,1 Adult,2 AP,3 Acute Myocardial Infarction,4 2.0,5 61.0,6 nan,7 nan,8 nan
+0 2407,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 67.0,6 nan,7 nan,8 nan
+0 2449,1 Adult,2 Mexico,3 Pneumonia,4 1.0,5 49.0,6 nan,7 nan,8 nan
+0 2520,1 Adult,2 AP,3 AIDS,4 2.0,5 40.0,6 nan,7 nan,8 nan
+0 2550,1 Adult,2 AP,3 Maternal,4 2.0,5 20.0,6 nan,7 nan,8 nan
+0 2591,1 Adult,2 AP,3 Epilepsy,4 2.0,5 38.0,6 nan,7 nan,8 nan
+0 2632,1 Adult,2 AP,3 Malaria,4 1.0,5 39.0,6 nan,7 nan,8 nan
+0 2742,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 43.0,6 nan,7 nan,8 nan
+0 2786,1 Adult,2 Bohol,3 Other Non-communicable Diseases,4 2.0,5 53.0,6 nan,7 nan,8 nan
+0 2821,1 Adult,2 AP,3 Stroke,4 1.0,5 50.0,6 nan,7 nan,8 nan
+0 2875,1 Adult,2 Mexico,3 Other Cardiovascular Diseases,4 1.0,5 85.0,6 nan,7 nan,8 nan
+0 2922,1 Adult,2 AP,3 Cervical Cancer,4 2.0,5 44.0,6 nan,7 nan,8 nan
+0 2971,1 Adult,2 UP,3 AIDS,4 2.0,5 75.0,6 nan,7 nan,8 nan
+0 3047,1 Adult,2 AP,3 Homicide,4 2.0,5 16.0,6 nan,7 nan,8 nan
+0 3089,1 Adult,2 AP,3 AIDS,4 2.0,5 22.0,6 nan,7 nan,8 nan
+0 3170,1 Adult,2 Mexico,3 Colorectal Cancer,4 1.0,5 78.0,6 nan,7 nan,8 nan
+0 3230,1 Adult,2 AP,3 Suicide,4 2.0,5 45.0,6 nan,7 nan,8 nan
+0 3280,1 Adult,2 Mexico,3 Colorectal Cancer,4 1.0,5 54.0,6 nan,7 nan,8 nan
+0 3306,1 Adult,2 Mexico,3 Diabetes,4 1.0,5 36.0,6 nan,7 nan,8 nan
+0 3363,1 Adult,2 AP,3 AIDS,4 1.0,5 38.0,6 nan,7 nan,8 nan
+0 3432,1 Adult,2 AP,3 Cirrhosis,4 1.0,5 21.0,6 nan,7 nan,8 nan
+0 3475,1 Adult,2 AP,3 Stroke,4 1.0,5 42.0,6 nan,7 nan,8 nan
+0 3508,1 Adult,2 AP,3 Epilepsy,4 1.0,5 52.0,6 nan,7 nan,8 nan
+0 3625,1 Adult,2 Bohol,3 Other Non-communicable Diseases,4 2.0,5 75.0,6 nan,7 nan,8 nan
+0 3791,1 Adult,2 AP,3 Poisonings,4 1.0,5 24.0,6 nan,7 nan,8 nan
+0 3823,1 Adult,2 AP,3 Renal Failure,4 1.0,5 30.0,6 nan,7 nan,8 nan
+0 3905,1 Adult,2 UP,3 COPD,4 2.0,5 45.0,6 nan,7 nan,8 nan
+0 3950,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 56.0,6 nan,7 nan,8 nan
+0 3994,1 Adult,2 Mexico,3 AIDS,4 2.0,5 25.0,6 nan,7 nan,8 nan
+0 4100,1 Adult,2 AP,3 Homicide,4 2.0,5 60.0,6 nan,7 nan,8 nan
+0 4163,1 Adult,2 AP,3 Acute Myocardial Infarction,4 1.0,5 65.0,6 nan,7 nan,8 nan
+0 4214,1 Adult,2 Mexico,3 Renal Failure,4 1.0,5 28.0,6 nan,7 nan,8 nan
+0 4275,1 Adult,2 AP,3 Other Non-communicable Diseases,4 2.0,5 55.0,6 nan,7 nan,8 nan
+0 4339,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 1.0,5 41.0,6 nan,7 nan,8 nan
+0 4370,1 Adult,2 UP,3 Diarrhea/Dysentery,4 1.0,5 13.0,6 nan,7 nan,8 nan
+0 4430,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 80.0,6 nan,7 nan,8 nan
+0 4481,1 Adult,2 Mexico,3 Lung Cancer,4 1.0,5 35.0,6 nan,7 nan,8 nan
+0 4530,1 Adult,2 AP,3 Homicide,4 2.0,5 26.0,6 nan,7 nan,8 nan
+0 4652,1 Adult,2 UP,3 Diarrhea/Dysentery,4 1.0,5 85.0,6 nan,7 nan,8 nan
+0 4713,1 Adult,2 AP,3 Bite of Venomous Animal,4 1.0,5 14.0,6 nan,7 nan,8 nan
+0 4778,1 Adult,2 Mexico,3 Stomach Cancer,4 2.0,5 44.0,6 nan,7 nan,8 nan
+0 4870,1 Adult,2 AP,3 Diabetes,4 1.0,5 60.0,6 nan,7 nan,8 nan
+0 4888,1 Adult,2 AP,3 Acute Myocardial Infarction,4 2.0,5 37.0,6 nan,7 nan,8 nan
+0 4980,1 Adult,2 UP,3 COPD,4 1.0,5 61.0,6 nan,7 nan,8 nan
+0 5025,1 Adult,2 AP,3 Asthma,4 2.0,5 80.0,6 nan,7 nan,8 nan
+0 5072,1 Adult,2 AP,3 Road Traffic,4 1.0,5 25.0,6 nan,7 nan,8 nan
+0 5123,1 Adult,2 Mexico,3 Renal Failure,4 2.0,5 22.0,6 nan,7 nan,8 nan
+0 5158,1 Adult,2 AP,3 Diabetes,4 2.0,5 66.0,6 nan,7 nan,8 nan
+0 5214,1 Adult,2 Mexico,3 Homicide,4 1.0,5 33.0,6 nan,7 nan,8 nan
+0 5262,1 Adult,2 AP,3 Bite of Venomous Animal,4 2.0,5 14.0,6 nan,7 nan,8 nan
+0 5305,1 Adult,2 AP,3 AIDS,4 2.0,5 30.0,6 nan,7 nan,8 nan
+0 5344,1 Adult,2 Bohol,3 Diabetes,4 2.0,5 58.0,6 nan,7 nan,8 nan
+0 5372,1 Adult,2 Mexico,3 Colorectal Cancer,4 1.0,5 56.0,6 nan,7 nan,8 nan
+0 5423,1 Adult,2 AP,3 Poisonings,4 1.0,5 66.0,6 nan,7 nan,8 nan
+0 5460,1 Adult,2 Mexico,3 COPD,4 1.0,5 38.0,6 nan,7 nan,8 nan
+0 5539,1 Adult,2 AP,3 Pneumonia,4 1.0,5 83.0,6 nan,7 nan,8 nan
+0 5601,1 Adult,2 Bohol,3 Other Infectious Diseases,4 1.0,5 13.0,6 nan,7 nan,8 nan
+0 5614,1 Adult,2 Mexico,3 COPD,4 2.0,5 66.0,6 nan,7 nan,8 nan
+0 5679,1 Adult,2 AP,3 Maternal,4 2.0,5 23.0,6 nan,7 nan,8 nan
+0 5722,1 Adult,2 AP,3 Falls,4 1.0,5 57.0,6 nan,7 nan,8 nan
+0 5771,1 Adult,2 Mexico,3 Stomach Cancer,4 2.0,5 58.0,6 nan,7 nan,8 nan
+0 5824,1 Adult,2 AP,3 Diabetes,4 1.0,5 55.0,6 nan,7 nan,8 nan
+0 5859,1 Adult,2 Bohol,3 Renal Failure,4 2.0,5 29.0,6 nan,7 nan,8 nan
+0 5944,1 Adult,2 AP,3 Homicide,4 1.0,5 52.0,6 nan,7 nan,8 nan
+0 6025,1 Adult,2 AP,3 TB,4 1.0,5 19.0,6 nan,7 nan,8 nan
+0 6083,1 Adult,2 AP,3 Renal Failure,4 1.0,5 58.0,6 nan,7 nan,8 nan
+0 6116,1 Adult,2 AP,3 Acute Myocardial Infarction,4 2.0,5 61.0,6 nan,7 nan,8 nan
+0 6173,1 Adult,2 AP,3 Stroke,4 2.0,5 70.0,6 nan,7 nan,8 nan
+0 6234,1 Adult,2 Mexico,3 Renal Failure,4 1.0,5 21.0,6 nan,7 nan,8 nan
+0 6280,1 Adult,2 Bohol,3 Homicide,4 1.0,5 26.0,6 nan,7 nan,8 nan
+0 6310,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 56.0,6 nan,7 nan,8 nan
+0 6414,1 Adult,2 Mexico,3 Stomach Cancer,4 2.0,5 64.0,6 nan,7 nan,8 nan
+0 6488,1 Adult,2 AP,3 Diabetes,4 2.0,5 22.0,6 nan,7 nan,8 nan
+0 6589,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 62.0,6 nan,7 nan,8 nan
+0 6641,1 Adult,2 Mexico,3 Acute Myocardial Infarction,4 1.0,5 73.0,6 nan,7 nan,8 nan
+0 6721,1 Adult,2 AP,3 Stroke,4 2.0,5 66.0,6 nan,7 nan,8 nan
+0 6771,1 Adult,2 AP,3 Diabetes,4 2.0,5 57.0,6 nan,7 nan,8 nan
+0 6839,1 Adult,2 AP,3 Bite of Venomous Animal,4 1.0,5 24.0,6 nan,7 nan,8 nan
+0 6878,1 Adult,2 Mexico,3 Acute Myocardial Infarction,4 1.0,5 78.0,6 nan,7 nan,8 nan
+0 6925,1 Adult,2 UP,3 COPD,4 1.0,5 41.0,6 nan,7 nan,8 nan
+0 6988,1 Adult,2 AP,3 Diarrhea/Dysentery,4 2.0,5 90.0,6 nan,7 nan,8 nan
+0 7136,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 2.0,5 13.0,6 nan,7 nan,8 nan
+0 7189,1 Adult,2 AP,3 AIDS,4 2.0,5 35.0,6 nan,7 nan,8 nan
+0 7210,1 Adult,2 AP,3 Suicide,4 1.0,5 17.0,6 nan,7 nan,8 nan
+0 7309,1 Adult,2 AP,3 Homicide,4 2.0,5 13.0,6 nan,7 nan,8 nan
+0 7388,1 Adult,2 Bohol,3 Diabetes,4 1.0,5 55.0,6 nan,7 nan,8 nan
+0 7425,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 81.0,6 nan,7 nan,8 nan
+0 7463,1 Adult,2 AP,3 Diabetes,4 1.0,5 56.0,6 nan,7 nan,8 nan
+0 7483,1 Adult,2 AP,3 Malaria,4 1.0,5 37.0,6 nan,7 nan,8 nan
+0 7535,1 Adult,2 AP,3 Diabetes,4 2.0,5 25.0,6 nan,7 nan,8 nan
+0 7574,1 Adult,2 AP,3 Stroke,4 2.0,5 57.0,6 nan,7 nan,8 nan
+0 7665,1 Adult,2 AP,3 Diarrhea/Dysentery,4 1.0,5 85.0,6 nan,7 nan,8 nan
+0 7721,1 Adult,2 AP,3 Malaria,4 1.0,5 29.0,6 nan,7 nan,8 nan
+0 7786,1 Adult,2 AP,3 Diarrhea/Dysentery,4 2.0,5 30.0,6 nan,7 nan,8 nan
+0 7830,1 Adult,2 AP,3 Road Traffic,4 1.0,5 27.0,6 nan,7 nan,8 nan
+0 23,1 Child,2 UP,3 Encephalitis,4 1.0,5 10.0,6 nan,7 nan,8 nan
+0 72,1 Child,2 AP,3 Other Cardiovascular Diseases,4 1.0,5 nan,6 3.0,7 nan,8 nan
+0 96,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 1.0,5 4.0,6 nan,7 nan,8 nan
+0 146,1 Child,2 UP,3 Sepsis,4 1.0,5 7.0,6 nan,7 nan,8 nan
+0 172,1 Child,2 AP,3 Violent Death,4 1.0,5 nan,6 8.0,7 nan,8 nan
+0 238,1 Child,2 AP,3 Pneumonia,4 1.0,5 nan,6 1.0,7 nan,8 nan
+0 259,1 Child,2 UP,3 Sepsis,4 1.0,5 8.0,6 nan,7 nan,8 nan
+0 308,1 Child,2 AP,3 Diarrhea/Dysentery,4 2.0,5 nan,6 5.0,7 nan,8 nan
+0 335,1 Child,2 Mexico,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 1.0,7 nan,8 nan
+0 375,1 Child,2 AP,3 Hemorrhagic fever,4 1.0,5 nan,6 3.0,7 nan,8 nan
+0 402,1 Child,2 AP,3 Hemorrhagic fever,4 2.0,5 11.0,6 nan,7 nan,8 nan
+0 442,1 Child,2 UP,3 Diarrhea/Dysentery,4 1.0,5 nan,6 2.0,7 nan,8 nan
+0 500,1 Child,2 AP,3 Sepsis,4 1.0,5 nan,6 5.0,7 nan,8 nan
+0 525,1 Child,2 UP,3 Diarrhea/Dysentery,4 1.0,5 1.0,6 nan,7 nan,8 nan
+0 556,1 Child,2 AP,3 Diarrhea/Dysentery,4 2.0,5 nan,6 4.0,7 nan,8 nan
+0 576,1 Child,2 AP,3 Road Traffic,4 2.0,5 8.0,6 nan,7 nan,8 nan
+0 610,1 Child,2 AP,3 Drowning,4 1.0,5 7.0,6 nan,7 nan,8 nan
+0 654,1 Child,2 AP,3 Pneumonia,4 1.0,5 nan,6 3.0,7 nan,8 nan
+0 669,1 Child,2 AP,3 AIDS,4 1.0,5 8.0,6 nan,7 nan,8 nan
+0 738,1 Child,2 AP,3 Malaria,4 2.0,5 11.0,6 nan,7 nan,8 nan
+0 788,1 Child,2 AP,3 Hemorrhagic fever,4 1.0,5 2.0,6 nan,7 nan,8 nan
+0 842,1 Child,2 AP,3 Violent Death,4 2.0,5 3.0,6 nan,7 nan,8 nan
+0 873,1 Child,2 AP,3 Bite of Venomous Animal,4 1.0,5 2.0,6 nan,7 nan,8 nan
+0 893,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 2.0,5 8.0,6 nan,7 nan,8 nan
+0 915,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 1.0,5 1.0,6 nan,7 nan,8 nan
+0 959,1 Child,2 AP,3 Drowning,4 1.0,5 5.0,6 nan,7 nan,8 nan
+0 1020,1 Child,2 AP,3 Diarrhea/Dysentery,4 1.0,5 nan,6 1.0,7 nan,8 nan
+0 1051,1 Child,2 UP,3 Measles,4 1.0,5 1.0,6 nan,7 nan,8 nan
+0 1098,1 Child,2 AP,3 Sepsis,4 1.0,5 nan,6 5.0,7 nan,8 nan
+0 1131,1 Child,2 Mexico,3 Diarrhea/Dysentery,4 1.0,5 nan,6 1.0,7 nan,8 nan
+0 1152,1 Child,2 AP,3 Pneumonia,4 1.0,5 nan,6 3.0,7 nan,8 nan
+0 1178,1 Child,2 AP,3 Road Traffic,4 1.0,5 8.0,6 nan,7 nan,8 nan
+0 1253,1 Child,2 AP,3 Drowning,4 1.0,5 4.0,6 nan,7 nan,8 nan
+0 1321,1 Child,2 AP,3 Violent Death,4 1.0,5 11.0,6 nan,7 nan,8 nan
+0 1394,1 Child,2 AP,3 Violent Death,4 1.0,5 2.0,6 nan,7 nan,8 nan
+0 1421,1 Child,2 AP,3 Falls,4 1.0,5 4.0,6 nan,7 nan,8 nan
+0 1452,1 Child,2 AP,3 Drowning,4 1.0,5 2.0,6 nan,7 nan,8 nan
+0 1493,1 Child,2 AP,3 Diarrhea/Dysentery,4 1.0,5 nan,6 9.0,7 nan,8 nan
+0 1513,1 Child,2 AP,3 Drowning,4 1.0,5 4.0,6 nan,7 nan,8 nan
+0 1556,1 Child,2 AP,3 Other Cardiovascular Diseases,4 1.0,5 nan,6 2.0,7 nan,8 nan
+0 1599,1 Child,2 AP,3 Road Traffic,4 2.0,5 4.0,6 nan,7 nan,8 nan
+0 1650,1 Child,2 AP,3 Fires,4 1.0,5 10.0,6 nan,7 nan,8 nan
+0 1696,1 Child,2 AP,3 Drowning,4 1.0,5 1.0,6 nan,7 nan,8 nan
+0 1772,1 Child,2 Mexico,3 Other Defined Causes of Child Deaths,4 2.0,5 nan,6 nan,7 29.0,8 nan
+0 1807,1 Child,2 Mexico,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 2.0,7 nan,8 nan
+0 1834,1 Child,2 AP,3 Fires,4 2.0,5 9.0,6 nan,7 nan,8 nan
+0 1881,1 Child,2 AP,3 Bite of Venomous Animal,4 2.0,5 11.0,6 nan,7 nan,8 nan
+0 1920,1 Child,2 AP,3 Sepsis,4 1.0,5 nan,6 6.0,7 nan,8 nan
+0 1940,1 Child,2 AP,3 Drowning,4 1.0,5 11.0,6 nan,7 nan,8 nan
+0 1977,1 Child,2 AP,3 Pneumonia,4 2.0,5 nan,6 7.0,7 nan,8 nan
+0 2024,1 Child,2 AP,3 Diarrhea/Dysentery,4 2.0,5 1.0,6 nan,7 nan,8 nan
+0 25,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 nan
+0 55,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 1.0,8 nan
+0 90,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
+0 186,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 nan
+0 237,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 3.0,8 nan
+0 290,1 Neonate,2 AP,3 Congenital malformation,4 2.0,5 nan,6 nan,7 2.0,8 nan
+0 349,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
+0 401,1 Neonate,2 Mexico,3 Congenital malformation,4 2.0,5 nan,6 nan,7 1.0,8 nan
+0 440,1 Neonate,2 AP,3 Congenital malformation,4 2.0,5 nan,6 nan,7 3.0,8 nan
+0 514,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
+0 555,1 Neonate,2 Mexico,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 nan
+0 616,1 Neonate,2 Mexico,3 Congenital malformation,4 2.0,5 nan,6 nan,7 7.0,8 nan
+0 672,1 Neonate,2 AP,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 nan
+0 726,1 Neonate,2 Mexico,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 13.0,8 nan
+0 779,1 Neonate,2 Mexico,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
+0 819,1 Neonate,2 AP,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 nan
+0 875,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
+0 960,1 Neonate,2 UP,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 nan
+0 987,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,7 12.0,8 nan
+0 1106,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 1.0,8 nan
+0 1139,1 Neonate,2 Mexico,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 nan
+0 1209,1 Neonate,2 Bohol,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 nan
+0 1299,1 Neonate,2 UP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
+0 1349,1 Neonate,2 Mexico,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 4.0,8 nan
+0 1384,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 nan
+0 1456,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 nan
+0 1492,1 Neonate,2 UP,3 Pneumonia,4 1.0,5 nan,6 nan,8 nan
+0 1576,1 Neonate,2 Bohol,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 nan
+0 1650,1 Neonate,2 Mexico,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 nan
+0 1728,1 Neonate,2 Mexico,3 Congenital malformation,4 1.0,5 nan,6 nan,7 1.0,8 nan
+0 1832,1 Neonate,2 AP,3 Pneumonia,4 1.0,5 nan,6 nan,7 4.0,8 nan
+0 1880,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
+0 1946,1 Neonate,2 AP,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 6.0,8 nan
+0 1987,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
+0 2059,1 Neonate,2 UP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
+0 2170,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
+0 2246,1 Neonate,2 Mexico,3 Congenital malformation,4 2.0,5 nan,6 nan,8 nan
+0 2296,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
+0 2357,1 Neonate,2 UP,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 nan
+0 2401,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
+0 2440,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 nan
+0 2479,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 1.0,8 nan
+0 2563,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
+0 2611,1 Neonate,2 AP,3 Birth asphyxia,4 2.0,5 nan,6 nan,7 1.0,8 nan

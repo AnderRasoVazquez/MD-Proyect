@@ -1,0 +1,260 @@
+newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
+0 39,1 Adult,2 Dar,3 AIDS,4 2.0,5 56.0,6 nan,7 nan,8 particip noth add
+0 100,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 41.0,6 nan,7 nan,8 particip satisfi medic servic provid media personel hospit hospit
+0 167,1 Adult,2 Dar,3 Other Injuries,4 1.0,5 999.0,6 nan,7 nan,8 particip noth add
+0 178,1 Adult,2 Dar,3 Other Injuries,4 2.0,5 16.0,6 nan,7 nan,8 particip noth add
+0 207,1 Adult,2 Dar,3 TB,4 2.0,5 40.0,6 nan,7 nan,8 particip nothinh add good servic nurc doctor hospit
+0 260,1 Adult,2 Dar,3 Fires,4 2.0,5 22.0,6 nan,7 nan,8 particip appreci medic servic provid hospit caus death burn due particip view
+0 270,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 28.0,6 nan,7 nan,8 particip noth add
+0 288,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 50.0,6 nan,7 nan,8 particip noth add
+0 310,1 Adult,2 Dar,3 TB,4 1.0,5 28.0,6 nan,7 nan,8 particip noth add
+0 344,1 Adult,2 Dar,3 AIDS,4 2.0,5 23.0,6 nan,7 nan,8 particip noth add
+0 373,1 Adult,2 Dar,3 Maternal,4 2.0,5 35.0,6 nan,7 nan,8 particip noth add
+0 397,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 999.0,6 nan,7 nan,8 particip noth add
+0 408,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 26.0,6 nan,7 nan,8 particip noth add thought death rel caus hivaid
+0 428,1 Adult,2 Dar,3 Maternal,4 2.0,5 25.0,6 nan,7 nan,8 particip suspect anamia satifi medic servic provid hospit servic provid wors
+0 430,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 999.0,6 nan,7 nan,8 particip noth add
+0 493,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 19.0,6 nan,7 nan,8 particip noth add
+0 501,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 46.0,6 nan,7 nan,8 particip thank much servic provid nurs doctor especi hospit also said sourc death caus liver cancer
+0 568,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 44.0,6 nan,7 nan,8 particip noth add
+0 814,1 Adult,2 Dar,3 AIDS,4 1.0,5 62.0,6 nan,7 nan,8 particip noth add
+0 846,1 Adult,2 Dar,3 AIDS,4 2.0,5 50.0,6 nan,7 nan,8 particip noth add
+0 861,1 Adult,2 Dar,3 Maternal,4 2.0,5 28.0,6 nan,7 nan,8 particip noth add
+0 867,1 Adult,2 Dar,3 TB,4 2.0,5 23.0,6 nan,7 nan,8 particip noth add
+0 954,1 Adult,2 Dar,3 Colorectal Cancer,4 2.0,5 35.0,6 nan,7 nan,8 particip thank servic provid nurs doctor also said sourc death caus cancer
+0 1027,1 Adult,2 Dar,3 Other Injuries,4 2.0,5 46.0,6 nan,7 nan,8 particip noth say
+0 1062,1 Adult,2 Dar,3 AIDS,4 2.0,5 35.0,6 nan,7 nan,8 particip thank servic provid nurs doctor
+0 1108,1 Adult,2 Dar,3 Diabetes,4 2.0,5 32.0,6 nan,7 nan,8 particip thank servic provid hospit
+0 1175,1 Adult,2 Dar,3 Colorectal Cancer,4 1.0,5 35.0,6 nan,7 nan,8 particip noth add
+0 1177,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 43.0,6 nan,7 nan,8 particip noth add doestn know caus death
+0 1185,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 35.0,6 nan,7 nan,8 particip thank much servic provid nurs doctor especi hospit sourc death caus cervic cancer
+0 1197,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 51.0,6 nan,7 nan,8 particip suspect deceas suffer thank servic provid hospit
+0 1204,1 Adult,2 Dar,3 Diabetes,4 1.0,5 58.0,6 nan,7 nan,8 particip noth add
+0 1231,1 Adult,2 Dar,3 TB,4 2.0,5 43.0,6 nan,7 nan,8 particip noth add think deceas hiv posit due symptom shown ill
+0 1294,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 999.0,6 nan,7 nan,8 particip thank servic especi hospit
+0 1423,1 Adult,2 Dar,3 TB,4 1.0,5 62.0,6 nan,7 nan,8 particip noth add word particip argn deceas claim suffer pleurist hor die due thinh death may craft
+0 1460,1 Adult,2 Dar,3 Diabetes,4 1.0,5 73.0,6 nan,7 nan,8 deceas suffer stomach particip claim poor servic provid hospit
+0 1511,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 45.0,6 nan,7 nan,8 particip noth add
+0 1556,1 Adult,2 Dar,3 Stroke,4 2.0,5 45.0,6 nan,7 nan,8 particip noth toa add
+0 1557,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 64.0,6 nan,7 nan,8 particip noth add
+0 1633,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 64.0,6 nan,7 nan,8 particip noth add
+0 1651,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 65.0,6 nan,7 nan,8 particip thank servic provid nurs doctor especi hospit also said sourc death caus liver failur
+0 1719,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 18.0,6 nan,7 nan,8 particip thank medic servic provid medic focer hospit
+0 1740,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 58.0,6 nan,7 nan,8 particip noth suggest particip nt death certif death accur home place
+0 1823,1 Adult,2 Dar,3 Maternal,4 2.0,5 25.0,6 nan,7 nan,8 particip noth add
+0 1856,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 31.0,6 nan,7 nan,8 particip thank servic especi hospit
+0 1859,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 38.0,6 nan,7 nan,8 particip attion point
+0 1881,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 56.0,6 nan,7 nan,8 particip thank much servic provid nurs doctor especislli hospit
+0 1886,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 38.0,6 nan,7 nan,8 particip noth add
+0 1887,1 Adult,2 Dar,3 Fires,4 2.0,5 18.0,6 nan,7 nan,8 particip noth add also said caus death burnt
+0 1904,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 52.0,6 nan,7 nan,8 particip noth add
+0 1938,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 35.0,6 nan,7 nan,8 particip thank servic proid nurs doctor hospit
+0 1964,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 30.0,6 nan,7 nan,8 particip thank servic provid nurs doctor
+0 2029,1 Adult,2 Dar,3 TB,4 2.0,5 51.0,6 nan,7 nan,8 particip noth add
+0 2107,1 Adult,2 Dar,3 TB,4 1.0,5 57.0,6 nan,7 nan,8 particip noth add
+0 2160,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 nan,5 999.0,6 nan,7 nan,8 particip satisfi medic servic provid hospit
+0 2188,1 Adult,2 Dar,3 Colorectal Cancer,4 1.0,5 40.0,6 nan,7 nan,8 particip noth add
+0 2248,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 999.0,6 nan,7 nan,8 particip noth add
+0 2381,1 Adult,2 Dar,3 Fires,4 1.0,5 33.0,6 nan,7 nan,8 particip thank servic provid nurs doctor especi hospit sourc death fireburnt
+0 2400,1 Adult,2 Dar,3 AIDS,4 2.0,5 33.0,6 nan,7 nan,8 particip noth add
+0 2413,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 27.0,6 nan,7 nan,8 particip thank servic provid nurs doctor especi hospit also said sourc od death caus hivposit
+0 2457,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 81.0,6 nan,7 nan,8 particip noth add
+0 2460,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 28.0,6 nan,7 nan,8 particip noth add
+0 2536,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 31.0,6 nan,7 nan,8 deceas suffer decay kidney also stomach ach particip misplac death particip claim lack serious shown nurs hospit due
+0 2636,1 Adult,2 Dar,3 AIDS,4 2.0,5 41.0,6 nan,7 nan,8 particip noth add
+0 2720,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 36.0,6 nan,7 nan,8 particip noth add
+0 2743,1 Adult,2 Dar,3 TB,4 2.0,5 26.0,6 nan,7 nan,8 particip noth add
+0 2805,1 Adult,2 Dar,3 Colorectal Cancer,4 1.0,5 57.0,6 nan,7 nan,8 particip noth add
+0 2836,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 60.0,6 nan,7 nan,8 particip thank much servic provid nurs doctor especi hospit sourc death caus bladder
+0 2925,1 Adult,2 Dar,3 Stomach Cancer,4 2.0,5 34.0,6 nan,7 nan,8 particip noth add
+0 2929,1 Adult,2 Dar,3 Lung Cancer,4 1.0,5 32.0,6 nan,7 nan,8 particip noth add
+0 2933,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 77.0,6 nan,7 nan,8 particip thank servic provid nurs hospit
+0 2936,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 40.0,6 nan,7 nan,8 particip noth add
+0 2954,1 Adult,2 Dar,3 Suicide,4 1.0,5 20.0,6 nan,7 nan,8 particip satisfi servic provid hospit
+0 2960,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 76.0,6 nan,7 nan,8 particip suspect deceas suffer stomach satifi medic servic provid hospit
+0 2969,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 86.0,6 nan,7 nan,8 accord particip suffer blood cancer particip satisfi servic provid hospit impress one
+0 2984,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 43.0,6 nan,7 nan,8 particip noth add
+0 3145,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 60.0,6 nan,7 nan,8 particip noth add
+0 3232,1 Adult,2 Dar,3 Maternal,4 2.0,5 34.0,6 nan,7 nan,8 particip noth add
+0 3340,1 Adult,2 Dar,3 Stroke,4 1.0,5 999.0,6 nan,7 nan,8 particip noth add
+0 3393,1 Adult,2 Dar,3 Maternal,4 2.0,5 999.0,6 nan,7 nan,8 particip noth add
+0 3453,1 Adult,2 Dar,3 AIDS,4 2.0,5 999.0,6 nan,7 nan,8 particip noth argu
+0 3512,1 Adult,2 Dar,3 Acute Myocardial Infarction,4 1.0,5 52.0,6 nan,7 nan,8 particip noth add
+0 3530,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 55.0,6 nan,7 nan,8 particip thank servic provid nurs nurs doctor especi hospit also particip suggest sours
+0 3541,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 32.0,6 nan,7 nan,8 particip satisfi servic provid hospit
+0 3654,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 80.0,6 nan,7 nan,8 particip thank servic provid hospit
+0 3663,1 Adult,2 Dar,3 TB,4 1.0,5 32.0,6 nan,7 nan,8 particip appreci care servic provid deceas hospit
+0 3672,1 Adult,2 Dar,3 TB,4 2.0,5 28.0,6 nan,7 nan,8 particip noth add
+0 3761,1 Adult,2 Dar,3 Stroke,4 2.0,5 73.0,6 nan,7 nan,8 particip suffer stroke
+0 3869,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 29.0,6 nan,7 nan,8 particip noth add
+0 3914,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 70.0,6 nan,7 nan,8 particip noth add
+0 4021,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 76.0,6 nan,7 nan,8 particip noth add
+0 4102,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 46.0,6 nan,7 nan,8 particip noth add
+0 4112,1 Adult,2 Dar,3 AIDS,4 2.0,5 32.0,6 nan,7 nan,8 particip noth add
+0 4176,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 41.0,6 nan,7 nan,8 particip noth add
+0 4243,1 Adult,2 Dar,3 TB,4 1.0,5 50.0,6 nan,7 nan,8 particip attion point
+0 4262,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 70.0,6 nan,7 nan,8 particip noth add
+0 4435,1 Adult,2 Dar,3 TB,4 2.0,5 34.0,6 nan,7 nan,8 particip noth add
+0 4441,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 44.0,6 nan,7 nan,8 particip noth add
+0 4448,1 Adult,2 Dar,3 Stroke,4 2.0,5 63.0,6 nan,7 nan,8 particip noth add
+0 4516,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 22.0,6 nan,7 nan,8 particip noth add
+0 4532,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 80.0,6 nan,7 nan,8 particip thank servic provid nurs doctor
+0 4541,1 Adult,2 Dar,3 AIDS,4 2.0,5 41.0,6 nan,7 nan,8 particip complain medic servic provid patient hospit
+0 4558,1 Adult,2 Dar,3 TB,4 2.0,5 27.0,6 nan,7 nan,8 particip noth toa add
+0 4594,1 Adult,2 Dar,3 Maternal,4 2.0,5 999.0,6 nan,7 nan,8 particip noth add
+0 4667,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 60.0,6 nan,7 nan,8 particip tahnk servic provid nurs doctor especi hospit
+0 4704,1 Adult,2 Dar,3 Stroke,4 1.0,5 55.0,6 nan,7 nan,8 particip thank servic provid especi hospit
+0 4711,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 35.0,6 nan,7 nan,8 particip noth add
+0 4819,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 75.0,6 nan,7 nan,8 particip appreci medic servic provid deceas hospit
+0 4919,1 Adult,2 Dar,3 TB,4 2.0,5 999.0,6 nan,7 nan,8 particip noth add
+0 4923,1 Adult,2 Dar,3 Asthma,4 2.0,5 69.0,6 nan,7 nan,8 particip noth add
+0 4989,1 Adult,2 Dar,3 Homicide,4 1.0,5 27.0,6 nan,7 nan,8 particip noth add
+0 5042,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 40.0,6 nan,7 nan,8 particip noth add
+0 5096,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 90.0,6 nan,7 nan,8 particip noth add
+0 5116,1 Adult,2 Dar,3 TB,4 1.0,5 70.0,6 nan,7 nan,8 particip thanj servic
+0 5147,1 Adult,2 Dar,3 Colorectal Cancer,4 2.0,5 48.0,6 nan,7 nan,8 particip noth add
+0 5259,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 26.0,6 nan,7 nan,8 particip noth add
+0 5272,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 73.0,6 nan,7 nan,8 particip noth add
+0 5316,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 85.0,6 nan,7 nan,8 particip noth add servic know sourc death caus anemia
+0 5380,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 23.0,6 nan,7 nan,8 particip noth add
+0 5438,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 50.0,6 nan,7 nan,8 particip thank servic provid nurs doctor
+0 5515,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 65.0,6 nan,7 nan,8 particip noth add
+0 5525,1 Adult,2 Dar,3 Stroke,4 1.0,5 82.0,6 nan,7 nan,8 particip noth add
+0 5536,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 51.0,6 nan,7 nan,8 particip thank servic provid nurs doctor especi hospit particip suggest sourc death diabet
+0 5546,1 Adult,2 Dar,3 AIDS,4 2.0,5 32.0,6 nan,7 nan,8 particip noth add
+0 5565,1 Adult,2 Dar,3 AIDS,4 2.0,5 29.0,6 nan,7 nan,8 particip noth add
+0 5569,1 Adult,2 Dar,3 Diabetes,4 2.0,5 80.0,6 nan,7 nan,8 particip noth add
+0 5637,1 Adult,2 Dar,3 AIDS,4 1.0,5 48.0,6 nan,7 nan,8 particip suffer hivaid
+0 5812,1 Adult,2 Dar,3 Stomach Cancer,4 2.0,5 35.0,6 nan,7 nan,8 particip noth add
+0 5865,1 Adult,2 Dar,3 TB,4 2.0,5 37.0,6 nan,7 nan,8 particip noth add
+0 5932,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 58.0,6 nan,7 nan,8 particip noth add
+0 5994,1 Adult,2 Dar,3 TB,4 2.0,5 64.0,6 nan,7 nan,8 particip satifi medic servic hospit
+0 6053,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 73.0,6 nan,7 nan,8 particip noth add
+0 6123,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 29.0,6 nan,7 nan,8 particip noth add
+0 6199,1 Adult,2 Dar,3 Stroke,4 1.0,5 nan,6 nan,7 nan,8 particip noth add opinion death due rise bodi pressur situat sudden chang condit patient becam seriou
+0 6210,1 Adult,2 Dar,3 TB,4 1.0,5 17.0,6 nan,7 nan,8 particip thank servic provid hospit
+0 6212,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 69.0,6 nan,7 nan,8 particip satisfi servic provid patient
+0 6242,1 Adult,2 Dar,3 Malaria,4 2.0,5 32.0,6 nan,7 nan,8 particip noth add
+0 6426,1 Adult,2 Dar,3 Stroke,4 1.0,5 46.0,6 nan,7 nan,8 particip bad noth add
+0 6549,1 Adult,2 Dar,3 Colorectal Cancer,4 1.0,5 44.0,6 nan,7 nan,8 particip noth add
+0 6666,1 Adult,2 Dar,3 AIDS,4 1.0,5 43.0,6 nan,7 nan,8 particip thank serviv provid nurs doctor especi hospit
+0 6700,1 Adult,2 Dar,3 AIDS,4 1.0,5 42.0,6 nan,7 nan,8 particip thank servic provid nurs hospit
+0 6701,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 23.0,6 nan,7 nan,8 particip noth add
+0 6747,1 Adult,2 Dar,3 Other Injuries,4 1.0,5 22.0,6 nan,7 nan,8 particip noth add
+0 6796,1 Adult,2 Dar,3 TB,4 2.0,5 32.0,6 nan,7 nan,8 particip suffer fb
+0 6929,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 24.0,6 nan,7 nan,8 particip noth add said sourc death caus stomach
+0 6944,1 Adult,2 Dar,3 Stroke,4 1.0,5 67.0,6 nan,7 nan,8 particip thank servic especi hospit
+0 7000,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 45.0,6 nan,7 nan,8 particip noth add
+0 7033,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 49.0,6 nan,7 nan,8 particip complain poor servic provid hospit
+0 7108,1 Adult,2 Dar,3 Maternal,4 2.0,5 23.0,6 nan,7 nan,8 accord particip deceas die provid birth
+0 7213,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 nan,5 27.0,6 nan,7 nan,8 particip noth add
+0 7251,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 particip noth add
+0 7284,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 43.0,6 nan,7 nan,8 particip pleas medic servic provid hospit suspect deceas suffer leukemia
+0 7322,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 44.0,6 nan,7 nan,8 particip thank servic provid doctor hospit
+0 7333,1 Adult,2 Dar,3 AIDS,4 2.0,5 nan,6 nan,7 nan,8 particip noth add
+0 7342,1 Adult,2 Dar,3 AIDS,4 2.0,5 43.0,6 nan,7 nan,8 particip noth add
+0 7366,1 Adult,2 Dar,3 Maternal,4 2.0,5 18.0,6 nan,7 nan,8 particip thank servic provid nurs doctor especi hospit also said sourc death caus eclampsia
+0 7474,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 46.0,6 nan,7 nan,8 particip thnked servic provid nurs doctor especi hospit
+0 7511,1 Adult,2 Dar,3 Diabetes,4 2.0,5 60.0,6 nan,7 nan,8 particip noth add
+0 7610,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 particip noth add
+0 7672,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 46.0,6 nan,7 nan,8 particip thank servic provid doctor
+0 7674,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 22.0,6 nan,7 nan,8 particip noth add
+0 7768,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 62.0,6 nan,7 nan,8 particip thank servic provid nurs doctor hospit
+0 7777,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 75.0,6 nan,7 nan,8 particip noth add
+0 7784,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 35.0,6 nan,7 nan,8 particip thank servic provid nurs doctor also said sourc death caus heartbeat
+0 7787,1 Adult,2 Dar,3 AIDS,4 1.0,5 35.0,6 nan,7 nan,8 particip thank servic provid nurs doctor
+0 7796,1 Adult,2 Dar,3 TB,4 2.0,5 38.0,6 nan,7 nan,8 particip noth add
+0 7828,1 Adult,2 Dar,3 Cirrhosis,4 2.0,5 23.0,6 nan,7 nan,8 particip noth add
+0 34,1 Child,2 Dar,3 Malaria,4 2.0,5 1.0,6 nan,7 nan,8 death cerfic medic record taken father deceas particip deceas father live apart particip noth add
+0 77,1 Child,2 Dar,3 Malaria,4 nan,5 nan,6 9.0,7 nan,8 particip noth add
+0 128,1 Child,2 Dar,3 Malaria,4 2.0,5 nan,6 9.0,7 nan,8 particip noth add
+0 129,1 Child,2 Dar,3 Pneumonia,4 1.0,5 3.0,6 nan,7 nan,8 particip noth add
+0 232,1 Child,2 Dar,3 Malaria,4 1.0,5 nan,6 4.0,7 nan,8 particip noth add
+0 253,1 Child,2 Dar,3 Malaria,4 2.0,5 6.0,6 nan,7 nan,8 particip noth add
+0 274,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 3.0,7 nan,8 particip satisfi servic
+0 282,1 Child,2 Dar,3 Malaria,4 2.0,5 nan,6 11.0,7 nan,8 particip noth add
+0 326,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 9.0,7 nan,8 particip thank servic provid hospit
+0 353,1 Child,2 Dar,3 Sepsis,4 2.0,5 3.0,6 nan,7 nan,8 particip noth suggest
+0 354,1 Child,2 Dar,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 particip nothinbg add
+0 427,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 2.0,7 nan,8 particip noth add
+0 462,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 10.0,7 nan,8 particip noth add
+0 522,1 Child,2 Dar,3 Sepsis,4 1.0,5 nan,6 8.0,7 nan,8 particip noth add
+0 547,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 nan,6 8.0,7 nan,8 particip noth add
+0 584,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 10.0,6 nan,7 nan,8 particip noth add
+0 587,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 nan,6 11.0,7 nan,8 particip thank servic provid nurs doctor
+0 790,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 particip noth add
+0 859,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 9.0,7 nan,8 particip noth add
+0 866,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 nan,6 11.0,7 nan,8 particip noth add
+0 1002,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 nan,6 7.0,7 nan,8 particip noth add
+0 1040,1 Child,2 Dar,3 Malaria,4 1.0,5 9.0,6 nan,7 nan,8 particip noth add
+0 1089,1 Child,2 Dar,3 Other Digestive Diseases,4 1.0,5 10.0,6 nan,7 nan,8 particip noth add
+0 1136,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 2.0,5 3.0,6 nan,7 nan,8 particip noth add
+0 1197,1 Child,2 Dar,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 particip noth add
+0 1269,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 nan,6 9.0,7 nan,8 particip noth add
+0 1355,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 4.0,6 nan,7 nan,8 particip paint noth add
+0 1420,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 7.0,7 nan,8 particip noth add
+0 1428,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 6.0,7 nan,8 particip thank servic provid nurs doctor hospit also sourc death pneumonia
+0 1433,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 8.0,7 nan,8 particip thank servic provid hospit
+0 1523,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 4.0,7 nan,8 particip noth add
+0 1538,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 8.0,7 nan,8 particip noth add
+0 1633,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 10.0,7 nan,8 particip thank servic provid nurs especi hospit particip misplac death certif
+0 1639,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 11.0,7 nan,8 particip noth add
+0 1644,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 4.0,6 nan,7 nan,8 particip noth add
+0 1668,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 8.0,6 nan,7 nan,8 particip noth addsh nt known sourc death kill babi
+0 1681,1 Child,2 Dar,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 particip noth add
+0 1749,1 Child,2 Dar,3 Drowning,4 1.0,5 9.0,6 nan,7 nan,8 particip noth add
+0 1759,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 2.0,7 nan,8 particip noth add
+0 1783,1 Child,2 Dar,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 particip noth add
+0 1786,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 nan,6 6.0,7 nan,8 particip noth add
+0 1808,1 Child,2 Dar,3 Pneumonia,4 2.0,5 8.0,6 nan,7 nan,8 particip noth add
+0 1839,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 6.0,7 nan,8 particip noth point add
+0 1855,1 Child,2 Dar,3 Sepsis,4 2.0,5 nan,6 7.0,7 nan,8 particip thank servic provid nyrs doctor especi hospit
+0 1875,1 Child,2 Dar,3 Sepsis,4 2.0,5 nan,6 6.0,7 nan,8 particip thank servic also nt know sourc death kill babi
+0 1884,1 Child,2 Dar,3 Malaria,4 2.0,5 nan,6 7.0,7 nan,8 particip thank servic also say sourc death malaria
+0 1930,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 6.0,6 nan,7 nan,8 particip noth add
+0 2004,1 Child,2 Dar,3 Other Digestive Diseases,4 2.0,5 2.0,6 nan,7 nan,8 particip noth add
+0 2011,1 Child,2 Dar,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 particip complain nurs servic provid poor especilli place
+0 2028,1 Child,2 Dar,3 Malaria,4 1.0,5 nan,6 3.0,7 nan,8 particip thank servic especi hospit
+0 165,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 particip thank servic provid hospit
+0 253,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 21.0,8 particip thank servic got hospit wors
+0 327,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,7 3.0,8 particip noth add
+0 388,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 4.0,8 particip thank servic provid muhimbili hospit state servic provid hospit wors
+0 408,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 2.0,8 particip noth add
+0 439,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 4.0,8 particip thank servic provid hospit
+0 476,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 6.0,8 particip noth add
+0 487,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 particip thank servic provid hospit state servic provid wors
+0 507,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,7 1.0,8 particip noth add
+0 512,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 5.0,8 particip noth add
+0 535,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 1.0,8 particip noth add
+0 568,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 particip thank servic provid nurs doctor especi hospit also said sourc death caus luck breath
+0 598,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,7 18.0,8 particip noth add
+0 821,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 6.0,8 particip noth add
+0 857,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 nan,6 nan,7 1.0,8 particip thank servic got hospit wors
+0 1051,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 12.0,8 particip thank servic provid hospit
+0 1116,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,7 99.0,8 particip noth add
+0 1140,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 7.0,8 particip noth add
+0 1229,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 particip noth add
+0 1298,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 2.0,8 particip noth add
+0 1303,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 2.0,8 particip thank servic provid nurs doctor
+0 1312,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 particip noth add
+0 1359,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 particip thank servic provid hospit
+0 1452,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 5.0,8 particip noth add
+0 1757,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 particip thank much servic provid nurs doctor hospitali
+0 1760,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,7 1.0,8 particip noth add
+0 1769,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 4.0,8 particip thank servic provid nurs doctor especiali hospit
+0 1795,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 particip satisfi medic servic provid hospit
+0 1801,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 nan,6 nan,7 7.0,8 particip noth add
+0 1882,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 9.0,8 particip satisfi servic provid hospit
+0 1955,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 2.0,8 particip noth add
+0 2062,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 15.0,8 particip noth add
+0 2107,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 11.0,8 particip noth add
+0 2145,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 particip noth add
+0 2173,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 nan,6 nan,7 15.0,8 particip noth add
+0 2181,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 5.0,8 particip satisfi servic provid hospit
+0 2275,1 Neonate,2 Dar,3 Preterm Delivery,4 nan,5 nan,6 nan,7 1.0,8 particip noth add
+0 2350,1 Neonate,2 Dar,3 Preterm Delivery,4 nan,5 nan,6 nan,8 particip noth add
+0 2406,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 15.0,8 particip noth add
+0 2447,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,7 1.0,8 particip noth add
+0 2519,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 23.0,8 particip noth add
+0 2600,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 2.0,8 particip noth add
+0 2609,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 4.0,8 particip noth add

@@ -1,0 +1,380 @@
+newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
+0 26,1 Adult,2 Dar,3 Diabetes,4 2.0,5 50.0,6 nan,7 nan,8 client addit point
+0 54,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
+0 67,1 Adult,2 Dar,3 AIDS,4 2.0,5 28.0,6 nan,7 nan,8 client addit point
+0 109,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 19.0,6 nan,7 nan,8 client addit point
+0 162,1 Adult,2 Dar,3 Diabetes,4 2.0,5 65.0,6 nan,7 nan,8 client addit point
+0 175,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 48.0,6 nan,7 nan,8 client addit point
+0 238,1 Adult,2 Dar,3 Malaria,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
+0 280,1 Adult,2 Dar,3 Diabetes,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
+0 339,1 Adult,2 Dar,3 Malaria,4 2.0,5 47.0,6 nan,7 nan,8 client addit point
+0 375,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 383,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 24.0,6 nan,7 nan,8 client addit point
+0 415,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 50.0,6 nan,7 nan,8 client addit point
+0 473,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 49.0,6 nan,7 nan,8 client addit point
+0 479,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 41.0,6 nan,7 nan,8 client addit point
+0 503,1 Adult,2 Dar,3 Poisonings,4 1.0,5 72.0,6 nan,7 nan,8 client addit point
+0 547,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 40.0,6 nan,7 nan,8 client addit point
+0 594,1 Adult,2 Dar,3 Diabetes,4 1.0,5 67.0,6 nan,7 nan,8 client addit point
+0 616,1 Adult,2 Dar,3 AIDS,4 2.0,5 63.0,6 nan,7 nan,8 client addit point
+0 625,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 particip addit point
+0 647,1 Adult,2 Dar,3 Diabetes,4 1.0,5 52.0,6 nan,7 nan,8 client addit point
+0 732,1 Adult,2 Dar,3 AIDS,4 1.0,5 37.0,6 nan,7 nan,8 client addit point
+0 780,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 37.0,6 nan,7 nan,8 client addit inform
+0 923,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 58.0,6 nan,7 nan,8 client addit point
+0 965,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 49.0,6 nan,7 nan,8 client addit point
+0 1000,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 28.0,6 nan,7 nan,8 client addit point
+0 1016,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 47.0,6 nan,7 nan,8 client addit point
+0 1017,1 Adult,2 Dar,3 TB,4 2.0,5 19.0,6 nan,7 nan,8 client addit point
+0 1036,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 999.0,6 nan,7 nan,8 particip addit point
+0 1055,1 Adult,2 Dar,3 AIDS,4 2.0,5 20.0,6 nan,7 nan,8 client addit point
+0 1077,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 55.0,6 nan,7 nan,8 client addit point
+0 1085,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
+0 1127,1 Adult,2 Dar,3 Maternal,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
+0 1150,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 72.0,6 nan,7 nan,8 client addit point
+0 1191,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 1227,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 31.0,6 nan,7 nan,8 client addit point
+0 1233,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 42.0,6 nan,7 nan,8 client addit point
+0 1256,1 Adult,2 Dar,3 AIDS,4 2.0,5 30.0,6 nan,7 nan,8 particip addit point
+0 1265,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 58.0,6 nan,7 nan,8 client addit point
+0 1283,1 Adult,2 Dar,3 Cirrhosis,4 2.0,5 29.0,6 nan,7 nan,8 client addit point
+0 1285,1 Adult,2 Dar,3 TB,4 2.0,5 25.0,6 nan,7 nan,8 particip addit point
+0 1427,1 Adult,2 Dar,3 Stroke,4 1.0,5 50.0,6 nan,7 nan,8 client addit point
+0 1461,1 Adult,2 Dar,3 AIDS,4 2.0,5 42.0,6 nan,7 nan,8 client addit point
+0 1476,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 52.0,6 nan,7 nan,8 client addit point
+0 1499,1 Adult,2 Dar,3 TB,4 1.0,5 88.0,6 nan,7 nan,8 client addit point
+0 1513,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 1520,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 40.0,6 nan,7 nan,8 particip addit point
+0 1522,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 77.0,6 nan,7 nan,8 client addit point servic provid fine
+0 1528,1 Adult,2 Dar,3 Stroke,4 1.0,5 58.0,6 nan,7 nan,8 client addit point
+0 1544,1 Adult,2 Dar,3 Fires,4 1.0,5 33.0,6 nan,7 nan,8 client addit point
+0 1550,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 50.0,6 nan,7 nan,8 client addit point
+0 1553,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 86.0,6 nan,7 nan,8 client addit point
+0 1588,1 Adult,2 Dar,3 Asthma,4 1.0,5 75.0,6 nan,7 nan,8 client addit point
+0 1624,1 Adult,2 Dar,3 Stroke,4 1.0,5 61.0,6 nan,7 nan,8 client addit point
+0 1641,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 30.0,6 nan,7 nan,8 client addit point
+0 1675,1 Adult,2 Dar,3 Diabetes,4 1.0,5 50.0,6 nan,7 nan,8 client addit point
+0 1720,1 Adult,2 Dar,3 TB,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
+0 1775,1 Adult,2 Dar,3 Lung Cancer,4 2.0,5 27.0,6 nan,7 nan,8 client addit point
+0 1782,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 31.0,6 nan,7 nan,8 client addit point
+0 1813,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 71.0,6 nan,7 nan,8 addit point
+0 1844,1 Adult,2 Dar,3 Maternal,4 2.0,5 17.0,6 nan,7 nan,8 client addit point servic provid good
+0 1916,1 Adult,2 Dar,3 Fires,4 1.0,5 26.0,6 nan,7 nan,8 client addit point
+0 1959,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 20.0,6 nan,7 nan,8 client addit point
+0 1977,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 61.0,6 nan,7 nan,8 client addit point
+0 1995,1 Adult,2 Dar,3 TB,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
+0 2041,1 Adult,2 Dar,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 client addit point
+0 2050,1 Adult,2 Dar,3 Diabetes,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 2058,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 60.0,6 nan,7 nan,8 client addit point
+0 2082,1 Adult,2 Dar,3 AIDS,4 1.0,5 42.0,6 nan,7 nan,8 client addit point
+0 2086,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 25.0,6 nan,7 nan,8 client addit point
+0 2091,1 Adult,2 Dar,3 Stroke,4 2.0,5 70.0,6 nan,7 nan,8 client addit point
+0 2108,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 50.0,6 nan,7 nan,8 client addit point
+0 2121,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 34.0,6 nan,7 nan,8 client addit point
+0 2135,1 Adult,2 Dar,3 TB,4 1.0,5 44.0,6 nan,7 nan,8 client addit point
+0 2186,1 Adult,2 Dar,3 AIDS,4 2.0,5 54.0,6 nan,7 nan,8 particip addit point
+0 2190,1 Adult,2 Dar,3 Malaria,4 2.0,5 60.0,6 nan,7 nan,8 client addit point
+0 2206,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 29.0,6 nan,7 nan,8 client addit point
+0 2210,1 Adult,2 Dar,3 Stroke,4 2.0,5 56.0,6 nan,7 nan,8 client addit point
+0 2254,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 2256,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 31.0,6 nan,7 nan,8 client addit point
+0 2310,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 50.0,6 nan,7 nan,8 client addit point
+0 2363,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 43.0,6 nan,7 nan,8 client addit point servic provid nice
+0 2382,1 Adult,2 Dar,3 Fires,4 1.0,5 23.0,6 nan,7 nan,8 particip addit point
+0 2420,1 Adult,2 Dar,3 Stroke,4 1.0,5 57.0,6 nan,7 nan,8 client addit point
+0 2444,1 Adult,2 Dar,3 Cirrhosis,4 2.0,5 36.0,6 nan,7 nan,8 client addit point
+0 2462,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
+0 2478,1 Adult,2 Dar,3 AIDS,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 2500,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 2538,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 44.0,6 nan,7 nan,8 client addit point
+0 2548,1 Adult,2 Dar,3 Other Injuries,4 1.0,5 32.0,6 nan,7 nan,8 client addit point
+0 2551,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 50.0,6 nan,7 nan,8 client addit
+0 2560,1 Adult,2 Dar,3 AIDS,4 2.0,5 58.0,6 nan,7 nan,8 client addit point
+0 2566,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
+0 2572,1 Adult,2 Dar,3 Stroke,4 1.0,5 85.0,6 nan,7 nan,8 client addit point
+0 2582,1 Adult,2 Dar,3 AIDS,4 2.0,5 37.0,6 nan,7 nan,8 particip addit point
+0 2619,1 Adult,2 Dar,3 Cirrhosis,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 2620,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 39.0,6 nan,7 nan,8 client addit point
+0 2648,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 58.0,6 nan,7 nan,8 client addit point
+0 2650,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 45.0,6 nan,7 nan,8 client addit point
+0 2727,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 2741,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 60.0,6 nan,7 nan,8 client addit point
+0 2781,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 34.0,6 nan,7 nan,8 particip addit point
+0 2795,1 Adult,2 Dar,3 AIDS,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
+0 2802,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 49.0,6 nan,7 nan,8 client addit point
+0 2941,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 70.0,6 nan,7 nan,8 client addit point
+0 2972,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 2994,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 80.0,6 nan,7 nan,8 client addit point
+0 3007,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 80.0,6 nan,7 nan,8 client addit point
+0 3057,1 Adult,2 Dar,3 Maternal,4 2.0,5 36.0,6 nan,7 nan,8 particip addit point
+0 3071,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 85.0,6 nan,7 nan,8 client addit point
+0 3083,1 Adult,2 Dar,3 Maternal,4 2.0,5 20.0,6 nan,7 nan,8 client addit point doctar aneamia
+0 3087,1 Adult,2 Dar,3 Diabetes,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
+0 3174,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 62.0,6 nan,7 nan,8 client addit point
+0 3196,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 28.0,6 nan,7 nan,8 client addit point
+0 3245,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 53.0,6 nan,7 nan,8 client addit point
+0 3279,1 Adult,2 Dar,3 Falls,4 1.0,5 40.0,6 nan,7 nan,8 particip addit point
+0 3310,1 Adult,2 Dar,3 Diabetes,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
+0 3343,1 Adult,2 Dar,3 AIDS,4 1.0,5 45.0,6 nan,7 nan,8 client addit point
+0 3396,1 Adult,2 Dar,3 Stroke,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 3409,1 Adult,2 Dar,3 TB,4 2.0,5 36.0,6 nan,7 nan,8 particip addit point
+0 3498,1 Adult,2 Dar,3 AIDS,4 2.0,5 24.0,6 nan,7 nan,8 particip addit point
+0 3513,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 33.0,6 nan,7 nan,8 client addit point
+0 3544,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 3630,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 35.0,6 nan,7 nan,8 particip addit point
+0 3653,1 Adult,2 Dar,3 Stomach Cancer,4 1.0,5 80.0,6 nan,7 nan,8 particip addit point
+0 3657,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 90.0,6 nan,7 nan,8 particip addit point
+0 3686,1 Adult,2 Dar,3 TB,4 1.0,5 23.0,6 nan,7 nan,8 particip addit point
+0 3704,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 65.0,6 nan,7 nan,8 client addit point
+0 3741,1 Adult,2 Dar,3 AIDS,4 1.0,5 50.0,6 nan,7 nan,8 client addit point
+0 3756,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 65.0,6 nan,7 nan,8 client addit point
+0 3780,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 80.0,6 nan,7 nan,8 client addit point
+0 3802,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 37.0,6 nan,7 nan,8 client addit point
+0 3830,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 71.0,6 nan,7 nan,8 client addit point
+0 3844,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 47.0,6 nan,7 nan,8 client addit point
+0 3851,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 85.0,6 nan,7 nan,8 client addit point
+0 3881,1 Adult,2 Dar,3 Colorectal Cancer,4 2.0,5 49.0,6 nan,7 nan,8 particip addit point
+0 3906,1 Adult,2 Dar,3 Maternal,4 2.0,5 22.0,6 nan,7 nan,8 client addit point
+0 3917,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 50.0,6 nan,7 nan,8 client addit point
+0 3979,1 Adult,2 Dar,3 Maternal,4 2.0,5 16.0,6 nan,7 nan,8 client addit point servic propid good
+0 4011,1 Adult,2 Dar,3 AIDS,4 1.0,5 35.0,6 nan,7 nan,8 client addit point
+0 4057,1 Adult,2 Dar,3 AIDS,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 4058,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 52.0,6 nan,7 nan,8 client addit point
+0 4086,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
+0 4106,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 4133,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 30.0,6 nan,7 nan,8 particip addit point
+0 4174,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 57.0,6 nan,7 nan,8 client addit point
+0 4212,1 Adult,2 Dar,3 Suicide,4 2.0,5 22.0,6 nan,7 nan,8 particip addit point
+0 4235,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 51.0,6 nan,7 nan,8 client addit point servic provid good
+0 4257,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 31.0,6 nan,7 nan,8 client addit point
+0 4320,1 Adult,2 Dar,3 TB,4 1.0,5 47.0,6 nan,7 nan,8 client addit point
+0 4354,1 Adult,2 Dar,3 Malaria,4 1.0,5 20.0,6 nan,7 nan,8 client addit point
+0 4394,1 Adult,2 Dar,3 TB,4 1.0,5 55.0,6 nan,7 nan,8 client addit point
+0 4416,1 Adult,2 Dar,3 AIDS,4 2.0,5 25.0,6 nan,7 nan,8 client addit point
+0 4478,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 67.0,6 nan,7 nan,8 client addit point
+0 4498,1 Adult,2 Dar,3 Maternal,4 2.0,5 24.0,6 nan,7 nan,8 client addit point
+0 4501,1 Adult,2 Dar,3 Stroke,4 2.0,5 86.0,6 nan,7 nan,8 client addit point
+0 4505,1 Adult,2 Dar,3 Maternal,4 2.0,5 29.0,6 nan,7 nan,8 client addit point
+0 4510,1 Adult,2 Dar,3 Other Injuries,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
+0 4536,1 Adult,2 Dar,3 Road Traffic,4 2.0,5 15.0,6 nan,7 nan,8 client addit point
+0 4562,1 Adult,2 Dar,3 Fires,4 1.0,5 35.0,6 nan,7 nan,8 particip addit point
+0 4602,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 39.0,6 nan,7 nan,8 client addit point
+0 4627,1 Adult,2 Dar,3 Acute Myocardial Infarction,4 1.0,5 17.0,6 nan,7 nan,8 particip addit point
+0 4721,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 4748,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 54.0,6 nan,7 nan,8 client addit point
+0 4790,1 Adult,2 Dar,3 Stomach Cancer,4 2.0,5 67.0,6 nan,7 nan,8 client addit point
+0 4823,1 Adult,2 Dar,3 Malaria,4 1.0,5 56.0,6 nan,7 nan,8 client addit point
+0 4996,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
+0 5033,1 Adult,2 Dar,3 Stroke,4 2.0,5 76.0,6 nan,7 nan,8 client addit point
+0 5070,1 Adult,2 Dar,3 Malaria,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
+0 5076,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 49.0,6 nan,7 nan,8 client addit point
+0 5083,1 Adult,2 Dar,3 Stroke,4 2.0,5 70.0,6 nan,7 nan,8 client addit point
+0 5098,1 Adult,2 Dar,3 Maternal,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
+0 5099,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 25.0,6 nan,7 nan,8 client addit point
+0 5105,1 Adult,2 Dar,3 TB,4 nan,5 999.0,6 nan,7 nan,8 client addit point
+0 5107,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 5161,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 5191,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 5210,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 58.0,6 nan,7 nan,8 client addit point
+0 5235,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 48.0,6 nan,7 nan,8 particip addit point
+0 5240,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 27.0,6 nan,7 nan,8 client addit point
+0 5268,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 52.0,6 nan,7 nan,8 client addit point
+0 5271,1 Adult,2 Dar,3 AIDS,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
+0 5351,1 Adult,2 Dar,3 Diabetes,4 1.0,5 58.0,6 nan,7 nan,8 client addit point
+0 5357,1 Adult,2 Dar,3 Stroke,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
+0 5370,1 Adult,2 Dar,3 Diabetes,4 1.0,5 91.0,6 nan,7 nan,8 client addit point
+0 5388,1 Adult,2 Dar,3 AIDS,4 2.0,5 34.0,6 nan,7 nan,8 client addit point
+0 5432,1 Adult,2 Dar,3 TB,4 1.0,5 53.0,6 nan,7 nan,8 particip addit point
+0 5433,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 66.0,6 nan,7 nan,8 client addit point
+0 5492,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 49.0,6 nan,7 nan,8 client addit point
+0 5507,1 Adult,2 Dar,3 Stomach Cancer,4 2.0,5 65.0,6 nan,7 nan,8 particip addit point
+0 5552,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 5557,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 45.0,6 nan,7 nan,8 client addit point
+0 5571,1 Adult,2 Dar,3 AIDS,4 1.0,5 39.0,6 nan,7 nan,8 client addit point
+0 5576,1 Adult,2 Dar,3 AIDS,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
+0 5591,1 Adult,2 Dar,3 Malaria,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
+0 5649,1 Adult,2 Dar,3 Maternal,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 5736,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 47.0,6 nan,7 nan,8 client addit point
+0 5743,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 37.0,6 nan,7 nan,8 client addit point servic provid good
+0 5747,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 48.0,6 nan,7 nan,8 client addit point
+0 5768,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 42.0,6 nan,7 nan,8 client addit point
+0 5796,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 42.0,6 nan,7 nan,8 client addit point
+0 5836,1 Adult,2 Dar,3 Stroke,4 1.0,5 82.0,6 nan,7 nan,8 client addit point
+0 5924,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 19.0,6 nan,7 nan,8 client addit point
+0 5927,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 50.0,6 nan,7 nan,8 client addit point
+0 5930,1 Adult,2 Dar,3 Fires,4 1.0,5 28.0,6 nan,7 nan,8 particip addit add point
+0 5940,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 48.0,6 nan,7 nan,8 client addit point
+0 5949,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 13.0,6 nan,7 nan,8 particip addit point
+0 5986,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 21.0,6 nan,7 nan,8 particip addit point
+0 6004,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 26.0,6 nan,7 nan,8 client addit point
+0 6042,1 Adult,2 Dar,3 Maternal,4 2.0,5 20.0,6 nan,7 nan,8 client addit point
+0 6046,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 nan,6 nan,7 nan,8 client addit point
+0 6070,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 35.0,6 nan,7 nan,8 client addit point
+0 6075,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 61.0,6 nan,7 nan,8 client addit point good servic provid
+0 6122,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 50.0,6 nan,7 nan,8 client addit point servic good
+0 6156,1 Adult,2 Dar,3 AIDS,4 2.0,5 42.0,6 nan,7 nan,8 client addit point
+0 6167,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 37.0,6 nan,7 nan,8 particip addit point
+0 6172,1 Adult,2 Dar,3 Malaria,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 6174,1 Adult,2 Dar,3 Maternal,4 2.0,5 35.0,6 nan,7 nan,8 client addit point
+0 6180,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 70.0,6 nan,7 nan,8 client addit point
+0 6205,1 Adult,2 Dar,3 Fires,4 1.0,5 30.0,6 nan,7 nan,8 client addit point
+0 6207,1 Adult,2 Dar,3 Malaria,4 1.0,5 49.0,6 nan,7 nan,8 client addit point
+0 6219,1 Adult,2 Dar,3 Maternal,4 2.0,5 23.0,6 nan,7 nan,8 client addit point
+0 6228,1 Adult,2 Dar,3 Colorectal Cancer,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
+0 6315,1 Adult,2 Dar,3 Stroke,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 6348,1 Adult,2 Dar,3 Maternal,4 2.0,5 27.0,6 nan,7 nan,8 client addit point
+0 6358,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 42.0,6 nan,7 nan,8 client addit point
+0 6363,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 28.0,6 nan,7 nan,8 particip addit point
+0 6380,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 39.0,6 nan,7 nan,8 client addit point
+0 6389,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 24.0,6 nan,7 nan,8 client addit point
+0 6393,1 Adult,2 Dar,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 client addit point
+0 6410,1 Adult,2 Dar,3 Stroke,4 1.0,5 78.0,6 nan,7 nan,8 client addit point
+0 6447,1 Adult,2 Dar,3 AIDS,4 2.0,5 34.0,6 nan,7 nan,8 client addit point
+0 6453,1 Adult,2 Dar,3 AIDS,4 2.0,5 54.0,6 nan,7 nan,8 respond addit point servic good
+0 6468,1 Adult,2 Dar,3 Stomach Cancer,4 2.0,5 55.0,6 nan,7 nan,8 client addit point
+0 6485,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 46.0,6 nan,7 nan,8 client addit point
+0 6493,1 Adult,2 Dar,3 AIDS,4 1.0,5 47.0,6 nan,7 nan,8 client addit point
+0 6521,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 51.0,6 nan,7 nan,8 client addit point
+0 6548,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 58.0,6 nan,7 nan,8 client addit point
+0 6561,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 87.0,6 nan,7 nan,8 client addit point
+0 6668,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 72.0,6 nan,7 nan,8 client addit point servic provid good
+0 6683,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 45.0,6 nan,7 nan,8 client addit point add
+0 6788,1 Adult,2 Dar,3 Stroke,4 2.0,5 34.0,6 nan,7 nan,8 client addit point
+0 6792,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 79.0,6 nan,7 nan,8 client addit point
+0 6847,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 59.0,6 nan,7 nan,8 client addit point
+0 6860,1 Adult,2 Dar,3 Road Traffic,4 2.0,5 68.0,6 nan,7 nan,8 client addit point
+0 6881,1 Adult,2 Dar,3 TB,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
+0 6924,1 Adult,2 Dar,3 Maternal,4 2.0,5 18.0,6 nan,7 nan,8 client addit point
+0 6938,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 70.0,6 nan,7 nan,8 client addit point
+0 6961,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 43.0,6 nan,7 nan,8 client addit point
+0 7054,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 34.0,6 nan,7 nan,8 client addit point
+0 7057,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 37.0,6 nan,7 nan,8 clieni addit point
+0 7105,1 Adult,2 Dar,3 Falls,4 2.0,5 35.0,6 nan,7 nan,8 client addit point
+0 7159,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 42.0,6 nan,7 nan,8 client addit point
+0 7217,1 Adult,2 Dar,3 AIDS,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
+0 7223,1 Adult,2 Dar,3 Stroke,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 7246,1 Adult,2 Dar,3 AIDS,4 2.0,5 50.0,6 nan,7 nan,8 client addit point
+0 7249,1 Adult,2 Dar,3 AIDS,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
+0 7300,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 52.0,6 nan,7 nan,8 client addit point
+0 7334,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 60.0,6 nan,7 nan,8 client addit point
+0 7399,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 31.0,6 nan,7 nan,8 respond addit point servic good
+0 7409,1 Adult,2 Dar,3 AIDS,4 2.0,5 22.0,6 nan,7 nan,8 client addit point
+0 7433,1 Adult,2 Dar,3 Malaria,4 2.0,5 20.0,6 nan,7 nan,8 client addit point
+0 7467,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 87.0,6 nan,7 nan,8 client addit point servic provid good
+0 7579,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 16.0,6 nan,7 nan,8 client addit point
+0 7627,1 Adult,2 Dar,3 Stroke,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 7657,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
+0 7700,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
+0 7720,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 20.0,6 nan,7 nan,8 client addit point
+0 7727,1 Adult,2 Dar,3 Stomach Cancer,4 1.0,5 55.0,6 nan,7 nan,8 particip addit point
+0 7760,1 Adult,2 Dar,3 Other Injuries,4 2.0,5 18.0,6 nan,7 nan,8 particip addit point
+0 7764,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 89.0,6 nan,7 nan,8 client addit point
+0 7838,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 52.0,6 nan,7 nan,8 client addit point
+0 16,1 Child,2 Dar,3 Malaria,4 2.0,5 1.0,6 nan,7 nan,8 client addit point
+0 70,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 9.0,7 nan,8 client addit point
+0 95,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 5.0,7 nan,8 client addit point
+0 133,1 Child,2 Dar,3 Meningitis,4 2.0,5 5.0,6 nan,7 nan,8 client addit point
+0 206,1 Child,2 Dar,3 Pneumonia,4 1.0,5 11.0,6 nan,7 nan,8 particip addit point
+0 227,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 2.0,5 7.0,6 nan,7 nan,8 particip addit point
+0 243,1 Child,2 Dar,3 Sepsis,4 2.0,5 2.0,6 nan,7 nan,8 client addit inform
+0 311,1 Child,2 Dar,3 AIDS,4 2.0,5 nan,6 7.0,7 nan,8 client addit point
+0 323,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 1.0,6 nan,7 nan,8 particip addit point
+0 346,1 Child,2 Dar,3 Fires,4 2.0,5 2.0,6 nan,7 nan,8 client addit point decead burn hot water
+0 470,1 Child,2 Dar,3 Fires,4 2.0,5 5.0,6 nan,7 nan,8 particip addit point also said caus death burnt
+0 509,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 9.0,7 nan,8 particip addit point
+0 543,1 Child,2 Dar,3 Malaria,4 2.0,5 2.0,6 nan,7 nan,8 client addit point
+0 567,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 7.0,7 nan,8 client addit point
+0 715,1 Child,2 Dar,3 Malaria,4 2.0,5 4.0,6 nan,7 nan,8 client addit point
+0 776,1 Child,2 Dar,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 clienbt addit point
+0 779,1 Child,2 Dar,3 Road Traffic,4 2.0,5 4.0,6 nan,7 nan,8 particip addit point
+0 805,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 3.0,7 nan,8 particip addit point
+0 818,1 Child,2 Dar,3 Meningitis,4 2.0,5 2.0,6 nan,7 nan,8 client addit point
+0 820,1 Child,2 Dar,3 Pneumonia,4 2.0,5 3.0,6 nan,7 nan,8 client addit point
+0 839,1 Child,2 Dar,3 Malaria,4 2.0,5 2.0,6 nan,7 nan,8 particip addit point sourc death malaria
+0 847,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 nan,6 10.0,7 nan,8 client addit point
+0 938,1 Child,2 Dar,3 Meningitis,4 1.0,5 nan,6 4.0,7 nan,8 particip addit point
+0 950,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 particip addit point
+0 958,1 Child,2 Dar,3 Road Traffic,4 1.0,5 9.0,6 nan,7 nan,8 client addit point
+0 970,1 Child,2 Dar,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 client addit point
+0 1116,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 client addit point
+0 1122,1 Child,2 Dar,3 Pneumonia,4 2.0,5 2.0,6 nan,7 nan,8 client addit point
+0 1189,1 Child,2 Dar,3 Road Traffic,4 1.0,5 9.0,6 nan,7 nan,8 client addit point
+0 1207,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 7.0,7 nan,8 client addit point
+0 1211,1 Child,2 Dar,3 Malaria,4 2.0,5 5.0,6 nan,7 nan,8 particip addit point
+0 1247,1 Child,2 Dar,3 Malaria,4 1.0,5 nan,6 9.0,7 nan,8 client addit point
+0 1257,1 Child,2 Dar,3 Sepsis,4 1.0,5 2.0,6 nan,7 nan,8 particip addit point
+0 1284,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 9.0,7 nan,8 client addit point
+0 1301,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 19.0,6 nan,7 nan,8 particip addit point
+0 1326,1 Child,2 Dar,3 Fires,4 1.0,5 2.0,6 nan,7 nan,8 client addit point
+0 1335,1 Child,2 Dar,3 Pneumonia,4 2.0,5 5.0,6 nan,7 nan,8 client addit point
+0 1354,1 Child,2 Dar,3 Other Infectious Diseases,4 2.0,5 11.0,6 nan,7 nan,8 client addit point
+0 1384,1 Child,2 Dar,3 Other Infectious Diseases,4 2.0,5 1.0,6 nan,7 nan,8 client addit point
+0 1403,1 Child,2 Dar,3 Malaria,4 2.0,5 1.0,6 nan,7 nan,8 particip addit point
+0 1488,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 2.0,7 nan,8 client addit point
+0 1495,1 Child,2 Dar,3 Malaria,4 2.0,5 2.0,6 nan,7 nan,8 particip addit point
+0 1542,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 2.0,6 nan,7 nan,8 particip addit point
+0 1561,1 Child,2 Dar,3 Other Infectious Diseases,4 1.0,5 3.0,6 nan,7 nan,8 client addit point
+0 1569,1 Child,2 Dar,3 Malaria,4 1.0,5 nan,6 3.0,7 nan,8 client addit point
+0 1690,1 Child,2 Dar,3 Meningitis,4 2.0,5 1.0,6 nan,7 nan,8 particip addit point
+0 1725,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 5.0,7 nan,8 client addit point
+0 1727,1 Child,2 Dar,3 Road Traffic,4 1.0,5 9.0,6 nan,7 nan,8 client addit point
+0 1732,1 Child,2 Dar,3 Malaria,4 2.0,5 nan,6 11.0,7 nan,8 client addit point
+0 1818,1 Child,2 Dar,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 client addit point
+0 1870,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 client addit point
+0 1871,1 Child,2 Dar,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 particip addit point
+0 1883,1 Child,2 Dar,3 Other Infectious Diseases,4 2.0,5 11.0,6 nan,7 nan,8 client addit point
+0 1935,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 2.0,5 2.0,6 nan,7 nan,8 client addit point
+0 1980,1 Child,2 Dar,3 Other Infectious Diseases,4 1.0,5 nan,6 nan,7 nan,8 client addit point
+0 2015,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 2.0,6 nan,7 nan,8 particip addit point
+0 107,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 mother addit point
+0 119,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 mother addit point
+0 121,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,8 client addit point
+0 170,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother addit point
+0 204,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 2.0,8 client addit point
+0 221,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 10.0,8 client addit point
+0 287,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother didnt addit point well attend
+0 293,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,8 client addit point
+0 300,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 mother addit point
+0 324,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 4.0,8 particip addit point
+0 444,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 particip addit point
+0 462,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,7 8.0,8 client addit point
+0 496,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 particip addit point
+0 528,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 client addit point
+0 545,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 5.0,6 nan,7 nan,8 mother addit point well attend
+0 565,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 client addit point
+0 671,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 client addit point
+0 737,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 particip addit point
+0 806,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 client addit point servic good
+0 828,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 8.0,8 client addit point
+0 847,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,7 18.0,8 client addit point
+0 865,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 client addit point
+0 906,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,7 22.0,8 client addit point
+0 943,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother addit point
+0 982,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 particip addit point
+0 1018,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 1.0,8 particip addit point
+0 1092,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 particip addit point
+0 1203,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 nan,6 nan,7 10.0,8 particip addit point
+0 1364,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 particip addit point
+0 1470,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,8 client addit point
+0 1528,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 4.0,8 client addit point
+0 1538,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother addit point
+0 1569,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 client addit point
+0 1625,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 7.0,8 client addit point
+0 1669,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 client addit point
+0 1672,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 particip addit point
+0 1682,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 addit point
+0 1717,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother well attend addit point
+0 1736,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 particip addit point
+0 1866,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond thank addit point
+0 1869,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 12.0,8 particip addit point
+0 2030,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 8.0,8 client addit point
+0 2116,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 mother addit point
+0 2131,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 client addit point well attend
+0 2135,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 7.0,8 client addit point
+0 2197,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,8 client addit point
+0 2224,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 7.0,8 client addit point
+0 2237,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 5.0,8 particip addit point
+0 2419,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 2.0,8 mother addit point
+0 2502,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 client addit point
+0 2510,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 4.0,8 client addit point
+0 2625,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 10.0,8 client addit point

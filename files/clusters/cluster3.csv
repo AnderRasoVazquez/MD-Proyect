@@ -1,0 +1,341 @@
+newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
+0 12,1 Adult,2 UP,3 Drowning,4 1.0,5 17.0,6 nan,7 nan,8 deceas die due drown
+0 19,1 Adult,2 UP,3 Fires,4 1.0,5 35.0,6 nan,7 nan,8 deceas burnt die
+0 139,1 Adult,2 Pemba,3 Drowning,4 1.0,5 24.0,6 nan,7 nan,8 respond explain deceas die drown anxieti patient
+0 181,1 Adult,2 Pemba,3 Road Traffic,4 1.0,5 45.0,6 nan,7 nan,8 respond explain deceas die due car accid
+0 195,1 Adult,2 UP,3 Drowning,4 1.0,5 17.0,6 nan,7 nan,8 deceas die due drown
+0 255,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 30.0,6 nan,7 nan,8 respond said deceas die due fever pain leg
+0 274,1 Adult,2 AP,3 Stroke,4 2.0,5 62.0,6 nan,7 nan,8 mother becam weak due high fever also hepat ill due day die hospit
+0 289,1 Adult,2 UP,3 Falls,4 1.0,5 13.0,6 nan,7 nan,8 deceas buri debri minor landslid die
+0 340,1 Adult,2 Pemba,3 Suicide,4 1.0,5 42.0,6 nan,7 nan,8 respond explain deceas die due hang rope
+0 361,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 12.0,6 nan,7 nan,8 respond told tha deceas sufer jaundic die
+0 378,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 60.0,6 nan,7 nan,8 respond explain deceas suffer high fever vomit eventuallti die
+0 391,1 Adult,2 UP,3 Fires,4 2.0,5 20.0,6 nan,7 nan,8 deceas die due burn
+0 399,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 2.0,5 30.0,6 nan,7 nan,8 deceas die high blood pressur stroke
+0 523,1 Adult,2 Pemba,3 Diabetes,4 1.0,5 60.0,6 nan,7 nan,8 respond explain deceas die superstit hospit told diabet
+0 542,1 Adult,2 UP,3 Drowning,4 1.0,5 60.0,6 nan,7 nan,8 deceas die due drown
+0 562,1 Adult,2 Pemba,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 respond explain deceas die due remain placenta uteru caus excess bleed retain placenta
+0 622,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 40.0,6 nan,7 nan,8 particip thought rel die due hivaid
+0 628,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 50.0,6 nan,7 nan,8 client think deceas die due anaemia heart expans
+0 689,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 80.0,6 nan,7 nan,8 client thought deceas die hernia
+0 708,1 Adult,2 UP,3 Other Injuries,4 1.0,5 18.0,6 nan,7 nan,8 deceas die get buri wall
+0 729,1 Adult,2 Pemba,3 Pneumonia,4 2.0,5 80.0,6 nan,7 nan,8 respond explain deceas die due pressur
+0 731,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 31.0,6 nan,7 nan,8 respond medic record sent upcountri place deceas parent
+0 747,1 Adult,2 Pemba,3 Pneumonia,4 2.0,5 13.0,6 nan,7 nan,8 respond explain deceas mild fever day seven day death fever becam sever hospit told typhoid
+0 823,1 Adult,2 Pemba,3 Drowning,4 1.0,5 25.0,6 nan,7 nan,8 respond explain deceas die due drown ocean
+0 864,1 Adult,2 UP,3 Lung Cancer,4 1.0,5 55.0,6 nan,7 nan,8 deceas burnt die
+0 918,1 Adult,2 Pemba,3 Pneumonia,4 1.0,5 15.0,6 nan,7 nan,8 respond explain deceas prickl nail four month ago get well two day death high fever complain back pain stiff neck
+0 989,1 Adult,2 Pemba,3 Diabetes,4 1.0,5 75.0,6 nan,7 nan,8 respond explain deceas die due fever
+0 996,1 Adult,2 UP,3 Other Injuries,4 1.0,5 38.0,6 nan,7 nan,8 deceas die get buri wall
+0 1007,1 Adult,2 Pemba,3 Drowning,4 1.0,5 15.0,6 nan,7 nan,8 respond explain deceas die due drown ocean
+0 1011,1 Adult,2 Pemba,3 Drowning,4 1.0,5 72.0,6 nan,7 nan,8 respond explain deceas die due drown
+0 1014,1 Adult,2 Pemba,3 Diabetes,4 2.0,5 45.0,6 nan,7 nan,8 deceas die due diabet
+0 1035,1 Adult,2 UP,3 Fires,4 2.0,5 40.0,6 nan,7 nan,8 deceas burnt die hospit
+0 1095,1 Adult,2 UP,3 Bite of Venomous Animal,4 2.0,5 19.0,6 nan,7 nan,8 deceas bitten snake die
+0 1198,1 Adult,2 UP,3 Fires,4 2.0,5 34.0,6 nan,7 nan,8 deceas burnt die
+0 1203,1 Adult,2 Pemba,3 Diabetes,4 1.0,5 50.0,6 nan,7 nan,8 respond explain deceas die due diabet
+0 1220,1 Adult,2 Dar,3 Drowning,4 2.0,5 26.0,6 nan,7 nan,8 death due drown
+0 1248,1 Adult,2 Dar,3 Diabetes,4 2.0,5 47.0,6 nan,7 nan,8 accord particip view think deceas die due long prolong suffer diabat
+0 1308,1 Adult,2 UP,3 Drowning,4 1.0,5 40.0,6 nan,7 nan,8 deceas die due drown
+0 1314,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 55.0,6 nan,7 nan,8 respond said deceas die due high blood pressur anaemia
+0 1359,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 78.0,6 nan,7 nan,8 respond said deceas die due high fever
+0 1393,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 65.0,6 nan,7 nan,8 respond said deceas die due diarrohea sever cough
+0 1416,1 Adult,2 UP,3 Drowning,4 2.0,5 16.0,6 nan,7 nan,8 deceas die due drown
+0 1567,1 Adult,2 Pemba,3 Drowning,4 1.0,5 43.0,6 nan,7 nan,8 respond explain deceas die drown
+0 1738,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 2.0,5 13.0,6 nan,7 nan,8 deceas die due chronic cough
+0 1825,1 Adult,2 Pemba,3 Diabetes,4 1.0,5 56.0,6 nan,7 nan,8 respond explan deceas die due diabet ulcer foot
+0 1946,1 Adult,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 60.0,6 nan,7 nan,8 die due pelvic inflammatori diseas vericas vein
+0 1987,1 Adult,2 AP,3 Maternal,4 2.0,5 25.0,6 nan,7 nan,8 daughter pregnant high blood pressur deliveri gave birth twin due also becam even weaker die even fit high bp die
+0 1994,1 Adult,2 UP,3 Falls,4 1.0,5 25.0,6 nan,7 nan,8 deceas came beneath tractor die
+0 2070,1 Adult,2 UP,3 Homicide,4 2.0,5 24.0,6 nan,7 nan,8 deceas die due poison consum given
+0 2080,1 Adult,2 Pemba,3 Diabetes,4 2.0,5 59.0,6 nan,7 nan,8 respond explain deceas diabet long time fever death
+0 2102,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 2.0,5 19.0,6 nan,7 nan,8 respond said deceas complan headach diabet also die deliv
+0 2123,1 Adult,2 UP,3 Bite of Venomous Animal,4 1.0,5 14.0,6 nan,7 nan,8 deceas die due snakebit
+0 2182,1 Adult,2 Pemba,3 Diabetes,4 2.0,5 18.0,6 nan,7 nan,8 respond explain deceas die due diabet
+0 2193,1 Adult,2 UP,3 Other Injuries,4 1.0,5 55.0,6 nan,7 nan,8 deceas die due electrocut
+0 2234,1 Adult,2 Pemba,3 Pneumonia,4 1.0,5 28.0,6 nan,7 nan,8 deceas die fever vomit sob dizzi
+0 2267,1 Adult,2 UP,3 Bite of Venomous Animal,4 1.0,5 28.0,6 nan,7 nan,8 deceas die due snakebit
+0 2309,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 14.0,6 nan,7 nan,8 client said deceas die malaria sickl cell
+0 2318,1 Adult,2 Pemba,3 Maternal,4 2.0,5 22.0,6 nan,7 nan,8 die due convuls
+0 2344,1 Adult,2 UP,3 Bite of Venomous Animal,4 2.0,5 13.0,6 nan,7 nan,8 deceas die due bitten snake
+0 2356,1 Adult,2 Pemba,3 Road Traffic,4 1.0,5 13.0,6 nan,7 nan,8 respond explain deceas die due car accid
+0 2435,1 Adult,2 UP,3 Drowning,4 1.0,5 16.0,6 nan,7 nan,8 deceas die due drown
+0 2436,1 Adult,2 Pemba,3 Pneumonia,4 1.0,5 30.0,6 nan,7 nan,8 respond explain deceas die due chronic chest problem
+0 2467,1 Adult,2 Pemba,3 Maternal,4 2.0,5 32.0,6 nan,7 nan,8 respond explain deceas die due headach hospit told pressur seven month pregnanc
+0 2486,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 30.0,6 nan,7 nan,8 respond explain deceas suffer fever joint pain led death
+0 2488,1 Adult,2 Pemba,3 Pneumonia,4 1.0,5 50.0,6 nan,7 nan,8 respond explain deceas die due feve genit elephantiasi
+0 2491,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 49.0,6 nan,7 nan,8 deceas die due diarrohea vomit hospit said die renal failur
+0 2507,1 Adult,2 Pemba,3 Pneumonia,4 2.0,5 50.0,6 nan,7 nan,8 respond explain deceas die due satan diseas
+0 2516,1 Adult,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 55.0,6 nan,7 nan,8 respond explain deceas fever puffi look pale seven day
+0 2555,1 Adult,2 Pemba,3 Diabetes,4 2.0,5 50.0,6 nan,7 nan,8 respond explain deceas die diseas
+0 2679,1 Adult,2 UP,3 Other Injuries,4 1.0,5 20.0,6 nan,7 nan,8 deceas die due electrocut
+0 2697,1 Adult,2 UP,3 Drowning,4 2.0,5 14.0,6 nan,7 nan,8 deceas die due drown
+0 2717,1 Adult,2 UP,3 Fires,4 1.0,5 45.0,6 nan,7 nan,8 deceas burnt die
+0 2724,1 Adult,2 UP,3 Drowning,4 1.0,5 18.0,6 nan,7 nan,8 deceas die due drown
+0 2893,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 56.0,6 nan,7 nan,8 client said delas servic place hospit nurs harsh doctor deceas die due reason
+0 2900,1 Adult,2 Pemba,3 Pneumonia,4 1.0,5 18.0,6 nan,7 nan,8 respond explain deceas die due asthma three day death swollen chest
+0 2938,1 Adult,2 UP,3 Other Injuries,4 1.0,5 24.0,6 nan,7 nan,8 deceas die struck lightn
+0 2974,1 Adult,2 Pemba,3 Maternal,4 2.0,5 39.0,6 nan,7 nan,8 respond explain deceas die due excess bleed deliveryaph pph
+0 2989,1 Adult,2 Pemba,3 Diabetes,4 1.0,5 25.0,6 nan,7 nan,8 patient die due diabet
+0 2997,1 Adult,2 UP,3 Bite of Venomous Animal,4 1.0,5 19.0,6 nan,7 nan,8 deceas die due snakebit
+0 3032,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 70.0,6 nan,7 nan,8 respond explain dceas die due sever abdomin pain
+0 3051,1 Adult,2 Pemba,3 Pneumonia,4 2.0,5 30.0,6 nan,7 nan,8 respond explain deceas die due asthma
+0 3060,1 Adult,2 UP,3 Poisonings,4 2.0,5 17.0,6 nan,7 nan,8 deceas live stress parent die consum kind addict substanc respond say die due consumpt poison
+0 3074,1 Adult,2 UP,3 Fires,4 2.0,5 23.0,6 nan,7 nan,8 deceas die due get caught fire
+0 3095,1 Adult,2 Pemba,3 Diabetes,4 1.0,5 21.0,6 nan,7 nan,8 deceas die die diabet tb
+0 3154,1 Adult,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 52.0,6 nan,7 nan,8 respond explain deceas die due arthriti
+0 3157,1 Adult,2 Pemba,3 Road Traffic,4 1.0,5 30.0,6 nan,7 nan,8 respond explain deceas die due car accid
+0 3198,1 Adult,2 Pemba,3 Pneumonia,4 1.0,5 38.0,6 nan,7 nan,8 respond explain deceas die due hypertens
+0 3386,1 Adult,2 UP,3 Fires,4 1.0,5 70.0,6 nan,7 nan,8 death occur due burn
+0 3424,1 Adult,2 UP,3 Drowning,4 1.0,5 18.0,6 nan,7 nan,8 death occur due drown
+0 3430,1 Adult,2 UP,3 Other Injuries,4 1.0,5 24.0,6 nan,7 nan,8 deceas die due electrocut
+0 3495,1 Adult,2 UP,3 Bite of Venomous Animal,4 1.0,5 17.0,6 nan,7 nan,8 deceas bitten snake die
+0 3574,1 Adult,2 Pemba,3 Diabetes,4 2.0,5 45.0,6 nan,7 nan,8 respond explan deceas die due diabet pressur
+0 3596,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 80.0,6 nan,7 nan,8 respond said deceas die certif shift upcountri
+0 3615,1 Adult,2 UP,3 Drowning,4 2.0,5 40.0,6 nan,7 nan,8 deceas die due drown
+0 3662,1 Adult,2 UP,3 Bite of Venomous Animal,4 1.0,5 25.0,6 nan,7 nan,8 deceas bitten snake die
+0 3698,1 Adult,2 Pemba,3 Maternal,4 2.0,5 32.0,6 nan,7 nan,8 respond said deceas die cesarean oper
+0 3714,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 22.0,6 nan,7 nan,8 client think deceas die aid
+0 3729,1 Adult,2 Dar,3 Maternal,4 2.0,5 35.0,6 nan,7 nan,8 accord particip opinion deceas die due eph bodema protein hypertens gestosi time deliv babi
+0 3734,1 Adult,2 Pemba,3 Diarrhea/Dysentery,4 2.0,5 60.0,6 nan,7 nan,8 respond explain deceas die due diarrhea vomit
+0 3753,1 Adult,2 UP,3 Other Infectious Diseases,4 2.0,5 20.0,6 nan,7 nan,8 deceas mild headach suddenli fell unconsci close examin reveal sever fever fever fall unconsci accord doctor die due brain hemorrhag
+0 3772,1 Adult,2 Pemba,3 Diabetes,4 1.0,5 80.0,6 nan,7 nan,8 respond explain deceas die due diabet sought care differ hospit
+0 3779,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 60.0,6 nan,7 nan,8 respond said father die due strangul hernia
+0 3810,1 Adult,2 UP,3 Other Injuries,4 1.0,5 29.0,6 nan,7 nan,8 deceas die due electrocut
+0 3820,1 Adult,2 UP,3 Drowning,4 1.0,5 17.0,6 nan,7 nan,8 death occur due drown
+0 3895,1 Adult,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 55.0,6 nan,7 nan,8 respond explain deceas die due dysenteri vomit blood fever also medic examin done
+0 3902,1 Adult,2 Pemba,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 deceas die due excess blood loss deliveri
+0 3933,1 Adult,2 UP,3 Drowning,4 1.0,5 18.0,6 nan,7 nan,8 deceas die due drown
+0 3938,1 Adult,2 Dar,3 Cirrhosis,4 2.0,5 45.0,6 nan,7 nan,8 client said deceas die aid
+0 3945,1 Adult,2 AP,3 Stroke,4 1.0,5 32.0,6 nan,7 nan,8 took brother hospit due sudden fever vomit came know suffer brain hemorrhag becam weak due die
+0 3961,1 Adult,2 UP,3 Fires,4 1.0,5 25.0,6 nan,7 nan,8 deceas burnt die
+0 3982,1 Adult,2 UP,3 Drowning,4 2.0,5 18.0,6 nan,7 nan,8 deceas die due drown
+0 4018,1 Adult,2 UP,3 Other Injuries,4 1.0,5 35.0,6 nan,7 nan,8 wall fallen deceas extract sat abl proper convers time felt pain chest abdomen lot water fill way hospit die en rout die clock due intern wound
+0 4028,1 Adult,2 Pemba,3 Falls,4 2.0,5 27.0,6 nan,7 nan,8 respond explain deceas die due fall clove tree
+0 4076,1 Adult,2 UP,3 Other Injuries,4 2.0,5 12.0,6 nan,7 nan,8 deceas die get buri wall
+0 4153,1 Adult,2 Pemba,3 Pneumonia,4 2.0,5 13.0,6 nan,7 nan,8 deceas die due fever swell arm
+0 4161,1 Adult,2 UP,3 Fires,4 1.0,5 36.0,6 nan,7 nan,8 deceas burnt badli still aliv die could taken hospit
+0 4221,1 Adult,2 Pemba,3 TB,4 1.0,5 80.0,6 nan,7 nan,8 respond explain deceas die due diabet tb
+0 4229,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 35.0,6 nan,7 nan,8 client think deceas die heart diseas high blood pressur
+0 4239,1 Adult,2 UP,3 Fires,4 2.0,5 25.0,6 nan,7 nan,8 deceas die burnt
+0 4261,1 Adult,2 UP,3 Bite of Venomous Animal,4 2.0,5 18.0,6 nan,7 nan,8 deceas bitten snake die
+0 4324,1 Adult,2 Pemba,3 Drowning,4 1.0,5 36.0,6 nan,7 nan,8 respond explain deceas die due drown
+0 4326,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 50.0,6 nan,7 nan,8 respond said deceas die due prolong cough high fever
+0 4428,1 Adult,2 AP,3 Stroke,4 2.0,5 90.0,6 nan,7 nan,8 grandmoth develop phlegm chest due old age develop thick tongu eat anyth becam weak due fever die hospit
+0 4482,1 Adult,2 Pemba,3 Drowning,4 1.0,5 15.0,6 nan,7 nan,8 respond explain deceas die drown
+0 4512,1 Adult,2 UP,3 Drowning,4 1.0,5 18.0,6 nan,7 nan,8 deceas die due drown river
+0 4520,1 Adult,2 Pemba,3 Diabetes,4 1.0,5 25.0,6 nan,7 nan,8 respond explain deceas die due diabet previou day suffer mental ill
+0 4582,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 19.0,6 nan,7 nan,8 particip think deceas die due lack blood led bleed claim lack serius midic personel due fact deceas lack blood sens reach nt know
+0 4590,1 Adult,2 Pemba,3 Falls,4 2.0,5 50.0,6 nan,7 nan,8 respond said mother high fever lost conscious taken hospit gain consciuo death knew die becaus high fever
+0 4614,1 Adult,2 Pemba,3 Maternal,4 2.0,5 35.0,6 nan,7 nan,8 respond said deceas die due confus deliveri
+0 4629,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 70.0,6 nan,7 nan,8 respond said deceas die oper hernia got high fever die
+0 4649,1 Adult,2 UP,3 Bite of Venomous Animal,4 1.0,5 45.0,6 nan,7 nan,8 deceas die due snakebit
+0 4685,1 Adult,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 23.0,6 nan,7 nan,8 respond explain deceas frequent diarrhea sent hospit put drip die
+0 4690,1 Adult,2 UP,3 Falls,4 2.0,5 20.0,6 nan,7 nan,8 deceas fallen bike die
+0 4725,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 40.0,6 nan,7 nan,8 respond explain deceas high fever diarrhea die
+0 4736,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 2.0,5 60.0,6 nan,7 nan,8 respond said deceas die due heart diseas diarrohea cough
+0 4872,1 Adult,2 Dar,3 Suicide,4 1.0,5 45.0,6 nan,7 nan,8 deceas die due commit suicid hang
+0 4902,1 Adult,2 UP,3 Other Injuries,4 1.0,5 45.0,6 nan,7 nan,8 deceas struck lightn die
+0 4943,1 Adult,2 Pemba,3 Drowning,4 2.0,5 26.0,6 nan,7 nan,8 respond explain deceas die drown river suffer epilepsi long time
+0 5019,1 Adult,2 Pemba,3 Diabetes,4 2.0,5 60.0,6 nan,7 nan,8 respond explain deceas die due diabet fever
+0 5145,1 Adult,2 Pemba,3 Diabetes,4 1.0,5 40.0,6 nan,7 nan,8 respond explain deceas die due diabet
+0 5233,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 2.0,5 80.0,6 nan,7 nan,8 respond explain deceas death caus high fever high blood pressur
+0 5292,1 Adult,2 Pemba,3 Other Infectious Diseases,4 1.0,5 25.0,6 nan,7 nan,8 said babi high fever die high fever
+0 5297,1 Adult,2 Pemba,3 Pneumonia,4 1.0,5 50.0,6 nan,7 nan,8 respond explain deceas die due pressur respir
+0 5324,1 Adult,2 UP,3 Bite of Venomous Animal,4 2.0,5 40.0,6 nan,7 nan,8 deceas die due snakebit
+0 5373,1 Adult,2 Pemba,3 Diabetes,4 2.0,5 30.0,6 nan,7 nan,8 respond explain deceas suffer diabet two year stroke day die
+0 5443,1 Adult,2 Pemba,3 Diarrhea/Dysentery,4 2.0,5 50.0,6 nan,7 nan,8 respond explain deceas die due high fever diarrhea
+0 5468,1 Adult,2 UP,3 Drowning,4 1.0,5 22.0,6 nan,7 nan,8 death occur due drown
+0 5613,1 Adult,2 Pemba,3 Road Traffic,4 1.0,5 43.0,6 nan,7 nan,8 respond explain deceas die due car accid
+0 5782,1 Adult,2 UP,3 Fires,4 1.0,5 53.0,6 nan,7 nan,8 deceas electrocut die
+0 5808,1 Adult,2 Pemba,3 Drowning,4 1.0,5 16.0,6 nan,7 nan,8 respond explain deceas die due drown ocean
+0 5834,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 2.0,5 45.0,6 nan,7 nan,8 suffer sinus high fever led death
+0 5845,1 Adult,2 AP,3 TB,4 2.0,5 18.0,6 nan,7 nan,8 daughter fever last two month malaria due eat becam weak suddenli die
+0 5904,1 Adult,2 Pemba,3 Pneumonia,4 2.0,5 75.0,6 nan,7 nan,8 die due high blood pressur
+0 5916,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 2.0,5 27.0,6 nan,7 nan,8 deceas suffer diabet high blood pressur die
+0 5923,1 Adult,2 UP,3 Fires,4 2.0,5 27.0,6 nan,7 nan,8 deceas burnt die hospit
+0 5997,1 Adult,2 Pemba,3 Pneumonia,4 1.0,5 30.0,6 nan,7 nan,8 respond explain deceas die drunk tradit beer return home start make nois taken hospit die next day
+0 6013,1 Adult,2 Pemba,3 Diabetes,4 2.0,5 18.0,6 nan,7 nan,8 respond explain deceas die due diabet lot abscess bodi
+0 6015,1 Adult,2 UP,3 Drowning,4 1.0,5 13.0,6 nan,7 nan,8 deceas die due drown wise deceas healthi deceas taken cow bath river
+0 6064,1 Adult,2 UP,3 Fires,4 2.0,5 35.0,6 nan,7 nan,8 deceas die due electrocut
+0 6073,1 Adult,2 Dar,3 Asthma,4 1.0,5 70.0,6 nan,7 nan,8 respond said deceas die due blood pressur
+0 6101,1 Adult,2 Pemba,3 Other Infectious Diseases,4 2.0,5 14.0,6 nan,7 nan,8 respond expain deceas death caus tetenu deceas injur himherself stick hesh got fever stiffnexx bodi later die
+0 6120,1 Adult,2 Dar,3 Drowning,4 1.0,5 22.0,6 nan,7 nan,8 deceas fisher die daili activ fish due down
+0 6130,1 Adult,2 UP,3 Drowning,4 2.0,5 16.0,6 nan,7 nan,8 deceas die due drown
+0 6132,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 2.0,5 80.0,6 nan,7 nan,8 respond said deceas die due high fever sever diarrhoea
+0 6150,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 2.0,5 48.0,6 nan,7 nan,8 respond explain deceas die due high blood pressur
+0 6192,1 Adult,2 UP,3 Other Injuries,4 2.0,5 22.0,6 nan,7 nan,8 deceas month pregnant deceas die due lightn fall
+0 6301,1 Adult,2 Pemba,3 Pneumonia,4 2.0,5 20.0,6 nan,7 nan,8 respond explain deceas die due feve stroke
+0 6356,1 Adult,2 UP,3 Other Injuries,4 2.0,5 42.0,6 nan,7 nan,8 deceas die struck lightn
+0 6364,1 Adult,2 UP,3 Fires,4 1.0,5 24.0,6 nan,7 nan,8 deceas die due burn
+0 6367,1 Adult,2 UP,3 Drowning,4 2.0,5 12.0,6 nan,7 nan,8 deceas die due drown
+0 6382,1 Adult,2 UP,3 Other Injuries,4 1.0,5 14.0,6 nan,7 nan,8 deceas die due electrocut
+0 6399,1 Adult,2 Pemba,3 Pneumonia,4 2.0,5 56.0,6 nan,7 nan,8 respond explain deceas asthmat fever headach taken hospit diarrhea two day die
+0 6415,1 Adult,2 UP,3 Drowning,4 1.0,5 18.0,6 nan,7 nan,8 deceas die due drown
+0 6530,1 Adult,2 UP,3 Fires,4 2.0,5 55.0,6 nan,7 nan,8 deceas burnt could taken hospit die
+0 6579,1 Adult,2 Pemba,3 Diabetes,4 2.0,5 35.0,6 nan,7 nan,8 respond explain deceas die due high blood pressur
+0 6601,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 39.0,6 nan,7 nan,8 respond said deceas die due typhoid
+0 6640,1 Adult,2 Pemba,3 TB,4 2.0,5 34.0,6 nan,7 nan,8 respond explain deceas die due tb
+0 6644,1 Adult,2 UP,3 Bite of Venomous Animal,4 1.0,5 35.0,6 nan,7 nan,8 death occur due snake bite
+0 6645,1 Adult,2 Pemba,3 Pneumonia,4 1.0,5 80.0,6 nan,7 nan,8 respond explain deceas die due pressur
+0 6774,1 Adult,2 Pemba,3 Diabetes,4 2.0,5 64.0,6 nan,7 nan,8 respond explain deceas die due high blood pressur cancer puffi part bodi diabet
+0 6838,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 2.0,5 12.0,6 nan,7 nan,8 respond explain deceas die due fever cough
+0 6842,1 Adult,2 Pemba,3 Diabetes,4 1.0,5 60.0,6 nan,7 nan,8 respond explan deceas die due diabet
+0 6843,1 Adult,2 Mexico,3 Stroke,4 2.0,5 40.0,6 nan,7 nan,8 interviewe dissatisfi healthcar think someth hospit die due medic malpracticeth ladi cri profus angri hospit wari question c poison think deceas given medic hospit poison suspect hospit sent get sign knew given medic deceas bleed die pancreat
+0 6859,1 Adult,2 Pemba,3 Drowning,4 1.0,5 55.0,6 nan,7 nan,8 respond explain deceas die drown dhow sunk
+0 6895,1 Adult,2 Pemba,3 Maternal,4 2.0,5 21.0,6 nan,7 nan,8 respond explain deceas die two day deliveri fever swell neck
+0 6901,1 Adult,2 UP,3 Homicide,4 2.0,5 32.0,6 nan,7 nan,8 deceas die due burn
+0 7081,1 Adult,2 UP,3 Drowning,4 1.0,5 22.0,6 nan,7 nan,8 deceas die due drown
+0 7083,1 Adult,2 UP,3 Drowning,4 1.0,5 19.0,6 nan,7 nan,8 deceas die due drown
+0 7093,1 Adult,2 Dar,3 Maternal,4 2.0,5 24.0,6 nan,7 nan,8 respond medic record deceas parent
+0 7099,1 Adult,2 Pemba,3 Maternal,4 2.0,5 33.0,6 nan,7 nan,8 respond explain deceas die due high fever arriv hospit convuls month pregnanc
+0 7101,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 51.0,6 nan,7 nan,8 respond said deceas die due abdomin colic
+0 7102,1 Adult,2 UP,3 Drowning,4 1.0,5 14.0,6 nan,7 nan,8 deceas die due drown
+0 7114,1 Adult,2 Pemba,3 TB,4 1.0,5 40.0,6 nan,7 nan,8 respond explain deceas die due tb
+0 7173,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 75.0,6 nan,7 nan,8 client thought deceas die due stomach pleas medic servic provid hospit
+0 7209,1 Adult,2 UP,3 Drowning,4 2.0,5 17.0,6 nan,7 nan,8 deceas die due drown
+0 7238,1 Adult,2 AP,3 Maternal,4 2.0,5 26.0,6 nan,7 nan,8 daughter attack jaundic pregnant also fever eat anyth result anemia becam weak due thing die
+0 7311,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 75.0,6 nan,7 nan,8 deceas die fever prolong cough tuberclosi
+0 7365,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 1.0,5 99.0,6 nan,7 nan,8 respond explain deceas die problem abl pass urin die becau
+0 7397,1 Adult,2 UP,3 Other Injuries,4 1.0,5 15.0,6 nan,7 nan,8 deceas die struck lightn
+0 7407,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 2.0,5 19.0,6 nan,7 nan,8 respond said deceas high fever die day
+0 7442,1 Adult,2 Pemba,3 Diabetes,4 1.0,5 47.0,6 nan,7 nan,8 brother die due epilepsi
+0 7502,1 Adult,2 Pemba,3 Maternal,4 2.0,5 29.0,6 nan,7 nan,8 deceas die due excess blood loss deliveri
+0 7515,1 Adult,2 UP,3 Other Injuries,4 1.0,5 25.0,6 nan,7 nan,8 deceas die get buri wall
+0 7522,1 Adult,2 Pemba,3 Diarrhea/Dysentery,4 2.0,5 70.0,6 nan,7 nan,8 respond explain deceas die due diarrhea vomit
+0 7537,1 Adult,2 UP,3 Drowning,4 2.0,5 40.0,6 nan,7 nan,8 deceas die due drown
+0 7555,1 Adult,2 Pemba,3 Drowning,4 1.0,5 19.0,6 nan,7 nan,8 deceas die drown boat travel cought fire
+0 7572,1 Adult,2 Pemba,3 Maternal,4 2.0,5 35.0,6 nan,7 nan,8 respond said deceas jaundic die
+0 7619,1 Adult,2 Pemba,3 TB,4 1.0,5 60.0,6 nan,7 nan,8 respond explain deceas die due tb suffer three month
+0 7628,1 Adult,2 UP,3 Falls,4 1.0,5 25.0,6 nan,7 nan,8 deceas complet healthi die fire
+0 7656,1 Adult,2 Dar,3 Maternal,4 2.0,5 23.0,6 nan,7 nan,8 medic record lost due funer movement
+0 7809,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 2.0,5 65.0,6 nan,7 nan,8 respond explain deceas hight blood pressur patient die
+0 4,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 respond explain deceas high fever
+0 28,1 Child,2 Dar,3 Sepsis,4 1.0,5 1.0,6 nan,7 nan,8 deceas die due
+0 50,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 10.0,7 nan,8 respond said deceas die due high fever diarrhea vomit
+0 61,1 Child,2 Pemba,3 Other Infectious Diseases,4 1.0,5 10.0,6 nan,7 nan,8 respond explain deceas die due tetenu injur leg cut someth sharp bodi becam stiff die
+0 63,1 Child,2 AP,3 Diarrhea/Dysentery,4 1.0,5 1.0,6 nan,7 nan,8 son die due pneumonia fever treat hospit treat properli admit treat properli die pneumonia increas
+0 71,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 10.0,7 nan,8 respond expain deceas die due fever dysentri bleed mouth nose
+0 76,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 2.0,5 1.0,6 nan,7 nan,8 deceas die crashedhit cupboard
+0 109,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 2.0,6 nan,7 nan,8 respond said deceas die due high fever
+0 118,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 2.0,5 nan,6 1.0,7 nan,8 respond explain deseas die due high fever diarrohea
+0 164,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 2.0,6 nan,7 nan,8 respond explain deceas die suddenli sudden wakeup start convuls sever diarrhea
+0 177,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 8.0,7 nan,8 die due envi fever
+0 213,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 9.0,7 nan,8 accord respond think deceas die due pneumonia
+0 214,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 6.0,7 nan,8 respond explain deceas die due fever
+0 220,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 2.0,5 8.0,6 nan,7 nan,8 respond explain deceas die due high fever swell bodi
+0 261,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 1.0,6 nan,7 nan,8 respond explain deceas die due diarrhea
+0 269,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 3.0,6 nan,7 nan,8 respond said deceas die due high fever
+0 273,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 babi die due breathless fever hospit told pneumonia
+0 294,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 2.0,5 8.0,6 nan,7 nan,8 respond expain deceas die due stomach pain prolong diarrohea
+0 302,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 2.0,5 2.0,6 nan,7 nan,8 respond explain deceas die due malaria
+0 314,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 respond said deceas die due high fever
+0 358,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 8.0,7 nan,8 respond explain deceas die due fever diarrhea
+0 370,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 respond explain deceas die due fever
+0 384,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 1.0,6 nan,7 nan,8 respond explain deceas die due fever diarrhea
+0 387,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 9.0,6 nan,7 nan,8 die due sever pneumonia
+0 395,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 11.0,6 nan,7 nan,8 respond explain deceas die due diarrhea
+0 403,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 9.0,7 nan,8 babi die high fever
+0 405,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 5.0,6 nan,7 nan,8 respond explain deceas die due fever dysenteri
+0 444,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 2.0,5 1.0,6 nan,7 nan,8 respond explain deceas die due fever diarrhea
+0 463,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 2.0,5 11.0,6 nan,7 nan,8 babi die due pneumonia
+0 473,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 3.0,7 nan,8 respond said deceas die due fever
+0 494,1 Child,2 Pemba,3 Falls,4 1.0,5 7.0,6 nan,7 nan,8 respond said deceas die due fall coconut tree
+0 528,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 9.0,7 nan,8 respond explain deceas sick long period fever diarrohea swell bodi
+0 534,1 Child,2 Pemba,3 Road Traffic,4 2.0,5 7.0,6 nan,7 nan,8 respond said deceas die due car accid
+0 551,1 Child,2 Pemba,3 Drowning,4 1.0,5 4.0,6 nan,7 nan,8 respond explain deceas went swim lake drown die
+0 571,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 respond explain deceas die due fever diarrhea anemia
+0 628,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 1.0,6 nan,7 nan,8 respond explain deceas die due fever
+0 655,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 2.0,5 nan,6 1.0,7 nan,8 respond explain deceas die due jaundic
+0 665,1 Child,2 Pemba,3 Fires,4 1.0,5 1.0,6 nan,7 nan,8 respond said deceas die due high fever diarrhea burn
+0 666,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 1.0,7 nan,8 die due pneumonia
+0 707,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 1.0,7 nan,8 die due fever
+0 772,1 Child,2 Pemba,3 Falls,4 2.0,5 5.0,6 nan,7 nan,8 respond said deceas die crashedhit coconut tree
+0 775,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 2.0,5 nan,6 7.0,7 nan,8 respond explain deceas die due pneumonia
+0 796,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 respond explain deceas die due fever breathless
+0 813,1 Child,2 Pemba,3 Road Traffic,4 1.0,5 5.0,6 nan,7 nan,8 respond explain deceas die due car accid
+0 837,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 6.0,6 nan,7 nan,8 client said deceas die bomb blast
+0 857,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 2.0,5 6.0,6 nan,7 nan,8 respond explain death due high fever anaemia
+0 860,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 2.0,5 4.0,6 nan,7 nan,8 respond explain deceas die due high fever diarrohea
+0 864,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 5.0,7 nan,8 respond explain deceas die due diarrhea vomit lot
+0 882,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 7.0,7 nan,8 respond explain deceas die due fever
+0 895,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 1.0,5 3.0,6 nan,7 nan,8 respond explain deceasad suffer high fever also got convuls led death
+0 964,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 respond explain deceas die due diarrhea
+0 983,1 Child,2 Pemba,3 Fires,4 1.0,5 2.0,6 nan,7 nan,8 respond explain deceas die due drown boat burnt
+0 986,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 2.0,7 nan,8 client believ daughter die due pneumonia
+0 1013,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 5.0,7 nan,8 respond explain deceas die due pneumonia
+0 1054,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 11.0,7 nan,8 respond explain deceas die due mani complic fever diarrhea scabi ulcer swollen bodi
+0 1057,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 8.0,7 nan,8 respond said deceas die due high fever diarrhea vomit
+0 1058,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 2.0,5 1.0,6 nan,7 nan,8 respond explain deceas die due fever convuls
+0 1102,1 Child,2 AP,3 Fires,4 2.0,5 nan,6 10.0,7 nan,8 patient father die due fire accid patient tri kerosen stove tube burst due burnt fire die take father hospit sadli die way
+0 1117,1 Child,2 Pemba,3 Other Digestive Diseases,4 1.0,5 nan,6 4.0,7 nan,8 deceas die due vomit hesh ate food
+0 1126,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 7.0,7 nan,8 respond explain deceas die due fever pneumonia
+0 1132,1 Child,2 UP,3 Pneumonia,4 1.0,5 nan,6 2.0,7 nan,8 accord respond neglig shown deceas head drawn insid
+0 1135,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 2.0,6 nan,7 nan,8 babi die high fever
+0 1142,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 2.0,5 nan,6 9.0,7 nan,8 accord mother babi got high fever die due fever
+0 1169,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 7.0,7 nan,8 respond explain deceas die due fever diarrhea
+0 1174,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 10.0,7 nan,8 respond explain deceas die due diarrhea
+0 1187,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 2.0,5 nan,6 2.0,7 nan,8 respond explain deceas die due diarrhea
+0 1206,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 2.0,6 nan,7 nan,8 respond explain deceas die due fever asthma
+0 1214,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 7.0,7 nan,8 respond explain deceas die due fever diarrhea
+0 1228,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 1.0,7 nan,8 respond explain deceas die due fever cough convuls
+0 1245,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 10.0,7 nan,8 die due pneumonia convuls
+0 1270,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 7.0,7 nan,8 die time reach
+0 1273,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 2.0,7 nan,8 respond explain child die due fever chest problem ill start fourteen day birth
+0 1279,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 9.0,7 nan,8 respond explain deceas die due fever anemia
+0 1312,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 2.0,5 nan,6 9.0,7 nan,8 respond explain deceas die due fever diarrhea anemia
+0 1327,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 2.0,5 nan,6 1.0,7 nan,8 respond explain deceas suffer high fever convuls malaria anaemia die becuas
+0 1330,1 Child,2 Pemba,3 Road Traffic,4 1.0,5 4.0,6 nan,7 nan,8 respond said deceas die due car accid
+0 1365,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 2.0,5 9.0,6 nan,7 nan,8 respond expain deceas die due fever anemia blood transfus done unfortun child start vomit blood till die
+0 1369,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 respond explain deceas die due pneumonia
+0 1373,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 2.0,5 3.0,6 nan,7 nan,8 respond explain deceas die due fever cholera vomit
+0 1377,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 4.0,6 nan,7 nan,8 respond explain deceas die due dysenteri
+0 1398,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 9.0,7 nan,8 babi die high fever
+0 1426,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 5.0,7 nan,8 respond explain deceas die due envi fever
+0 1442,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 8.0,7 nan,8 measl receiv six syring get well breathless high fever die treatment
+0 1475,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 respond said deceas die due high fever
+0 1486,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 1.0,5 1.0,6 nan,7 nan,8 respond explain deceas die due high fever anaemia
+0 1541,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 12.0,7 nan,8 babi die due lack blood
+0 1553,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 1.0,5 2.0,6 nan,7 nan,8 child die due high fever
+0 1571,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 respond explain deceas die due arthriti
+0 1576,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 2.0,6 nan,7 nan,8 respond said deceas die due high fever
+0 1602,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 5.0,7 nan,8 respond explain deceas die due fever diarrhea
+0 1631,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 7.0,7 nan,8 respond explain deceas die due fever diarrhea
+0 1642,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 8.0,7 nan,8 respond explain deceas die due pneumonia
+0 1676,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 9.0,7 nan,8 respond explain deceas die due fever diarrhea
+0 1708,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 4.0,7 nan,8 respond explain deceas die due pneumonia fever
+0 1718,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 2.0,6 nan,7 nan,8 respond explain deceas die due convuls pneumonia
+0 1805,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 2.0,5 1.0,6 nan,7 nan,8 deceas die high fever anaemia
+0 1829,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 2.0,7 nan,8 respond explain deceas die due pneumonia anemia
+0 1843,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 6.0,7 nan,8 respond explain deceas die due fever diarrhea
+0 1857,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 5.0,7 nan,8 respond explain deceas die due diarrhea
+0 1868,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 8.0,7 nan,8 babi die high fever
+0 1910,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 11.0,7 nan,8 respond explain deceas die due pneumonia
+0 1916,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 5.0,7 nan,8 respond explain deceas die due pneumonia small sea crab
+0 1921,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 2.0,5 3.0,6 nan,7 nan,8 respond explain deceas suffer hight fever cough sometim die
+0 1933,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 7.0,7 nan,8 respond said deceas die due high pneumonia fever
+0 1955,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 4.0,7 nan,8 respond explain deceas die due fever
+0 1993,1 Child,2 Pemba,3 Other Digestive Diseases,4 2.0,5 nan,6 nan,7 nan,8 respond explain deceas die due fever diarrohea
+0 1997,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 2.0,6 nan,7 nan,8 respond explain deceas die due fever rash
+0 2039,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 nan,6 3.0,7 nan,8 respond explain deceas die due fever convuls
+0 2049,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 nan,6 3.0,7 nan,8 babi die high fever
+0 2061,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 2.0,6 nan,7 nan,8 respond explain deceas die due fever
+0 226,1 Neonate,2 Pemba,3 Stillbirth,4 1.0,5 nan,6 nan,8 die god
+0 241,1 Neonate,2 Pemba,3 Congenital malformation,4 2.0,5 nan,6 nan,8 respond explain deceas die due abnorm born eighth month
+0 367,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 12.0,8 client said deceas die due careless nurs also harsh parent
+0 431,1 Neonate,2 Pemba,3 Congenital malformation,4 2.0,5 nan,6 nan,8 respond explain deceas die due abnorm head size larg msaili hydrocephu
+0 582,1 Neonate,2 Pemba,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 2.0,8 die god
+0 609,1 Neonate,2 Pemba,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 10.0,8 respond explain child die due fever ill start two day birth
+0 760,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond said death due careless doctor nurs
+0 793,1 Neonate,2 Pemba,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 respond explain deceas die due god merci
+0 841,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 5.0,8 reason death due fact pregnant yet matur accord respond opinion
+0 1202,1 Neonate,2 Pemba,3 Stillbirth,4 2.0,5 nan,6 nan,8 die due god
+0 1301,1 Neonate,2 Pemba,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond explain deceas die due breathless well breath birth asphyxia
+0 1311,1 Neonate,2 Pemba,3 Birth asphyxia,4 2.0,5 nan,6 nan,7 1.0,8 respond explain deceas fever die two day age
+0 1320,1 Neonate,2 Pemba,3 Congenital malformation,4 1.0,5 nan,6 nan,7 4.0,8 respond explain deceas die deliv due mouth nose abnorm congenit malform
+0 1541,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 client said deceas die fo prematur
+0 1560,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,7 1.0,8 client said babi die due lack vitamin
+0 1802,1 Neonate,2 Pemba,3 Stillbirth,4 1.0,5 nan,6 nan,8 die god
+0 2012,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 client said babi die due prematur
+0 2112,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 doctor said one babi die due prematur deliveri high blood pressur
+0 2141,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond said babi die due delay oper

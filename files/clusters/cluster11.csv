@@ -1,0 +1,298 @@
+newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
+0 30,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 65.0,6 nan,7 nan,8 client thank servic
+0 34,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 37.0,6 nan,7 nan,8 client thank servic
+0 70,1 Adult,2 Dar,3 Fires,4 2.0,5 20.0,6 nan,7 nan,8 client thank servic
+0 126,1 Adult,2 Dar,3 AIDS,4 1.0,5 46.0,6 nan,7 nan,8 client thank servic
+0 147,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 45.0,6 nan,7 nan,8 client thank servic
+0 173,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 52.0,6 nan,7 nan,8 client said servic perfect thank doctor
+0 256,1 Adult,2 Dar,3 Stroke,4 1.0,5 54.0,6 nan,7 nan,8 client thank servic
+0 398,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 38.0,6 nan,7 nan,8 client thank servic
+0 453,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 29.0,6 nan,7 nan,8 client thank servic
+0 541,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 23.0,6 nan,7 nan,8 particip thank servic
+0 548,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 50.0,6 nan,7 nan,8 client thank servic
+0 583,1 Adult,2 Dar,3 AIDS,4 2.0,5 46.0,6 nan,7 nan,8 client thank servic
+0 604,1 Adult,2 Dar,3 AIDS,4 1.0,5 25.0,6 nan,7 nan,8 client thank servic
+0 620,1 Adult,2 Dar,3 Maternal,4 2.0,5 25.0,6 nan,7 nan,8 client thank servic
+0 681,1 Adult,2 Dar,3 Stroke,4 2.0,5 35.0,6 nan,7 nan,8 client thank servic
+0 692,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 59.0,6 nan,7 nan,8 client thank servic
+0 721,1 Adult,2 Dar,3 Fires,4 1.0,5 30.0,6 nan,7 nan,8 client thank state burnt death
+0 785,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 18.0,6 nan,7 nan,8 client thank servic
+0 885,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 60.0,6 nan,7 nan,8 client thank servic
+0 887,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 46.0,6 nan,7 nan,8 client thank servic
+0 970,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 16.0,6 nan,7 nan,8 thank servic
+0 1005,1 Adult,2 Dar,3 TB,4 2.0,5 28.0,6 nan,7 nan,8 client thank servic
+0 1083,1 Adult,2 Dar,3 Homicide,4 1.0,5 35.0,6 nan,7 nan,8 client thank servic
+0 1124,1 Adult,2 Dar,3 Stroke,4 2.0,5 70.0,6 nan,7 nan,8 client thank servic death certif lost
+0 1132,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 54.0,6 nan,7 nan,8 client satisfi servic
+0 1229,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 40.0,6 nan,7 nan,8 client thank servic
+0 1240,1 Adult,2 Dar,3 AIDS,4 2.0,5 30.0,6 nan,7 nan,8 client said deceas let brought hospit way thank servic
+0 1336,1 Adult,2 Dar,3 TB,4 2.0,5 25.0,6 nan,7 nan,8 client thank servic
+0 1378,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 44.0,6 nan,7 nan,8 client thank servic
+0 1399,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 37.0,6 nan,7 nan,8 client say servic satisfactori
+0 1451,1 Adult,2 Dar,3 Maternal,4 2.0,5 35.0,6 nan,7 nan,8 client thank servic
+0 1473,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 65.0,6 nan,7 nan,8 particip thank servic
+0 1509,1 Adult,2 Dar,3 Malaria,4 2.0,5 70.0,6 nan,7 nan,8 client thank servic
+0 1709,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 70.0,6 nan,7 nan,8 client thank servic
+0 1815,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 30.0,6 nan,7 nan,8 client thank servic
+0 1883,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 32.0,6 nan,7 nan,8 particip thank servic
+0 1955,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 41.0,6 nan,7 nan,8 client thank servic
+0 2047,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 50.0,6 nan,7 nan,8 client thank servic
+0 2113,1 Adult,2 Dar,3 Fires,4 2.0,5 23.0,6 nan,7 nan,8 client thank servic
+0 2134,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 58.0,6 nan,7 nan,8 client thank servic
+0 2169,1 Adult,2 Dar,3 AIDS,4 2.0,5 42.0,6 nan,7 nan,8 client thank servic
+0 2217,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 52.0,6 nan,7 nan,8 client thank servic
+0 2264,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 43.0,6 nan,7 nan,8 client thank servic provid hospit
+0 2278,1 Adult,2 Dar,3 AIDS,4 1.0,5 26.0,6 nan,7 nan,8 client thank servic
+0 2288,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 32.0,6 nan,7 nan,8 particip thank servic
+0 2298,1 Adult,2 Dar,3 TB,4 1.0,5 48.0,6 nan,7 nan,8 particip thank servic
+0 2299,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 50.0,6 nan,7 nan,8 client thank servic
+0 2339,1 Adult,2 Dar,3 Maternal,4 2.0,5 27.0,6 nan,7 nan,8 client thank servic
+0 2341,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 38.0,6 nan,7 nan,8 client satisfi servic
+0 2360,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 37.0,6 nan,7 nan,8 client thank thank servic
+0 2378,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 75.0,6 nan,7 nan,8 client thank servic
+0 2455,1 Adult,2 Dar,3 Stroke,4 1.0,5 70.0,6 nan,7 nan,8 client thank servic
+0 2459,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 34.0,6 nan,7 nan,8 client thank servic
+0 2482,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 66.0,6 nan,7 nan,8 client thank servic
+0 2547,1 Adult,2 Dar,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 client thank servic
+0 2630,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client thank servic although certif
+0 2649,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 34.0,6 nan,7 nan,8 client thank servic
+0 2662,1 Adult,2 Dar,3 Diabetes,4 nan,5 65.0,6 nan,7 nan,8 client thank servic
+0 2737,1 Adult,2 Dar,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 client thank servic good
+0 2779,1 Adult,2 Dar,3 Asthma,4 1.0,5 75.0,6 nan,7 nan,8 client thank servic
+0 2803,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 56.0,6 nan,7 nan,8 client thank servic
+0 2806,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 12.0,6 nan,7 nan,8 client thank servic
+0 2903,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 56.0,6 nan,7 nan,8 client thank servic client mispleas death certif
+0 2905,1 Adult,2 Dar,3 Stroke,4 1.0,5 85.0,6 nan,7 nan,8 client thank servic
+0 2916,1 Adult,2 Dar,3 Stomach Cancer,4 1.0,5 61.0,6 nan,7 nan,8 client thank servic
+0 2998,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 33.0,6 nan,7 nan,8 client thank servic
+0 3011,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 56.0,6 nan,7 nan,8 client thank
+0 3091,1 Adult,2 Dar,3 Drowning,4 1.0,5 38.0,6 nan,7 nan,8 particip thank servic
+0 3111,1 Adult,2 Dar,3 Diabetes,4 2.0,5 68.0,6 nan,7 nan,8 client thank servic
+0 3114,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 77.0,6 nan,7 nan,8 client thank servic thought death caus cancer
+0 3300,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 74.0,6 nan,7 nan,8 client said satisfi servic
+0 3302,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 57.0,6 nan,7 nan,8 client thank servic
+0 3317,1 Adult,2 Dar,3 TB,4 2.0,5 999.0,6 nan,7 nan,8 client thank servic
+0 3324,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 54.0,6 nan,7 nan,8 client thank servic
+0 3329,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 40.0,6 nan,7 nan,8 particip thank servic
+0 3348,1 Adult,2 Dar,3 Stroke,4 1.0,5 60.0,6 nan,7 nan,8 particip thank servic
+0 3402,1 Adult,2 Dar,3 Diabetes,4 1.0,5 63.0,6 nan,7 nan,8 thank servic
+0 3426,1 Adult,2 Dar,3 TB,4 2.0,5 81.0,6 nan,7 nan,8 client thank servic got hospit nurs hospit thank caus death anemia
+0 3428,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 44.0,6 nan,7 nan,8 client thank servic
+0 3483,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 59.0,6 nan,7 nan,8 client thank servic
+0 3533,1 Adult,2 Dar,3 Stroke,4 2.0,5 60.0,6 nan,7 nan,8 thank servic
+0 3616,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 43.0,6 nan,7 nan,8 sugest client thank
+0 3643,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 59.0,6 nan,7 nan,8 client thank servic
+0 3676,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 50.0,6 nan,7 nan,8 client thank servic
+0 3713,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 73.0,6 nan,7 nan,8 client thank servic
+0 3739,1 Adult,2 Dar,3 Diabetes,4 2.0,5 48.0,6 nan,7 nan,8 client said deceas die diabet also thank servic
+0 3742,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 60.0,6 nan,7 nan,8 client thank servic
+0 3749,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 17.0,6 nan,7 nan,8 client thank servic
+0 3768,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 25.0,6 nan,7 nan,8 client thank servic
+0 3777,1 Adult,2 Dar,3 Suicide,4 2.0,5 18.0,6 nan,7 nan,8 particip thank servic
+0 3809,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 78.0,6 nan,7 nan,8 client thank servic
+0 3871,1 Adult,2 Dar,3 AIDS,4 2.0,5 999.0,6 nan,7 nan,8 particip thank servic
+0 3874,1 Adult,2 Dar,3 AIDS,4 1.0,5 39.0,6 nan,7 nan,8 client thank servic
+0 4016,1 Adult,2 Dar,3 Stroke,4 2.0,5 84.0,6 nan,7 nan,8 client thank servic
+0 4036,1 Adult,2 Dar,3 AIDS,4 1.0,5 54.0,6 nan,7 nan,8 client satisfi servic
+0 4141,1 Adult,2 Dar,3 TB,4 2.0,5 55.0,6 nan,7 nan,8 client thank servic
+0 4156,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 30.0,6 nan,7 nan,8 client thank servic
+0 4172,1 Adult,2 Dar,3 Stroke,4 2.0,5 28.0,6 nan,7 nan,8 client thank servic
+0 4183,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 16.0,6 nan,7 nan,8 client thank servic
+0 4314,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 65.0,6 nan,7 nan,8 client thank servic
+0 4318,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 16.0,6 nan,7 nan,8 client thank servic
+0 4343,1 Adult,2 Dar,3 AIDS,4 2.0,5 42.0,6 nan,7 nan,8 client thank servic
+0 4344,1 Adult,2 Dar,3 Maternal,4 2.0,5 35.0,6 nan,7 nan,8 client thank servic
+0 4346,1 Adult,2 Dar,3 Colorectal Cancer,4 2.0,5 38.0,6 nan,7 nan,8 client thank servic
+0 4356,1 Adult,2 Dar,3 Stroke,4 2.0,5 81.0,6 nan,7 nan,8 client thank servic
+0 4447,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 84.0,6 nan,7 nan,8 client thank servic
+0 4456,1 Adult,2 Dar,3 Lung Cancer,4 1.0,5 53.0,6 nan,7 nan,8 client satisfi servic
+0 4465,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 52.0,6 nan,7 nan,8 client thank servic
+0 4531,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 80.0,6 nan,7 nan,8 client thank servic
+0 4542,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 31.0,6 nan,7 nan,8 client thank servic
+0 4546,1 Adult,2 Dar,3 Maternal,4 2.0,5 40.0,6 nan,7 nan,8 client complain servic say poor
+0 4600,1 Adult,2 Dar,3 Diabetes,4 2.0,5 26.0,6 nan,7 nan,8 client thank servic
+0 4605,1 Adult,2 Dar,3 AIDS,4 1.0,5 59.0,6 nan,7 nan,8 client thank servic
+0 4628,1 Adult,2 Dar,3 AIDS,4 2.0,5 36.0,6 nan,7 nan,8 client thank servic
+0 4664,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 55.0,6 nan,7 nan,8 client thank servic
+0 4741,1 Adult,2 Dar,3 Asthma,4 1.0,5 85.0,6 nan,7 nan,8 particip thank servic
+0 4755,1 Adult,2 Dar,3 AIDS,4 2.0,5 33.0,6 nan,7 nan,8 client thank servic
+0 4757,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 62.0,6 nan,7 nan,8 client thank servic
+0 4803,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 35.0,6 nan,7 nan,8 client thank servic
+0 4863,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 49.0,6 nan,7 nan,8 particip thank servic
+0 4879,1 Adult,2 Dar,3 AIDS,4 2.0,5 23.0,6 nan,7 nan,8 client thank servic
+0 4887,1 Adult,2 Dar,3 Malaria,4 2.0,5 35.0,6 nan,7 nan,8 client thank servic least satisfactori
+0 4974,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 90.0,6 nan,7 nan,8 client thank servic
+0 5013,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 66.0,6 nan,7 nan,8 particip thank servic
+0 5030,1 Adult,2 Dar,3 AIDS,4 1.0,5 47.0,6 nan,7 nan,8 client thank servic got hospit
+0 5091,1 Adult,2 Dar,3 Stroke,4 1.0,5 nan,6 nan,7 nan,8 client thank servic said perfect
+0 5110,1 Adult,2 Dar,3 Colorectal Cancer,4 2.0,5 30.0,6 nan,7 nan,8 client thank servic
+0 5143,1 Adult,2 Dar,3 TB,4 1.0,5 53.0,6 nan,7 nan,8 client thank servic
+0 5153,1 Adult,2 Dar,3 Poisonings,4 1.0,5 65.0,6 nan,7 nan,8 particip thank servic
+0 5267,1 Adult,2 Dar,3 TB,4 1.0,5 64.0,6 nan,7 nan,8 particip thank servic
+0 5294,1 Adult,2 Dar,3 Diabetes,4 1.0,5 56.0,6 nan,7 nan,8 client thank servic
+0 5299,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 45.0,6 nan,7 nan,8 particip thank servic
+0 5338,1 Adult,2 Dar,3 AIDS,4 2.0,5 27.0,6 nan,7 nan,8 client thank servic got hospit
+0 5377,1 Adult,2 Dar,3 Homicide,4 1.0,5 39.0,6 nan,7 nan,8 poor servic client complain
+0 5383,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 65.0,6 nan,7 nan,8 client thank servic
+0 5409,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 40.0,6 nan,7 nan,8 client thank fopr servic
+0 5413,1 Adult,2 Dar,3 TB,4 1.0,5 38.0,6 nan,7 nan,8 client thank servic
+0 5538,1 Adult,2 Dar,3 Diabetes,4 1.0,5 59.0,6 nan,7 nan,8 client thank servic
+0 5599,1 Adult,2 Dar,3 Maternal,4 2.0,5 34.0,6 nan,7 nan,8 client complain servic poor
+0 5647,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 999.0,6 nan,7 nan,8 client thank servic
+0 5658,1 Adult,2 Dar,3 Maternal,4 2.0,5 22.0,6 nan,7 nan,8 client thank servic
+0 5693,1 Adult,2 Dar,3 Stroke,4 1.0,5 60.0,6 nan,7 nan,8 client thank servic
+0 5701,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 49.0,6 nan,7 nan,8 client thank servic
+0 5706,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 48.0,6 nan,7 nan,8 client thank servic certif
+0 5723,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 30.0,6 nan,7 nan,8 client thank servic
+0 5921,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 25.0,6 nan,7 nan,8 client complain poor servic
+0 6000,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 30.0,6 nan,7 nan,8 particip thank servic
+0 6019,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 65.0,6 nan,7 nan,8 client thank servic
+0 6089,1 Adult,2 Dar,3 AIDS,4 2.0,5 41.0,6 nan,7 nan,8 client thank servic got hospit satisfactori
+0 6110,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 55.0,6 nan,7 nan,8 particip thank servic
+0 6251,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 50.0,6 nan,7 nan,8 client thank servic got hospit
+0 6260,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 78.0,6 nan,7 nan,8 client thank servic
+0 6281,1 Adult,2 Dar,3 Colorectal Cancer,4 1.0,5 90.0,6 nan,7 nan,8 client thank servic
+0 6326,1 Adult,2 Dar,3 Suicide,4 2.0,5 23.0,6 nan,7 nan,8 client thank servic provid hospit
+0 6353,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 29.0,6 nan,7 nan,8 client thank servic
+0 6362,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 40.0,6 nan,7 nan,8 paticip thank servic
+0 6381,1 Adult,2 Dar,3 Maternal,4 2.0,5 15.0,6 nan,7 nan,8 client thank servic
+0 6407,1 Adult,2 Dar,3 Lung Cancer,4 1.0,5 48.0,6 nan,7 nan,8 client thank servic
+0 6437,1 Adult,2 Dar,3 TB,4 1.0,5 35.0,6 nan,7 nan,8 client complain servic poor satisfi
+0 6541,1 Adult,2 Dar,3 AIDS,4 2.0,5 35.0,6 nan,7 nan,8 client thank servic
+0 6554,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 45.0,6 nan,7 nan,8 thank servic death certif
+0 6614,1 Adult,2 Dar,3 Maternal,4 2.0,5 28.0,6 nan,7 nan,8 client thank servic
+0 6672,1 Adult,2 Dar,3 Maternal,4 2.0,5 22.0,6 nan,7 nan,8 client thank death certic
+0 6681,1 Adult,2 Dar,3 AIDS,4 1.0,5 999.0,6 nan,7 nan,8 thank hospit servic
+0 6750,1 Adult,2 Dar,3 AIDS,4 2.0,5 999.0,6 nan,7 nan,8 client thank servic
+0 6791,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 25.0,6 nan,7 nan,8 client thank servic
+0 6803,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 15.0,6 nan,7 nan,8 client thank servic
+0 6832,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 60.0,6 nan,7 nan,8 client thank servic
+0 6845,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 56.0,6 nan,7 nan,8 client thank servic
+0 6867,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 54.0,6 nan,7 nan,8 client thank servic
+0 6877,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 35.0,6 nan,7 nan,8 client thank servic
+0 6952,1 Adult,2 Dar,3 Maternal,4 2.0,5 29.0,6 nan,7 nan,8 client thank servic
+0 6962,1 Adult,2 Dar,3 Diabetes,4 1.0,5 60.0,6 nan,7 nan,8 client thank servic
+0 7010,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 78.0,6 nan,7 nan,8 client thank servic
+0 7224,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 68.0,6 nan,7 nan,8 client thank servic
+0 7244,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 33.0,6 nan,7 nan,8 client thank servic
+0 7247,1 Adult,2 Dar,3 Stroke,4 2.0,5 25.0,6 nan,7 nan,8 client thank servic
+0 7316,1 Adult,2 Dar,3 AIDS,4 2.0,5 21.0,6 nan,7 nan,8 client thank servic
+0 7413,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 46.0,6 nan,7 nan,8 client satisfi servic
+0 7441,1 Adult,2 Dar,3 TB,4 1.0,5 32.0,6 nan,7 nan,8 client thank servic
+0 7487,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 54.0,6 nan,7 nan,8 client thank servic suggest servic improv
+0 7493,1 Adult,2 Dar,3 Lung Cancer,4 1.0,5 29.0,6 nan,7 nan,8 client say servic normal
+0 7506,1 Adult,2 Dar,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 client satisfi servic
+0 7570,1 Adult,2 Dar,3 AIDS,4 1.0,5 38.0,6 nan,7 nan,8 client thank servic
+0 7629,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 50.0,6 nan,7 nan,8 client thank servic got hospit
+0 7631,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 86.0,6 nan,7 nan,8 particip thank servic
+0 7675,1 Adult,2 Dar,3 TB,4 2.0,5 41.0,6 nan,7 nan,8 client thank servic
+0 7707,1 Adult,2 Dar,3 AIDS,4 1.0,5 30.0,6 nan,7 nan,8 client tank servic
+0 7731,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 16.0,6 nan,7 nan,8 particip thank servic
+0 7746,1 Adult,2 Dar,3 Stroke,4 1.0,5 85.0,6 nan,7 nan,8 client thank servic
+0 7749,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 14.0,6 nan,7 nan,8 client complain servic send hospit
+0 7750,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 65.0,6 nan,7 nan,8 client thank servic
+0 7790,1 Adult,2 Dar,3 AIDS,4 1.0,5 50.0,6 nan,7 nan,8 client thank servic
+0 7801,1 Adult,2 Dar,3 AIDS,4 2.0,5 38.0,6 nan,7 nan,8 particip thank servic
+0 7804,1 Adult,2 Dar,3 AIDS,4 2.0,5 45.0,6 nan,7 nan,8 particip thank servic
+0 7807,1 Adult,2 Dar,3 Maternal,4 2.0,5 21.0,6 nan,7 nan,8 client thank servic think deceas die anaemia
+0 7846,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 90.0,6 nan,7 nan,8 client thank servic
+0 32,1 Child,2 Dar,3 Road Traffic,4 1.0,5 6.0,6 nan,7 nan,8 client thank visit
+0 48,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 nan,6 5.0,7 nan,8 client thank servic think child die malaria
+0 59,1 Child,2 Dar,3 Malaria,4 2.0,5 7.0,6 nan,7 nan,8 client thank servic
+0 65,1 Child,2 Dar,3 Malaria,4 2.0,5 nan,6 11.0,7 nan,8 client thank servic
+0 137,1 Child,2 Dar,3 Pneumonia,4 2.0,5 2.0,6 nan,7 nan,8 particip thank servic
+0 193,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 1.0,6 nan,7 nan,8 particip thank servic
+0 196,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 1.0,7 nan,8 client thank servic
+0 210,1 Child,2 Dar,3 Malaria,4 2.0,5 nan,6 8.0,7 nan,8 client thank servic
+0 221,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 7.0,7 nan,8 client thank servic
+0 244,1 Child,2 Dar,3 Falls,4 1.0,5 4.0,6 nan,7 nan,8 client thank servic
+0 300,1 Child,2 Dar,3 AIDS,4 2.0,5 nan,6 9.0,7 nan,8 client thank servic provid hospit
+0 332,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 2.0,5 1.0,6 nan,7 nan,8 client thank servic
+0 336,1 Child,2 Dar,3 Fires,4 1.0,5 8.0,6 nan,7 nan,8 client thank servic
+0 363,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 3.0,7 nan,8 die nt thank servic
+0 388,1 Child,2 Dar,3 Fires,4 2.0,5 8.0,6 nan,7 nan,8 client thank servic
+0 397,1 Child,2 Dar,3 Malaria,4 1.0,5 4.0,6 nan,7 nan,8 client thank servic
+0 410,1 Child,2 Dar,3 Fires,4 1.0,5 5.0,6 nan,7 nan,8 client thank servic
+0 467,1 Child,2 Dar,3 AIDS,4 1.0,5 1.0,6 nan,7 nan,8 client comment rather thank servic suggest recept servic improv reduc wast time
+0 524,1 Child,2 Dar,3 Sepsis,4 1.0,5 nan,6 6.0,7 nan,8 client thank servic hospit realli wors
+0 553,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 1.0,6 nan,7 nan,8 client servic
+0 592,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 nan,6 6.0,7 nan,8 client thank servic
+0 623,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 3.0,7 nan,8 client thank servic
+0 643,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 client thank servic client uncl die due malaria
+0 661,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 2.0,5 nan,6 6.0,7 nan,8 client thank servic
+0 688,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 3.0,6 nan,7 nan,8 client thank servic
+0 689,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 client thank servic
+0 725,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 8.0,6 nan,7 nan,8 client thank servic
+0 732,1 Child,2 Dar,3 Meningitis,4 2.0,5 nan,6 5.0,7 nan,8 client thank servic said caus death pneumonia anemia
+0 741,1 Child,2 Dar,3 Malaria,4 2.0,5 2.0,6 nan,7 nan,8 client thank servic
+0 756,1 Child,2 Dar,3 Meningitis,4 1.0,5 nan,6 4.0,7 nan,8 particip thank servic
+0 804,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 4.0,6 nan,7 nan,8 client thank servic
+0 819,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 nan,5 nan,6 8.0,7 nan,8 client thank servic got hospit wors
+0 869,1 Child,2 Dar,3 Meningitis,4 1.0,5 nan,6 11.0,7 nan,8 client thank servic
+0 891,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 8.0,7 nan,8 client thank servic
+0 954,1 Child,2 Dar,3 Pneumonia,4 nan,5 15.0,6 nan,7 nan,8 particip thank servic
+0 988,1 Child,2 Dar,3 Malaria,4 1.0,5 nan,6 9.0,7 nan,8 particip thank servic
+0 1035,1 Child,2 Dar,3 Pneumonia,4 2.0,5 2.0,6 nan,7 nan,8 client thank servic
+0 1139,1 Child,2 Dar,3 Sepsis,4 2.0,5 nan,6 5.0,7 nan,8 client complain servic got hospit delay servic
+0 1231,1 Child,2 Dar,3 Sepsis,4 1.0,5 2.0,6 nan,7 nan,8 client thank servic thought death caus malaria
+0 1283,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 client thank servic claim deli servic hospitali
+0 1303,1 Child,2 Dar,3 Other Infectious Diseases,4 1.0,5 9.0,6 nan,7 nan,8 client thank servic
+0 1363,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 7.0,7 nan,8 client thank servic
+0 1367,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 8.0,7 nan,8 client thank servic
+0 1376,1 Child,2 Dar,3 Road Traffic,4 1.0,5 11.0,6 nan,7 nan,8 client thank servic
+0 1378,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 2.0,7 nan,8 client thank servic
+0 1436,1 Child,2 Dar,3 Malaria,4 1.0,5 10.0,6 nan,7 nan,8 particip thank servic
+0 1464,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 4.0,6 nan,7 nan,8 client thank servic provid hospit
+0 1485,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 8.0,6 nan,7 nan,8 client thank servic
+0 1560,1 Child,2 Dar,3 Sepsis,4 2.0,5 1.0,6 nan,7 nan,8 client thank servic provid us
+0 1565,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 1.0,6 nan,7 nan,8 client complain servic hospit case hospit servic perfect
+0 1580,1 Child,2 Dar,3 Other Digestive Diseases,4 2.0,5 1.0,6 nan,7 nan,8 client thank servic
+0 1585,1 Child,2 Dar,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 client thank servic
+0 1712,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 2.0,5 nan,6 1.0,7 nan,8 client thank servic
+0 1817,1 Child,2 Dar,3 Other Digestive Diseases,4 2.0,5 2.0,6 nan,7 nan,8 client thank servic provid hospit
+0 1938,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 3.0,6 nan,7 nan,8 client thank servic
+0 2027,1 Child,2 Dar,3 Meningitis,4 1.0,5 nan,6 3.0,7 nan,8 client thank servic
+0 27,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 particip thank servic
+0 223,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,7 1.0,8 particip thank servic
+0 260,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 1.0,8 client thank servic
+0 310,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 client said deceas die due cyre also thank servic
+0 336,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 13.0,8 client thank servic provid hospit
+0 364,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 client thank servic
+0 387,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 client think child die prematur client thank servic
+0 407,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 7.0,8 client thank servic
+0 459,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 2.0,8 client thank servic
+0 504,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 2.0,8 client thank servic client nt death certif
+0 511,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 client thank servic
+0 539,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 particip thank servic
+0 546,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 client thank servic
+0 631,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 7.0,8 client thank servic
+0 645,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 3.0,8 client thank servic satisfi
+0 682,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 5.0,8 client thank servic
+0 936,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 4.0,8 particip thank servic
+0 1104,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 3.0,8 particip thank servic
+0 1206,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 client thank servic provid hospit wors
+0 1278,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 client thank servic provid us
+0 1286,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 14.0,8 client thank servic
+0 1300,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 client thank servic
+0 1305,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 5.0,8 client thank servic
+0 1402,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 3.0,8 client thank servic
+0 1421,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 interview thank servic got
+0 1430,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 client thank servic
+0 1592,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 client thank servic
+0 1612,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 4.0,8 client complain servic poor
+0 1651,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 11.0,8 client thank servic provid hospit
+0 1734,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,8 client thank servic got
+0 1746,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 4.0,8 client thank servic
+0 1844,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 client thank servic
+0 1896,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,7 7.0,8 particip thank servic
+0 1974,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 nan,6 nan,7 9.0,8 client thank servic
+0 2082,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 3.0,8 client thank servic
+0 2100,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 client thank servic provid us
+0 2152,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 2.0,6 nan,7 nan,8 client thank servic
+0 2263,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 client thank servic provid hospit
+0 2285,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 5.0,8 client thank servic
+0 2299,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 5.0,8 client thank servic
+0 2311,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,8 client thank servic
+0 2481,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 8.0,8 client thank servic
+0 2562,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 4.0,8 client thank servic
+0 2610,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 7.0,8 particip thank servic
