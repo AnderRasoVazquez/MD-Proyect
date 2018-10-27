@@ -16,10 +16,12 @@ class KMeans:
         data = pd.read_csv(data_path, header=0)
         print("loaded data")
         kmeans = KMeans(output_path, data, k=k, m=m)
-        kmeans._form_clusters(verbose=True)
+        kmeans.form_clusters(verbose=True)
+        # kmeans.plot(separate=True)
 
     def __init__(self, output_path, data, k=10, tolerance=0.1, m=2, init_strat="random", max_it=50):
         self._data = data
+        self._instances = None
         self._k = min(k, len(self._data))
         self._centroids = [None] * k
         self._centroid_instances = [0] * k
@@ -31,7 +33,7 @@ class KMeans:
         self._init_strat = init_strat.lower()
         self._output_path = output_path
 
-    def _form_clusters(self, verbose=False):
+    def form_clusters(self, verbose=False):
         wv_matrix = utils.tfidf_filter(self._data, 'open_response')
         self._instances = wv_matrix.A
 
@@ -54,7 +56,6 @@ class KMeans:
         self._save_clusters(verbose)
         if verbose:
             print("Clusters Saved")
-        self.plot(separate=True)
 
     def _initialize_centroids(self, init_strat):
         # default: INIT_RANDOM
@@ -160,19 +161,20 @@ class KMeans:
                 print("Saved cluster nº {}".format(i))
 
     def plot(self, separate):
-        pca = utils.pca_filter(self._instances, 2)
-        for i in range(len(self._centroids)):
-            if separate:
-                plt.figure(i)
-            c = [[random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1)]]
-            for t in range(len(self._instances)):
-                if self._belonging_bits[t][i]:
-                    plt.scatter(pca[t][0], pca[t][1], c=c)
-                    if separate:
-                        plt.text(pca[t][0], pca[t][1], s=self._data['gs_text34'][t], fontsize=10)
-            if separate:
-                plt.title("Cluster {}".format(i))
-        plt.show()
+        if self._instances is not None:
+            pca = utils.pca_filter(self._instances, 2)
+            for i in range(len(self._centroids)):
+                if separate:
+                    plt.figure(i)
+                c = [[random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1)]]
+                for t in range(len(self._instances)):
+                    if self._belonging_bits[t][i]:
+                        plt.scatter(pca[t][0], pca[t][1], c=c)
+                        if separate:
+                            plt.text(pca[t][0], pca[t][1], s=self._data['gs_text34'][t], fontsize=10)
+                if separate:
+                    plt.title("Cluster {}".format(i))
+            plt.show()
 
 
 if __name__ == '__main__':
