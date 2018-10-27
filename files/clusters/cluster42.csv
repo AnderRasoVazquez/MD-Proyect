@@ -1,224 +1,28 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-0 24,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 999.0,6 nan,7 nan,8 client noth suggest
-0 35,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 77.0,6 nan,7 nan,8 client noth say thank
-0 132,1 Adult,2 Dar,3 TB,4 2.0,5 30.0,6 nan,7 nan,8 client noth suggest
-0 239,1 Adult,2 Dar,3 Stroke,4 2.0,5 42.0,6 nan,7 nan,8 client noth add
-0 243,1 Adult,2 Dar,3 Maternal,4 2.0,5 36.0,6 nan,7 nan,8 client noth suggest
-0 299,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 29.0,6 nan,7 nan,8 client noth add
-0 384,1 Adult,2 Dar,3 AIDS,4 2.0,5 38.0,6 nan,7 nan,8 client noth say
-0 478,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 33.0,6 nan,7 nan,8 client noth suggest
-0 656,1 Adult,2 Dar,3 Homicide,4 1.0,5 19.0,6 nan,7 nan,8 client suggest noth client misplac death certif
-0 719,1 Adult,2 Dar,3 TB,4 2.0,5 70.0,6 nan,7 nan,8 client noth suggest
-0 740,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 55.0,6 nan,7 nan,8 client noth suggest
-0 842,1 Adult,2 Dar,3 Diabetes,4 1.0,5 36.0,6 nan,7 nan,8 client noth suggest
-0 914,1 Adult,2 Dar,3 Maternal,4 2.0,5 27.0,6 nan,7 nan,8 noth suggest
-0 974,1 Adult,2 Dar,3 Other Injuries,4 1.0,5 14.0,6 nan,7 nan,8 client suggest noth client misplac death certif
-0 1195,1 Adult,2 Dar,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 client noth add
-0 1205,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 52.0,6 nan,7 nan,8 client said servic poor trie show client go die need get treatment client complain
-0 1209,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 999.0,6 nan,7 nan,8 client ja noth suggest
-0 1261,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 41.0,6 nan,7 nan,8 client suggest
-0 1387,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 39.0,6 nan,7 nan,8 client noth add client said death certif left sister
-0 1440,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 48.0,6 nan,7 nan,8 client noth suggest
-0 1478,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 55.0,6 nan,7 nan,8 client noth suggest
-0 1516,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 47.0,6 nan,7 nan,8 client noth suggest
-0 1615,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client noth suggest
-0 1617,1 Adult,2 Dar,3 Maternal,4 2.0,5 25.0,6 nan,7 nan,8 client noth suggest
-0 1634,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 45.0,6 nan,7 nan,8 client noth suggest
-0 1824,1 Adult,2 Dar,3 Other Injuries,4 1.0,5 52.0,6 nan,7 nan,8 client noth add
-0 1871,1 Adult,2 Dar,3 AIDS,4 2.0,5 35.0,6 nan,7 nan,8 client noth add
-0 1894,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 40.0,6 nan,7 nan,8 client noth suggest
-0 2038,1 Adult,2 Dar,3 Homicide,4 1.0,5 24.0,6 nan,7 nan,8 client noth add
-0 2054,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 999.0,6 nan,7 nan,8 client noth add
-0 2175,1 Adult,2 Dar,3 Poisonings,4 2.0,5 27.0,6 nan,7 nan,8 client suggest noth
-0 2229,1 Adult,2 Dar,3 Falls,4 1.0,5 45.0,6 nan,7 nan,8 client noth suggest
-0 2279,1 Adult,2 Dar,3 AIDS,4 2.0,5 28.0,6 nan,7 nan,8 client noth add
-0 2284,1 Adult,2 Dar,3 Maternal,4 2.0,5 25.0,6 nan,7 nan,8 client noth add
-0 2286,1 Adult,2 Dar,3 AIDS,4 1.0,5 62.0,6 nan,7 nan,8 client noth add
-0 2323,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 22.0,6 nan,7 nan,8 client noth suggest
-0 2374,1 Adult,2 Dar,3 Stomach Cancer,4 1.0,5 60.0,6 nan,7 nan,8 client noth suggest
-0 2403,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 85.0,6 nan,7 nan,8 client noth add
-0 2432,1 Adult,2 Dar,3 TB,4 1.0,5 50.0,6 nan,7 nan,8 client noth suggest
-0 2499,1 Adult,2 Dar,3 Drowning,4 1.0,5 52.0,6 nan,7 nan,8 client noth suggest
-0 2510,1 Adult,2 Dar,3 Stroke,4 2.0,5 17.0,6 nan,7 nan,8 client noth add
-0 2592,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 51.0,6 nan,7 nan,8 client noth suggest
-0 2626,1 Adult,2 Dar,3 Road Traffic,4 2.0,5 25.0,6 nan,7 nan,8 client noth add
-0 2641,1 Adult,2 Dar,3 Stroke,4 2.0,5 48.0,6 nan,7 nan,8 client noth suggest
-0 2657,1 Adult,2 Dar,3 Maternal,4 2.0,5 35.0,6 nan,7 nan,8 client noth suggest
-0 2671,1 Adult,2 Dar,3 Homicide,4 1.0,5 23.0,6 nan,7 nan,8 client ad noth
-0 2825,1 Adult,2 Dar,3 Diabetes,4 2.0,5 16.0,6 nan,7 nan,8 client noth add
-0 2845,1 Adult,2 Dar,3 Stroke,4 2.0,5 53.0,6 nan,7 nan,8 client noth suggest
-0 2865,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 54.0,6 nan,7 nan,8 client noth suggest
-0 2867,1 Adult,2 Dar,3 AIDS,4 2.0,5 45.0,6 nan,7 nan,8 client noth say
-0 3066,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 70.0,6 nan,7 nan,8 client noth suggest
-0 3094,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 48.0,6 nan,7 nan,8 client suggest patient result releas time
-0 3125,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 25.0,6 nan,7 nan,8 client noth suggest
-0 3150,1 Adult,2 Dar,3 Road Traffic,4 2.0,5 64.0,6 nan,7 nan,8 client noth suggest
-0 3177,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 65.0,6 nan,7 nan,8 client noth suggest
-0 3254,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 63.0,6 nan,7 nan,8 client noth add death certif lost
-0 3271,1 Adult,2 Dar,3 AIDS,4 2.0,5 38.0,6 nan,7 nan,8 client noth add
-0 3286,1 Adult,2 Dar,3 Stroke,4 1.0,5 64.0,6 nan,7 nan,8 client noth suggest
-0 3454,1 Adult,2 Dar,3 Drowning,4 1.0,5 15.0,6 nan,7 nan,8 client noth suggest
-0 3461,1 Adult,2 Dar,3 Malaria,4 1.0,5 999.0,6 nan,7 nan,8 client noth suggest
-0 3478,1 Adult,2 Dar,3 Maternal,4 2.0,5 19.0,6 nan,7 nan,8 client noth suggest
-0 3482,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 75.0,6 nan,7 nan,8 client noth suggest
-0 3527,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 46.0,6 nan,7 nan,8 client noth suggest
-0 3551,1 Adult,2 Dar,3 TB,4 1.0,5 27.0,6 nan,7 nan,8 client noth client misplac death certif
-0 3649,1 Adult,2 Dar,3 Colorectal Cancer,4 2.0,5 37.0,6 nan,7 nan,8 client noth say
-0 3723,1 Adult,2 Dar,3 Lung Cancer,4 2.0,5 52.0,6 nan,7 nan,8 client noth suggest
-0 3736,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 64.0,6 nan,7 nan,8 noth say
-0 3775,1 Adult,2 Dar,3 Fires,4 1.0,5 28.0,6 nan,7 nan,8 client noth add
-0 3789,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 61.0,6 nan,7 nan,8 client noth suggest except nurs underdo deceas
-0 3840,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 47.0,6 nan,7 nan,8 client noth suggest
-0 4008,1 Adult,2 Dar,3 Falls,4 1.0,5 999.0,6 nan,7 nan,8 client noth suggest
-0 4046,1 Adult,2 Dar,3 TB,4 1.0,5 46.0,6 nan,7 nan,8 client noth add
-0 4083,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 40.0,6 nan,7 nan,8 client got noth suggest
-0 4120,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 23.0,6 nan,7 nan,8 client noth suggest
-0 4148,1 Adult,2 Dar,3 Stroke,4 1.0,5 51.0,6 nan,7 nan,8 client noth add
-0 4171,1 Adult,2 Dar,3 Malaria,4 1.0,5 38.0,6 nan,7 nan,8 client noth add
-0 4226,1 Adult,2 Dar,3 Fires,4 2.0,5 18.0,6 nan,7 nan,8 client noth suggest
-0 4251,1 Adult,2 Dar,3 AIDS,4 2.0,5 36.0,6 nan,7 nan,8 client noth suggest
-0 4306,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 55.0,6 nan,7 nan,8 client noth add
-0 4454,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 14.0,6 nan,7 nan,8 client noth suggest
-0 4458,1 Adult,2 Dar,3 Falls,4 2.0,5 18.0,6 nan,7 nan,8 client noth suggest
-0 4561,1 Adult,2 Dar,3 TB,4 2.0,5 16.0,6 nan,7 nan,8 client noth nb client believ daughter witch
-0 4642,1 Adult,2 Dar,3 TB,4 2.0,5 38.0,6 nan,7 nan,8 client noth suggest
-0 4670,1 Adult,2 Dar,3 Homicide,4 1.0,5 30.0,6 nan,7 nan,8 client noth add
-0 4672,1 Adult,2 Dar,3 Homicide,4 2.0,5 55.0,6 nan,7 nan,8 client noth add
-0 4802,1 Adult,2 Dar,3 Drowning,4 1.0,5 28.0,6 nan,7 nan,8 client suggest noth client misplac death certif
-0 4860,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 58.0,6 nan,7 nan,8 client noth add
-0 4970,1 Adult,2 Dar,3 Maternal,4 2.0,5 38.0,6 nan,7 nan,8 client noth suggest
-0 4999,1 Adult,2 Dar,3 Diabetes,4 1.0,5 59.0,6 nan,7 nan,8 client noth suggest
-0 5084,1 Adult,2 Dar,3 TB,4 2.0,5 21.0,6 nan,7 nan,8 client suggest
-0 5129,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 23.0,6 nan,7 nan,8 client noth suggest
-0 5146,1 Adult,2 Dar,3 Stroke,4 1.0,5 48.0,6 nan,7 nan,8 client suggest
-0 5164,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 58.0,6 nan,7 nan,8 interview noth suggest
-0 5230,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 24.0,6 nan,7 nan,8 client noth suggest
-0 5390,1 Adult,2 Dar,3 AIDS,4 1.0,5 57.0,6 nan,7 nan,8 client noth suggest
-0 5470,1 Adult,2 Dar,3 Epilepsy,4 2.0,5 72.0,6 nan,7 nan,8 client noth suggest
-0 5478,1 Adult,2 Dar,3 TB,4 2.0,5 27.0,6 nan,7 nan,8 client noth suggest
-0 5562,1 Adult,2 Dar,3 AIDS,4 1.0,5 28.0,6 nan,7 nan,8 client noth suggest
-0 5568,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 50.0,6 nan,7 nan,8 client noth suggest
-0 5631,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 57.0,6 nan,7 nan,8 client noth add
-0 5634,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 42.0,6 nan,7 nan,8 client noth suggest
-0 5692,1 Adult,2 Dar,3 Stroke,4 2.0,5 55.0,6 nan,7 nan,8 client noth suggest
-0 5761,1 Adult,2 Dar,3 Homicide,4 1.0,5 23.0,6 nan,7 nan,8 client noth suggest
-0 5877,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 45.0,6 nan,7 nan,8 client noth suggest
-0 5882,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 45.0,6 nan,7 nan,8 client noth say death certif seen
-0 5931,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 65.0,6 nan,7 nan,8 client noth add
-0 5977,1 Adult,2 Dar,3 Maternal,4 2.0,5 999.0,6 nan,7 nan,8 client noth addit
-0 6135,1 Adult,2 Dar,3 Malaria,4 2.0,5 22.0,6 nan,7 nan,8 client noth client misplac death certif
-0 6144,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 52.0,6 nan,7 nan,8 client suggest servic provid even noon doctor work weekend friday sunday
-0 6146,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 85.0,6 nan,7 nan,8 client noth add
-0 6368,1 Adult,2 Dar,3 Malaria,4 1.0,5 77.0,6 nan,7 nan,8 client noth suggest
-0 6378,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 38.0,6 nan,7 nan,8 client noth suggest
-0 6444,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 56.0,6 nan,7 nan,8 client noth suggest
-0 6462,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 54.0,6 nan,7 nan,8 client noth suggest
-0 6496,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 999.0,6 nan,7 nan,8 client noth add
-0 6607,1 Adult,2 Dar,3 Stomach Cancer,4 1.0,5 67.0,6 nan,7 nan,8 client noth suggest
-0 6652,1 Adult,2 Dar,3 AIDS,4 2.0,5 34.0,6 nan,7 nan,8 client noth add
-0 6674,1 Adult,2 Dar,3 Stroke,4 2.0,5 70.0,6 nan,7 nan,8 client noth suggest
-0 6725,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 28.0,6 nan,7 nan,8 client noth suggest
-0 6727,1 Adult,2 Dar,3 Falls,4 1.0,5 34.0,6 nan,7 nan,8 client noth add
-0 6733,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 38.0,6 nan,7 nan,8 client noth add
-0 6744,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 13.0,6 nan,7 nan,8 client noth deaht cerfit thrown away
-0 6855,1 Adult,2 Dar,3 Falls,4 1.0,5 44.0,6 nan,7 nan,8 client noth suggest
-0 6869,1 Adult,2 Dar,3 Homicide,4 1.0,5 29.0,6 nan,7 nan,8 client suggest noth client misplac death certif
-0 6885,1 Adult,2 Dar,3 AIDS,4 1.0,5 45.0,6 nan,7 nan,8 client noth suggest
-0 6932,1 Adult,2 Dar,3 AIDS,4 2.0,5 23.0,6 nan,7 nan,8 client noth suggest
-0 6948,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 38.0,6 nan,7 nan,8 client noth sugget
-0 6955,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 52.0,6 nan,7 nan,8 client noth suggest
-0 6985,1 Adult,2 Dar,3 Suicide,4 1.0,5 39.0,6 nan,7 nan,8 client noth suggest
-0 7023,1 Adult,2 Dar,3 AIDS,4 2.0,5 39.0,6 nan,7 nan,8 client noth add
-0 7062,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 73.0,6 nan,7 nan,8 client noth add
-0 7069,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 29.0,6 nan,7 nan,8 client noth suggest
-0 7080,1 Adult,2 Dar,3 Malaria,4 2.0,5 28.0,6 nan,7 nan,8 client noth suggest
-0 7084,1 Adult,2 Dar,3 AIDS,4 2.0,5 56.0,6 nan,7 nan,8 client noth ask suggest
-0 7127,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 37.0,6 nan,7 nan,8 client noth suggest
-0 7212,1 Adult,2 Dar,3 Homicide,4 1.0,5 58.0,6 nan,7 nan,8 client noth suggest
-0 7216,1 Adult,2 Dar,3 Stroke,4 2.0,5 65.0,6 nan,7 nan,8 client noth add
-0 7219,1 Adult,2 Dar,3 AIDS,4 2.0,5 28.0,6 nan,7 nan,8 client noth add
-0 7236,1 Adult,2 Dar,3 Other Injuries,4 1.0,5 50.0,6 nan,7 nan,8 client noth add
-0 7237,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 43.0,6 nan,7 nan,8 noth say
-0 7258,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 65.0,6 nan,7 nan,8 client noth add
-0 7273,1 Adult,2 Dar,3 Lung Cancer,4 1.0,5 52.0,6 nan,7 nan,8 client noth suggest
-0 7350,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 24.0,6 nan,7 nan,8 client noth suggest
-0 7371,1 Adult,2 Dar,3 AIDS,4 1.0,5 36.0,6 nan,7 nan,8 client noth suggest
-0 7386,1 Adult,2 Dar,3 TB,4 1.0,5 25.0,6 nan,7 nan,8 client noth suggest
-0 7473,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 60.0,6 nan,7 nan,8 theclient noth suggest
-0 7520,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 53.0,6 nan,7 nan,8 client noth add
-0 7528,1 Adult,2 Dar,3 TB,4 1.0,5 999.0,6 nan,7 nan,8 client noth add
-0 7539,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 52.0,6 nan,7 nan,8 client noth suggest thank servic
-0 7546,1 Adult,2 Dar,3 TB,4 1.0,5 56.0,6 nan,7 nan,8 client noth add
-0 7649,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 50.0,6 nan,7 nan,8 noth suggest client
-0 7724,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 23.0,6 nan,7 nan,8 client noth suggest
-0 7739,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 70.0,6 nan,7 nan,8 client noth suggest
-0 7798,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 23.0,6 nan,7 nan,8 client noth suggest
-0 7839,1 Adult,2 Dar,3 AIDS,4 2.0,5 49.0,6 nan,7 nan,8 client noth say
-0 49,1 Child,2 Dar,3 Fires,4 1.0,5 3.0,6 nan,7 nan,8 client noth suggest
-0 208,1 Child,2 Dar,3 Malaria,4 2.0,5 3.0,6 nan,7 nan,8 client noth suggest
-0 240,1 Child,2 Dar,3 Malaria,4 2.0,5 3.0,6 nan,7 nan,8 client noth suggest nurs harsh
-0 292,1 Child,2 Dar,3 Malaria,4 1.0,5 10.0,6 nan,7 nan,8 client noth add
-0 330,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 2.0,6 nan,7 nan,8 client noth add
-0 407,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 2.0,6 nan,7 nan,8 client suggest noth
-0 475,1 Child,2 Dar,3 Road Traffic,4 2.0,5 10.0,6 nan,7 nan,8 client noth suggest
-0 496,1 Child,2 Dar,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 client noth add
-0 633,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 nan,6 7.0,7 nan,8 client noth suggest
-0 714,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 3.0,6 nan,7 nan,8 client noth suggest
-0 722,1 Child,2 Dar,3 Road Traffic,4 1.0,5 4.0,6 nan,7 nan,8 client noth suggest
-0 744,1 Child,2 Dar,3 Malaria,4 2.0,5 3.0,6 nan,7 nan,8 client noth add
-0 764,1 Child,2 Dar,3 Drowning,4 2.0,5 5.0,6 nan,7 nan,8 client noth add
-0 800,1 Child,2 Dar,3 Pneumonia,4 1.0,5 2.0,6 nan,7 nan,8 client sever malaria
-0 823,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 7.0,7 nan,8 client noth
-0 840,1 Child,2 Dar,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 client suggest noth client misplac death certif
-0 1010,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 nan,6 5.0,7 nan,8 client noth add
-0 1014,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 2.0,6 nan,7 nan,8 client noth add
-0 1093,1 Child,2 Dar,3 Malaria,4 1.0,5 2.0,6 nan,7 nan,8 client noth suggest
-0 1121,1 Child,2 Dar,3 Road Traffic,4 2.0,5 6.0,6 nan,7 nan,8 client noth add
-0 1156,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 1.0,6 nan,7 nan,8 client noth add
-0 1181,1 Child,2 Dar,3 Drowning,4 1.0,5 6.0,6 nan,7 nan,8 client noth suggest
-0 1185,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 1.0,6 nan,7 nan,8 client noth add
-0 1199,1 Child,2 Dar,3 AIDS,4 1.0,5 nan,6 11.0,7 nan,8 client noth add death certif misplacrd
-0 1255,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 2.0,6 nan,7 nan,8 client noth add cri
-0 1297,1 Child,2 Dar,3 Drowning,4 1.0,5 9.0,6 nan,7 nan,8 client thank servic client misplac death certif client noth suggest
-0 1382,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 nan,6 9.0,7 nan,8 client noth suggest
-0 1405,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 nan,6 4.0,7 nan,8 client noth suggest
-0 1819,1 Child,2 Dar,3 Drowning,4 1.0,5 2.0,6 nan,7 nan,8 client noth add
-0 1832,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 client said noth
-0 1842,1 Child,2 Dar,3 Meningitis,4 1.0,5 1.0,6 nan,7 nan,8 client noth add
-0 2005,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 nan,6 8.0,7 nan,8 client said servic sometim good sometim bad mean fifti fifti client misplac death certif client said babi die due difficult breath
-0 75,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,7 14.0,8 client noth suggest
-0 83,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 7.0,8 client noth suggest client misplac death certfic
-0 160,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 2.0,8 client noth suggest
-0 213,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 3.0,8 clent misplac death client said nt know kill client suggest manag slorid mani complay inord lmprove servic hospit
-0 298,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,8 suggest
-0 309,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 client noth add
-0 314,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 14.0,8 client noth add
-0 402,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,7 19.0,8 client noth suggest client misplac death certif
-0 405,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,7 13.0,8 client noth add
-0 807,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 7.0,8 client noth add
-0 910,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,7 1.0,8 noth say
-0 923,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 noth say
-0 966,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 10.0,8 client said noth concern servic
-0 980,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 client noth suggest
-0 999,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 1.0,8 client noth add nt know caus death
-0 1085,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 8.0,8 client noth add
-0 1123,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 client noth add
-0 1172,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 3.0,8 client noth add
-0 1239,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 3.0,8 client noth add
-0 1295,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 4.0,8 client noth suggest certif misplac
-0 1408,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 client noth add
-0 1415,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 4.0,8 client noth suggest
-0 1443,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 client noth suggest
-0 1474,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 7.0,8 client noth suggest
-0 1629,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,7 1.0,8 client noth suggest
-0 1849,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 9.0,8 client noth suggest
-0 1862,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 nan,8 client noth add
-0 2065,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 nan,6 nan,7 3.0,8 client noth suggest
-0 2073,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 6.0,8 client noth add
-0 2149,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 5.0,8 client noth client nt death certif
-0 2204,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 client say someth
-0 2302,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 3.0,8 client suggest noth client nt take death certif
-0 2333,1 Neonate,2 Dar,3 Congenital malformation,4 nan,5 nan,6 nan,8 client noth say
-0 2437,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 4.0,8 client noth add
-0 2513,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 noth say
-0 2532,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 noth ad client
+16,3124,Adult,Mexico,AIDS,1.0,42.0,,,mention sever occas previou year gone doctor underw exam differ diseas aid diagnosedth inform look sad interview cri sever time kind cooper
+12,2397,Adult,Mexico,AIDS,1.0,27.0,,,commentsth mother still sad difficult ground time space
+21,6841,Adult,Mexico,AIDS,1.0,42.0,,,therapi take pill doctor said work person said husband die aid focus answer specif manner without comment face express sad worri
+5,1835,Adult,Mexico,AIDS,1.0,35.0,,,soon tube got sore lipsth inform sad would talk slowli cri answer
+2,919,Adult,Mexico,COPD,2.0,85.0,,,noveri peac inform nt give extra inform
+18,4515,Adult,Mexico,Colorectal Cancer,2.0,93.0,,,comment doubtsdur interview man eye fill tear sever time hard time answer question immedi think nt want cri
+6,1845,Adult,Mexico,Diabetes,1.0,61.0,,,point view hospit fault nt take care time fashion would give care informationsever rel arriv explain arriv inform calm sad
+23,7455,Adult,Mexico,Diabetes,1.0,74.0,,,commentsth ladi say father fell entranc hous fractur hip wish go doctor time got wors sad
+13,2732,Adult,Mexico,Leukemia/Lymphomas,1.0,20.0,,,commentsth inform calm sad interview shed tear
+24,7761,Adult,Mexico,Leukemia/Lymphomas,1.0,17.0,,,loss sad happen within day forc go doctor would happenedsh accept emot support say feel much necessari feel sad time famili know write smart woman understood everyth answer assert strong kind accompani take bu
+9,1954,Adult,Mexico,Leukemia/Lymphomas,1.0,74.0,,,commentsat first inform distrust ask sought particip repli somewhat random becam relax woman appear sad moment smile end calm nice gave mole told could come back whenev want
+11,2158,Adult,Mexico,Other Cardiovascular Diseases,1.0,85.0,,,end liquid came arm leg bodi knew go pass away call children ask forgiv himth interviewe kind sad loss husband
+3,1151,Adult,Mexico,Other Cardiovascular Diseases,1.0,31.0,,,first symptom extrem drowsi test end figur heartth ladi look sad want answer socioeconom part studi
+1,824,Adult,Mexico,Other Infectious Diseases,1.0,44.0,,,sinc year nt lymphoma anymor handl end tumor chest mediastinumth inform nice even offer someth eat thank nt accept said nt ask serv nice cooper
+7,1935,Adult,Mexico,Other Infectious Diseases,1.0,48.0,,,commentsat begin interview bit tens sinc inform start cri moment ask date death ask whether need time recov want come back anoth day said use might well answer said talk would help know talk later make sad later calm interview flow smoothli end thank listen
+25,7765,Adult,Mexico,Other Non-communicable Diseases,2.0,71.0,,,need oxygen took hopeless condit point use better give someon els could take advantag given opportun ask could get open alreadi done taken use analysi doctor cordial rude despit hard time one go person take emot support session depress cri interview angri mother livein partner sad experi live deceas diseas surgeri hospit
+17,3759,Adult,Mexico,Pneumonia,1.0,29.0,,,symptom made look like influenza fact would say nt know thatth ladi look sad cooper kind
+20,5600,Adult,Mexico,Pneumonia,2.0,86.0,,,nt rememb anythingat begin inform look sad soon talk afterward agre interview went smoothli
+19,5339,Adult,Mexico,Pneumonia,1.0,74.0,,,help handsth interviewe answer question gener inform modul secur reason mistrust person mention never left husband side stay wait room wait test result oper lung time put valv chest sad moment sob nt need emot support session
+26,945,Neonate,Mexico,Preterm Delivery,1.0,,,0.0,hope help someoneth mother sad hurt thing happen lost anoth babi thursday month sorri end interview
+8,1950,Adult,Mexico,Renal Failure,2.0,74.0,,,noveri sad inform cri sever occas
+0,668,Adult,Mexico,Renal Failure,1.0,76.0,,,noth help give inform other benefit gladli alreadi donat hear aid thing use peopl husband use say one care father let sibl never listen gone avail husband use get angri gone person state sad want emot support session say sad never end alway father special person mention father die sad diseas
+22,7070,Adult,Mexico,Road Traffic,1.0,18.0,,,institution would inhal solvent went parti pick sister troubl man nt agre drink daughter came back said son danger ask nt come back went look polic station got hospit interview long woman sad would cri lot
+14,2745,Adult,Mexico,Stroke,2.0,90.0,,,child love much work much would happi good deathth inform say mother breakfast told time remain weak state think die sad old age want share time work imped although took work felt fine healthwis despit chronic diseas four month death leg amput insomniac longer want eat request emot support need talk someon mourn mix emot sad joy mother like child took care dress cleans time respect mother ask permiss go somewher current talk pictur tell day ask permiss still
+10,2035,Adult,Mexico,Stroke,2.0,66.0,,,commentat end interview name sad thought emot support session would necessari due distanc saw began get thing chest remain hour allow talk go famili live place alon grandfath grandmoth like mother sad need someon talk get thing chest
+4,1210,Adult,Mexico,Stroke,1.0,84.0,,,hope use prevent peopl go suffer better inform healthth interview took place relax environ even though end inform sad talk calm thank us visit
+15,3120,Adult,AP,Suicide,2.0,19.0,,,inform patient die consum poison could surviv even spend rs lack felt sad

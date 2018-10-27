@@ -1,234 +1,93 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-0 20,1 Adult,2 UP,3 Cirrhosis,4 1.0,5 45.0,6 nan,7 nan,8 nan
-0 53,1 Adult,2 Mexico,3 Suicide,4 2.0,5 15.0,6 nan,7 nan,8 nan
-0 93,1 Adult,2 AP,3 Bite of Venomous Animal,4 1.0,5 39.0,6 nan,7 nan,8 nan
-0 145,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 18.0,6 nan,7 nan,8 nan
-0 233,1 Adult,2 AP,3 Pneumonia,4 2.0,5 25.0,6 nan,7 nan,8 nan
-0 301,1 Adult,2 AP,3 COPD,4 1.0,5 60.0,6 nan,7 nan,8 nan
-0 345,1 Adult,2 Mexico,3 Acute Myocardial Infarction,4 1.0,5 66.0,6 nan,7 nan,8 nan
-0 409,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 52.0,6 nan,7 nan,8 nan
-0 519,1 Adult,2 Mexico,3 Other Cardiovascular Diseases,4 2.0,5 58.0,6 nan,7 nan,8 nan
-0 555,1 Adult,2 UP,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 nan
-0 595,1 Adult,2 Mexico,3 Other Infectious Diseases,4 1.0,5 48.0,6 nan,7 nan,8 nan
-0 675,1 Adult,2 Mexico,3 Prostate Cancer,4 1.0,5 80.0,6 nan,7 nan,8 nan
-0 723,1 Adult,2 Mexico,3 Cirrhosis,4 1.0,5 51.0,6 nan,7 nan,8 nan
-0 806,1 Adult,2 AP,3 Pneumonia,4 1.0,5 19.0,6 nan,7 nan,8 nan
-0 830,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 2.0,5 60.0,6 nan,7 nan,8 nan
-0 881,1 Adult,2 Mexico,3 Diabetes,4 1.0,5 54.0,6 nan,7 nan,8 nan
-0 924,1 Adult,2 AP,3 Malaria,4 1.0,5 25.0,6 nan,7 nan,8 nan
-0 953,1 Adult,2 UP,3 Diarrhea/Dysentery,4 1.0,5 24.0,6 nan,7 nan,8 nan
-0 983,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 75.0,6 nan,7 nan,8 nan
-0 1053,1 Adult,2 Mexico,3 Renal Failure,4 2.0,5 89.0,6 nan,7 nan,8 nan
-0 1100,1 Adult,2 Bohol,3 Maternal,4 2.0,5 41.0,6 nan,7 nan,8 nan
-0 1125,1 Adult,2 Bohol,3 Acute Myocardial Infarction,4 2.0,5 78.0,6 nan,7 nan,8 nan
-0 1147,1 Adult,2 Mexico,3 Other Non-communicable Diseases,4 2.0,5 62.0,6 nan,7 nan,8 nan
-0 1249,1 Adult,2 AP,3 Pneumonia,4 1.0,5 28.0,6 nan,7 nan,8 nan
-0 1292,1 Adult,2 AP,3 Renal Failure,4 2.0,5 74.0,6 nan,7 nan,8 nan
-0 1351,1 Adult,2 AP,3 Acute Myocardial Infarction,4 1.0,5 54.0,6 nan,7 nan,8 nan
-0 1384,1 Adult,2 Mexico,3 Other Infectious Diseases,4 1.0,5 49.0,6 nan,7 nan,8 nan
-0 1466,1 Adult,2 AP,3 Maternal,4 2.0,5 26.0,6 nan,7 nan,8 nan
-0 1526,1 Adult,2 AP,3 Renal Failure,4 2.0,5 55.0,6 nan,7 nan,8 nan
-0 1561,1 Adult,2 Bohol,3 Falls,4 1.0,5 65.0,6 nan,7 nan,8 nan
-0 1600,1 Adult,2 Mexico,3 Colorectal Cancer,4 2.0,5 60.0,6 nan,7 nan,8 nan
-0 1656,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 1.0,5 25.0,6 nan,7 nan,8 nan
-0 1754,1 Adult,2 AP,3 Bite of Venomous Animal,4 1.0,5 26.0,6 nan,7 nan,8 nan
-0 1828,1 Adult,2 AP,3 Diarrhea/Dysentery,4 2.0,5 58.0,6 nan,7 nan,8 nan
-0 1863,1 Adult,2 Bohol,3 Other Non-communicable Diseases,4 1.0,5 50.0,6 nan,7 nan,8 nan
-0 1929,1 Adult,2 UP,3 Renal Failure,4 1.0,5 85.0,6 nan,7 nan,8 nan
-0 1982,1 Adult,2 AP,3 Diabetes,4 1.0,5 57.0,6 nan,7 nan,8 nan
-0 2034,1 Adult,2 AP,3 Drowning,4 1.0,5 23.0,6 nan,7 nan,8 nan
-0 2092,1 Adult,2 Bohol,3 Other Infectious Diseases,4 1.0,5 31.0,6 nan,7 nan,8 nan
-0 2156,1 Adult,2 AP,3 Other Non-communicable Diseases,4 2.0,5 16.0,6 nan,7 nan,8 nan
-0 2189,1 Adult,2 AP,3 Renal Failure,4 1.0,5 60.0,6 nan,7 nan,8 nan
-0 2261,1 Adult,2 AP,3 TB,4 2.0,5 14.0,6 nan,7 nan,8 nan
-0 2305,1 Adult,2 AP,3 Drowning,4 1.0,5 28.0,6 nan,7 nan,8 nan
-0 2330,1 Adult,2 AP,3 Acute Myocardial Infarction,4 2.0,5 61.0,6 nan,7 nan,8 nan
-0 2407,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 67.0,6 nan,7 nan,8 nan
-0 2449,1 Adult,2 Mexico,3 Pneumonia,4 1.0,5 49.0,6 nan,7 nan,8 nan
-0 2520,1 Adult,2 AP,3 AIDS,4 2.0,5 40.0,6 nan,7 nan,8 nan
-0 2550,1 Adult,2 AP,3 Maternal,4 2.0,5 20.0,6 nan,7 nan,8 nan
-0 2591,1 Adult,2 AP,3 Epilepsy,4 2.0,5 38.0,6 nan,7 nan,8 nan
-0 2632,1 Adult,2 AP,3 Malaria,4 1.0,5 39.0,6 nan,7 nan,8 nan
-0 2742,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 43.0,6 nan,7 nan,8 nan
-0 2786,1 Adult,2 Bohol,3 Other Non-communicable Diseases,4 2.0,5 53.0,6 nan,7 nan,8 nan
-0 2821,1 Adult,2 AP,3 Stroke,4 1.0,5 50.0,6 nan,7 nan,8 nan
-0 2875,1 Adult,2 Mexico,3 Other Cardiovascular Diseases,4 1.0,5 85.0,6 nan,7 nan,8 nan
-0 2922,1 Adult,2 AP,3 Cervical Cancer,4 2.0,5 44.0,6 nan,7 nan,8 nan
-0 2971,1 Adult,2 UP,3 AIDS,4 2.0,5 75.0,6 nan,7 nan,8 nan
-0 3047,1 Adult,2 AP,3 Homicide,4 2.0,5 16.0,6 nan,7 nan,8 nan
-0 3089,1 Adult,2 AP,3 AIDS,4 2.0,5 22.0,6 nan,7 nan,8 nan
-0 3170,1 Adult,2 Mexico,3 Colorectal Cancer,4 1.0,5 78.0,6 nan,7 nan,8 nan
-0 3230,1 Adult,2 AP,3 Suicide,4 2.0,5 45.0,6 nan,7 nan,8 nan
-0 3280,1 Adult,2 Mexico,3 Colorectal Cancer,4 1.0,5 54.0,6 nan,7 nan,8 nan
-0 3306,1 Adult,2 Mexico,3 Diabetes,4 1.0,5 36.0,6 nan,7 nan,8 nan
-0 3363,1 Adult,2 AP,3 AIDS,4 1.0,5 38.0,6 nan,7 nan,8 nan
-0 3432,1 Adult,2 AP,3 Cirrhosis,4 1.0,5 21.0,6 nan,7 nan,8 nan
-0 3475,1 Adult,2 AP,3 Stroke,4 1.0,5 42.0,6 nan,7 nan,8 nan
-0 3508,1 Adult,2 AP,3 Epilepsy,4 1.0,5 52.0,6 nan,7 nan,8 nan
-0 3625,1 Adult,2 Bohol,3 Other Non-communicable Diseases,4 2.0,5 75.0,6 nan,7 nan,8 nan
-0 3791,1 Adult,2 AP,3 Poisonings,4 1.0,5 24.0,6 nan,7 nan,8 nan
-0 3823,1 Adult,2 AP,3 Renal Failure,4 1.0,5 30.0,6 nan,7 nan,8 nan
-0 3905,1 Adult,2 UP,3 COPD,4 2.0,5 45.0,6 nan,7 nan,8 nan
-0 3950,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 56.0,6 nan,7 nan,8 nan
-0 3994,1 Adult,2 Mexico,3 AIDS,4 2.0,5 25.0,6 nan,7 nan,8 nan
-0 4100,1 Adult,2 AP,3 Homicide,4 2.0,5 60.0,6 nan,7 nan,8 nan
-0 4163,1 Adult,2 AP,3 Acute Myocardial Infarction,4 1.0,5 65.0,6 nan,7 nan,8 nan
-0 4214,1 Adult,2 Mexico,3 Renal Failure,4 1.0,5 28.0,6 nan,7 nan,8 nan
-0 4275,1 Adult,2 AP,3 Other Non-communicable Diseases,4 2.0,5 55.0,6 nan,7 nan,8 nan
-0 4339,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 1.0,5 41.0,6 nan,7 nan,8 nan
-0 4370,1 Adult,2 UP,3 Diarrhea/Dysentery,4 1.0,5 13.0,6 nan,7 nan,8 nan
-0 4430,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 80.0,6 nan,7 nan,8 nan
-0 4481,1 Adult,2 Mexico,3 Lung Cancer,4 1.0,5 35.0,6 nan,7 nan,8 nan
-0 4530,1 Adult,2 AP,3 Homicide,4 2.0,5 26.0,6 nan,7 nan,8 nan
-0 4652,1 Adult,2 UP,3 Diarrhea/Dysentery,4 1.0,5 85.0,6 nan,7 nan,8 nan
-0 4713,1 Adult,2 AP,3 Bite of Venomous Animal,4 1.0,5 14.0,6 nan,7 nan,8 nan
-0 4778,1 Adult,2 Mexico,3 Stomach Cancer,4 2.0,5 44.0,6 nan,7 nan,8 nan
-0 4870,1 Adult,2 AP,3 Diabetes,4 1.0,5 60.0,6 nan,7 nan,8 nan
-0 4888,1 Adult,2 AP,3 Acute Myocardial Infarction,4 2.0,5 37.0,6 nan,7 nan,8 nan
-0 4980,1 Adult,2 UP,3 COPD,4 1.0,5 61.0,6 nan,7 nan,8 nan
-0 5025,1 Adult,2 AP,3 Asthma,4 2.0,5 80.0,6 nan,7 nan,8 nan
-0 5072,1 Adult,2 AP,3 Road Traffic,4 1.0,5 25.0,6 nan,7 nan,8 nan
-0 5123,1 Adult,2 Mexico,3 Renal Failure,4 2.0,5 22.0,6 nan,7 nan,8 nan
-0 5158,1 Adult,2 AP,3 Diabetes,4 2.0,5 66.0,6 nan,7 nan,8 nan
-0 5214,1 Adult,2 Mexico,3 Homicide,4 1.0,5 33.0,6 nan,7 nan,8 nan
-0 5262,1 Adult,2 AP,3 Bite of Venomous Animal,4 2.0,5 14.0,6 nan,7 nan,8 nan
-0 5305,1 Adult,2 AP,3 AIDS,4 2.0,5 30.0,6 nan,7 nan,8 nan
-0 5344,1 Adult,2 Bohol,3 Diabetes,4 2.0,5 58.0,6 nan,7 nan,8 nan
-0 5372,1 Adult,2 Mexico,3 Colorectal Cancer,4 1.0,5 56.0,6 nan,7 nan,8 nan
-0 5423,1 Adult,2 AP,3 Poisonings,4 1.0,5 66.0,6 nan,7 nan,8 nan
-0 5460,1 Adult,2 Mexico,3 COPD,4 1.0,5 38.0,6 nan,7 nan,8 nan
-0 5539,1 Adult,2 AP,3 Pneumonia,4 1.0,5 83.0,6 nan,7 nan,8 nan
-0 5601,1 Adult,2 Bohol,3 Other Infectious Diseases,4 1.0,5 13.0,6 nan,7 nan,8 nan
-0 5614,1 Adult,2 Mexico,3 COPD,4 2.0,5 66.0,6 nan,7 nan,8 nan
-0 5679,1 Adult,2 AP,3 Maternal,4 2.0,5 23.0,6 nan,7 nan,8 nan
-0 5722,1 Adult,2 AP,3 Falls,4 1.0,5 57.0,6 nan,7 nan,8 nan
-0 5771,1 Adult,2 Mexico,3 Stomach Cancer,4 2.0,5 58.0,6 nan,7 nan,8 nan
-0 5824,1 Adult,2 AP,3 Diabetes,4 1.0,5 55.0,6 nan,7 nan,8 nan
-0 5859,1 Adult,2 Bohol,3 Renal Failure,4 2.0,5 29.0,6 nan,7 nan,8 nan
-0 5944,1 Adult,2 AP,3 Homicide,4 1.0,5 52.0,6 nan,7 nan,8 nan
-0 6025,1 Adult,2 AP,3 TB,4 1.0,5 19.0,6 nan,7 nan,8 nan
-0 6083,1 Adult,2 AP,3 Renal Failure,4 1.0,5 58.0,6 nan,7 nan,8 nan
-0 6116,1 Adult,2 AP,3 Acute Myocardial Infarction,4 2.0,5 61.0,6 nan,7 nan,8 nan
-0 6173,1 Adult,2 AP,3 Stroke,4 2.0,5 70.0,6 nan,7 nan,8 nan
-0 6234,1 Adult,2 Mexico,3 Renal Failure,4 1.0,5 21.0,6 nan,7 nan,8 nan
-0 6280,1 Adult,2 Bohol,3 Homicide,4 1.0,5 26.0,6 nan,7 nan,8 nan
-0 6310,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 56.0,6 nan,7 nan,8 nan
-0 6414,1 Adult,2 Mexico,3 Stomach Cancer,4 2.0,5 64.0,6 nan,7 nan,8 nan
-0 6488,1 Adult,2 AP,3 Diabetes,4 2.0,5 22.0,6 nan,7 nan,8 nan
-0 6589,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 62.0,6 nan,7 nan,8 nan
-0 6641,1 Adult,2 Mexico,3 Acute Myocardial Infarction,4 1.0,5 73.0,6 nan,7 nan,8 nan
-0 6721,1 Adult,2 AP,3 Stroke,4 2.0,5 66.0,6 nan,7 nan,8 nan
-0 6771,1 Adult,2 AP,3 Diabetes,4 2.0,5 57.0,6 nan,7 nan,8 nan
-0 6839,1 Adult,2 AP,3 Bite of Venomous Animal,4 1.0,5 24.0,6 nan,7 nan,8 nan
-0 6878,1 Adult,2 Mexico,3 Acute Myocardial Infarction,4 1.0,5 78.0,6 nan,7 nan,8 nan
-0 6925,1 Adult,2 UP,3 COPD,4 1.0,5 41.0,6 nan,7 nan,8 nan
-0 6988,1 Adult,2 AP,3 Diarrhea/Dysentery,4 2.0,5 90.0,6 nan,7 nan,8 nan
-0 7136,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 2.0,5 13.0,6 nan,7 nan,8 nan
-0 7189,1 Adult,2 AP,3 AIDS,4 2.0,5 35.0,6 nan,7 nan,8 nan
-0 7210,1 Adult,2 AP,3 Suicide,4 1.0,5 17.0,6 nan,7 nan,8 nan
-0 7309,1 Adult,2 AP,3 Homicide,4 2.0,5 13.0,6 nan,7 nan,8 nan
-0 7388,1 Adult,2 Bohol,3 Diabetes,4 1.0,5 55.0,6 nan,7 nan,8 nan
-0 7425,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 81.0,6 nan,7 nan,8 nan
-0 7463,1 Adult,2 AP,3 Diabetes,4 1.0,5 56.0,6 nan,7 nan,8 nan
-0 7483,1 Adult,2 AP,3 Malaria,4 1.0,5 37.0,6 nan,7 nan,8 nan
-0 7535,1 Adult,2 AP,3 Diabetes,4 2.0,5 25.0,6 nan,7 nan,8 nan
-0 7574,1 Adult,2 AP,3 Stroke,4 2.0,5 57.0,6 nan,7 nan,8 nan
-0 7665,1 Adult,2 AP,3 Diarrhea/Dysentery,4 1.0,5 85.0,6 nan,7 nan,8 nan
-0 7721,1 Adult,2 AP,3 Malaria,4 1.0,5 29.0,6 nan,7 nan,8 nan
-0 7786,1 Adult,2 AP,3 Diarrhea/Dysentery,4 2.0,5 30.0,6 nan,7 nan,8 nan
-0 7830,1 Adult,2 AP,3 Road Traffic,4 1.0,5 27.0,6 nan,7 nan,8 nan
-0 23,1 Child,2 UP,3 Encephalitis,4 1.0,5 10.0,6 nan,7 nan,8 nan
-0 72,1 Child,2 AP,3 Other Cardiovascular Diseases,4 1.0,5 nan,6 3.0,7 nan,8 nan
-0 96,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 1.0,5 4.0,6 nan,7 nan,8 nan
-0 146,1 Child,2 UP,3 Sepsis,4 1.0,5 7.0,6 nan,7 nan,8 nan
-0 172,1 Child,2 AP,3 Violent Death,4 1.0,5 nan,6 8.0,7 nan,8 nan
-0 238,1 Child,2 AP,3 Pneumonia,4 1.0,5 nan,6 1.0,7 nan,8 nan
-0 259,1 Child,2 UP,3 Sepsis,4 1.0,5 8.0,6 nan,7 nan,8 nan
-0 308,1 Child,2 AP,3 Diarrhea/Dysentery,4 2.0,5 nan,6 5.0,7 nan,8 nan
-0 335,1 Child,2 Mexico,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 1.0,7 nan,8 nan
-0 375,1 Child,2 AP,3 Hemorrhagic fever,4 1.0,5 nan,6 3.0,7 nan,8 nan
-0 402,1 Child,2 AP,3 Hemorrhagic fever,4 2.0,5 11.0,6 nan,7 nan,8 nan
-0 442,1 Child,2 UP,3 Diarrhea/Dysentery,4 1.0,5 nan,6 2.0,7 nan,8 nan
-0 500,1 Child,2 AP,3 Sepsis,4 1.0,5 nan,6 5.0,7 nan,8 nan
-0 525,1 Child,2 UP,3 Diarrhea/Dysentery,4 1.0,5 1.0,6 nan,7 nan,8 nan
-0 556,1 Child,2 AP,3 Diarrhea/Dysentery,4 2.0,5 nan,6 4.0,7 nan,8 nan
-0 576,1 Child,2 AP,3 Road Traffic,4 2.0,5 8.0,6 nan,7 nan,8 nan
-0 610,1 Child,2 AP,3 Drowning,4 1.0,5 7.0,6 nan,7 nan,8 nan
-0 654,1 Child,2 AP,3 Pneumonia,4 1.0,5 nan,6 3.0,7 nan,8 nan
-0 669,1 Child,2 AP,3 AIDS,4 1.0,5 8.0,6 nan,7 nan,8 nan
-0 738,1 Child,2 AP,3 Malaria,4 2.0,5 11.0,6 nan,7 nan,8 nan
-0 788,1 Child,2 AP,3 Hemorrhagic fever,4 1.0,5 2.0,6 nan,7 nan,8 nan
-0 842,1 Child,2 AP,3 Violent Death,4 2.0,5 3.0,6 nan,7 nan,8 nan
-0 873,1 Child,2 AP,3 Bite of Venomous Animal,4 1.0,5 2.0,6 nan,7 nan,8 nan
-0 893,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 2.0,5 8.0,6 nan,7 nan,8 nan
-0 915,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 1.0,5 1.0,6 nan,7 nan,8 nan
-0 959,1 Child,2 AP,3 Drowning,4 1.0,5 5.0,6 nan,7 nan,8 nan
-0 1020,1 Child,2 AP,3 Diarrhea/Dysentery,4 1.0,5 nan,6 1.0,7 nan,8 nan
-0 1051,1 Child,2 UP,3 Measles,4 1.0,5 1.0,6 nan,7 nan,8 nan
-0 1098,1 Child,2 AP,3 Sepsis,4 1.0,5 nan,6 5.0,7 nan,8 nan
-0 1131,1 Child,2 Mexico,3 Diarrhea/Dysentery,4 1.0,5 nan,6 1.0,7 nan,8 nan
-0 1152,1 Child,2 AP,3 Pneumonia,4 1.0,5 nan,6 3.0,7 nan,8 nan
-0 1178,1 Child,2 AP,3 Road Traffic,4 1.0,5 8.0,6 nan,7 nan,8 nan
-0 1253,1 Child,2 AP,3 Drowning,4 1.0,5 4.0,6 nan,7 nan,8 nan
-0 1321,1 Child,2 AP,3 Violent Death,4 1.0,5 11.0,6 nan,7 nan,8 nan
-0 1394,1 Child,2 AP,3 Violent Death,4 1.0,5 2.0,6 nan,7 nan,8 nan
-0 1421,1 Child,2 AP,3 Falls,4 1.0,5 4.0,6 nan,7 nan,8 nan
-0 1452,1 Child,2 AP,3 Drowning,4 1.0,5 2.0,6 nan,7 nan,8 nan
-0 1493,1 Child,2 AP,3 Diarrhea/Dysentery,4 1.0,5 nan,6 9.0,7 nan,8 nan
-0 1513,1 Child,2 AP,3 Drowning,4 1.0,5 4.0,6 nan,7 nan,8 nan
-0 1556,1 Child,2 AP,3 Other Cardiovascular Diseases,4 1.0,5 nan,6 2.0,7 nan,8 nan
-0 1599,1 Child,2 AP,3 Road Traffic,4 2.0,5 4.0,6 nan,7 nan,8 nan
-0 1650,1 Child,2 AP,3 Fires,4 1.0,5 10.0,6 nan,7 nan,8 nan
-0 1696,1 Child,2 AP,3 Drowning,4 1.0,5 1.0,6 nan,7 nan,8 nan
-0 1772,1 Child,2 Mexico,3 Other Defined Causes of Child Deaths,4 2.0,5 nan,6 nan,7 29.0,8 nan
-0 1807,1 Child,2 Mexico,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 2.0,7 nan,8 nan
-0 1834,1 Child,2 AP,3 Fires,4 2.0,5 9.0,6 nan,7 nan,8 nan
-0 1881,1 Child,2 AP,3 Bite of Venomous Animal,4 2.0,5 11.0,6 nan,7 nan,8 nan
-0 1920,1 Child,2 AP,3 Sepsis,4 1.0,5 nan,6 6.0,7 nan,8 nan
-0 1940,1 Child,2 AP,3 Drowning,4 1.0,5 11.0,6 nan,7 nan,8 nan
-0 1977,1 Child,2 AP,3 Pneumonia,4 2.0,5 nan,6 7.0,7 nan,8 nan
-0 2024,1 Child,2 AP,3 Diarrhea/Dysentery,4 2.0,5 1.0,6 nan,7 nan,8 nan
-0 25,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 nan
-0 55,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 1.0,8 nan
-0 90,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 186,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 nan
-0 237,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 3.0,8 nan
-0 290,1 Neonate,2 AP,3 Congenital malformation,4 2.0,5 nan,6 nan,7 2.0,8 nan
-0 349,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 401,1 Neonate,2 Mexico,3 Congenital malformation,4 2.0,5 nan,6 nan,7 1.0,8 nan
-0 440,1 Neonate,2 AP,3 Congenital malformation,4 2.0,5 nan,6 nan,7 3.0,8 nan
-0 514,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 555,1 Neonate,2 Mexico,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 nan
-0 616,1 Neonate,2 Mexico,3 Congenital malformation,4 2.0,5 nan,6 nan,7 7.0,8 nan
-0 672,1 Neonate,2 AP,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 nan
-0 726,1 Neonate,2 Mexico,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 13.0,8 nan
-0 779,1 Neonate,2 Mexico,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 819,1 Neonate,2 AP,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 nan
-0 875,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 960,1 Neonate,2 UP,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 nan
-0 987,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,7 12.0,8 nan
-0 1106,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 1.0,8 nan
-0 1139,1 Neonate,2 Mexico,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 nan
-0 1209,1 Neonate,2 Bohol,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 nan
-0 1299,1 Neonate,2 UP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 1349,1 Neonate,2 Mexico,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 4.0,8 nan
-0 1384,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 nan
-0 1456,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 nan
-0 1492,1 Neonate,2 UP,3 Pneumonia,4 1.0,5 nan,6 nan,8 nan
-0 1576,1 Neonate,2 Bohol,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 nan
-0 1650,1 Neonate,2 Mexico,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 nan
-0 1728,1 Neonate,2 Mexico,3 Congenital malformation,4 1.0,5 nan,6 nan,7 1.0,8 nan
-0 1832,1 Neonate,2 AP,3 Pneumonia,4 1.0,5 nan,6 nan,7 4.0,8 nan
-0 1880,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 1946,1 Neonate,2 AP,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 6.0,8 nan
-0 1987,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 2059,1 Neonate,2 UP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 2170,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 2246,1 Neonate,2 Mexico,3 Congenital malformation,4 2.0,5 nan,6 nan,8 nan
-0 2296,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 2357,1 Neonate,2 UP,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 nan
-0 2401,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 2440,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 nan
-0 2479,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 1.0,8 nan
-0 2563,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 2611,1 Neonate,2 AP,3 Birth asphyxia,4 2.0,5 nan,6 nan,7 1.0,8 nan
+64,1445,Child,UP,Bite of Venomous Animal,1.0,8.0,,,babi quit healthi day death child die scorpion bite
+40,1039,Child,UP,Bite of Venomous Animal,2.0,2.0,,,accord respond child healthi die snake bite nail turn blue
+90,2063,Child,UP,Bite of Venomous Animal,1.0,10.0,,,child physic problem die got snake bite snake bite child eye nail turn blue
+13,254,Child,UP,Bite of Venomous Animal,1.0,3.0,,,child healthi incid took place anim like jackal leopard taken away child field sleep mani hour search famili member found bodi babi anim suck blood neck eaten ear
+49,1130,Child,UP,Bite of Venomous Animal,2.0,7.0,,,child ailment die snake bite
+52,1179,Child,UP,Bite of Venomous Animal,1.0,9.0,,,child got snake bite side home afternoon taken commun health center die treatment
+57,1318,Child,UP,Bite of Venomous Animal,1.0,5.0,,,child got snake bite die hour take hospit
+73,1705,Child,UP,Bite of Venomous Animal,2.0,11.0,,,child healthi die snake bite
+5,125,Child,UP,Bite of Venomous Animal,1.0,9.0,,,child healthi die snake bite
+4,88,Child,UP,Bite of Venomous Animal,2.0,11.0,,,babi physic problem die snake bite
+2,17,Child,UP,Bite of Venomous Animal,2.0,8.0,,,child healthi physic problem child got snake bite die minut bodi turn blue jaw got stuck
+24,599,Child,UP,Diarrhea/Dysentery,2.0,5.0,,,child healthi one day death ailment accord villag well drink water ever drunk water well fall ill two children also die
+59,1337,Child,UP,Diarrhea/Dysentery,2.0,8.0,,,child healthi birth suddenli fall ill die
+53,1180,Child,UP,Drowning,1.0,8.0,,,child die boat got drown river water get nose
+30,716,Child,UP,Drowning,2.0,10.0,,,girl child drown river
+65,1544,Child,UP,Drowning,1.0,6.0,,,child healthi problem incid child drawn pond
+32,730,Child,UP,Drowning,2.0,6.0,,,child ailment die drawn pond
+35,834,Child,UP,Drowning,1.0,7.0,,,incid took place chil ill birth child quit healthi went play near river went river
+79,1776,Child,UP,Drowning,1.0,9.0,,,accord respond child went take bath pond drawn depth die
+41,1044,Child,UP,Drowning,1.0,8.0,,,child physic problem drown pond die
+60,1342,Child,UP,Drowning,2.0,10.0,,,child physic problem drawn canal die
+58,1328,Child,UP,Drowning,1.0,9.0,,,child ailment die drawn pond
+74,1720,Child,UP,Drowning,2.0,8.0,,,child problem die drown canal
+51,1176,Child,UP,Drowning,1.0,11.0,,,child healthi problem child got scorpion bite year back receiv treatment day hospit took medicin month becam healthi child die drawn pond
+77,1761,Child,UP,Drowning,2.0,11.0,,,incid took place father went somewher mother went work nearbi field son daughter went play near pond daughter went wash hand children slip pond brother jump pond save girl die pond boy becam unconsci take hospit die way incid took place child healthi diseas
+29,651,Child,UP,Drowning,1.0,2.0,,,press clip also child die drown pond
+31,724,Child,UP,Drowning,1.0,6.0,,,per father child got drown river boat gone visit place
+9,211,Child,UP,Drowning,2.0,10.0,,,child ailment die drawn canal
+25,614,Child,UP,Drowning,1.0,2.0,,,child drown canal die
+23,550,Child,UP,Drowning,2.0,6.0,,,child healthi incid drawn pond famili member came know hour search child got bodi lie pond
+80,1801,Child,UP,Drowning,2.0,11.0,,,child die drown pond afternoon pond lot water flood
+21,481,Child,UP,Drowning,1.0,10.0,,,child healthi problem relat health occas navratra go templ famili suddenli accid took place middl river mani peopl drown river cousin tri hard save could nt
+81,1803,Child,UP,Drowning,1.0,3.0,,,babi healthi incid took place child grandpar hous went nearbi pond slip pond
+3,24,Child,UP,Drowning,1.0,8.0,,,child health problem one day went place drown death bath die pm
+70,1629,Child,UP,Falls,2.0,6.0,,,child ill fall well play die
+69,1612,Child,UP,Falls,1.0,2.0,,,child quit healthi child went attain marriag parent neighbourhood child look process baraat hous top rail roof old came overload children also fall rail child die spot
+12,235,Child,UP,Falls,1.0,4.0,,,accord respond child die due wall collaps child went drink water tap mother wash cloth suddenli came wall
+66,1552,Child,UP,Falls,1.0,8.0,,,child healthi physic problem child die come collaps hous
+89,2032,Child,UP,Falls,1.0,8.0,,,accord respond child went dig soil dig soil near high mound suddenli mound collaps child got buri
+26,624,Child,UP,Falls,1.0,10.0,,,child die jungl given ground soil
+42,1056,Child,UP,Falls,1.0,5.0,,,child die fell roof pit fill water
+75,1733,Child,UP,Falls,1.0,6.0,,,child physic problem die given ground collaps hous
+6,158,Child,UP,Falls,2.0,1.0,,,child complet one year play made tv fell due head steer one side seem someth head collect near ear aliv day unconsci second day bleed nose die child healthi sinc birth problem relat health
+88,1981,Child,UP,Falls,1.0,5.0,,,wall collaps child die child bled
+19,393,Child,UP,Falls,1.0,8.0,,,child quit healthi fall well taken hospit die way
+36,846,Child,UP,Falls,2.0,11.0,,,accord respond child went take soil mound soil collaps came die got hurt head
+34,833,Child,UP,Falls,2.0,8.0,,,child physic problem wall collaps die
+33,802,Child,UP,Falls,2.0,5.0,,,child quit healthi child fall well play die
+39,1008,Child,UP,Falls,1.0,2.0,,,child healthi die wall collaps
+76,1739,Child,UP,Fires,1.0,11.0,,,child healthi came matern grand parent home die bomb explos hous
+48,1125,Child,UP,Fires,2.0,11.0,,,child physic problem die got burnt
+16,345,Child,UP,Fires,1.0,5.0,,,child got burnt die child quit healthi live matern grandpar
+1,4596,Adult,Dar,Maternal,2.0,24.0,,,opinion particip die due fact fail deliv child common way die wait oper
+0,971,Adult,UP,Maternal,2.0,30.0,,,deceas pregnant bleed could stop even deliveri womb ruptur child deliv complet healthi
+67,1572,Child,Dar,Other Cardiovascular Diseases,1.0,2.0,,,client said child die anaemia
+11,234,Child,UP,Other Defined Causes of Child Deaths,2.0,2.0,,,wall fell child babi die
+87,1958,Child,UP,Other Defined Causes of Child Deaths,1.0,6.0,,,child die wall collaps child came accord respond child mild cough otherwis quit healthi
+17,348,Child,UP,Other Defined Causes of Child Deaths,1.0,7.0,,,accord respond child play machin use cut grass hous front hous machin old suddenli fall chide got hurt head start bleed head taken district hospit place die night child given glucos hospit quit healthi
+84,1840,Child,UP,Other Defined Causes of Child Deaths,1.0,8.0,,,accord respond child play outsid home even work put shiver line electr wire go labour went work wire connect tin pole support tin open wire touch tin child came current flow tin child becam unconsci take hospit die
+28,639,Child,UP,Other Defined Causes of Child Deaths,1.0,9.0,,,child die come collaps wall mother also victim incid surviv
+10,224,Child,Dar,Other Defined Causes of Child Deaths,2.0,6.0,,,child die bomb blast death certif record transfer upcountri
+27,626,Child,UP,Other Defined Causes of Child Deaths,1.0,8.0,,,child got buri mini truck overturn
+14,281,Child,Bohol,Poisonings,2.0,2.0,,,child healthi date ingest pc capsul brought hospit dextros immedi brought pm child die
+91,1785,Neonate,Dar,Preterm Delivery,1.0,,,26.0,client think child die due prmatur
+38,936,Child,UP,Road Traffic,2.0,2.0,,,girl child die road accid got hit strongli truck hous roadsid
+7,174,Child,UP,Road Traffic,2.0,6.0,,,child healthi physic problem die got hit truck
+8,209,Child,UP,Road Traffic,2.0,11.0,,,child ailment die got hit bike
+86,1953,Child,UP,Road Traffic,2.0,7.0,,,child healthi physic problem child die road accid child head destroy accid
+18,391,Child,UP,Road Traffic,1.0,10.0,,,child die road accid
+82,1821,Child,UP,Road Traffic,2.0,7.0,,,child die road accid go uncl hous motorcycl parent bike collid tractor trolley child die spot parent escap safe child quit healthi
+37,909,Child,UP,Road Traffic,1.0,8.0,,,child die road accid get badli injur
+43,1060,Child,UP,Road Traffic,2.0,6.0,,,child healthi accid took place child die got hit truck
+44,1062,Child,UP,Road Traffic,2.0,5.0,,,child physic problem die road accid got right hand broken seriou injuri right leg minut accid die also got injuri head rim bike went chest
+46,1077,Child,UP,Road Traffic,2.0,4.0,,,child ill death child die road accid babi got hurt forehead rod vehicl sit child die immedi incid took place
+45,1073,Child,UP,Road Traffic,1.0,10.0,,,child suffer diseas use live hut use husk sleep children studi suddenli hut caught fire child die due got burnt
+72,1675,Child,UP,Road Traffic,1.0,10.0,,,accord respond child travel jeep suddenli jeep met accid
+71,1665,Child,UP,Road Traffic,1.0,8.0,,,child die road accid jeep collid anoth vehicl
+50,1163,Child,UP,Road Traffic,1.0,11.0,,,child die road accid
+56,1315,Child,UP,Road Traffic,1.0,10.0,,,child went watch movi marriag ceremoni villag throttl vehicl bodi recov day wrap leav meter away home half bodi jackal eaten incid took place child healthi ailment
+54,1287,Child,UP,Road Traffic,1.0,5.0,,,child went attend marriag ceremoni matern grand parent home play side road bu went upon stomach stomach bust die spot child healthi accid
+47,1082,Child,UP,Road Traffic,2.0,4.0,,,accord respond child sit joggler return back home privat bu hit joggler child fall road may flash clot right shoulder child bleed father saw alreadi dead
+55,1299,Child,UP,Road Traffic,1.0,8.0,,,child physic problem child die road accid child bleed nose ear
+63,1413,Child,Dar,Sepsis,2.0,2.0,,,client think child die fever death certif found sinc burrial
+61,1411,Child,UP,Violent Death,1.0,3.0,,,child physic quit well child strangl death father
+15,339,Child,UP,Violent Death,1.0,9.0,,,child die explos cracker caught fire made home respond factori cracker home unawar day kid victim cracker incid took place around pm child bodi bleed unconsci
+83,1835,Child,UP,Violent Death,1.0,10.0,,,child quit healthi incid took place child kidnap pm murder brutal land disput
+68,1579,Child,UP,Violent Death,1.0,4.0,,,child physic quit well child strangl death father
+20,421,Child,UP,Violent Death,1.0,3.0,,,child attack neck play brother succumb death
+22,490,Child,UP,Violent Death,1.0,1.0,,,child attack neck play brother succumb death attack result famili disput
+78,1769,Child,UP,Violent Death,2.0,2.0,,,accord respond revolv load child play suddenli trigger revolv child die
+85,1898,Child,UP,Violent Death,1.0,4.0,,,deceas physic problem death child die given ground debri bomb explos
+62,1412,Child,UP,Violent Death,1.0,6.0,,,child health problem death die bomb explos

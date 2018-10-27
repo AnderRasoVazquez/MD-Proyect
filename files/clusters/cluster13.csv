@@ -1,154 +1,413 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-0 71,1 Adult,2 Bohol,3 Homicide,4 1.0,5 31.0,6 nan,7 nan,8 never complain health problem date walk suddenli arm man intent pass shoot gun neighbor saw incid rescu brought directli hospit hospit reveal lung affect bullet caus suffer arrest ont follow day expir
-0 91,1 Adult,2 Mexico,3 COPD,4 2.0,5 81.0,6 nan,7 nan,8 noneth time accid vari interviewe rememb approxim date open head period month neurosi recogn anyon
-0 96,1 Adult,2 Mexico,3 Renal Failure,4 2.0,5 80.0,6 nan,7 nan,8 commentseveryth fine
-0 163,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 38.0,6 nan,7 nan,8 client suggest doctor increas simplift under hospitali
-0 176,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 34.0,6 nan,7 nan,8 client additit point
-0 219,1 Adult,2 UP,3 Other Infectious Diseases,4 2.0,5 23.0,6 nan,7 nan,8 cuticl seem rais rough crack nail chang breast sunken
-0 249,1 Adult,2 Mexico,3 Prostate Cancer,4 1.0,5 68.0,6 nan,7 nan,8 nonenon
-0 257,1 Adult,2 Dar,3 Suicide,4 1.0,5 27.0,6 nan,7 nan,8 deced polic case made frastrat heac commit scucid
-0 317,1 Adult,2 Mexico,3 Poisonings,4 1.0,5 40.0,6 nan,7 nan,8 wish helpfulth young man mention man hospit person inform grandmoth die
-0 354,1 Adult,2 AP,3 Fires,4 2.0,5 22.0,6 nan,7 nan,8 undoubtedli dowri death commit suicid selfimmol deliber burnt whole bodi burnt away burnt per cent said hospit staff staff said per cent whatev might kill
-0 359,1 Adult,2 Bohol,3 Suicide,4 1.0,5 30.0,6 nan,7 nan,8 son secur guard use play firearm sinc young becam guard compani alway remind play point bodi might pull trigger accident never listen date clean gun play point neck accident pull pull abl said oh burst drop ground rush hospit rush emerg emerg procedur done save gone minut compani told happen saw son morgu alreadi dead
-0 370,1 Adult,2 AP,3 Stroke,4 1.0,5 68.0,6 nan,7 nan,8 twenti five day ago brush teeth sit chair sudden affect paralysi incid led death paralysi stroke unabl open mouth gener feed thu food intak almost deni unabl chang postur either made sit lay bed entir right side bodi affect paralysi
-0 414,1 Adult,2 Bohol,3 Other Non-communicable Diseases,4 1.0,5 77.0,6 nan,7 nan,8 hx first heart arrest hx second heart arrest caus paralyz l side part still manag walk alon date complain sever abdomin pain dysuria brought hospit vomit food ate iv infus start inhal complain difficulti breath expir last nov
-0 500,1 Adult,2 Dar,3 AIDS,4 1.0,5 999.0,6 nan,7 nan,8 client cpomplain doctor ope tell diseas decead
-0 526,1 Adult,2 AP,3 Homicide,4 1.0,5 60.0,6 nan,7 nan,8 peopl beaten father brutal blood bleed head due well broke leg
-0 1134,1 Adult,2 Bohol,3 Stroke,4 1.0,5 58.0,6 nan,7 nan,8 fine manag household chore one time told us worri nephew date morn complain dizzi feel fine afternoon notic unconsci sought doctor advis suggest us brought emerg hospit emerg hospit told us transfer us hospit mgt notic alreadi unconsci snore loudli doctor hospit request ct scan reveal blood clot brain caus unconsci expir last sept
-0 1181,1 Adult,2 AP,3 Falls,4 1.0,5 28.0,6 nan,7 nan,8 work wall fell sever injuri head doctor head oper coma day sinc fell doctor said live also said blood clot head brain injur
-0 1214,1 Adult,2 Dar,3 Maternal,4 2.0,5 21.0,6 nan,7 nan,8 decead pregnanc correct posit womb head death
-0 1411,1 Adult,2 Pemba,3 Homicide,4 2.0,5 20.0,6 nan,7 nan,8 deceas die suddenli stab nine knive stomach burn cut flesh right thigh
-0 1422,1 Adult,2 UP,3 Falls,4 1.0,5 45.0,6 nan,7 nan,8 die fall roof
-0 1524,1 Adult,2 Bohol,3 Homicide,4 1.0,5 50.0,6 nan,7 nan,8 diagnos diabet hospit place date around even shot place got wound near face rear nape arm brought immedi hospit mani hour brought hospit place date die around
-0 1564,1 Adult,2 AP,3 Fires,4 1.0,5 35.0,6 nan,7 nan,8 climb electr pole repair receiv electr shock fell man hole face head stomach injur sever surgeri done stomach extract spoil blood afterward made effort pump blood go side came fell unconsci next day around expir
-0 1616,1 Adult,2 UP,3 Poisonings,4 1.0,5 38.0,6 nan,7 nan,8 doctor prohibit eat drink thu could ascertain whether deceas experienc difficulti eat drink
-0 1626,1 Adult,2 Mexico,3 Stroke,4 1.0,5 64.0,6 nan,7 nan,8 said singl never marri solitari person difficult person birth knee foot problem abl walk well use mountain climb throughout life fractur two right arm leg latest arm right hip young man belliger one time hit hard lost sever teeth knee would swell bitth deceas mani dental replac knee use becom slightli inflam despit time suffer fractur never complain diseas note mani correct made correct inform came interviewe convers
-0 1687,1 Adult,2 Bohol,3 Other Injuries,4 1.0,5 46.0,6 nan,7 nan,8 construct site live wire put wood electr current went caus burn leg burn well left arm burn sever bone expos also wound back although back burn brought hospit first aid transfer leg left arm suppos amput refus hospit notic urin reddish three day hospit die health record hospit respond know much deceas seldom look deceas hospit want see father kind situat
-0 1699,1 Adult,2 Dar,3 Homicide,4 1.0,5 19.0,6 nan,7 nan,8 decead kill way back home night
-0 1799,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 44.0,6 nan,7 nan,8 client addit cerfic around
-0 1819,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 34.0,6 nan,7 nan,8 deced tefenc
-0 1878,1 Adult,2 Bohol,3 Falls,4 2.0,5 13.0,6 nan,7 nan,8 april gather firewood climb coconut tree want eat coconut suddenli fall tree notic fall tree brought masseur thought sprain still child complain back pain decid brought hospit place stay week father discharg confin fo financi problem brought masseur verbal father sprain reliv masseur notic back child wound caus fall gave medic wound nt heal medic child even health problem still manag eat normal may suddenli complain sever back pain immedi brought administ inhal suffer difficulti breath caus sever pain die may
-0 1880,1 Adult,2 Bohol,3 Stroke,4 2.0,5 91.0,6 nan,7 nan,8 first cardiac arrest second cardiac arrest asymptomat complain health problem date cousin visit hous surpris saw lie floor unconsi transfer notic grandmoth edemat format forehead decid brought hospit start inhal unconsci snore loudli expir last aug
-0 1988,1 Adult,2 Bohol,3 Epilepsy,4 1.0,5 61.0,6 nan,7 nan,8 brother nt complain health incid happen histori epelipsi start last fall coconut tree time time time experienc epelipt attack day die went stream take bath surpris somebodi inform us brother found dead stream accord doctor autopsi report possibl epelipt attack caus drown result death
-0 2194,1 Adult,2 Bohol,3 Other Non-communicable Diseases,4 2.0,5 63.0,6 nan,7 nan,8 brought hospit checkup experienc pain stomach doctor diagnos hyperacid second time brought hospit difficulti defec doctor reveal hemorrhoid also notic mass stomach may morn complain sudden stomach pain experienc loss bowel movement also vomit decid brought administ iv infus inhal weak die follow day
-0 2340,1 Adult,2 Mexico,3 Other Infectious Diseases,4 1.0,5 74.0,6 nan,7 nan,8 parkiinson yearseveryth fine
-0 2388,1 Adult,2 AP,3 Acute Myocardial Infarction,4 1.0,5 55.0,6 nan,7 nan,8 year first heart attack came treat hospit day discharg approxim five time happen like lastli attack admit hospit kept oxygen expir morn
-0 2394,1 Adult,2 Mexico,3 Pneumonia,4 2.0,5 70.0,6 nan,7 nan,8 death certif tuberculosi specifi pneumonia kidney problem heart arrest healthcar goodreluct sign consent letter unless gave name inform write distrust regard signatur
-0 2617,1 Adult,2 Mexico,3 Other Infectious Diseases,4 1.0,5 66.0,6 nan,7 nan,8 six month death start itch bodi went doctor said chicken pox consid shape bump skin spread eye ear bump leak clear fluid pu blood skin peel pain mouth throat sinc bump also appear insid troubl eat swallow scar sever burn pain walk also sole feet sweat profus time chang bedsheet got chill brought lamp dri bump keep warm nurs hospit treat well reluct bath chang fear might catch diseas give much inform search internet think becam infect workplac load carrier wholesal food market use carri food like meat fruit etcthi kindli impoverish famili interviewe niec ask meet somewher could take home live hill neighborhood recent street sign street roughli defin
-0 2868,1 Adult,2 Mexico,3 Other Non-communicable Diseases,4 1.0,5 86.0,6 nan,7 nan,8 like sinc may got sick came take care himat time seem confus manag ascertain respons interview went calmli
-0 2963,1 Adult,2 Bohol,3 Cervical Cancer,4 2.0,5 79.0,6 nan,7 nan,8 use complain pain right thigh make difficult walk brought hospit april found cervic cancer transfer cycl chemotherapi cobalt went back provinc went back octob situat worsen hip right foot pain bone scan found right foot alreadi thin strand hair cast right foot right foot thigh foof amput mayjun respond recal exact month pain two month die bedridden brought hospit right away hospit whole bodi becam puffi bodi secret water perspir lot put diaper underneth whole bodi absorb water skin secret hr urin output also decreas die urin blood whe cardiac arrest reviv rib alreadi gone alreadi eaten cancer well left foot stay seven day hospit health record hospit death certif kept sibl respond
-0 2987,1 Adult,2 Bohol,3 Acute Myocardial Infarction,4 2.0,5 79.0,6 nan,7 nan,8 mother bedrdden die sudden death alreadi know even enlarg heart histori hypertens even age still activ roam around backyard last sept morn even go abl go church birthday lunchtim day suddenli collaps abl urin underwear hurriedli bring hospit blood pressur elev experienc sudden cardiac arrest hour gain conscious whole bodi dont strenght way talk unclear butl still eat date arrest worsen first time lost strenght conscious death difficulti breath day die
-0 3061,1 Adult,2 AP,3 Falls,4 1.0,5 47.0,6 nan,7 nan,8 went place cut tree fight guy head injur heavili brain head crush doctor said everi time live abl breath oxygen oxygen breath stop
-0 3117,1 Adult,2 Dar,3 TB,4 1.0,5 999.0,6 nan,7 nan,8 client additiuon point
-0 3233,1 Adult,2 UP,3 Stroke,4 1.0,5 74.0,6 nan,7 nan,8 blood pressur deceas rose suddenli went comatos state regain consciou tube insert mouth food
-0 3242,1 Adult,2 UP,3 Other Injuries,4 1.0,5 68.0,6 nan,7 nan,8 accord respond live electr wire touch tree pick leav also respond say tree becom electrifi deceas experienc shock fell tree fall unconsci taken hospit doctor unabl save die
-0 3294,1 Adult,2 UP,3 Pneumonia,4 1.0,5 70.0,6 nan,7 nan,8 date headach voic becam low day death head injuri bamboo due thatch roof fall head result deceas felt occasion prick pain head year ago jaundic cure treatment pain nodul feet eat feel rice granul go head
-0 3353,1 Adult,2 Mexico,3 Leukemia/Lymphomas,4 1.0,5 52.0,6 nan,7 nan,8 nono
-0 3359,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 75.0,6 nan,7 nan,8 client complain servic got hospit reali hottibl
-0 3502,1 Adult,2 Bohol,3 Pneumonia,4 2.0,5 18.0,6 nan,7 nan,8 first notic puffi face also chest pain stomach ach hospit rash appear arm allergi one medic difficulti breath headach shout also use massag someth back head near nape face start wound like pimplesacn doctor said puffi face due infect alreadi spread bodi hver one eye alreadi close puffi face die notic black spot head part use massag note record hospit death certif sibl deceas live place
-0 3543,1 Adult,2 Dar,3 AIDS,4 2.0,5 56.0,6 nan,7 nan,8 client believ wife dead aid thou himselv prove neg
-0 3578,1 Adult,2 Bohol,3 Stroke,4 1.0,5 53.0,6 nan,7 nan,8 may asymptomat day afternoon one neighbor saw drunk coconut wine left want go home household chore ride motorcycl suddenli complain headach neighbor immedi brought hospit upon arriv hospit staff took bp result mmhg refer us evalu close monitor slowli becom unconsci snore loudli administ inhal follow day exactli pm die
-0 3579,1 Adult,2 Mexico,3 Cirrhosis,4 1.0,5 44.0,6 nan,7 nan,8 think kill fine met peopl ill still aliv got wors diedi think kill fine met peopl ill still aliv got wors die
-0 3622,1 Adult,2 UP,3 Suicide,4 2.0,5 17.0,6 nan,7 nan,8 accord respond live electr wire touch tree pick leav also respond say tree becom electrifi deceas experienc shock fell tree fall unconsci
-0 3664,1 Adult,2 Pemba,3 Fires,4 2.0,5 25.0,6 nan,7 nan,8 die boat burnt sunk
-0 3746,1 Adult,2 Dar,3 Homicide,4 1.0,5 13.0,6 nan,7 nan,8 decead found dead neck one knew kill kill
-0 4060,1 Adult,2 Bohol,3 Other Non-communicable Diseases,4 1.0,5 70.0,6 nan,7 nan,8 expect death father age wa still okey nov morn went ricefield even eat supper around oclock even vomit hospit found ultrasound result bruis whole intestin schedul surgeri intestin surgeri done even die
-0 4085,1 Adult,2 Bohol,3 Suicide,4 1.0,5 42.0,6 nan,7 nan,8 notic lone week depress one night found labor breath saw contain muriat acid brought hospit wherein administ inhal refer us observ complain abdomin pain weak unfortun die follow day
-0 4223,1 Adult,2 Dar,3 AIDS,4 2.0,5 26.0,6 nan,7 nan,8 client complain servic hospit horribl
-0 4296,1 Adult,2 Bohol,3 Falls,4 1.0,5 76.0,6 nan,7 nan,8 first arrest happen second arrest eventhough advis eat high cholesterol contain food still consum egg everi morn april suddenli fall floor caus head injuri brought hospit time still respons follow morn becom unrespons asleep loud snore time longer move right arm confin hospit nine day doctor said mi brain anuerysm expir may
-0 4397,1 Adult,2 Bohol,3 Stroke,4 2.0,5 78.0,6 nan,7 nan,8 april year asymptomat still activ even age still manag household chore includ clean backyard later day suddenli nauseat accident tell stair obtain lacer wound forehead brought hospit given first treatment refer due high blood pressur week seri laboratori exam done ct scan reveal blood clot format advic control eat oili food april year seven day sutur remov suddenli fell floor becam unconci brought die follow day
-0 4444,1 Adult,2 Dar,3 Homicide,4 1.0,5 40.0,6 nan,7 nan,8 client commend deced shot gun thiev day hour work area shop
-0 4467,1 Adult,2 Bohol,3 Stroke,4 2.0,5 64.0,6 nan,7 nan,8 first arrest occur recov diet restrict insist eat anchovi april fine went tagb fiesta may household chore suddenli ask help saw experi stiff found hard get immedi brought hospit apprais arrest becom unconsci die later
-0 4539,1 Adult,2 Mexico,3 Leukemia/Lymphomas,4 1.0,5 67.0,6 nan,7 nan,8 lack inform food peopl diabet eat import inform type cancer exist also inform rel familyh told led calm life moreov checkup everi six month april start oral chemotherapi made glucos level rais therefor diabet coma
-0 4585,1 Adult,2 AP,3 Road Traffic,4 2.0,5 91.0,6 nan,7 nan,8 fell walk receiv injuri head blood clot shown govern hospit place one take brought hospit said surgeri brain done said old age die day vomit
-0 4661,1 Adult,2 Bohol,3 Pneumonia,4 2.0,5 72.0,6 nan,7 nan,8 date suffer heart arrest caus paralyz l side part also complain cough doctor examin reveal tuberculosi complain difficulti breath brought hospit admit icu sever dyspnea note inhal start last oct expir
-0 4668,1 Adult,2 Dar,3 Homicide,4 1.0,5 26.0,6 nan,7 nan,8 decead kill thief
-0 4770,1 Adult,2 Mexico,3 Other Non-communicable Diseases,4 1.0,5 74.0,6 nan,7 nan,8 mistreat hospit hygien disposit part suffer chill skin becam yellow document handi week hospit doctor say whether vomit
-0 4781,1 Adult,2 Bohol,3 Other Injuries,4 1.0,5 30.0,6 nan,7 nan,8 husband healthi never experi seriou health problem met incid gun saw confin alreadi hospit intub seem dead time companion said gun blast suddenli face saw bleed blood tissu brain tour incid die
-0 4820,1 Adult,2 Bohol,3 Road Traffic,4 1.0,5 14.0,6 nan,7 nan,8 april year met accid ride bicycl one saw patient pass brought hospit unconsci hole back head transfer nurs hospit bodi clean blood hospit later arriv die
-0 4821,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 34.0,6 nan,7 nan,8 nono
-0 4834,1 Adult,2 Bohol,3 Homicide,4 1.0,5 21.0,6 nan,7 nan,8 date walk street sever men approach suddenli stub hit near chest brought hospit unfortun expir
-0 4916,1 Adult,2 Pemba,3 Falls,4 1.0,5 40.0,6 nan,7 nan,8 fallen clove tree crash clove tree branch sever head injuri bleed ear nose eye mouth run hospit die way
-0 5009,1 Adult,2 Mexico,3 Stroke,4 1.0,5 56.0,6 nan,7 nan,8 commentsther public transport reach address better arriv still daylight
-0 5040,1 Adult,2 Bohol,3 Stroke,4 1.0,5 49.0,6 nan,7 nan,8 may asymptomat morn manag drive tricycl tagb never complain health problem afternoon place one neighbor notic site tricycl thought drunk ask complain headach decid brought hospit follow hospit upon arriv saw unconsci alreadi difficulti breath snore loud doctor administ inhal sad say exactli pm die
-0 5119,1 Adult,2 Bohol,3 Stroke,4 1.0,5 48.0,6 nan,7 nan,8 high blood hereditari alon eat drink coconut wine fell asleep blood pressur rose intak mayb back flow mouth saw vomitu speechless even eye move blink anymor never complain health problem asid cataract arthriti hereditari saw prone posit vomitu mouth brought hospit nurs said bp endotrach tube place start ambubag ask downpay peso transfer start emerg standard oper procedur doctor said cardiac arrest seen hand feet move pass away
-0 5156,1 Adult,2 Bohol,3 Other Non-communicable Diseases,4 2.0,5 79.0,6 nan,7 nan,8 januari wife alway complain gastrointestin pain consult doctor hospit regard complain told ulcer ewa told minim drink softdrink habit alreadi nt follow instead drink oftentim start time eat rice lunch small amount felt difficulti swallow eat bread dip softdrink time time also complain find difficulti urin urin small amount whole amount march eye becom yellowish date complain sever contin stomach pain vomit salivari decid hospit next day felt difficulti breath eat anymor friday april request eat papaya hard boil egg eat loos bowel movement friday afternoon alway asleep never wake anymor lip becom cyamot april oclock morn expect death abl talk die time
-0 5182,1 Adult,2 Dar,3 Stroke,4 1.0,5 28.0,6 nan,7 nan,8 client complain bed enough ward
-0 5269,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 86.0,6 nan,7 nan,8 father boil forehead well two month eat day becam weak test reveal brain infect doctor told may chanc cancer
-0 5332,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 22.0,6 nan,7 nan,8 clientsaid late rel believ withch
-0 5405,1 Adult,2 Bohol,3 Road Traffic,4 1.0,5 28.0,6 nan,7 nan,8 drive motorcycl drunk immedi brought hospit moment later alreadi dead kept complain pain
-0 5512,1 Adult,2 Bohol,3 Stroke,4 1.0,5 50.0,6 nan,7 nan,8 aug year asymptomat never complain health problem suddenli notic asleep im wake bfut never answer decid brought hospit inhal start doctor suggest transfer us medic mgt upon arriv submit ct scan reveal blood clot brain caus paralys r side unconsci snore loudli aug year suffer arrest die
-0 5518,1 Adult,2 Bohol,3 Diabetes,4 1.0,5 60.0,6 nan,7 nan,8 march start small cut foot nt heal diabet date sometim complain untoler pain brought hospit sinc alreadi gangren submit amput oper suddenli arrest complain difficulti breath die
-0 5537,1 Adult,2 AP,3 Road Traffic,4 1.0,5 25.0,6 nan,7 nan,8 ct scan taken head remov alcohol stomach kept icc salin day demis kept ventil even oxygen also given sever injuri vehicl hit night polic peopl join hospit
-0 5574,1 Adult,2 Bohol,3 Stroke,4 1.0,5 58.0,6 nan,7 nan,8 second wife thing knew chain smoker stop smoke asthma diabet arthriti patient fat man cuz use eat food cholesterol especi chines sausag would nt let know doctor said saw drink plenti medicin doctor doctor went checkup famili relat close year foot becam big fo gout arthriti big die said verbal chest head ach sinc diabet goneseptemb stroke bath pau de arco gave medicin high blood face went back paralyz arm face septemb patient brought hospit due vomit travel place asleep yet disturb sleep suddenli rescu chest pump
-0 5622,1 Adult,2 Bohol,3 Other Cardiovascular Diseases,4 1.0,5 69.0,6 nan,7 nan,8 year month april deceas know heart ill given prescript respond forgot name medicin also food avoid like salti sweet oili food meat special chicken meat may face leg got edemat aug seen snore wont respons alreadi brought hospit per doctor comatos got heart attack liver also enlarg aug around die said deceas also asthmat
-0 5646,1 Adult,2 Dar,3 Stroke,4 1.0,5 45.0,6 nan,7 nan,8 client believ deceeas poison os witch
-0 5688,1 Adult,2 Dar,3 Other Injuries,4 1.0,5 27.0,6 nan,7 nan,8 decead die way place hospit date
-0 5823,1 Adult,2 Bohol,3 Diabetes,4 1.0,5 51.0,6 nan,7 nan,8 admit afraid wound fingernail becom complic diabet day hospit wound heal alreadi nervou continu know blood sugar increas last feb transfer even feb complain heartburn okey make touch middl chest ecg result okey next day feb supposedli schedul discharg okey time lunch time day complain feel discomfort epigastri area appli ointment andh feel better surpris go back room make settlement hospit bill saw sit posit head complain epigastr discomfort look pale cold also complain chest pain difficulti breath lucki day oxygen tank insid room ws empti nurs manipul nebul didnt abl well less minut hook oxygen die know suffer cardiac arrest
-0 5998,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 78.0,6 nan,7 nan,8 client additionala point
-0 6010,1 Adult,2 Bohol,3 Other Injuries,4 1.0,5 76.0,6 nan,7 nan,8 date fine day decid go neighbor sat near coconut tree suddenli coconut fruit fell head caus collaps blood pass mouth nose brought hospit hospit doctor order ct scan result blood clot brain also vomit blood caus weak alway suffer arrest expir last nov
-0 6049,1 Adult,2 Bohol,3 Acute Myocardial Infarction,4 2.0,5 65.0,6 nan,7 nan,8 feb amoebiasi affect kidney underw session hemodialysi recov date clean yard site suddenli callef help time speech becam slur cant understood start becom stiff brought hospit also vomit food ate becom weak forward hospit manag becom unconsci snor loudli inhal start die ff day
-0 6066,1 Adult,2 Mexico,3 TB,4 2.0,5 69.0,6 nan,7 nan,8 inform know mani day saw sometim go work appar question inform respons rememb know arm face feet swollen said entir bodi ach mother told doctor one breast hurt latter say caus
-0 6109,1 Adult,2 UP,3 Other Infectious Diseases,4 2.0,5 45.0,6 nan,7 nan,8 date headach voic becam low day death head injuri bamboo due thatch roof fall head result deceas felt occasion prick pain head year ago jaundic cure treatment pain nodul feet eat feel rice granul go head
-0 6164,1 Adult,2 Bohol,3 Stroke,4 1.0,5 55.0,6 nan,7 nan,8 went checkup due fever doctor said flu remain healthi never admit sinc walk day suddenli felt dizzi fell asleep wake stook suddenli collaps brought hospit stay unconsci hard head man never stop self drink liqour nt went checkup attack
-0 6175,1 Adult,2 Dar,3 Homicide,4 1.0,5 30.0,6 nan,7 nan,8 decead kill mob theft case
-0 6211,1 Adult,2 Mexico,3 Diabetes,4 1.0,5 45.0,6 nan,7 nan,8 commentsin question section gener inform cancel interviewe confus wash machin wash basin section also cancel hesh also confus dvd vh section h refer arm fractur
-0 6263,1 Adult,2 Mexico,3 Stroke,4 2.0,5 97.0,6 nan,7 nan,8 commentsnon updat
-0 6319,1 Adult,2 Mexico,3 COPD,4 2.0,5 59.0,6 nan,7 nan,8 nonenon
-0 6346,1 Adult,2 Bohol,3 Stroke,4 1.0,5 88.0,6 nan,7 nan,8 death father sudden bed ridden even suffer ill age still activ smart april earli morn surpris hear nois chair hit floor near cr came room see happen surpris see father lie floor head hit blood come neither wound apart face edemat ask happen languag cant understood clearli halfleft part bodi cant feel anymor around morn abl ask help niec nephew oclock consult doctor given antibiot transfer hospit wa oxygen never respons anymor alway asleep preffer undergo ctscan alreadi entrust father god father die vomit much blood less hour pm die
-0 6352,1 Adult,2 Bohol,3 Road Traffic,4 2.0,5 12.0,6 nan,7 nan,8 ill date disco across street way home cross street ran motorcycl brought hospit place forward head affect part arriv die
-0 6366,1 Adult,2 Bohol,3 Stroke,4 2.0,5 62.0,6 nan,7 nan,8 asymptomat even manag go market may market suddenli fall becom unconsci directli brought hospit refer start iv infus also administ still remain unconsci snore doctor said arrest expir follow day
-0 6504,1 Adult,2 Bohol,3 Renal Failure,4 1.0,5 93.0,6 nan,7 nan,8 even never hospit healthi ill start junjuli respond recal exact month difficluti urin frequent stool brought hospit said need undergo oper observ month oper perform hour went back hospit stay month discharg hospit came back week hospit urin pu think oper prostat unsuccess ask happen said alreadi old reason right week die cardiac arrest reviv wake anymor ct scan knowth reason unconsci abl know result ct scan die next day first cardiac arrest sign resuscit order cardiac arrest reviv anymor health record hospit respond complain happen father doctor hospit say anyth explain anyth procedur done deceas doctor said noth best
-0 6688,1 Adult,2 Dar,3 Other Injuries,4 1.0,5 26.0,6 nan,7 nan,8 decead hurt knife fellow man fight woman lead death minut later
-0 6689,1 Adult,2 Dar,3 Falls,4 1.0,5 999.0,6 nan,7 nan,8 client addit pouint
-0 6912,1 Adult,2 Mexico,3 Diabetes,4 2.0,5 74.0,6 nan,7 nan,8 hard worker wash work lot tend sheep cow donkey thing surviv beaten almost everi day life use defend much affect treat like human beingth inform say ladi far back could rememb beaten result mani import injuri fractur rib head wound etc famili think ladi die due depress stop eat excret slept day lump form stomach doctor said becam poison fecal matter consequ diabet hypertens depress
-0 6999,1 Adult,2 Mexico,3 Cirrhosis,4 1.0,5 nan,6 nan,7 nan,8 upset possibl brother underw mani studi mistreat hospit one mistrust hospitaltel phone know mani hour less one day
-0 7007,1 Adult,2 Mexico,3 Leukemia/Lymphomas,4 1.0,5 22.0,6 nan,7 nan,8 everyth start swell right calf got sore start get bigger time swollen chemotherapi next day swlling went believ kill yellow medic gave without doctor authorizationinterview variou break beacaus wife sob man talk attent provid hospit medic treatment
-0 7092,1 Adult,2 Mexico,3 Other Non-communicable Diseases,4 1.0,5 64.0,6 nan,7 nan,8 commentsthi difficult case due locat hous number incorrect spent one half hour look ask around final locat address area number order also one side road part one neighborhood differ neighborhood
-0 7235,1 Adult,2 Bohol,3 Other Non-communicable Diseases,4 2.0,5 51.0,6 nan,7 nan,8 healthylook even manag household chore date complain chest pain difficulti breath also suffer cough brought hospit doctor reveal pneumonia inhal start weak alway suffer arrest die last aug
-0 7290,1 Adult,2 Dar,3 Malaria,4 2.0,5 25.0,6 nan,7 nan,8 client addit pointi
-0 7339,1 Adult,2 Bohol,3 Suicide,4 1.0,5 46.0,6 nan,7 nan,8 sinc novemb start drink liquor without eat meal whole day everyday never stop drink sinc one day complain abdomin pain took kremil one night unabl fall asleep becam restless paranoid bodi tremor alway afraid nois peopl heart beat fast involuntari tremor given corphomasin becam calm skin turn jaundic thu medic discontinu day goe becam afraid one earli morn seen hang self coconut tree
-0 7348,1 Adult,2 AP,3 Fires,4 1.0,5 21.0,6 nan,7 nan,8 temporari employe power distribut offic day attend repair work pole suddenli power earth pole result flame pole thu fell pole injur sever chest waist face burnt sternli join hospit place later shift drank coconut water also surviv four day son forlorn lose
-0 7456,1 Adult,2 UP,3 Other Infectious Diseases,4 2.0,5 25.0,6 nan,7 nan,8 abdomin pain day boil back lip turn black amount excreta increas
-0 7491,1 Adult,2 Mexico,3 Stomach Cancer,4 2.0,5 72.0,6 nan,7 nan,8 good kind studi done improv healthh sick pemphigu vulgari diseas two year took cortison control diseas april year stomach studi done diagnos cancer medic treatment oncolog six month got two chemotherapi stomach surgeri pass away respiratori arrest
-0 7524,1 Adult,2 Dar,3 Homicide,4 1.0,5 26.0,6 nan,7 nan,8 client commend decead hurt knife kuchomwa
-0 7526,1 Adult,2 Mexico,3 Lung Cancer,4 1.0,5 56.0,6 nan,7 nan,8 drank take care healtheveryth fine
-0 7595,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 28.0,6 nan,7 nan,8 client complain stomach ulcer
-0 7640,1 Adult,2 Mexico,3 Fires,4 1.0,5 20.0,6 nan,7 nan,8 comment doubtsh clean aluminum contain thinner light bulb explod caught fire cowork die spent day hospit due burn
-0 7788,1 Adult,2 Mexico,3 Diabetes,4 2.0,5 75.0,6 nan,7 nan,8 marriag physic mistreat husband fall start suffer diabet time one year death anoth fall sinc childhood troubl swallow food worsen first heart attack later got two one day drank petroleum hiatal hernia parkinson diseaseblood sugar death lung infect caus cerebr infarct medic gave strong lot pain could longer sleep well eat gave diazepam clorazapan hipoquen
-0 7791,1 Adult,2 Mexico,3 Fires,4 1.0,5 20.0,6 nan,7 nan,8 commentth ladi mention son fell back told lung punctur everyth possibl would done save young man blood pressur start drop caus cardiac arrest young man healthi person
-0 7797,1 Adult,2 Bohol,3 Stroke,4 2.0,5 75.0,6 nan,7 nan,8 histori high bp given medic mainten order take bp increas asymptomat even manag household chore may morn household chore complain headach let took medic take med notic becom unconsci directli brought hospit doctor reveal arrest also snor loud ff day die
-0 73,1 Child,2 Bohol,3 Other Defined Causes of Child Deaths,4 1.0,5 8.0,6 nan,7 nan,8 hospit hospit diagnos kidney infect per respond deceas also astmat asthma start still year old took salbutamol medicin asthma occur date around morn deceas got accid fell coconut tree head first blood came mouth nose sever head injuri around morn date die
-0 168,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 2.0,7 nan,8 decead taken hospit polic dead beleav foll hitten strong thing head
-0 430,1 Child,2 Dar,3 Drowning,4 1.0,5 9.0,6 nan,7 nan,8 client addit point still await doctor commend result research
-0 519,1 Child,2 AP,3 Falls,4 1.0,5 8.0,6 nan,7 nan,8 tall wall play went toilet look toward monkey suddenli fell wall tall head injur small injuri injuri becam seriou took ambul put oxygen hospit doctor came checkup said difficult live die half hour hour coma eat anyth movement
-0 593,1 Child,2 UP,3 Falls,4 2.0,5 8.0,6 nan,7 nan,8 deceas play roof top fell roof receiv injuri head bleed swell got faint gain conscious villag doctor gave inject wait whole night condit got worsen morn rush hospit die treatment
-0 650,1 Child,2 AP,3 Encephalitis,4 1.0,5 5.0,6 nan,7 nan,8 son use go school one day everybodi school play one boy hit son shoe back side head see injuri thought small injuri ignor day later saw area injuri swollen fill water immedi took hospit nurs said due injuri blood clot blood circul hospit also kept emerg ward due increas infect expir
-0 679,1 Child,2 AP,3 Violent Death,4 1.0,5 10.0,6 nan,7 nan,8 one day father drank came hous pierc throat son slept kill time known nearbi know whether father fight hous problem famili polic came inquir arrest father earlier came somewher live
-0 755,1 Child,2 AP,3 Falls,4 1.0,5 7.0,6 nan,7 nan,8 son studi school one day left school went play sometim return went pick school bag tree tree branch fell joint joint crush immedi took hospit place give guarante brought bleed stop sinc injur tree branch treatment die
-0 901,1 Child,2 Bohol,3 Pneumonia,4 1.0,5 8.0,6 nan,7 nan,8 sittng truck watch children play suddenli children pull foot fell ground back fall rock left arm badli fell loss conscious children thought joke punch regain conscious vomit went home arriv home felt realli complain bodi pain next morn nt goe hous whole day feel weel cri due pain affect left arm even develop fever grandmoth massag gave medicin two day incid rush appear bodi consult tradit healer told us allergi longer handl pain arm ask hospit first brought hospit broken arm cast brought locat place wherein prescrib medicin sent home condit still worsen final brought wherein xray extract blood ask remov cast said broken part back arm excret dark stool examin immedi also undergo blood transfus consum half bag blood bodi reject put tube mouth lung remov phlegm develop pneumonia die notic lump appear middl back respond write well decid write full name let sign respond
-0 1000,1 Child,2 Mexico,3 Other Defined Causes of Child Deaths,4 2.0,5 nan,6 2.0,7 nan,8 commentdo requir emot support
-0 1379,1 Child,2 Dar,3 Malaria,4 nan,5 nan,6 9.0,7 nan,8 client commend deced sever malaria
-0 1458,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 2.0,5 3.0,6 nan,7 nan,8 children play year new wall come side new wall come new wall fell daughter injur baldi bleed nose mouth due injuri wall fell brain came head die came hous aliv half hour die neck nerv broken
-0 1584,1 Child,2 Dar,3 Sepsis,4 2.0,5 nan,6 11.0,7 nan,8 hr opinion death cans number guinin inject due quinini inject destoy blood cell resuilt destori abil bodi reproduc also daim lack serius hospit medic
-0 1715,1 Child,2 Mexico,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 1.0,7 nan,8 commentth interviewe longer live address mother home come everi day later need wait
-0 1743,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 4.0,6 nan,7 nan,8 decead singl cell
-0 1911,1 Child,2 Bohol,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 child seven month birth fequent ill alway develop broncho pneumonia accord hospit late develop cough fever one week two day fever papul appear bodi develop asthma like symptom next morn brought hospit admit said hospit brought papul similar chicken pox becom dark color mouth sore also appear mouth move throat make eat becom difficult eat well contribut weak famili deceas went provinc neighbor cousin becom respond
-0 1963,1 Child,2 AP,3 Violent Death,4 2.0,5 6.0,6 nan,7 nan,8 kill wife daughter axe year clean floor chang cloth kept bed went neighbor villag came morn said three men came mask kill wife children later polic gave current shock open mouth said kill wife doubt polic ask kill daughter said told daughter say three men came mask kill mother disagre say therefor press throat kill
-0 1996,1 Child,2 AP,3 Bite of Venomous Animal,4 1.0,5 11.0,6 nan,7 nan,8 son seen snake around made us awak complain stomach pain tri incant came back home dead snake bite touch tongu know reason son dead appear tv newspap feel sad
-0 2050,1 Child,2 AP,3 Violent Death,4 1.0,5 3.0,6 nan,7 nan,8 watchman third floor mother son commit suicid hang ceil know whether problem request insist us answer unknown question would problemat livelihood promot build might furiou unnecessari involv accord knowledg son first hang mother later mother hang healthi
-0 8,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 complain lack servic hospit
-0 110,1 Neonate,2 Mexico,3 Congenital malformation,4 2.0,5 nan,6 nan,7 2.0,8 told pass away gastroguesi someth like come back move anoth hospit day father go ambul name father name
-0 286,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 4.0,8 client addit popint
-0 456,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 client complain seriou render said children expos rold prematur
-0 562,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 nothingto add
-0 766,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 ate fruit juic mutton egg side effect went hospit everi week test third month went scan
-0 839,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 client addit children decead prematur
-0 1047,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 additon point
-0 1767,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 decead nose bleed day birth lead death day birth
-0 2022,1 Neonate,2 Mexico,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 fine thing like happen
-0 2056,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 client complain lazi nurs caus never care yhe deliv keep long assist food excus surpos eat
-0 2096,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,7 3.0,8 client commend deced malform anu
-0 2201,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 decead prematur
-0 2387,1 Neonate,2 Pemba,3 Stillbirth,4 2.0,5 nan,6 nan,8 die god merci
-0 2482,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother complain shair eguip mother may head costamin secret mother doctor shair even outsid involv go
+0,39,Adult,Dar,AIDS,2.0,56.0,,,particip noth add
+42,2279,Adult,Dar,AIDS,2.0,28.0,,,client noth add
+126,6652,Adult,Dar,AIDS,2.0,34.0,,,client noth add
+183,1199,Child,Dar,AIDS,1.0,,11.0,,client noth add death certif misplacrd
+128,6714,Adult,Dar,AIDS,1.0,18.0,,,deceas uncl noth add
+28,1570,Adult,Dar,AIDS,1.0,35.0,,,respond noth add
+68,3271,Adult,Dar,AIDS,2.0,38.0,,,client noth add
+85,4358,Adult,Dar,AIDS,1.0,45.0,,,respond noth add
+32,1871,Adult,Dar,AIDS,2.0,35.0,,,client noth add
+35,1908,Adult,Dar,AIDS,1.0,39.0,,,client noth add death certif misplac
+137,7219,Adult,Dar,AIDS,2.0,28.0,,,client noth add
+52,2636,Adult,Dar,AIDS,2.0,41.0,,,particip noth add
+142,7333,Adult,Dar,AIDS,2.0,,,,particip noth add
+45,2400,Adult,Dar,AIDS,2.0,33.0,,,particip noth add
+44,2286,Adult,Dar,AIDS,1.0,62.0,,,client noth add
+133,7023,Adult,Dar,AIDS,2.0,39.0,,,client noth add
+17,846,Adult,Dar,AIDS,2.0,50.0,,,particip noth add
+79,4112,Adult,Dar,AIDS,2.0,32.0,,,particip noth add
+15,679,Adult,Dar,AIDS,1.0,35.0,,,respond noth add said husband die leg cancer
+103,5151,Adult,Dar,AIDS,1.0,54.0,,,respond noth add
+109,5546,Adult,Dar,AIDS,2.0,32.0,,,particip noth add
+110,5565,Adult,Dar,AIDS,2.0,29.0,,,particip noth add
+8,344,Adult,Dar,AIDS,2.0,23.0,,,particip noth add
+16,814,Adult,Dar,AIDS,1.0,62.0,,,particip noth add
+143,7342,Adult,Dar,AIDS,2.0,43.0,,,particip noth add
+71,3512,Adult,Dar,Acute Myocardial Infarction,1.0,52.0,,,particip noth add
+97,4923,Adult,Dar,Asthma,2.0,69.0,,,particip noth add
+224,352,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother noth add
+261,768,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add
+232,430,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add
+253,657,Neonate,Dar,Birth asphyxia,1.0,,,4.0,mother noth add medic record
+340,1716,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother noth add servic hospit good
+270,957,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add
+231,418,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother noth add servic hospit good
+280,1056,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add
+322,1507,Neonate,Dar,Birth asphyxia,2.0,,,1.0,mother noth add servic hospit good
+302,1275,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add
+319,1457,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add
+275,1006,Neonate,Dar,Birth asphyxia,2.0,,,2.0,mother noth add
+272,995,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add servic good
+248,561,Neonate,Dar,Birth asphyxia,2.0,,,0.0,respond noth add
+242,530,Neonate,Dar,Birth asphyxia,2.0,,,0.0,respond noth add
+274,1004,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add
+211,141,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add
+333,1656,Neonate,Dar,Birth asphyxia,2.0,,,0.0,respond noth add
+255,691,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add
+353,1881,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add
+390,2360,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add servic hospit good
+391,2374,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add
+394,2417,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add servic good
+379,2218,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother noth add
+349,1807,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother noth add
+395,2427,Neonate,Dar,Birth asphyxia,2.0,,,2.0,respond noth add
+408,2580,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add
+403,2549,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother noth add
+74,3869,Adult,Dar,Breast Cancer,2.0,29.0,,,particip noth add
+139,7251,Adult,Dar,Cervical Cancer,2.0,999.0,,,particip noth add
+148,7610,Adult,Dar,Cervical Cancer,2.0,999.0,,,particip noth add
+83,4262,Adult,Dar,Cervical Cancer,2.0,70.0,,,particip noth add
+34,1904,Adult,Dar,Cervical Cancer,2.0,52.0,,,particip noth add
+132,7000,Adult,Dar,Cervical Cancer,2.0,45.0,,,particip noth add
+61,2936,Adult,Dar,Cervical Cancer,2.0,40.0,,,particip noth add
+76,4021,Adult,Dar,Cervical Cancer,2.0,76.0,,,particip noth add
+63,2984,Adult,Dar,Cervical Cancer,2.0,43.0,,,particip noth add
+65,3145,Adult,Dar,Cervical Cancer,2.0,60.0,,,particip noth add
+116,5932,Adult,Dar,Cervical Cancer,2.0,58.0,,,particip noth add
+14,568,Adult,Dar,Cervical Cancer,2.0,44.0,,,particip noth add
+12,430,Adult,Dar,Cirrhosis,1.0,999.0,,,particip noth add
+152,7828,Adult,Dar,Cirrhosis,2.0,23.0,,,particip noth add
+40,2188,Adult,Dar,Colorectal Cancer,1.0,40.0,,,particip noth add
+102,5147,Adult,Dar,Colorectal Cancer,2.0,48.0,,,particip noth add
+62,2977,Adult,Dar,Colorectal Cancer,2.0,999.0,,,respond noth add thank appreaci visit
+124,6549,Adult,Dar,Colorectal Cancer,1.0,44.0,,,particip noth add
+21,1175,Adult,Dar,Colorectal Cancer,1.0,35.0,,,particip noth add
+56,2805,Adult,Dar,Colorectal Cancer,1.0,57.0,,,particip noth add
+341,1729,Neonate,Dar,Congenital malformation,1.0,,,0.0,mother noth add
+397,2447,Neonate,Dar,Congenital malformation,1.0,,,1.0,particip noth add
+250,598,Neonate,Dar,Congenital malformation,2.0,,,18.0,particip noth add
+339,1702,Neonate,Dar,Congenital malformation,1.0,,,0.0,mother noth add
+258,749,Neonate,Dar,Congenital malformation,2.0,,,0.0,respond noth add
+326,1520,Neonate,Dar,Congenital malformation,1.0,,,0.0,respond noth add given medic record
+350,1823,Neonate,Dar,Congenital malformation,2.0,,,0.0,respond noth add
+239,507,Neonate,Dar,Congenital malformation,1.0,,,1.0,particip noth add
+288,1137,Neonate,Dar,Congenital malformation,1.0,,,0.0,respond noth add
+313,1393,Neonate,Dar,Congenital malformation,1.0,,,0.0,respond noth add
+284,1116,Neonate,Dar,Congenital malformation,2.0,,,99.0,particip noth add
+222,327,Neonate,Dar,Congenital malformation,2.0,,,3.0,particip noth add
+290,1142,Neonate,Dar,Congenital malformation,2.0,,,0.0,respond noth add
+228,405,Neonate,Dar,Congenital malformation,2.0,,,13.0,client noth add
+343,1760,Neonate,Dar,Congenital malformation,1.0,,,1.0,particip noth add
+387,2294,Neonate,Dar,Congenital malformation,2.0,,,1.0,mother noth add servic hospit good
+368,2068,Neonate,Dar,Congenital malformation,2.0,,,14.0,mother noth add
+144,7511,Adult,Dar,Diabetes,2.0,60.0,,,particip noth add
+23,1204,Adult,Dar,Diabetes,1.0,58.0,,,particip noth add
+111,5569,Adult,Dar,Diabetes,2.0,80.0,,,particip noth add
+57,2825,Adult,Dar,Diabetes,2.0,16.0,,,client noth add
+184,1255,Child,Dar,Diarrhea/Dysentery,2.0,2.0,,,client noth add cri
+197,1786,Child,Dar,Diarrhea/Dysentery,2.0,,6.0,,particip noth add
+180,1156,Child,Dar,Diarrhea/Dysentery,2.0,1.0,,,client noth add
+166,547,Child,Dar,Diarrhea/Dysentery,1.0,,8.0,,particip noth add
+187,1355,Child,Dar,Diarrhea/Dysentery,2.0,4.0,,,particip paint noth add
+175,1014,Child,Dar,Diarrhea/Dysentery,2.0,2.0,,,client noth add
+181,1185,Child,Dar,Diarrhea/Dysentery,2.0,1.0,,,client noth add
+185,1269,Child,Dar,Diarrhea/Dysentery,1.0,,9.0,,particip noth add
+161,330,Child,Dar,Diarrhea/Dysentery,1.0,2.0,,,client noth add
+167,584,Child,Dar,Diarrhea/Dysentery,1.0,10.0,,,particip noth add
+174,1010,Child,Dar,Diarrhea/Dysentery,2.0,,5.0,,client noth add
+172,866,Child,Dar,Diarrhea/Dysentery,2.0,,11.0,,particip noth add
+173,1002,Child,Dar,Diarrhea/Dysentery,2.0,,7.0,,particip noth add
+5,288,Adult,Dar,Diarrhea/Dysentery,1.0,50.0,,,particip noth add
+169,764,Child,Dar,Drowning,2.0,5.0,,,client noth add
+199,1819,Child,Dar,Drowning,1.0,2.0,,,client noth add
+194,1749,Child,Dar,Drowning,1.0,9.0,,,particip noth add
+50,2514,Adult,Dar,Epilepsy,1.0,71.0,,,mother noth add
+140,7258,Adult,Dar,Esophageal Cancer,2.0,65.0,,,client noth add
+47,2457,Adult,Dar,Esophageal Cancer,2.0,81.0,,,particip noth add
+115,5931,Adult,Dar,Esophageal Cancer,1.0,65.0,,,client noth add
+11,410,Adult,Dar,Esophageal Cancer,1.0,41.0,,,respond noth add
+129,6727,Adult,Dar,Falls,1.0,34.0,,,client noth add
+73,3775,Adult,Dar,Fires,1.0,28.0,,,client noth add
+37,2038,Adult,Dar,Homicide,1.0,24.0,,,client noth add
+98,4989,Adult,Dar,Homicide,1.0,27.0,,,particip noth add
+93,4672,Adult,Dar,Homicide,2.0,55.0,,,client noth add
+92,4670,Adult,Dar,Homicide,1.0,30.0,,,client noth add
+145,7520,Adult,Dar,Leukemia/Lymphomas,1.0,53.0,,,client noth add
+112,5631,Adult,Dar,Leukemia/Lymphomas,1.0,57.0,,,client noth add
+20,932,Adult,Dar,Leukemia/Lymphomas,2.0,12.0,,,particip noth add also misplac death certif
+60,2929,Adult,Dar,Lung Cancer,1.0,32.0,,,particip noth add
+158,253,Child,Dar,Malaria,2.0,6.0,,,particip noth add
+168,744,Child,Dar,Malaria,2.0,3.0,,,client noth add
+81,4171,Adult,Dar,Malaria,1.0,38.0,,,client noth add
+170,790,Child,Dar,Malaria,1.0,1.0,,,particip noth add
+159,282,Child,Dar,Malaria,2.0,,11.0,,particip noth add
+153,67,Child,Dar,Malaria,2.0,9.0,,,particip noth add also misplac death certif
+176,1040,Child,Dar,Malaria,1.0,9.0,,,particip noth add
+155,128,Child,Dar,Malaria,2.0,,9.0,,particip noth add
+157,232,Child,Dar,Malaria,1.0,,4.0,,particip noth add
+160,292,Child,Dar,Malaria,1.0,10.0,,,client noth add
+154,77,Child,Dar,Malaria,,,9.0,,particip noth add
+120,6242,Adult,Dar,Malaria,2.0,32.0,,,particip noth add
+9,373,Adult,Dar,Maternal,2.0,35.0,,,particip noth add
+22,1195,Adult,Dar,Maternal,2.0,30.0,,,client noth add
+18,861,Adult,Dar,Maternal,2.0,28.0,,,particip noth add
+24,1216,Adult,Dar,Maternal,2.0,29.0,,,respond noth add medic record misplac
+30,1823,Adult,Dar,Maternal,2.0,25.0,,,particip noth add
+100,5049,Adult,Dar,Maternal,2.0,17.0,,,respond noth add medic record deceas father
+43,2284,Adult,Dar,Maternal,2.0,25.0,,,client noth add
+141,7277,Adult,Dar,Maternal,2.0,21.0,,,respond noth add medic record misplac
+91,4594,Adult,Dar,Maternal,2.0,999.0,,,particip noth add
+55,2776,Adult,Dar,Maternal,2.0,31.0,,,particp noth add
+58,2923,Adult,Dar,Maternal,2.0,37.0,,,respond noth add
+66,3232,Adult,Dar,Maternal,2.0,34.0,,,particip noth add
+70,3393,Adult,Dar,Maternal,2.0,999.0,,,particip noth add
+125,6576,Adult,Dar,Maternal,2.0,24.0,,,respond noth add pleas hospit servic
+201,1842,Child,Dar,Meningitis,1.0,1.0,,,client noth add
+271,970,Neonate,Dar,Meningitis/Sepsis,2.0,,,0.0,mother noth add servic hospit good
+273,999,Neonate,Dar,Meningitis/Sepsis,2.0,,,1.0,client noth add nt know caus death
+238,494,Neonate,Dar,Meningitis/Sepsis,2.0,,,5.0,respond noth add
+392,2394,Neonate,Dar,Meningitis/Sepsis,2.0,,,1.0,mother noth add
+237,476,Neonate,Dar,Meningitis/Sepsis,1.0,,,6.0,particip noth add
+289,1140,Neonate,Dar,Meningitis/Sepsis,2.0,,,7.0,particip noth add
+298,1239,Neonate,Dar,Meningitis/Sepsis,1.0,,,3.0,client noth add
+304,1294,Neonate,Dar,Meningitis/Sepsis,2.0,,,1.0,respond noth add
+388,2304,Neonate,Dar,Meningitis/Sepsis,2.0,,,0.0,mother noth add
+346,1789,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,mother noth add
+314,1407,Neonate,Dar,Meningitis/Sepsis,1.0,,,2.0,respond noth add
+210,130,Neonate,Dar,Meningitis/Sepsis,1.0,,,4.0,mother noth add
+262,807,Neonate,Dar,Meningitis/Sepsis,2.0,,,7.0,client noth add
+375,2185,Neonate,Dar,Meningitis/Sepsis,1.0,,,3.0,mother noth add
+371,2107,Neonate,Dar,Meningitis/Sepsis,1.0,,,11.0,particip noth add
+342,1759,Neonate,Dar,Meningitis/Sepsis,1.0,,,0.0,mother noth add
+301,1258,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,respond noth add
+286,1123,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,client noth add
+205,52,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,mother noth add
+107,5515,Adult,Dar,Other Cardiovascular Diseases,2.0,65.0,,,particip noth add
+13,493,Adult,Dar,Other Cardiovascular Diseases,1.0,19.0,,,particip noth add
+89,4516,Adult,Dar,Other Cardiovascular Diseases,2.0,22.0,,,particip noth add
+95,4860,Adult,Dar,Other Cardiovascular Diseases,1.0,58.0,,,client noth add
+135,7213,Adult,Dar,Other Cardiovascular Diseases,,27.0,,,particip noth add
+82,4176,Adult,Dar,Other Cardiovascular Diseases,2.0,41.0,,,particip noth add
+33,1886,Adult,Dar,Other Cardiovascular Diseases,2.0,38.0,,,particip noth add
+101,5096,Adult,Dar,Other Cardiovascular Diseases,1.0,90.0,,,particip noth add
+117,6053,Adult,Dar,Other Cardiovascular Diseases,1.0,73.0,,,particip noth add
+179,1136,Child,Dar,Other Defined Causes of Child Deaths,2.0,3.0,,,particip noth add
+192,1644,Child,Dar,Other Defined Causes of Child Deaths,1.0,4.0,,,particip noth add
+202,1930,Child,Dar,Other Defined Causes of Child Deaths,1.0,6.0,,,particip noth add
+177,1089,Child,Dar,Other Digestive Diseases,1.0,10.0,,,particip noth add
+203,2004,Child,Dar,Other Digestive Diseases,2.0,2.0,,,particip noth add
+31,1824,Adult,Dar,Other Injuries,1.0,52.0,,,client noth add
+2,178,Adult,Dar,Other Injuries,2.0,16.0,,,particip noth add
+1,167,Adult,Dar,Other Injuries,1.0,999.0,,,particip noth add
+131,6747,Adult,Dar,Other Injuries,1.0,22.0,,,particip noth add
+138,7236,Adult,Dar,Other Injuries,1.0,50.0,,,client noth add
+41,2248,Adult,Dar,Other Non-communicable Diseases,1.0,999.0,,,particip noth add
+134,7062,Adult,Dar,Other Non-communicable Diseases,1.0,73.0,,,client noth add
+118,6123,Adult,Dar,Other Non-communicable Diseases,1.0,29.0,,,particip noth add
+27,1557,Adult,Dar,Other Non-communicable Diseases,1.0,64.0,,,particip noth add
+53,2720,Adult,Dar,Other Non-communicable Diseases,2.0,36.0,,,particip noth add
+127,6701,Adult,Dar,Other Non-communicable Diseases,1.0,23.0,,,particip noth add
+94,4711,Adult,Dar,Other Non-communicable Diseases,1.0,35.0,,,particip noth add
+106,5380,Adult,Dar,Other Non-communicable Diseases,2.0,23.0,,,particip noth add
+67,3254,Adult,Dar,Other Non-communicable Diseases,1.0,63.0,,,client noth add death certif lost
+105,5272,Adult,Dar,Other Non-communicable Diseases,1.0,73.0,,,particip noth add
+48,2460,Adult,Dar,Other Non-communicable Diseases,1.0,28.0,,,particip noth add
+78,4102,Adult,Dar,Other Non-communicable Diseases,2.0,46.0,,,particip noth add
+87,4441,Adult,Dar,Pneumonia,1.0,44.0,,,particip noth add
+99,5042,Adult,Dar,Pneumonia,1.0,40.0,,,particip noth add
+171,859,Child,Dar,Pneumonia,1.0,,9.0,,particip noth add
+29,1633,Adult,Dar,Pneumonia,1.0,64.0,,,particip noth add
+104,5259,Adult,Dar,Pneumonia,2.0,26.0,,,particip noth add
+240,512,Neonate,Dar,Pneumonia,1.0,,,5.0,particip noth add
+312,1386,Neonate,Dar,Pneumonia,1.0,,,0.0,respond noth add
+243,535,Neonate,Dar,Pneumonia,1.0,,,1.0,particip noth add
+348,1801,Neonate,Dar,Pneumonia,2.0,,,7.0,particip noth add
+75,3914,Adult,Dar,Pneumonia,2.0,70.0,,,particip noth add
+411,2609,Neonate,Dar,Pneumonia,1.0,,,4.0,particip noth add
+374,2173,Neonate,Dar,Pneumonia,2.0,,,15.0,particip noth add
+196,1783,Child,Dar,Pneumonia,2.0,1.0,,,particip noth add
+4,270,Adult,Dar,Pneumonia,2.0,28.0,,,particip noth add
+191,1639,Child,Dar,Pneumonia,1.0,,11.0,,particip noth add
+190,1538,Child,Dar,Pneumonia,2.0,,8.0,,particip noth add
+189,1523,Child,Dar,Pneumonia,1.0,,4.0,,particip noth add
+198,1808,Child,Dar,Pneumonia,2.0,8.0,,,particip noth add
+188,1420,Child,Dar,Pneumonia,1.0,,7.0,,particip noth add
+186,1353,Child,Dar,Pneumonia,2.0,1.0,,,partcip noth add
+193,1681,Child,Dar,Pneumonia,1.0,1.0,,,particip noth add
+149,7674,Adult,Dar,Pneumonia,1.0,22.0,,,particip noth add
+10,397,Adult,Dar,Pneumonia,1.0,999.0,,,particip noth add
+182,1197,Child,Dar,Pneumonia,1.0,1.0,,,particip noth add
+25,1511,Adult,Dar,Pneumonia,2.0,45.0,,,particip noth add
+195,1759,Child,Dar,Pneumonia,2.0,,2.0,,particip noth add
+156,129,Child,Dar,Pneumonia,1.0,3.0,,,particip noth add
+162,427,Child,Dar,Pneumonia,1.0,,2.0,,particip noth add
+163,462,Child,Dar,Pneumonia,2.0,,10.0,,particip noth add
+164,496,Child,Dar,Pneumonia,1.0,1.0,,,client noth add
+200,1839,Child,Dar,Pneumonia,2.0,,6.0,,particip noth point add
+331,1622,Neonate,Dar,Preterm Delivery,1.0,,,7.0,particip noth add misplac death certif
+317,1452,Neonate,Dar,Preterm Delivery,1.0,,,5.0,particip noth add
+252,648,Neonate,Dar,Preterm Delivery,1.0,,,0.0,mother noth add servic hospit good
+384,2269,Neonate,Dar,Preterm Delivery,2.0,,,0.0,respond noth add
+315,1408,Neonate,Dar,Preterm Delivery,1.0,,,1.0,client noth add
+307,1312,Neonate,Dar,Preterm Delivery,2.0,,,1.0,particip noth add
+263,821,Neonate,Dar,Preterm Delivery,1.0,,,6.0,particip noth add
+294,1229,Neonate,Dar,Preterm Delivery,1.0,,,1.0,particip noth add
+291,1172,Neonate,Dar,Preterm Delivery,1.0,,,3.0,client noth add
+401,2519,Neonate,Dar,Preterm Delivery,2.0,,,23.0,particip noth add
+305,1298,Neonate,Dar,Preterm Delivery,2.0,,,2.0,particip noth add
+282,1085,Neonate,Dar,Preterm Delivery,2.0,,,8.0,client noth add
+229,408,Neonate,Dar,Preterm Delivery,2.0,,,2.0,particip noth add
+376,2196,Neonate,Dar,Preterm Delivery,1.0,,,3.0,respond noth add
+393,2406,Neonate,Dar,Preterm Delivery,2.0,,,15.0,particip noth add
+220,314,Neonate,Dar,Preterm Delivery,1.0,,,14.0,client noth add
+386,2275,Neonate,Dar,Preterm Delivery,,,,1.0,particip noth add
+230,410,Neonate,Dar,Preterm Delivery,2.0,,,3.0,respond noth add
+369,2073,Neonate,Dar,Preterm Delivery,1.0,,,6.0,client noth add
+366,2062,Neonate,Dar,Preterm Delivery,2.0,,,15.0,particip noth add
+373,2145,Neonate,Dar,Preterm Delivery,1.0,,,1.0,particip noth add
+234,451,Neonate,Dar,Preterm Delivery,1.0,,,0.0,mother noth add servic hospit good
+219,309,Neonate,Dar,Preterm Delivery,1.0,,,1.0,client noth add
+206,66,Neonate,Dar,Preterm Delivery,1.0,,,0.0,respond noth add
+410,2600,Neonate,Dar,Preterm Delivery,2.0,,,2.0,particip noth add
+204,11,Neonate,Dar,Preterm Delivery,1.0,,,0.0,mother noth add servic hospit good
+352,1862,Neonate,Dar,Preterm Delivery,2.0,,,,client noth add
+383,2236,Neonate,Dar,Preterm Delivery,2.0,,,0.0,mother noth add
+396,2437,Neonate,Dar,Preterm Delivery,1.0,,,4.0,client noth add
+359,1955,Neonate,Dar,Preterm Delivery,2.0,,,2.0,particip noth add
+389,2350,Neonate,Dar,Preterm Delivery,,,,0.0,particip noth add
+84,4306,Adult,Dar,Renal Failure,2.0,55.0,,,client noth add
+46,2403,Adult,Dar,Renal Failure,2.0,85.0,,,client noth add
+150,7777,Adult,Dar,Renal Failure,1.0,75.0,,,particip noth add
+119,6146,Adult,Dar,Renal Failure,1.0,85.0,,,client noth add
+38,2054,Adult,Dar,Renal Failure,1.0,999.0,,,client noth add
+123,6496,Adult,Dar,Road Traffic,1.0,999.0,,,client noth add
+6,299,Adult,Dar,Road Traffic,1.0,29.0,,,client noth add
+178,1121,Child,Dar,Road Traffic,2.0,6.0,,,client noth add
+130,6733,Adult,Dar,Road Traffic,1.0,38.0,,,client noth add
+51,2626,Adult,Dar,Road Traffic,2.0,25.0,,,client noth add
+165,522,Child,Dar,Sepsis,1.0,,8.0,,particip noth add
+278,1036,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+227,399,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+370,2105,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+367,2066,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+233,449,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+365,2055,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+364,2052,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+363,2048,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
+362,2045,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
+361,1982,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+360,1977,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+235,454,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+358,1953,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+372,2119,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+357,1921,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+355,1892,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+354,1889,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+236,471,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+241,521,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+351,1847,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add complain
+244,538,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
+347,1792,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+345,1786,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+277,1024,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+245,540,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+246,550,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+247,556,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+356,1916,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+338,1697,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+226,394,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+223,341,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+409,2591,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+407,2576,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+406,2570,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+405,2558,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+404,2550,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+402,2529,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+400,2517,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add servic hospit good
+399,2500,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add complain
+398,2456,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+207,99,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
+208,104,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+209,117,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+225,373,Neonate,Dar,Stillbirth,2.0,,,14.0,mother noth add
+212,144,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+214,157,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+215,163,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+216,176,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add medic record misplac
+385,2271,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+217,227,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+218,270,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+382,2228,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
+381,2221,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+380,2219,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+378,2211,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+377,2210,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+221,317,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+213,147,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+337,1683,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+344,1770,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+335,1673,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+310,1362,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+309,1355,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+308,1342,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
+259,752,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+336,1675,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+260,765,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+303,1288,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+264,825,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+300,1255,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+299,1248,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+265,866,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+297,1238,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+296,1236,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add hospit servic good
+295,1233,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+266,874,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+293,1194,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+267,902,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+268,915,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+269,954,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+287,1125,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+285,1121,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+283,1086,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+276,1007,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+281,1079,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+279,1044,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good misplac medic record
+311,1379,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+257,742,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
+306,1304,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+256,724,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+334,1664,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+249,583,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+332,1643,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+330,1620,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+329,1601,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
+327,1532,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+325,1518,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+324,1515,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+323,1510,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+328,1599,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
+316,1417,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+254,686,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+321,1465,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+251,603,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+318,1453,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
+292,1193,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
+320,1464,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
+59,2925,Adult,Dar,Stomach Cancer,2.0,34.0,,,particip noth add
+113,5812,Adult,Dar,Stomach Cancer,2.0,35.0,,,particip noth add
+88,4448,Adult,Dar,Stroke,2.0,63.0,,,particip noth add
+49,2510,Adult,Dar,Stroke,2.0,17.0,,,client noth add
+122,6426,Adult,Dar,Stroke,1.0,46.0,,,particip bad noth add
+26,1556,Adult,Dar,Stroke,2.0,45.0,,,particip noth toa add
+108,5525,Adult,Dar,Stroke,1.0,82.0,,,particip noth add
+64,3098,Adult,Dar,Stroke,2.0,39.0,,,partcip noth add
+136,7216,Adult,Dar,Stroke,2.0,65.0,,,client noth add
+3,239,Adult,Dar,Stroke,2.0,42.0,,,client noth add
+80,4148,Adult,Dar,Stroke,1.0,51.0,,,client noth add
+69,3340,Adult,Dar,Stroke,1.0,999.0,,,particip noth add
+96,4919,Adult,Dar,TB,2.0,999.0,,,particip noth add
+36,2029,Adult,Dar,TB,2.0,51.0,,,particip noth add
+151,7796,Adult,Dar,TB,2.0,38.0,,,particip noth add
+114,5865,Adult,Dar,TB,2.0,37.0,,,particip noth add
+19,867,Adult,Dar,TB,2.0,23.0,,,particip noth add
+121,6343,Adult,Dar,TB,2.0,79.0,,,respond noth add
+147,7546,Adult,Dar,TB,1.0,56.0,,,client noth add
+90,4558,Adult,Dar,TB,2.0,27.0,,,particip noth toa add
+146,7528,Adult,Dar,TB,1.0,999.0,,,client noth add
+72,3672,Adult,Dar,TB,2.0,28.0,,,particip noth add
+86,4435,Adult,Dar,TB,2.0,34.0,,,particip noth add
+39,2107,Adult,Dar,TB,1.0,57.0,,,particip noth add
+7,310,Adult,Dar,TB,1.0,28.0,,,particip noth add
+77,4046,Adult,Dar,TB,1.0,46.0,,,client noth add
+54,2743,Adult,Dar,TB,2.0,26.0,,,particip noth add

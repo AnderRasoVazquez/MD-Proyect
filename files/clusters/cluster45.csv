@@ -1,380 +1,260 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-0 26,1 Adult,2 Dar,3 Diabetes,4 2.0,5 50.0,6 nan,7 nan,8 client addit point
-0 54,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
-0 67,1 Adult,2 Dar,3 AIDS,4 2.0,5 28.0,6 nan,7 nan,8 client addit point
-0 109,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 19.0,6 nan,7 nan,8 client addit point
-0 162,1 Adult,2 Dar,3 Diabetes,4 2.0,5 65.0,6 nan,7 nan,8 client addit point
-0 175,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 48.0,6 nan,7 nan,8 client addit point
-0 238,1 Adult,2 Dar,3 Malaria,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
-0 280,1 Adult,2 Dar,3 Diabetes,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
-0 339,1 Adult,2 Dar,3 Malaria,4 2.0,5 47.0,6 nan,7 nan,8 client addit point
-0 375,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 383,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 24.0,6 nan,7 nan,8 client addit point
-0 415,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 50.0,6 nan,7 nan,8 client addit point
-0 473,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 49.0,6 nan,7 nan,8 client addit point
-0 479,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 41.0,6 nan,7 nan,8 client addit point
-0 503,1 Adult,2 Dar,3 Poisonings,4 1.0,5 72.0,6 nan,7 nan,8 client addit point
-0 547,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 40.0,6 nan,7 nan,8 client addit point
-0 594,1 Adult,2 Dar,3 Diabetes,4 1.0,5 67.0,6 nan,7 nan,8 client addit point
-0 616,1 Adult,2 Dar,3 AIDS,4 2.0,5 63.0,6 nan,7 nan,8 client addit point
-0 625,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 particip addit point
-0 647,1 Adult,2 Dar,3 Diabetes,4 1.0,5 52.0,6 nan,7 nan,8 client addit point
-0 732,1 Adult,2 Dar,3 AIDS,4 1.0,5 37.0,6 nan,7 nan,8 client addit point
-0 780,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 37.0,6 nan,7 nan,8 client addit inform
-0 923,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 58.0,6 nan,7 nan,8 client addit point
-0 965,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 49.0,6 nan,7 nan,8 client addit point
-0 1000,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 28.0,6 nan,7 nan,8 client addit point
-0 1016,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 47.0,6 nan,7 nan,8 client addit point
-0 1017,1 Adult,2 Dar,3 TB,4 2.0,5 19.0,6 nan,7 nan,8 client addit point
-0 1036,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 999.0,6 nan,7 nan,8 particip addit point
-0 1055,1 Adult,2 Dar,3 AIDS,4 2.0,5 20.0,6 nan,7 nan,8 client addit point
-0 1077,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 55.0,6 nan,7 nan,8 client addit point
-0 1085,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
-0 1127,1 Adult,2 Dar,3 Maternal,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
-0 1150,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 72.0,6 nan,7 nan,8 client addit point
-0 1191,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 1227,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 31.0,6 nan,7 nan,8 client addit point
-0 1233,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 42.0,6 nan,7 nan,8 client addit point
-0 1256,1 Adult,2 Dar,3 AIDS,4 2.0,5 30.0,6 nan,7 nan,8 particip addit point
-0 1265,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 58.0,6 nan,7 nan,8 client addit point
-0 1283,1 Adult,2 Dar,3 Cirrhosis,4 2.0,5 29.0,6 nan,7 nan,8 client addit point
-0 1285,1 Adult,2 Dar,3 TB,4 2.0,5 25.0,6 nan,7 nan,8 particip addit point
-0 1427,1 Adult,2 Dar,3 Stroke,4 1.0,5 50.0,6 nan,7 nan,8 client addit point
-0 1461,1 Adult,2 Dar,3 AIDS,4 2.0,5 42.0,6 nan,7 nan,8 client addit point
-0 1476,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 52.0,6 nan,7 nan,8 client addit point
-0 1499,1 Adult,2 Dar,3 TB,4 1.0,5 88.0,6 nan,7 nan,8 client addit point
-0 1513,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 1520,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 40.0,6 nan,7 nan,8 particip addit point
-0 1522,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 77.0,6 nan,7 nan,8 client addit point servic provid fine
-0 1528,1 Adult,2 Dar,3 Stroke,4 1.0,5 58.0,6 nan,7 nan,8 client addit point
-0 1544,1 Adult,2 Dar,3 Fires,4 1.0,5 33.0,6 nan,7 nan,8 client addit point
-0 1550,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 50.0,6 nan,7 nan,8 client addit point
-0 1553,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 86.0,6 nan,7 nan,8 client addit point
-0 1588,1 Adult,2 Dar,3 Asthma,4 1.0,5 75.0,6 nan,7 nan,8 client addit point
-0 1624,1 Adult,2 Dar,3 Stroke,4 1.0,5 61.0,6 nan,7 nan,8 client addit point
-0 1641,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 30.0,6 nan,7 nan,8 client addit point
-0 1675,1 Adult,2 Dar,3 Diabetes,4 1.0,5 50.0,6 nan,7 nan,8 client addit point
-0 1720,1 Adult,2 Dar,3 TB,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
-0 1775,1 Adult,2 Dar,3 Lung Cancer,4 2.0,5 27.0,6 nan,7 nan,8 client addit point
-0 1782,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 31.0,6 nan,7 nan,8 client addit point
-0 1813,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 71.0,6 nan,7 nan,8 addit point
-0 1844,1 Adult,2 Dar,3 Maternal,4 2.0,5 17.0,6 nan,7 nan,8 client addit point servic provid good
-0 1916,1 Adult,2 Dar,3 Fires,4 1.0,5 26.0,6 nan,7 nan,8 client addit point
-0 1959,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 20.0,6 nan,7 nan,8 client addit point
-0 1977,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 61.0,6 nan,7 nan,8 client addit point
-0 1995,1 Adult,2 Dar,3 TB,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
-0 2041,1 Adult,2 Dar,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 client addit point
-0 2050,1 Adult,2 Dar,3 Diabetes,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 2058,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 60.0,6 nan,7 nan,8 client addit point
-0 2082,1 Adult,2 Dar,3 AIDS,4 1.0,5 42.0,6 nan,7 nan,8 client addit point
-0 2086,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 25.0,6 nan,7 nan,8 client addit point
-0 2091,1 Adult,2 Dar,3 Stroke,4 2.0,5 70.0,6 nan,7 nan,8 client addit point
-0 2108,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 50.0,6 nan,7 nan,8 client addit point
-0 2121,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 34.0,6 nan,7 nan,8 client addit point
-0 2135,1 Adult,2 Dar,3 TB,4 1.0,5 44.0,6 nan,7 nan,8 client addit point
-0 2186,1 Adult,2 Dar,3 AIDS,4 2.0,5 54.0,6 nan,7 nan,8 particip addit point
-0 2190,1 Adult,2 Dar,3 Malaria,4 2.0,5 60.0,6 nan,7 nan,8 client addit point
-0 2206,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 29.0,6 nan,7 nan,8 client addit point
-0 2210,1 Adult,2 Dar,3 Stroke,4 2.0,5 56.0,6 nan,7 nan,8 client addit point
-0 2254,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 2256,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 31.0,6 nan,7 nan,8 client addit point
-0 2310,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 50.0,6 nan,7 nan,8 client addit point
-0 2363,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 43.0,6 nan,7 nan,8 client addit point servic provid nice
-0 2382,1 Adult,2 Dar,3 Fires,4 1.0,5 23.0,6 nan,7 nan,8 particip addit point
-0 2420,1 Adult,2 Dar,3 Stroke,4 1.0,5 57.0,6 nan,7 nan,8 client addit point
-0 2444,1 Adult,2 Dar,3 Cirrhosis,4 2.0,5 36.0,6 nan,7 nan,8 client addit point
-0 2462,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
-0 2478,1 Adult,2 Dar,3 AIDS,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 2500,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 2538,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 44.0,6 nan,7 nan,8 client addit point
-0 2548,1 Adult,2 Dar,3 Other Injuries,4 1.0,5 32.0,6 nan,7 nan,8 client addit point
-0 2551,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 50.0,6 nan,7 nan,8 client addit
-0 2560,1 Adult,2 Dar,3 AIDS,4 2.0,5 58.0,6 nan,7 nan,8 client addit point
-0 2566,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
-0 2572,1 Adult,2 Dar,3 Stroke,4 1.0,5 85.0,6 nan,7 nan,8 client addit point
-0 2582,1 Adult,2 Dar,3 AIDS,4 2.0,5 37.0,6 nan,7 nan,8 particip addit point
-0 2619,1 Adult,2 Dar,3 Cirrhosis,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 2620,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 39.0,6 nan,7 nan,8 client addit point
-0 2648,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 58.0,6 nan,7 nan,8 client addit point
-0 2650,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 45.0,6 nan,7 nan,8 client addit point
-0 2727,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 2741,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 60.0,6 nan,7 nan,8 client addit point
-0 2781,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 34.0,6 nan,7 nan,8 particip addit point
-0 2795,1 Adult,2 Dar,3 AIDS,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
-0 2802,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 49.0,6 nan,7 nan,8 client addit point
-0 2941,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 70.0,6 nan,7 nan,8 client addit point
-0 2972,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 2994,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 80.0,6 nan,7 nan,8 client addit point
-0 3007,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 80.0,6 nan,7 nan,8 client addit point
-0 3057,1 Adult,2 Dar,3 Maternal,4 2.0,5 36.0,6 nan,7 nan,8 particip addit point
-0 3071,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 85.0,6 nan,7 nan,8 client addit point
-0 3083,1 Adult,2 Dar,3 Maternal,4 2.0,5 20.0,6 nan,7 nan,8 client addit point doctar aneamia
-0 3087,1 Adult,2 Dar,3 Diabetes,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
-0 3174,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 62.0,6 nan,7 nan,8 client addit point
-0 3196,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 28.0,6 nan,7 nan,8 client addit point
-0 3245,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 53.0,6 nan,7 nan,8 client addit point
-0 3279,1 Adult,2 Dar,3 Falls,4 1.0,5 40.0,6 nan,7 nan,8 particip addit point
-0 3310,1 Adult,2 Dar,3 Diabetes,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
-0 3343,1 Adult,2 Dar,3 AIDS,4 1.0,5 45.0,6 nan,7 nan,8 client addit point
-0 3396,1 Adult,2 Dar,3 Stroke,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 3409,1 Adult,2 Dar,3 TB,4 2.0,5 36.0,6 nan,7 nan,8 particip addit point
-0 3498,1 Adult,2 Dar,3 AIDS,4 2.0,5 24.0,6 nan,7 nan,8 particip addit point
-0 3513,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 33.0,6 nan,7 nan,8 client addit point
-0 3544,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 3630,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 35.0,6 nan,7 nan,8 particip addit point
-0 3653,1 Adult,2 Dar,3 Stomach Cancer,4 1.0,5 80.0,6 nan,7 nan,8 particip addit point
-0 3657,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 90.0,6 nan,7 nan,8 particip addit point
-0 3686,1 Adult,2 Dar,3 TB,4 1.0,5 23.0,6 nan,7 nan,8 particip addit point
-0 3704,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 65.0,6 nan,7 nan,8 client addit point
-0 3741,1 Adult,2 Dar,3 AIDS,4 1.0,5 50.0,6 nan,7 nan,8 client addit point
-0 3756,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 65.0,6 nan,7 nan,8 client addit point
-0 3780,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 80.0,6 nan,7 nan,8 client addit point
-0 3802,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 37.0,6 nan,7 nan,8 client addit point
-0 3830,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 71.0,6 nan,7 nan,8 client addit point
-0 3844,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 47.0,6 nan,7 nan,8 client addit point
-0 3851,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 85.0,6 nan,7 nan,8 client addit point
-0 3881,1 Adult,2 Dar,3 Colorectal Cancer,4 2.0,5 49.0,6 nan,7 nan,8 particip addit point
-0 3906,1 Adult,2 Dar,3 Maternal,4 2.0,5 22.0,6 nan,7 nan,8 client addit point
-0 3917,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 50.0,6 nan,7 nan,8 client addit point
-0 3979,1 Adult,2 Dar,3 Maternal,4 2.0,5 16.0,6 nan,7 nan,8 client addit point servic propid good
-0 4011,1 Adult,2 Dar,3 AIDS,4 1.0,5 35.0,6 nan,7 nan,8 client addit point
-0 4057,1 Adult,2 Dar,3 AIDS,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 4058,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 52.0,6 nan,7 nan,8 client addit point
-0 4086,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
-0 4106,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 4133,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 30.0,6 nan,7 nan,8 particip addit point
-0 4174,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 57.0,6 nan,7 nan,8 client addit point
-0 4212,1 Adult,2 Dar,3 Suicide,4 2.0,5 22.0,6 nan,7 nan,8 particip addit point
-0 4235,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 51.0,6 nan,7 nan,8 client addit point servic provid good
-0 4257,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 31.0,6 nan,7 nan,8 client addit point
-0 4320,1 Adult,2 Dar,3 TB,4 1.0,5 47.0,6 nan,7 nan,8 client addit point
-0 4354,1 Adult,2 Dar,3 Malaria,4 1.0,5 20.0,6 nan,7 nan,8 client addit point
-0 4394,1 Adult,2 Dar,3 TB,4 1.0,5 55.0,6 nan,7 nan,8 client addit point
-0 4416,1 Adult,2 Dar,3 AIDS,4 2.0,5 25.0,6 nan,7 nan,8 client addit point
-0 4478,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 67.0,6 nan,7 nan,8 client addit point
-0 4498,1 Adult,2 Dar,3 Maternal,4 2.0,5 24.0,6 nan,7 nan,8 client addit point
-0 4501,1 Adult,2 Dar,3 Stroke,4 2.0,5 86.0,6 nan,7 nan,8 client addit point
-0 4505,1 Adult,2 Dar,3 Maternal,4 2.0,5 29.0,6 nan,7 nan,8 client addit point
-0 4510,1 Adult,2 Dar,3 Other Injuries,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
-0 4536,1 Adult,2 Dar,3 Road Traffic,4 2.0,5 15.0,6 nan,7 nan,8 client addit point
-0 4562,1 Adult,2 Dar,3 Fires,4 1.0,5 35.0,6 nan,7 nan,8 particip addit point
-0 4602,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 39.0,6 nan,7 nan,8 client addit point
-0 4627,1 Adult,2 Dar,3 Acute Myocardial Infarction,4 1.0,5 17.0,6 nan,7 nan,8 particip addit point
-0 4721,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 4748,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 54.0,6 nan,7 nan,8 client addit point
-0 4790,1 Adult,2 Dar,3 Stomach Cancer,4 2.0,5 67.0,6 nan,7 nan,8 client addit point
-0 4823,1 Adult,2 Dar,3 Malaria,4 1.0,5 56.0,6 nan,7 nan,8 client addit point
-0 4996,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
-0 5033,1 Adult,2 Dar,3 Stroke,4 2.0,5 76.0,6 nan,7 nan,8 client addit point
-0 5070,1 Adult,2 Dar,3 Malaria,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
-0 5076,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 49.0,6 nan,7 nan,8 client addit point
-0 5083,1 Adult,2 Dar,3 Stroke,4 2.0,5 70.0,6 nan,7 nan,8 client addit point
-0 5098,1 Adult,2 Dar,3 Maternal,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
-0 5099,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 25.0,6 nan,7 nan,8 client addit point
-0 5105,1 Adult,2 Dar,3 TB,4 nan,5 999.0,6 nan,7 nan,8 client addit point
-0 5107,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 5161,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 5191,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 5210,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 58.0,6 nan,7 nan,8 client addit point
-0 5235,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 48.0,6 nan,7 nan,8 particip addit point
-0 5240,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 27.0,6 nan,7 nan,8 client addit point
-0 5268,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 52.0,6 nan,7 nan,8 client addit point
-0 5271,1 Adult,2 Dar,3 AIDS,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
-0 5351,1 Adult,2 Dar,3 Diabetes,4 1.0,5 58.0,6 nan,7 nan,8 client addit point
-0 5357,1 Adult,2 Dar,3 Stroke,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
-0 5370,1 Adult,2 Dar,3 Diabetes,4 1.0,5 91.0,6 nan,7 nan,8 client addit point
-0 5388,1 Adult,2 Dar,3 AIDS,4 2.0,5 34.0,6 nan,7 nan,8 client addit point
-0 5432,1 Adult,2 Dar,3 TB,4 1.0,5 53.0,6 nan,7 nan,8 particip addit point
-0 5433,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 66.0,6 nan,7 nan,8 client addit point
-0 5492,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 49.0,6 nan,7 nan,8 client addit point
-0 5507,1 Adult,2 Dar,3 Stomach Cancer,4 2.0,5 65.0,6 nan,7 nan,8 particip addit point
-0 5552,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 5557,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 45.0,6 nan,7 nan,8 client addit point
-0 5571,1 Adult,2 Dar,3 AIDS,4 1.0,5 39.0,6 nan,7 nan,8 client addit point
-0 5576,1 Adult,2 Dar,3 AIDS,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
-0 5591,1 Adult,2 Dar,3 Malaria,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
-0 5649,1 Adult,2 Dar,3 Maternal,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 5736,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 47.0,6 nan,7 nan,8 client addit point
-0 5743,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 37.0,6 nan,7 nan,8 client addit point servic provid good
-0 5747,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 48.0,6 nan,7 nan,8 client addit point
-0 5768,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 42.0,6 nan,7 nan,8 client addit point
-0 5796,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 42.0,6 nan,7 nan,8 client addit point
-0 5836,1 Adult,2 Dar,3 Stroke,4 1.0,5 82.0,6 nan,7 nan,8 client addit point
-0 5924,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 19.0,6 nan,7 nan,8 client addit point
-0 5927,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 50.0,6 nan,7 nan,8 client addit point
-0 5930,1 Adult,2 Dar,3 Fires,4 1.0,5 28.0,6 nan,7 nan,8 particip addit add point
-0 5940,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 48.0,6 nan,7 nan,8 client addit point
-0 5949,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 13.0,6 nan,7 nan,8 particip addit point
-0 5986,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 21.0,6 nan,7 nan,8 particip addit point
-0 6004,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 26.0,6 nan,7 nan,8 client addit point
-0 6042,1 Adult,2 Dar,3 Maternal,4 2.0,5 20.0,6 nan,7 nan,8 client addit point
-0 6046,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 nan,6 nan,7 nan,8 client addit point
-0 6070,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 35.0,6 nan,7 nan,8 client addit point
-0 6075,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 61.0,6 nan,7 nan,8 client addit point good servic provid
-0 6122,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 50.0,6 nan,7 nan,8 client addit point servic good
-0 6156,1 Adult,2 Dar,3 AIDS,4 2.0,5 42.0,6 nan,7 nan,8 client addit point
-0 6167,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 37.0,6 nan,7 nan,8 particip addit point
-0 6172,1 Adult,2 Dar,3 Malaria,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 6174,1 Adult,2 Dar,3 Maternal,4 2.0,5 35.0,6 nan,7 nan,8 client addit point
-0 6180,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 70.0,6 nan,7 nan,8 client addit point
-0 6205,1 Adult,2 Dar,3 Fires,4 1.0,5 30.0,6 nan,7 nan,8 client addit point
-0 6207,1 Adult,2 Dar,3 Malaria,4 1.0,5 49.0,6 nan,7 nan,8 client addit point
-0 6219,1 Adult,2 Dar,3 Maternal,4 2.0,5 23.0,6 nan,7 nan,8 client addit point
-0 6228,1 Adult,2 Dar,3 Colorectal Cancer,4 1.0,5 999.0,6 nan,7 nan,8 client addit point
-0 6315,1 Adult,2 Dar,3 Stroke,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 6348,1 Adult,2 Dar,3 Maternal,4 2.0,5 27.0,6 nan,7 nan,8 client addit point
-0 6358,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 42.0,6 nan,7 nan,8 client addit point
-0 6363,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 28.0,6 nan,7 nan,8 particip addit point
-0 6380,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 39.0,6 nan,7 nan,8 client addit point
-0 6389,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 24.0,6 nan,7 nan,8 client addit point
-0 6393,1 Adult,2 Dar,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 client addit point
-0 6410,1 Adult,2 Dar,3 Stroke,4 1.0,5 78.0,6 nan,7 nan,8 client addit point
-0 6447,1 Adult,2 Dar,3 AIDS,4 2.0,5 34.0,6 nan,7 nan,8 client addit point
-0 6453,1 Adult,2 Dar,3 AIDS,4 2.0,5 54.0,6 nan,7 nan,8 respond addit point servic good
-0 6468,1 Adult,2 Dar,3 Stomach Cancer,4 2.0,5 55.0,6 nan,7 nan,8 client addit point
-0 6485,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 46.0,6 nan,7 nan,8 client addit point
-0 6493,1 Adult,2 Dar,3 AIDS,4 1.0,5 47.0,6 nan,7 nan,8 client addit point
-0 6521,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 51.0,6 nan,7 nan,8 client addit point
-0 6548,1 Adult,2 Dar,3 Esophageal Cancer,4 2.0,5 58.0,6 nan,7 nan,8 client addit point
-0 6561,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 87.0,6 nan,7 nan,8 client addit point
-0 6668,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 72.0,6 nan,7 nan,8 client addit point servic provid good
-0 6683,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 45.0,6 nan,7 nan,8 client addit point add
-0 6788,1 Adult,2 Dar,3 Stroke,4 2.0,5 34.0,6 nan,7 nan,8 client addit point
-0 6792,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 79.0,6 nan,7 nan,8 client addit point
-0 6847,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 59.0,6 nan,7 nan,8 client addit point
-0 6860,1 Adult,2 Dar,3 Road Traffic,4 2.0,5 68.0,6 nan,7 nan,8 client addit point
-0 6881,1 Adult,2 Dar,3 TB,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
-0 6924,1 Adult,2 Dar,3 Maternal,4 2.0,5 18.0,6 nan,7 nan,8 client addit point
-0 6938,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 70.0,6 nan,7 nan,8 client addit point
-0 6961,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 43.0,6 nan,7 nan,8 client addit point
-0 7054,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 34.0,6 nan,7 nan,8 client addit point
-0 7057,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 37.0,6 nan,7 nan,8 clieni addit point
-0 7105,1 Adult,2 Dar,3 Falls,4 2.0,5 35.0,6 nan,7 nan,8 client addit point
-0 7159,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 42.0,6 nan,7 nan,8 client addit point
-0 7217,1 Adult,2 Dar,3 AIDS,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
-0 7223,1 Adult,2 Dar,3 Stroke,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 7246,1 Adult,2 Dar,3 AIDS,4 2.0,5 50.0,6 nan,7 nan,8 client addit point
-0 7249,1 Adult,2 Dar,3 AIDS,4 2.0,5 40.0,6 nan,7 nan,8 client addit point
-0 7300,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 52.0,6 nan,7 nan,8 client addit point
-0 7334,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 60.0,6 nan,7 nan,8 client addit point
-0 7399,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 31.0,6 nan,7 nan,8 respond addit point servic good
-0 7409,1 Adult,2 Dar,3 AIDS,4 2.0,5 22.0,6 nan,7 nan,8 client addit point
-0 7433,1 Adult,2 Dar,3 Malaria,4 2.0,5 20.0,6 nan,7 nan,8 client addit point
-0 7467,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 87.0,6 nan,7 nan,8 client addit point servic provid good
-0 7579,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 16.0,6 nan,7 nan,8 client addit point
-0 7627,1 Adult,2 Dar,3 Stroke,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 7657,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 26.0,6 nan,7 nan,8 client addit point
-0 7700,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 999.0,6 nan,7 nan,8 client addit point
-0 7720,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 20.0,6 nan,7 nan,8 client addit point
-0 7727,1 Adult,2 Dar,3 Stomach Cancer,4 1.0,5 55.0,6 nan,7 nan,8 particip addit point
-0 7760,1 Adult,2 Dar,3 Other Injuries,4 2.0,5 18.0,6 nan,7 nan,8 particip addit point
-0 7764,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 89.0,6 nan,7 nan,8 client addit point
-0 7838,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 52.0,6 nan,7 nan,8 client addit point
-0 16,1 Child,2 Dar,3 Malaria,4 2.0,5 1.0,6 nan,7 nan,8 client addit point
-0 70,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 9.0,7 nan,8 client addit point
-0 95,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 5.0,7 nan,8 client addit point
-0 133,1 Child,2 Dar,3 Meningitis,4 2.0,5 5.0,6 nan,7 nan,8 client addit point
-0 206,1 Child,2 Dar,3 Pneumonia,4 1.0,5 11.0,6 nan,7 nan,8 particip addit point
-0 227,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 2.0,5 7.0,6 nan,7 nan,8 particip addit point
-0 243,1 Child,2 Dar,3 Sepsis,4 2.0,5 2.0,6 nan,7 nan,8 client addit inform
-0 311,1 Child,2 Dar,3 AIDS,4 2.0,5 nan,6 7.0,7 nan,8 client addit point
-0 323,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 1.0,6 nan,7 nan,8 particip addit point
-0 346,1 Child,2 Dar,3 Fires,4 2.0,5 2.0,6 nan,7 nan,8 client addit point decead burn hot water
-0 470,1 Child,2 Dar,3 Fires,4 2.0,5 5.0,6 nan,7 nan,8 particip addit point also said caus death burnt
-0 509,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 9.0,7 nan,8 particip addit point
-0 543,1 Child,2 Dar,3 Malaria,4 2.0,5 2.0,6 nan,7 nan,8 client addit point
-0 567,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 7.0,7 nan,8 client addit point
-0 715,1 Child,2 Dar,3 Malaria,4 2.0,5 4.0,6 nan,7 nan,8 client addit point
-0 776,1 Child,2 Dar,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 clienbt addit point
-0 779,1 Child,2 Dar,3 Road Traffic,4 2.0,5 4.0,6 nan,7 nan,8 particip addit point
-0 805,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 3.0,7 nan,8 particip addit point
-0 818,1 Child,2 Dar,3 Meningitis,4 2.0,5 2.0,6 nan,7 nan,8 client addit point
-0 820,1 Child,2 Dar,3 Pneumonia,4 2.0,5 3.0,6 nan,7 nan,8 client addit point
-0 839,1 Child,2 Dar,3 Malaria,4 2.0,5 2.0,6 nan,7 nan,8 particip addit point sourc death malaria
-0 847,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 nan,6 10.0,7 nan,8 client addit point
-0 938,1 Child,2 Dar,3 Meningitis,4 1.0,5 nan,6 4.0,7 nan,8 particip addit point
-0 950,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 particip addit point
-0 958,1 Child,2 Dar,3 Road Traffic,4 1.0,5 9.0,6 nan,7 nan,8 client addit point
-0 970,1 Child,2 Dar,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 client addit point
-0 1116,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 client addit point
-0 1122,1 Child,2 Dar,3 Pneumonia,4 2.0,5 2.0,6 nan,7 nan,8 client addit point
-0 1189,1 Child,2 Dar,3 Road Traffic,4 1.0,5 9.0,6 nan,7 nan,8 client addit point
-0 1207,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 7.0,7 nan,8 client addit point
-0 1211,1 Child,2 Dar,3 Malaria,4 2.0,5 5.0,6 nan,7 nan,8 particip addit point
-0 1247,1 Child,2 Dar,3 Malaria,4 1.0,5 nan,6 9.0,7 nan,8 client addit point
-0 1257,1 Child,2 Dar,3 Sepsis,4 1.0,5 2.0,6 nan,7 nan,8 particip addit point
-0 1284,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 9.0,7 nan,8 client addit point
-0 1301,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 19.0,6 nan,7 nan,8 particip addit point
-0 1326,1 Child,2 Dar,3 Fires,4 1.0,5 2.0,6 nan,7 nan,8 client addit point
-0 1335,1 Child,2 Dar,3 Pneumonia,4 2.0,5 5.0,6 nan,7 nan,8 client addit point
-0 1354,1 Child,2 Dar,3 Other Infectious Diseases,4 2.0,5 11.0,6 nan,7 nan,8 client addit point
-0 1384,1 Child,2 Dar,3 Other Infectious Diseases,4 2.0,5 1.0,6 nan,7 nan,8 client addit point
-0 1403,1 Child,2 Dar,3 Malaria,4 2.0,5 1.0,6 nan,7 nan,8 particip addit point
-0 1488,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 2.0,7 nan,8 client addit point
-0 1495,1 Child,2 Dar,3 Malaria,4 2.0,5 2.0,6 nan,7 nan,8 particip addit point
-0 1542,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 2.0,6 nan,7 nan,8 particip addit point
-0 1561,1 Child,2 Dar,3 Other Infectious Diseases,4 1.0,5 3.0,6 nan,7 nan,8 client addit point
-0 1569,1 Child,2 Dar,3 Malaria,4 1.0,5 nan,6 3.0,7 nan,8 client addit point
-0 1690,1 Child,2 Dar,3 Meningitis,4 2.0,5 1.0,6 nan,7 nan,8 particip addit point
-0 1725,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 5.0,7 nan,8 client addit point
-0 1727,1 Child,2 Dar,3 Road Traffic,4 1.0,5 9.0,6 nan,7 nan,8 client addit point
-0 1732,1 Child,2 Dar,3 Malaria,4 2.0,5 nan,6 11.0,7 nan,8 client addit point
-0 1818,1 Child,2 Dar,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 client addit point
-0 1870,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 client addit point
-0 1871,1 Child,2 Dar,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 particip addit point
-0 1883,1 Child,2 Dar,3 Other Infectious Diseases,4 2.0,5 11.0,6 nan,7 nan,8 client addit point
-0 1935,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 2.0,5 2.0,6 nan,7 nan,8 client addit point
-0 1980,1 Child,2 Dar,3 Other Infectious Diseases,4 1.0,5 nan,6 nan,7 nan,8 client addit point
-0 2015,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 2.0,6 nan,7 nan,8 particip addit point
-0 107,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 mother addit point
-0 119,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 mother addit point
-0 121,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,8 client addit point
-0 170,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother addit point
-0 204,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 2.0,8 client addit point
-0 221,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 10.0,8 client addit point
-0 287,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother didnt addit point well attend
-0 293,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,8 client addit point
-0 300,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 mother addit point
-0 324,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 4.0,8 particip addit point
-0 444,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 particip addit point
-0 462,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,7 8.0,8 client addit point
-0 496,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 particip addit point
-0 528,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 client addit point
-0 545,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 5.0,6 nan,7 nan,8 mother addit point well attend
-0 565,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 client addit point
-0 671,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 client addit point
-0 737,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 particip addit point
-0 806,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 client addit point servic good
-0 828,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 8.0,8 client addit point
-0 847,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,7 18.0,8 client addit point
-0 865,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 client addit point
-0 906,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,7 22.0,8 client addit point
-0 943,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother addit point
-0 982,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 particip addit point
-0 1018,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 1.0,8 particip addit point
-0 1092,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 particip addit point
-0 1203,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 nan,6 nan,7 10.0,8 particip addit point
-0 1364,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 particip addit point
-0 1470,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,8 client addit point
-0 1528,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 4.0,8 client addit point
-0 1538,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother addit point
-0 1569,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 client addit point
-0 1625,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 7.0,8 client addit point
-0 1669,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 client addit point
-0 1672,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 particip addit point
-0 1682,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 addit point
-0 1717,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother well attend addit point
-0 1736,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 particip addit point
-0 1866,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond thank addit point
-0 1869,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 12.0,8 particip addit point
-0 2030,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 8.0,8 client addit point
-0 2116,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 mother addit point
-0 2131,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 client addit point well attend
-0 2135,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 7.0,8 client addit point
-0 2197,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,8 client addit point
-0 2224,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 7.0,8 client addit point
-0 2237,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 5.0,8 particip addit point
-0 2419,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 2.0,8 mother addit point
-0 2502,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 client addit point
-0 2510,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 4.0,8 client addit point
-0 2625,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 10.0,8 client addit point
+162,6052,Adult,Mexico,AIDS,1.0,35.0,,,attent receiv good although transfer wait longth interview went well although entir famili present even though answer question
+74,2883,Adult,Mexico,AIDS,1.0,29.0,,,would like studi done one treat patient treat treat like anim area alway discrimin lack ethic toward peopl live deadth interview went smoothli
+13,356,Adult,Dar,AIDS,1.0,40.0,,,client suggest nurs ra conduct interview mortuari rel busi deal dead bobi embass
+56,2335,Adult,Mexico,AIDS,2.0,39.0,,,hospit given better diagnosi test famili pay even though may necessari famili confidentth interview perform busi venu interviewe peac troubl
+219,7578,Adult,Mexico,AIDS,1.0,42.0,,,commentsinterviewe kind interview flow smoothli
+27,1008,Adult,Mexico,AIDS,1.0,44.0,,,moment admit hospit told us also influenza time hospitalth interview flow smoothli
+199,7039,Adult,Mexico,AIDS,1.0,28.0,,,seiz son hospit experi sinc oper time ask consent twice moreov son unplug without consent also everi time got period devic kept aliv removedth interview went smoothli
+95,3634,Adult,Mexico,AIDS,1.0,22.0,,,commentsth interview went smoothli inform would charg owe hospit
+99,3706,Adult,Mexico,AIDS,1.0,24.0,,,noneth inteview took place home although electr took place calmli without problem comment interviewe made son live ill becam sever son almost never complain physic state
+120,4710,Adult,Mexico,AIDS,1.0,34.0,,,commentth interview took place insid home problem interview went smoothli
+32,1425,Adult,Mexico,AIDS,1.0,38.0,,,good rel diseas known death rel suddenfluid interview good attent given interviewe
+78,3100,Adult,Mexico,AIDS,1.0,28.0,,,noneat first want give interview end agre setback
+102,3788,Adult,Mexico,AIDS,1.0,44.0,,,hope usefulflu interview interview say deceas use drink lot gave hiv therapi use mix alcohol think recov rather worsen condit
+93,3594,Adult,Mexico,AIDS,2.0,33.0,,,noneth interview carri insid hous without problem
+203,7144,Adult,Mexico,AIDS,1.0,55.0,,,confirm husband aid bronchiti told littl littl also told pneumonia attent receiv hospit good although alway told seriou conditionth interview went smoothli
+64,2570,Adult,Mexico,Acute Myocardial Infarction,2.0,77.0,,,well taken care part doctor gratefulth interview carri insid hous without problem
+188,6669,Adult,Mexico,Acute Myocardial Infarction,2.0,79.0,,,hospit imag surpris famili sinc hospit bad reput grate care mother receivedth interview carri insid home without problem
+25,968,Adult,Mexico,Acute Myocardial Infarction,1.0,76.0,,,hospit treat wife well noth sayth interview took place insid home problem
+24,962,Adult,Mexico,Acute Myocardial Infarction,2.0,73.0,,,noneth interview took place doorway home street although wait long time woman gave interview forc want invonveni
+89,3539,Adult,Mexico,Acute Myocardial Infarction,1.0,77.0,,,commentsth interview bit complic around found interviewe said would come back go moment came back sister also came talk interview went along brother said final agre interview told quick thing end last longer usual sister also gave opinion suppos answer
+128,4893,Adult,Mexico,Acute Myocardial Infarction,1.0,55.0,,,healthcar receiv hospit goodther problem get interview distrust first visit abl enter build third visit abl contact telephon fix appoint
+110,4056,Adult,Mexico,Acute Myocardial Infarction,1.0,57.0,,,taken away oxygen would die doctor mistaketh interview carri interviewe doorstep challeng convinc
+212,7360,Adult,Mexico,Acute Myocardial Infarction,1.0,62.0,,,noneth interview took place street outsid home calmli car street problem
+16,669,Adult,Mexico,Acute Myocardial Infarction,1.0,53.0,,,told man move truck sell buri husband lot famili problem one stepson jail rape hisher daughterth interview went smoothli woman kind
+15,544,Adult,Mexico,Acute Myocardial Infarction,1.0,67.0,,,need improv attent given hospit start hospit allth interview took place home went smoothli
+85,3397,Adult,Mexico,Acute Myocardial Infarction,1.0,69.0,,,thank interview hesh like itth interview took place insid home witouth setback
+137,5188,Adult,Mexico,Acute Myocardial Infarction,2.0,78.0,,,strang thing happen like give us attentionpeac interview
+87,3455,Adult,Mexico,Acute Myocardial Infarction,2.0,57.0,,,think mother die medic neglig phone interview fluent
+2,133,Adult,Mexico,Acute Myocardial Infarction,2.0,69.0,,,attent paid care quicker paperworkth interview took place insid home calmli problem
+82,3368,Adult,Mexico,Acute Myocardial Infarction,1.0,75.0,,,call sister law come interview one took care deceas live day hospit week sick home took hospit knew good hospit
+192,6815,Adult,Mexico,Acute Myocardial Infarction,1.0,71.0,,,commentsth interview fluent one point inform start cri control decid continu interview reserv cooper
+241,896,Neonate,Dar,Birth asphyxia,2.0,,,0.0,respond thank interview
+242,1156,Neonate,Mexico,Birth asphyxia,2.0,,,8.0,doubt commentsi welltreat even though begin understand object sure give interview
+247,1504,Neonate,Mexico,Birth asphyxia,2.0,,,12.0,noneit sad interview interview mother kind rememb happen babi interview burst tear moreov ask babi father want give name live
+185,6619,Adult,Mexico,Breast Cancer,2.0,83.0,,,commentsth interview fluent peac
+154,5636,Adult,Mexico,Breast Cancer,2.0,44.0,,,doctor tell us truth gave us hope would recov never told us level type cancer aunt hadth interview took place outsid home problem
+104,3849,Adult,Mexico,Breast Cancer,2.0,47.0,,,project interest good luck interview littl bit complic almost year gone hardli rememb correct question alreadi pass rememb interview nice polit interview took place workplac place
+31,1192,Adult,Mexico,Breast Cancer,2.0,44.0,,,commentsth interview took place insid home without problem
+30,1110,Adult,Mexico,Breast Cancer,2.0,74.0,,,given good care told truthth interview took place outsid home problem
+80,3212,Adult,Mexico,Breast Cancer,2.0,64.0,,,inform dissemin women get check cancer go went sisterth interview took place doorway home problem
+94,3632,Adult,Mexico,Breast Cancer,2.0,51.0,,,care given privat docto badth interview calm
+23,956,Adult,Mexico,Breast Cancer,2.0,58.0,,,noneth interview took place outsid home problem although said sisterinlaw complain much almost never said hurt
+6,184,Adult,Mexico,Breast Cancer,2.0,39.0,,,noneth interview carri insid hous famili problem
+215,7454,Adult,Mexico,Breast Cancer,2.0,56.0,,,doctor kind famili told begin invad kidneysth interview went smoothli
+122,4779,Adult,Mexico,COPD,1.0,63.0,,,commentsth interveiw flow smoothli
+55,2302,Adult,Mexico,COPD,1.0,94.0,,,noneth interview took place problem calmli
+34,1500,Adult,Mexico,COPD,2.0,73.0,,,check hospit know said sever pneumonia sinc diabet complic sinc moment arriv unconsciousth interview went smoothli
+0,75,Adult,Mexico,COPD,2.0,33.0,,,consid medic neglig supposedli good hospit nurs never attend alway dirti want go hospitalth interview fluent
+19,677,Adult,Mexico,COPD,2.0,83.0,,,male doctor describ situat problem digest tube femal doctor good control sinc mother lung problem mother die result infect go hospit viru treat hospit interview flow smoothli
+209,7288,Adult,Mexico,COPD,2.0,89.0,,,medic staff pay attent term med prescrib sometim help someth make someth els worseth interview carri insid home without problem
+176,6402,Adult,Mexico,COPD,2.0,52.0,,,commentth interview went well
+47,2137,Adult,Mexico,COPD,2.0,89.0,,,noneth interview carri main entranc informant stay calm share inform without problem
+211,7299,Adult,Mexico,Cervical Cancer,2.0,64.0,,,help peopl suffer diseas make sufferth interview took place without complic everyth went smoothli although interview make convers alway kind tender give interview
+81,3305,Adult,Mexico,Cervical Cancer,2.0,61.0,,,well taken care exam perform awar last momento die slowli first feet nose arm die interview
+40,1962,Adult,Dar,Cervical Cancer,2.0,65.0,,,interview guestion suggest
+134,5003,Adult,Mexico,Cervical Cancer,2.0,63.0,,,commentsth interview took place interviewe home without problem although ladi senior citizen section confus side clear abl correct problem
+72,2833,Adult,Mexico,Cirrhosis,1.0,48.0,,,basic caus death alcohol due cardhold treat badli even death mistreat front famili insensitiveth interview carri doorstep interviewe sibl home calm problem
+71,2824,Adult,Mexico,Cirrhosis,2.0,60.0,,,commentsth interview took place interviewe home calm ambianc problem
+111,4128,Adult,Mexico,Cirrhosis,1.0,47.0,,,give inform ask hospit sick peopl ask much one pay moment give voucher even one pay afterwardsth interview took place insid home problem
+112,4250,Adult,Mexico,Cirrhosis,1.0,52.0,,,medic care good hospitalit fluent interview
+113,4299,Adult,Mexico,Cirrhosis,1.0,68.0,,,hesh agre give interview hesh famili member work insp place know seriou goodqual projectsth interview carri outsid person home interviewe said hesh would answer hesh knew fortun turn well
+107,3900,Adult,Mexico,Cirrhosis,1.0,46.0,,,commentsth interview took place home problem calmli
+124,4804,Adult,Mexico,Cirrhosis,1.0,43.0,,,commentsth interview took place corner place newspap stand problem interview
+98,3687,Adult,Mexico,Cirrhosis,2.0,52.0,,,medic attent receiv hospit good took good care himth interview fluent
+92,3593,Adult,Mexico,Cirrhosis,1.0,23.0,,,hepat hepat ecephalopathi told hesh die medic attent goodth interview went smoothli
+59,2458,Adult,Mexico,Cirrhosis,2.0,66.0,,,pay attent patient sinc alreadi know lot peopl attend human themth interview took place insid home problem
+14,439,Adult,Mexico,Cirrhosis,2.0,54.0,,,comment hospit want see anoth state taken interview took place insid home problem
+207,7259,Adult,Mexico,Cirrhosis,2.0,56.0,,,mani doctor took good care sought medic attent opportun might still us symptom one year ignor remov uteru year old interview fluent problem
+26,1004,Adult,Mexico,Cirrhosis,2.0,72.0,,,may continu provid healthcar us come stateth interview took place interviewe home kind interview carri peac environ everyth flow smoothli
+130,4926,Adult,Mexico,Cirrhosis,1.0,55.0,,,inform spread wide peopl nt drink nt get cirrhosisth interview took place outsid home problem woman gave inform calmli
+183,6574,Adult,Mexico,Cirrhosis,1.0,75.0,,,commentsth interview fluent without interrupt although interviewe workplac
+174,6335,Adult,Mexico,Cirrhosis,1.0,66.0,,,commentsno data interview occur workplac interviewe went home famili told get interviewe workplac interview went smoothli deceas live past year work drank time famili left took care time person work auxiliari polic look piec land
+164,6140,Adult,Mexico,Cirrhosis,1.0,43.0,,,commentsth interview fluent
+37,1702,Adult,Mexico,Cirrhosis,2.0,70.0,,,everyth went well medic attent wonder although diseas advancedth interview took place insid home troubl calm atmospher
+51,2252,Adult,Mexico,Cirrhosis,1.0,39.0,,,medic attent hospit goodth interview fluent
+52,2295,Adult,Mexico,Cirrhosis,2.0,49.0,,,go die sooner later one get lossesth interview calm without cri first told stori carri interview
+141,5384,Adult,Mexico,Cirrhosis,1.0,53.0,,,commentth interview went smoothli interviewe mind clear percept father symptom
+148,5544,Adult,Mexico,Cirrhosis,1.0,59.0,,,commentsth interview occur outsid home without problem
+49,2162,Adult,Mexico,Cirrhosis,1.0,29.0,,,commentsth interview took place outsid home problem calmli
+57,2371,Adult,Mexico,Cirrhosis,1.0,76.0,,,health servic univers regardless social econom statusth interview took place home relax
+143,5431,Adult,Mexico,Cirrhosis,2.0,79.0,,,diagnosi gave us unexpect sinc degen diseas hey found sudden end final stage hesh go regular medic checkupsth interview went smoothli interviewe cooper
+210,7298,Adult,Mexico,Colorectal Cancer,1.0,55.0,,,hospit space ill personnel give better serviceth interview perform interviewe home although interviewe becam bit sad problem interview
+200,7053,Adult,Mexico,Colorectal Cancer,1.0,57.0,,,brother poorli treat futur case job betterth interview peac complet problem
+189,6780,Adult,Mexico,Colorectal Cancer,2.0,55.0,,,first told coliti cancer ovari final cancer colonth interview went smoothli
+28,1065,Adult,Mexico,Colorectal Cancer,2.0,79.0,,,doctor nt work properli deceiv peopleth interview carri insid hous without problem
+171,6322,Adult,Dar,Colorectal Cancer,1.0,62.0,,,interview said servic satisfatori
+244,1287,Neonate,Dar,Congenital malformation,1.0,,,0.0,interview suggest
+248,1573,Neonate,Mexico,Congenital malformation,2.0,,,11.0,medic attent good although lack thing provid good medic attent name father name interview given deceas babi girl grandmoth said mother bit shock tri understand happen problem grandmoth interview peac
+249,1577,Neonate,Mexico,Congenital malformation,1.0,,,18.0,commentth interview took place place
+252,2010,Neonate,Mexico,Congenital malformation,2.0,,,21.0,commentth interview took place outsid inform home problem talk babi death troubl
+255,2526,Neonate,Mexico,Congenital malformation,2.0,,,0.0,noneth interview took place insid home address without problem parent cooper calm
+258,2602,Neonate,Mexico,Congenital malformation,1.0,,,0.0,care offer quickli studi nt take long cost acces consult analys nt take longth interview carri insid hous problem
+101,3781,Adult,Mexico,Diabetes,2.0,57.0,,,mother poorli treat hospitalth interview went well
+127,4859,Adult,Mexico,Diabetes,2.0,83.0,,,commentsth interview fluent
+133,4987,Adult,Mexico,Diabetes,1.0,88.0,,,care adult cold given littl import patient treat better cover blanket end get sick job better put blanket cover sensit leav conscienc goe type govern institutionsth interview took place insid home problem
+158,5866,Adult,Mexico,Diabetes,1.0,54.0,,,commentsaft mani visit final possibl talk someon deceas son gave interview smoothli
+96,3670,Adult,Mexico,Diabetes,2.0,36.0,,,treat us well hospit treat wellth interview went smoothli
+184,6617,Adult,Mexico,Diabetes,2.0,44.0,,,medic attent bad medic malpracticeth interview went smoothli
+79,3204,Adult,Mexico,Diabetes,2.0,61.0,,,go give bed floor soon finish move intens care went coma nt even manag get way social worker hospit treat badli made feel bed consider age econom situationth interview went smoothli
+20,704,Adult,Mexico,Diabetes,1.0,68.0,,,ask autopsi perform knew die saw dieth interview fluent
+221,7694,Adult,Mexico,Diabetes,1.0,66.0,,,comment interviewe want famili know agre give interviewth interview took place interviewe home kind atmospher calm agre interview day gave time meet met outsid father home seem sister want give interview interviewe agre interview without famili knowledg
+191,6813,Adult,Mexico,Diabetes,2.0,28.0,,,person mention wife left beauti year old daughter love herth interview went smoothli
+3,144,Adult,Mexico,Diabetes,2.0,52.0,,,noneth interview took place outsid place itiner vendor suppos new home sinc work said would better work place sun involv inform commerc nt fix locat move around lot
+153,5588,Adult,Mexico,Diabetes,2.0,71.0,,,person upset regard way mother treat hospitalth interview went peac
+38,1769,Adult,Mexico,Diabetes,1.0,56.0,,,would good health center open mani peopl wait take long time see shoestor place interview took place establish without problem
+43,2053,Adult,Mexico,Diabetes,1.0,60.0,,,comment everyth fineth interview conduct outsid ladi home ladi seem bit nervou time becam relax interview relax
+197,6953,Adult,Mexico,Diarrhea/Dysentery,2.0,72.0,,,commentsth interview took place insid home problem
+44,2067,Adult,Mexico,Falls,1.0,58.0,,,die cerebr edema fractur skull paramed told us sedat see swell brain would go contrari becam swollenth interview went smoothli
+169,6227,Adult,Mexico,Falls,1.0,26.0,,,interview flow smoothli without problem
+205,7167,Adult,Mexico,Fires,1.0,70.0,,,took long time take hospit took hour hospit want receiv granddaugght talk doctor would receiv thereth interview went smoothli
+53,2296,Adult,Mexico,Fires,2.0,98.0,,,senior citizen go hospit reason well taken care due age nobodi pay attent case motherth interview took place insid home even though inform nt want particip final agre interview afterward problem
+168,6202,Adult,Mexico,Fires,1.0,31.0,,,nt understand happen brother ok sinc anwer everyth doctor ask psychologist spoke fine recogn everybodi nt blame doctor sinc alway clear term observationsth interview went smoothli
+62,2504,Adult,Mexico,Homicide,1.0,27.0,,,doctor nt work remov sinc take care simpl case nt pay attent real emerg better nursesth interview carri alley way street next door man drug begin brother ebulli littl littl calm interview carri smoothli
+103,3832,Adult,Mexico,Homicide,1.0,24.0,,,said nt use ambul taken themselvesth inform look calm nt make comment interview went smoothli
+182,6558,Adult,Mexico,Homicide,1.0,22.0,,,make effort far give attent user well medic mistak deni us bodi offens horribl way treat peopl anesthesiologist ask gadget use mani oper bought doctor said wrong cost pesosth interview perform interviewe home interviewe somewhat angri agre give interview
+50,2178,Adult,Mexico,Homicide,1.0,23.0,,,person mention son pedro wound firearm parti neighborhood privat ambul took hospit place nt receiv care afterward transfer particular hospit anyth let die charg peso thereth interview went smoothli although tension part famili
+152,5578,Adult,Mexico,Leukemia/Lymphomas,2.0,40.0,,,never realiz sick endth interviewe eas good mood interview flow smoothli
+105,3859,Adult,Mexico,Leukemia/Lymphomas,2.0,70.0,,,treat well hospit transfer quickli blood bankk hesh well attend test quickth interview went smoothli
+149,5551,Adult,Mexico,Leukemia/Lymphomas,1.0,45.0,,,agre think diseas one say caus deathth interview went smoothli
+45,2101,Adult,Mexico,Leukemia/Lymphomas,1.0,22.0,,,noneth interview took place insid home problem
+86,3418,Adult,Mexico,Leukemia/Lymphomas,2.0,45.0,,,deceas famili member gave thank studyth interview went smoothliy
+125,4840,Adult,Mexico,Leukemia/Lymphomas,2.0,77.0,,,noneth interview without setback famili member calm even though death recent kind
+84,3391,Adult,Mexico,Leukemia/Lymphomas,1.0,46.0,,,wish patient hospit get better healthcar decis maker care us shortag doctorsitem inform say cousin use get go bathroom never mention whether diarrhea interview took place outsid famili home peac environ famili understood object interview well tel phone
+220,7634,Adult,Mexico,Lung Cancer,2.0,48.0,,,six month taken water lung open told cancer biopsi receiv chemotherapyth interview went smoothli
+88,3496,Adult,Mexico,Lung Cancer,1.0,73.0,,,noneth interview carri insid home without problem everyth went well
+214,7404,Adult,Mexico,Lung Cancer,1.0,58.0,,,studi help peopl okth interview went smoothli man die cancer ladi mention abscess bodi
+66,2613,Adult,Mexico,Lung Cancer,1.0,51.0,,,attent receiv hospit good brother bad shape suffer lot agoni long painfulth interview fluent ladi sometim cri episod would control continu interview
+202,7100,Adult,Mexico,Lung Cancer,1.0,77.0,,,everyth went well father receiv good careth interview took place outsid home problem
+194,6887,Adult,Mexico,Lung Cancer,2.0,70.0,,,noneth interview carri insid home without problem although inform young matur gave reliabl interview without problem
+160,5911,Adult,Mexico,Lung Cancer,1.0,71.0,,,commentsth interview flow smoothli wait son daughter came home could present interview nice
+97,3682,Adult,Mexico,Lung Cancer,1.0,80.0,,,took hospit head urologist doctor oper prostat remov one kidney told us take get test done instead take placeth interview went smoothli
+119,4626,Adult,Mexico,Maternal,2.0,17.0,,,arriv hospit oper bladder nt met criteria hesh nt explain nt itth interview took place street went smoothli husband calm begin advanc interview eye fill tear
+121,4774,Adult,Mexico,Maternal,2.0,25.0,,,noneth interview carri insid home although wait inform hour answer famili question sucess without problem
+69,2757,Adult,Mexico,Maternal,2.0,20.0,,,noneth interview took place hall mother greatli distress loss daughter well unabl control hemorrhag die interview cri lot nt accept emot help left phone number case chang mind
+132,4985,Adult,Mexico,Other Cardiovascular Diseases,2.0,97.0,,,commentth interview warm time famili got involv never hinder interview
+126,4848,Adult,Mexico,Other Cardiovascular Diseases,2.0,74.0,,,hospit mistreat patient lot neglig lack proper care given although case saw happen peopl nt deal emerg situat nt itth interview took place insid home without problem
+135,5061,Adult,Mexico,Other Cardiovascular Diseases,1.0,67.0,,,nt admit patient nt check thoroughli nt inform us hour brother die would nt allow take care nightth interview took place entranc hous without problem
+230,1527,Child,Mexico,Other Cardiovascular Diseases,1.0,,1.0,,commentsth interview took place insid hous ladi sad cri interview variou breath exercis end calm problem
+163,6118,Adult,Mexico,Other Cardiovascular Diseases,1.0,60.0,,,care hospit good think doctor neglig check friend doctor never perform studi gave lot medsth interview fluent although visit address mani time ladi home
+138,5204,Adult,Mexico,Other Cardiovascular Diseases,1.0,78.0,,,than care peopl awar pay med hospit thing done correctlyth interview carri insid hous calmli problem
+115,4398,Adult,Mexico,Other Cardiovascular Diseases,2.0,90.0,,,commentsth gentleman wari first final agre give interview
+216,7476,Adult,Mexico,Other Cardiovascular Diseases,2.0,80.0,,,year beforehand due circul blood pressur problem amput hisher leg told intestin problem due sameth interview went smoothli interviewe kind
+225,763,Child,Mexico,Other Cardiovascular Diseases,2.0,,1.0,,congratul hospit alway good treatment toward babi alway explain babi health without liesth interview took place insid home address without problem
+7,242,Adult,Mexico,Other Cardiovascular Diseases,2.0,45.0,,,commentsat begin interview inform want give felt import howev insist studi object made realiz benefit might come agre give interview went well
+179,6509,Adult,Mexico,Other Cardiovascular Diseases,2.0,77.0,,,add thatat hospit well treat detect diseas notic health unitth interview fluent inform answer question without hesit interview took place home calm atmospher revis questionnair question copd written medic histori mention person interview
+29,1101,Adult,Mexico,Other Cardiovascular Diseases,1.0,71.0,,,health center never medic remain stock varieti medicationsth interview took place insid home problem
+187,6660,Adult,Mexico,Other Cardiovascular Diseases,2.0,67.0,,,take anticoagul year test said clot decreas medic enough caus brain hemorrhageth interview fluent
+231,1617,Child,Mexico,Other Defined Causes of Child Deaths,1.0,,9.0,,child underw surgeri done fell coma whenev went emerg room reluct see doctor even got angri took time constantli bronchoaspirationdur whole interview person mother kept cri even one brother cri interview continu
+224,606,Child,Mexico,Other Defined Causes of Child Deaths,1.0,,3.0,,commentth interview took place outsid person home problem end cri bit becam stabl talk peac want give husband name might angri find
+228,1322,Child,Mexico,Other Defined Causes of Child Deaths,1.0,,1.0,,commentth interview took place interviewe home problem answer question inform seriou moment sad calm answer interview finish peac say talk make keep feet ground
+229,1352,Child,Mexico,Other Defined Causes of Child Deaths,2.0,9.0,,,grandmoth mention patient sporad headach sporad episod vomitingth whole famili griev death littl girl interview hard went smoothli
+232,1873,Child,Mexico,Other Defined Causes of Child Deaths,2.0,,1.0,,commentsth interview led well
+227,1027,Child,Mexico,Other Digestive Diseases,1.0,,2.0,,well taken care hospit everyth possibl wellb doneth interview went smoothli inform kind
+91,3562,Adult,Mexico,Other Infectious Diseases,2.0,80.0,,,commentsth interview took place outsid home calmli
+173,6328,Adult,Mexico,Other Infectious Diseases,2.0,39.0,,,give interview benefit go aheadth interview carri outsid interviewe home flow smoothli problem
+46,2117,Adult,Mexico,Other Infectious Diseases,2.0,60.0,,,hospit treat mother better best could limit equip work sinc bad condit delay treament give patientsth interview went smoothli
+118,4552,Adult,Mexico,Other Infectious Diseases,1.0,66.0,,,commentsth interview took place outsid home problem
+139,5260,Adult,Mexico,Other Injuries,1.0,21.0,,,profession term care receiv part paramed nt even neck collar among suppli person seem upset son death due game friend neck hurt interview difficult went smoothli
+42,2051,Adult,Mexico,Other Non-communicable Diseases,2.0,48.0,,,pleas servic although miss tube procur well taken care end unabl perform surgeri heart attackth interview fluent although begin thought gentleman inebri answer confus answer thing suppos howev interview continu adapt way respond
+75,2911,Adult,Mexico,Other Non-communicable Diseases,2.0,55.0,,,person said death certif children deceas ladi place interview went smoothli address given correct interview took place previous thought would
+18,676,Adult,Mexico,Other Non-communicable Diseases,1.0,84.0,,,treat well hospit everyth could help possibl alway clean took good care himth interview fluent
+8,284,Adult,Mexico,Other Non-communicable Diseases,1.0,59.0,,,patient better care sinc one go run nurs one check salin solut nurs attent carefulth interview took place insid home problem calmli
+151,5567,Adult,Mexico,Other Non-communicable Diseases,2.0,33.0,,,commentsth interview fluent interrupt due interviewe work
+195,6888,Adult,Mexico,Other Non-communicable Diseases,1.0,44.0,,,patient diseas like cough undergo test husband ill startedth interview took place inform home appear sad somewhat restless felt stronger breakdown thank support brother law mother law came point interview end interview tranquil stabl
+41,1989,Adult,Mexico,Other Non-communicable Diseases,1.0,62.0,,,medic attent receiv hospit good gave clear explan human manner first classth interview flow smoothli
+170,6241,Adult,Mexico,Other Non-communicable Diseases,1.0,69.0,,,commentsther problem interview
+73,2868,Adult,Mexico,Other Non-communicable Diseases,1.0,86.0,,,like sinc may got sick came take care himat time seem confus manag ascertain respons interview went calmli
+63,2553,Adult,Mexico,Other Non-communicable Diseases,2.0,75.0,,,interviewe would give interview condit sister would never find could caus mani problemsth interview perform without husband famili knowledg mother die sign autopsi famili becam angri saw sister want give interview offer aforement condit
+70,2796,Adult,Mexico,Other Non-communicable Diseases,2.0,59.0,,,privat doctor told peopl suffer stress peopl execut post get type cancerth interview went smoothli polit even though sister initi suppos answer interview call talk angrili still sister answer interview courteou one took care deceas
+190,6812,Adult,Mexico,Other Non-communicable Diseases,1.0,89.0,,,want add medic attent good hospit provid doctor good wellth interview took place inform home kind interview fluent calm
+35,1543,Adult,Mexico,Other Non-communicable Diseases,1.0,58.0,,,hospit insensit tell us husband longer aliv doctor heartless insensitiveth interview went smoothli
+5,170,Adult,Mexico,Other Non-communicable Diseases,2.0,78.0,,,thing say wife went alreadi said death confusoth interview carri insid home without problem
+177,6470,Adult,Mexico,Other Non-communicable Diseases,1.0,52.0,,,thank hospit doctor servic good complaint hospitalth interview interviewe home ladi calm
+155,5711,Adult,Mexico,Other Non-communicable Diseases,1.0,65.0,,,somehow offer benefit come heart sinc could bring brother back life refus itth interview took place interviewe home peac without problem
+123,4783,Adult,Mexico,Other Non-communicable Diseases,1.0,43.0,,,interview aggress comment furtherth document avail home interview took place person workplac
+159,5900,Adult,Mexico,Other Non-communicable Diseases,1.0,63.0,,,doctor told us cancer sent test place want perform autopsi cancerolog doctor nt pay attent patient let dieth interview went smoothli
+77,3065,Adult,Mexico,Other Non-communicable Diseases,2.0,40.0,,,commentsth interview fluent
+76,2988,Adult,Mexico,Other Non-communicable Diseases,2.0,64.0,,,noneth interview carri insid hous calmli problem
+100,3709,Adult,Mexico,Pneumonia,2.0,22.0,,,mother nt want rememb moment one gave us interview brother would nt sign wit think would nt agre give interview
+21,760,Adult,Mexico,Pneumonia,2.0,87.0,,,think environ live play role much humid also told long period mother law cook wood stoveth interview went smoothli certain moment interviewe becam confus date correct confid
+206,7253,Adult,Mexico,Pneumonia,1.0,45.0,,,commentsthi peac interview inform confus question difficult make understand within interview time frame everyth went well
+198,7029,Adult,Mexico,Pneumonia,2.0,95.0,,,everyth fine healthcar provid hospit excel doctor human social worker offer emot help courteousveri peac interview
+223,483,Child,Bohol,Pneumonia,1.0,,1.0,,fever brought hospit immedi turn black got hospit administ oxygen nurs fell asleep babi ran ovygen use ambubag go administ oxygen babi gone brought hospit morn oclock afternoon die respond ask pay interview also afraid su signatur involv also agre interview told one day interview
+136,5150,Adult,Mexico,Pneumonia,2.0,69.0,,,interview smooth even though interviewe spoke littl spanish
+58,2425,Adult,Mexico,Pneumonia,2.0,96.0,,,comment healthcar excellentth interview fluent pleasant
+106,3868,Adult,Mexico,Pneumonia,1.0,54.0,,,noneth interview took place outsid open area hospit interviewe spent year live deceas furthermor deceas sinc drank lot mention much health accord fine
+226,952,Child,Mexico,Pneumonia,2.0,,2.0,,commentth interview fluent peopl kind poor
+217,7559,Adult,Mexico,Poisonings,2.0,21.0,,,commentsth interview took place right sidewalk sit small edg inform happen time choic start interview inform aunt deceas alway good attitud interview went smoothli inform narrat niec came contact marihuana begin move solvent rehabilit mani time attitud chang
+90,3550,Adult,Mexico,Poisonings,1.0,34.0,,,told condit critic could nt talk let know die hour doctor nt said anythingth interview went smoothli
+83,3372,Adult,Mexico,Poisonings,1.0,32.0,,,commentsth interview took place insid home problem
+109,3993,Adult,Mexico,Poisonings,1.0,58.0,,,interview carri insid hous without problem
+245,1343,Neonate,Mexico,Preterm Delivery,1.0,,,9.0,commentsth interview led well
+235,264,Neonate,Mexico,Preterm Delivery,1.0,,,10.0,well keep studyingth interview took place inform parent home problem
+239,636,Neonate,Mexico,Preterm Delivery,1.0,,,0.0,commentth interview fluent
+254,2244,Neonate,Mexico,Preterm Delivery,1.0,,,2.0,commentth interview fluent problem
+253,2016,Neonate,Mexico,Preterm Delivery,1.0,,,3.0,go hospit medic attent deni assist hospit went first possibl babi would aliveth interview took place without problem peopl kind
+240,718,Neonate,Mexico,Preterm Delivery,1.0,,,0.0,happen grandson happen babyth interview took place insid home problem went smoothli grandmoth babi interviewe sinc mother longer live mention underag allow father entri hospit grandmoth took charg everyth aso babi paper
+251,1752,Neonate,Mexico,Preterm Delivery,1.0,,,3.0,commentit fluent interview
+257,2599,Neonate,Mexico,Preterm Delivery,2.0,,,3.0,commentth interview fluent rel cooper kind
+234,201,Neonate,Mexico,Preterm Delivery,1.0,,,1.0,commentth interview took place outsid inform home said famili would allow give interview person appear disarray gave interview troubl name proxi name sinc child small could take doctor born low weight
+246,1499,Neonate,Mexico,Preterm Delivery,2.0,,,16.0,triplet hospit taken incub feel reason wellassist hope hospit would devic necessaryth interview took place insid home address without problem
+236,273,Neonate,Mexico,Preterm Delivery,1.0,,,8.0,hospit doctor treat rude moment arriv made comment like mother taught babi alreadi dead would die afterward told fatth interview went smoothli interviewe interest studi
+233,153,Neonate,Mexico,Preterm Delivery,1.0,,,9.0,public institut medic attent women sometim women assist lack moneyth interview took place insid home address without problem although begin woman littl bit distrust accept said contact granddaught possibl want give interview assist labor would think take jail someth like interview took place without problem
+186,6657,Adult,Mexico,Renal Failure,1.0,41.0,,,improv hospit servic worst hospit know hope get know manyth interview flow smoothli
+142,5404,Adult,Mexico,Renal Failure,1.0,25.0,,,commentsit fluent interview comment
+140,5279,Adult,Mexico,Renal Failure,1.0,49.0,,,arriv hospit took hour give us bed stay aisl given bed bed remain aliv minut began complain chest hurt lot told us leav told alreadi diedth interview went smoothli
+67,2631,Adult,Mexico,Renal Failure,2.0,80.0,,,gave good care mother thing never understood got pass hour nurs kick said nt rightth interview took place insid home problem everyth calm note consent form stain meet friend spill water stain sheet paper
+68,2642,Adult,Mexico,Renal Failure,1.0,24.0,,,peopl treat better go seek healthcar know treat peopl say clearli wrong patient never told clearli son doctor nurs discrimin due indigenousth interview conduct outsid home peac locat top hill hardli peopl come although ladi open troubl give interview went well
+213,7393,Adult,Mexico,Renal Failure,1.0,24.0,,,commentsflu interview
+218,7575,Adult,Mexico,Renal Failure,1.0,37.0,,,hospit place nt suppli bag dialysi hospit paid everyth even consult due lack suppli equip would nt get dialys patient produc diseas nt necessari medicin timeth interview went smoothli
+145,5463,Adult,Mexico,Renal Failure,2.0,25.0,,,comment well hospit offer better servic yell rel lot abus doctor give better explan patient diseasesth interview took place interviewe home although two children present problem interview calm
+48,2148,Adult,Mexico,Renal Failure,1.0,76.0,,,interview flow smoothlyth address given patient identif sheet incorrect correct
+180,6526,Adult,Mexico,Renal Failure,2.0,79.0,,,interview good good hope helpsth interview fluent
+147,5528,Adult,Mexico,Renal Failure,2.0,69.0,,,healthcar poor die kidney failur peritonitisth interview went smoothli
+167,6187,Adult,Mexico,Renal Failure,1.0,19.0,,,nurs personnel consciou famili member pacient treat betterth interview took place insid home problem calmli
+172,6324,Adult,Mexico,Renal Failure,1.0,86.0,,,symptom would make us realiz sick mayb worri mother went alon appoint clinicth interview took place insid home interviewe hardli sleep hurt foot interview cri bit told doctor told father get better suddenli told die could believ
+36,1609,Adult,Mexico,Renal Failure,1.0,49.0,,,commentsth inform reluct second visit want particip explain studi object agre give interview nurs hospit interview took place outsid home said messi dog inform kind interview flow smoothli peac
+166,6177,Adult,Mexico,Road Traffic,1.0,43.0,,,give adecu attentionth interview carri insid hous although begin reluct agre interview understood object project problem
+204,7157,Adult,Mexico,Road Traffic,1.0,19.0,,,noneth interview took place insid home hisher motherinlaw calmli problem
+165,6153,Adult,Mexico,Road Traffic,1.0,12.0,,,commentsit bit troublesom interview inform speak clearli spanish countri seem somewhat antisoci still will give interview problem everi thing went well except rememb son birth
+243,1267,Neonate,Mexico,Stillbirth,1.0,,,0.0,commentth interview fluent
+237,420,Neonate,Mexico,Stillbirth,1.0,,,0.0,commentflu interview updat interviewe pregnant receiv prevent healthcar
+250,1748,Neonate,Mexico,Stillbirth,1.0,,,0.0,provid better care hospit interview bit sad interview expect first babi current partner never notic lost amniot fluid urin day ultrasound doctor said everyth fine myoma
+256,2588,Neonate,Mexico,Stillbirth,1.0,,,0.0,commentsth interview develop well alreadi anoth babi five month old
+238,498,Neonate,Mexico,Stillbirth,2.0,,,1.0,commentth interview took place place kiosk although wait interviewe hour arriv good attitud gave interview problem
+181,6528,Adult,Mexico,Stomach Cancer,1.0,54.0,,,commentsth interview took place interviewe home problem although ladi would go talk talk problem
+156,5825,Adult,Mexico,Stomach Cancer,2.0,31.0,,,think ok type studi wife die carri outth interview went smoothli
+131,4950,Adult,Mexico,Stomach Cancer,1.0,50.0,,,noneth interview took place insid home problem
+11,327,Adult,Mexico,Stomach Cancer,2.0,43.0,,,comment go help keep interview even hurtsth interview went smoothli
+12,333,Adult,Mexico,Stomach Cancer,2.0,48.0,,,receiv good care everybodi thank youth interview carri insid hous problem although end becam sad cri littl calm left problem
+10,326,Adult,Mexico,Stroke,2.0,72.0,,,questionnarir seem easi excel work interviewerthi swift case interview attent good
+9,302,Adult,Mexico,Stroke,2.0,81.0,,,told mother work long time badli could hospitalth interview went smoothli problem
+129,4904,Adult,Mexico,Stroke,2.0,65.0,,,commentsquest answer inform sister help interview took place insid home problem
+17,673,Adult,Mexico,Stroke,2.0,80.0,,,attent hospit excel hospit stay excellentth interview took place front famili although nobodi particip interviewe answer
+108,3927,Adult,Mexico,Stroke,1.0,40.0,,,commentsth interview happen street person kind although peopl premis want anyon wit interview
+114,4396,Adult,Mexico,Stroke,1.0,83.0,,,attent receiv hospit goodth interview good fluent
+116,4434,Adult,Mexico,Stroke,1.0,70.0,,,think brother law die influenza doctor ask whether prescrib medic previous sugar diabet previous undergon femur surgeri prescrib painkil noth diabetesth interview went smoothli
+117,4470,Adult,Mexico,Stroke,2.0,82.0,,,satisfi care provid hospit doctor nursesth interview took place inform home although arriv agre time wait order explain reason visit fortun agre interview good result everyth flow smoothli
+65,2601,Adult,Mexico,Stroke,2.0,74.0,,,commentsth interview fluent
+61,2490,Adult,Mexico,Stroke,2.0,56.0,,,everyth fineth interview went smoothli although interviewe read write difficult answer extrem overweight troubl breath choke talk
+60,2463,Adult,Mexico,Stroke,1.0,78.0,,,interview went wellth interview went well
+54,2297,Adult,Mexico,Stroke,2.0,43.0,,,hospit secur beat insult famili moreov medic attent provid doctor poorth interview flow smoothli
+144,5453,Adult,Mexico,Stroke,1.0,82.0,,,help improv medic servic make sure improp dealingsth interview took place insid home inform howev due advanc age troubl understand use studi despit hear explan mani time confus eventu gave interview without problem
+222,7805,Adult,Mexico,Stroke,1.0,53.0,,,interviewe consid care inadequ noth deceas could taken hospit daughter one charg allow neurologist saw himth interview went smoothli
+146,5513,Adult,Mexico,Stroke,2.0,88.0,,,moment got headach vomit foam start snore moment becam unconsci wake stop breath tuesday pmthe interview fluent
+161,5920,Adult,Mexico,Stroke,1.0,60.0,,,patient arriv consult log kept medic file avail uncl medic chang time differ doctor lack agreement make one wari think might prescrib wrong medicin caus someon death other attent goodth interview took place insid home peac environ complic
+178,6489,Adult,Mexico,Stroke,2.0,87.0,,,went hospit reject electr medic servic thu took fluent interview person wait even made photocopi death certif case need
+39,1885,Adult,Mexico,Stroke,2.0,76.0,,,l hospit taken attent good hospit treat well social worker ladi la hospit kindth interview went smoothli
+193,6820,Adult,Mexico,Stroke,2.0,78.0,,,commentsth interview took place outsid home problem
+196,6930,Adult,Mexico,Stroke,2.0,86.0,,,medic care good saw immediatelyth interview fluent
+33,1484,Adult,Mexico,Stroke,1.0,60.0,,,author littl humanitarianth interview took place insid home calmli problem
+201,7087,Adult,Mexico,Stroke,2.0,68.0,,,commentsth interview took place interviewe home went slowli interviewe receiv phonecal brother place take
+22,790,Adult,Mexico,Stroke,2.0,92.0,,,senil dementia whimsicalth interview fluent
+208,7262,Adult,Mexico,Stroke,2.0,84.0,,,commentsth interview fluent interviewe request emot support
+175,6370,Adult,Mexico,Suicide,2.0,14.0,,,nt fair rel blame daughter decis doctor social worker way despot heartless humili without moneyth interview carri yard piec land live although crowd problem
+157,5841,Adult,Mexico,TB,1.0,46.0,,,noneth interview took place outsid home main entranc ground without problem although begin inform reluct point staff health center previous ask question explain reason object studi final agre
+4,146,Adult,Mexico,TB,1.0,72.0,,,die due cardiorespiratori arrest nt expect die soon saw day die look ok talk chattedth interview went smoothli
+1,98,Adult,Mexico,TB,1.0,73.0,,,comment uncl born invalid work look car park lot alway cough problem took doctor would say due dust smoke carsth inform nice interview went smoothli
+150,5555,Adult,Mexico,TB,2.0,45.0,,,mother diagnos diabet five year ago decemb year got sick cough got wors also problem breath got nebul ate littl hardli slept night day slept lot hospit hour hospit pass awayth interview flow smoothli person answer interview nice kind

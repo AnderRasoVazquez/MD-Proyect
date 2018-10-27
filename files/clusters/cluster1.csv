@@ -1,138 +1,75 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-0 634,1 Adult,2 Dar,3 AIDS,4 1.0,5 43.0,6 nan,7 nan,8 mother noth add servic good nb misplac medic record
-0 727,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 37.0,6 nan,7 nan,8 mother pleas hospit servic
-0 2514,1 Adult,2 Dar,3 Epilepsy,4 1.0,5 71.0,6 nan,7 nan,8 mother noth add
-0 2776,1 Adult,2 Dar,3 Maternal,4 2.0,5 31.0,6 nan,7 nan,8 particp noth add
-0 3098,1 Adult,2 Dar,3 Stroke,4 2.0,5 39.0,6 nan,7 nan,8 partcip noth add
-0 4437,1 Adult,2 Mexico,3 Stroke,4 2.0,5 86.0,6 nan,7 nan,8 glad studi also carri place mother place difficult interview ladi one took care mother past year mother embol ladi use bath meal mother home time hous connect interviewe feel guilti took mother hospit ill mother said want die bed moreov month ago mother partner die take care one sister took home interviewe feel lone mother hous hous husband give support daughter go get marri feel even lone urgent need emot support
-0 5726,1 Adult,2 Dar,3 Maternal,4 2.0,5 27.0,6 nan,7 nan,8 respond claim satisfi hospit servic couldt oper mother save babi mother die
-0 6714,1 Adult,2 Dar,3 AIDS,4 1.0,5 18.0,6 nan,7 nan,8 deceas uncl noth add
-0 647,1 Child,2 AP,3 Drowning,4 2.0,5 4.0,6 nan,7 nan,8 patient went along mother sunday year mother work play look mother fell water sump mother search daughter worker got doubt look water sump die surfac water taken hospit postmortem
-0 1353,1 Child,2 Dar,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 partcip noth add
-0 11,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 52,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 mother noth add
-0 92,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 mother noth add congratul servic improv
-0 99,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 105,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add satisfi servic
-0 117,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 130,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 4.0,8 mother noth add
-0 132,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 2.0,8 mother satisfi hospit servic
-0 141,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother noth add
-0 144,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 227,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 312,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add satisfi servic
-0 352,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 mother noth add
-0 373,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,7 14.0,8 mother noth add
-0 415,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add satisfi servic
-0 418,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 442,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add servic good shortag nurs bed patient share one bed
-0 451,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 454,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 471,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 521,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 538,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 563,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 2.0,8 mother commend well attend
-0 580,1 Neonate,2 UP,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother sever anem
-0 603,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 648,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 654,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add satisfi servic
-0 657,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 4.0,8 mother noth add medic record
-0 666,1 Neonate,2 UP,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother abdomen pain breech deliveri mother suffer convuls anem weak
-0 686,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 717,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add satisfi servic
-0 729,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother satisfi hospit servic
-0 742,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 765,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 769,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother satisfi servic
-0 824,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother said well attend
-0 874,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 884,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 mother satisfi hospit servic
-0 915,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 919,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,7 1.0,8 mother noth add satisfi servic
-0 957,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother noth add
-0 970,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 1006,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,7 2.0,8 mother noth add
-0 1007,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 1044,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add servic hospit good misplac medic record
-0 1056,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother noth add
-0 1079,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 1094,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother commend well attend
-0 1098,1 Neonate,2 Mexico,3 Congenital malformation,4 1.0,5 nan,6 nan,7 14.0,8 mother want add anyth moreth interview went smoothli
-0 1121,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 1150,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add satisfi servic
-0 1193,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 1194,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 1205,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother commend well attend
-0 1236,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add hospit servic good
-0 1238,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 1255,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 1275,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother noth add
-0 1281,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add congratul doctor nurs good job show collabor mother
-0 1342,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 1362,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 1379,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 1414,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother satisfi servic
-0 1457,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother noth add
-0 1464,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 1507,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,7 1.0,8 mother noth add servic hospit good
-0 1515,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 1518,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 1532,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 1599,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 1613,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother satisfi hospit servic except water problem
-0 1621,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 mother complain servic unsatisfactori
-0 1643,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 1683,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 1697,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 1702,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,8 mother noth add
-0 1716,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 1721,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother satisfi hospit servic
-0 1729,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,8 mother noth add
-0 1759,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,8 mother noth add
-0 1772,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother satisfi hospit servic
-0 1781,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,8 mother well attend
-0 1786,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 1789,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 mother noth add
-0 1792,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 1807,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 mother noth add
-0 1881,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother noth add
-0 1889,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 1892,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 1921,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 1939,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother satisfi servic
-0 1952,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond satisfi hospit servic medic record deceas mother alreadi divorc
-0 1985,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add satisfi servic
-0 1988,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother complain servic unsatisfactori
-0 2045,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 2048,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 2066,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 2068,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,7 14.0,8 mother noth add
-0 2105,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 2119,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 2125,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add servic good given hiv test result
-0 2130,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add satisfi servic
-0 2137,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother complain nurs care sport deliv mother
-0 2178,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 mother noth add satisfi servic
-0 2185,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 3.0,8 mother noth add
-0 2211,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 2218,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 mother noth add
-0 2221,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
-0 2228,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 2236,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 mother noth add
-0 2251,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother satisfi hospit servic noth add
-0 2294,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,7 1.0,8 mother noth add servic hospit good
-0 2304,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,8 mother noth add
-0 2308,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother satisfi hospit servic
-0 2323,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add satisfi servic
-0 2351,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add satisfi servic
-0 2360,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 2394,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 1.0,8 mother noth add
-0 2396,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother ask nurs care especi mother need assist
-0 2456,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 2466,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add satisfi servic
-0 2517,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add servic hospit good
-0 2529,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother noth add
-0 2531,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 2.0,8 mother commend well attend
-0 2549,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 mother noth add
-0 2552,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother pleas hospit servic nb medic record left hospit
-0 2591,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 mother noth add
+36,4094,Adult,AP,AIDS,1.0,36.0,,,suffer pile complaint sinc year oper perform hospit improp switcher hole widen becam big abscess burn motion fear stop consum food bowel movement irregular
+26,2981,Adult,UP,AIDS,1.0,35.0,,,month death deceas suffer fever headach deceas aid patient sometim consum alcohol
+45,4918,Adult,UP,Bite of Venomous Animal,2.0,50.0,,,deceas die due poison bit creatur bitten voic start break vomit twice alreadi suffer snowfal
+32,3787,Adult,UP,Bite of Venomous Animal,1.0,19.0,,,deceas stung poison scorpion
+2,108,Adult,AP,Cirrhosis,1.0,40.0,,,jaundic last year two year use ayurved medicin advis consum alcohol consum daili entir bodi turn yellow color die deceas
+37,4158,Adult,UP,Cirrhosis,1.0,50.0,,,deceas suffer headach day death deceas appli vick went sleep wake till death deceas cure tuberculosi complet year ago doctor said brain hemorrhag death certif said suspect poison pm report also said case poison
+16,1610,Adult,UP,Cirrhosis,1.0,50.0,,,deceas alcohol cirrhosi lever treatment continu becam seriou admit hospit death problem eat food
+12,1305,Adult,AP,Cirrhosis,1.0,40.0,,,patient addict drink alcohol consum alcohol damag organ bodi doctor also told stop drink great threat danger still never listen anyon continu drink alcohol last liver also got damag final condit becam highli critic die
+31,3720,Adult,UP,Diarrhea/Dysentery,2.0,30.0,,,deceas cook consum fish novemb week death consum fish fell ill start vomit deceas fat yet given birth
+66,7285,Adult,AP,Diarrhea/Dysentery,1.0,41.0,,,husband big addict toward alcohol kidney fail damag includ even high fever blood motion last day spite tell constantli drink never listen could stop consum alcohol doctor told due reason thing stomach got damag function properli jaundic along high fever abl anyth becam weak final die hospit
+46,4921,Adult,UP,Diarrhea/Dysentery,2.0,17.0,,,deceas suffer vomit loos motion due consum pollut water pain upper area midregion chest
+52,5670,Adult,AP,Diarrhea/Dysentery,1.0,67.0,,,use drink alcohol everi day one day drunk vomit taken hospit consum liquid abl eat anyth take privat hospit twice went hospit first time give admiss second visit becom weak
+5,876,Adult,UP,Epilepsy,1.0,55.0,,,sinc novemb deceas suffer convuls deceas rememb anyth unabl recogn anyon drunk alcohol excess amount accord doctor vein brain weaken due influenc alcohol liver malfunct
+69,7504,Adult,UP,Fires,2.0,30.0,,,deceas commit suicid put hous fire
+19,2070,Adult,UP,Homicide,2.0,24.0,,,deceas die due poison consum given
+33,3850,Adult,UP,Homicide,2.0,45.0,,,deceas lot stress due husband alcohol influenc alcohol attack sharp object head neck famili member instantli took hospit die
+30,3531,Adult,AP,Other Non-communicable Diseases,1.0,25.0,,,consum taddi night august year later also consum quarter bottl liquor sinc one accompani unconsci lie isol locat wife saw rush nearbi hospit sinc condit said critic refer hospit still unconsci state salin infus laps coma doctor express inabl said could treat unless come consciou come consciou state die
+40,4293,Adult,UP,Pneumonia,1.0,75.0,,,deceas habit consum mud well bark galur tree like sweet immens consum littl quantiti water sinc birth never drank water eat anyth rare small quantiti
+3,216,Adult,UP,Pneumonia,1.0,78.0,,,deceas problemat liver stay comatos state day deceas also consum medicin abdomen pain last half year unabl digest food stop drink alcohol year ago first paralysi attack occur year ago
+21,2579,Adult,AP,Pneumonia,2.0,28.0,,,wife consum toddi one day fell unconsci immedi took hospit regain conscious complain stomach ach doctor gave one inject medicin sent us away sinc well join place doctor taken scan inform half bodi got spoil insid question whether wife habit alcohol zarda chewigi told right childhood habit alcohol consumpt zarda hospit expens henc join wife hospit dead treatment doctor hospit said consum alcohol zarda reason death wife
+34,3929,Adult,UP,Poisonings,1.0,50.0,,,deceas substanc abus addict would regularli consum chew tobacco alcohol etc larg quantiti one day death deceas got afflict loos motion persist till death deceas liver malfunct kidney affect
+56,5953,Adult,AP,Poisonings,1.0,50.0,,,husband ill health due improp crop growth heavi loan consum pesticid die hospit treatment
+42,4391,Adult,AP,Poisonings,1.0,35.0,,,pig die suddenli made worri shock lost much consum poison expir
+72,1698,Child,UP,Poisonings,1.0,3.0,,,child healthi death three day death consum diesel mistak vomit time problem breath suffer chest indraw one doctor told lung work properli
+58,6214,Adult,AP,Poisonings,2.0,50.0,,,bought acid bottl shop consum came back home famili member took hospit ambul hospit day die later
+57,5972,Adult,UP,Poisonings,2.0,14.0,,,deceas would often stress consum poison without tell anyon taken hospit minut doctor told famili member take hospit brought place hospit declar dead hour deceas also said bit weak unstabl mental
+54,5869,Adult,UP,Poisonings,1.0,30.0,,,deceas poison made drink alcohol
+60,6388,Adult,AP,Poisonings,1.0,37.0,,,debt never tri clear mental agoni consum poison got admit hospit day shown privat hospit also ask us take back hospit time
+29,3295,Adult,UP,Poisonings,1.0,52.0,,,deceas alcohol sinc childhood year earlier lost consciou drink alcohol cure vomit august pm drink alcohol condit decor faint shown doctor suggest take hospit foam come mouth blood come nose mouth day death deceas consum ripe liquor unrip liquor alcohol
+24,2926,Adult,UP,Poisonings,2.0,18.0,,,time death turn yellow white thin build suffer loos motion sinc last week consum insecticid
+27,3060,Adult,UP,Poisonings,2.0,17.0,,,deceas live stress parent die consum kind addict substanc respond say die due consumpt poison
+71,760,Child,UP,Poisonings,2.0,1.0,,,child consum petrol kept bottl unknowingli later start vomit blood becam unconsci
+4,793,Adult,UP,Poisonings,1.0,50.0,,,deceas tension consum poison commit suicid
+6,906,Adult,UP,Poisonings,1.0,18.0,,,deceas consum poison hour death ask someth eat foam come mouth said limb pain foam come sinc hour death famili member alleg staff hospit careless duti
+67,7296,Adult,UP,Poisonings,1.0,32.0,,,day death wife deceas commit suicid time deceas mental tens troubl one day death went came back semiconsci vomit accord famili member beaten mayb poison els consum poison substanc death occur taken hospit
+9,1079,Adult,AP,Poisonings,1.0,22.0,,,one day came home cheer spent time us sudden vomit came know consum poison immedi took hospit go admit hospit die day
+10,1094,Adult,UP,Poisonings,1.0,21.0,,,deceas experienc stress consum poison deceas also report ask someth eat hour death
+11,1180,Adult,UP,Poisonings,1.0,40.0,,,case suicid drink pesticid deceas broken leg later pu cure treatment
+28,3192,Adult,UP,Poisonings,2.0,35.0,,,deceas consum poison first taken hospit hour taken hospit die next day afternoon pain whole bodi throughout night doctor induc vomit due poison deceas suffer breath problem last year would cure problem whenev took deriphylin
+13,1392,Adult,AP,Poisonings,1.0,42.0,,,went aunt place seen person die consum acid come commit act consum alcohol ask stop listen consum acid support pretext stomach ach use consum alcohol
+64,6829,Adult,UP,Poisonings,1.0,28.0,,,deceas stress suffer abdomin pain sometim deceas consum poison commit suicid deceas vomit suffer labor breath consum pois deceas taken privat hospit alreadi die
+18,2021,Adult,AP,Poisonings,1.0,24.0,,,son mental retard suffer obes mention stress given treatment hospit mental ailment also feel sad incap anyth inferior complex mix pesticid drink consum die
+63,6773,Adult,UP,Poisonings,1.0,21.0,,,deceas consum poison substanc affect alcohol fallen ill accord respond deceas remain room quit time bad condit
+62,6748,Adult,UP,Poisonings,1.0,26.0,,,deceas stress month consum poison sulpha
+61,6658,Adult,AP,Poisonings,1.0,24.0,,,use consum alcohol regularli came know tb sinc month sever stomach pain intox consum white phenol main reason death
+51,5661,Adult,UP,Poisonings,1.0,19.0,,,deceas given alcohol poison deceas suffer diarrhea vomit sinc hour death excret foul smell water come also white color skin come stomach vomit
+25,2948,Adult,UP,Poisonings,1.0,18.0,,,deceas substanc abus addict known mani addict lie cigarett chew tobacco alcohol day diwali pm victim intox state time consum medicin waterchestnut sunshad pond treat time felt intens pain chest taken privat doctor doctor induc vomit famili member prepar take place die
+15,1517,Adult,UP,Poisonings,1.0,16.0,,,deceas patient epilepsi day death consum medicin caus reaction whole bodi cover boil
+50,5615,Adult,UP,Poisonings,2.0,20.0,,,deceas consum poison substanc mother hous deceas first admit hospit admit hospit given glucos die husband jail thu live
+0,15,Adult,UP,Renal Failure,2.0,20.0,,,day death deceas given birth child district hospit placenta left stomach caus poison spread throughout bodi deceas felt hungri hour death
+43,4426,Adult,AP,Road Traffic,1.0,30.0,,,met accid come place motorcycl day accid die take treatment husband chronic deceas habit consum wine day accid also consum liquor
+7,948,Adult,UP,Stroke,1.0,70.0,,,deceas suffer tuberculosi cure usual stay farm hous away home prone consum excess amount alcohol
+65,6843,Adult,Mexico,Stroke,2.0,40.0,,,interviewe dissatisfi healthcar think someth hospit die due medic malpracticeth ladi cri profus angri hospit wari question c poison think deceas given medic hospit poison suspect hospit sent get sign knew given medic deceas bleed die pancreat
+20,2164,Adult,AP,Stroke,1.0,63.0,,,consum alcohol last year marriag use smoke cigar stop smoke cigar start consum sugar gutka alcohol consum alcohol pretext leg genit swollen like month
+49,5439,Adult,AP,Stroke,1.0,73.0,,,father arthriti bp lung deceas mental depress diabet left leg got paralyz death use smoke less consum liquor lung damag die
+22,2590,Adult,UP,Stroke,1.0,45.0,,,deceas ill whatsoev high blood pressur day death deceas consum medicin lost vision though still hear taken lal hospit ctscan done immedi sent hospit doctor answer vein brain deceas ruptur
+48,5415,Adult,AP,Suicide,2.0,65.0,,,mother dropsi disgust behaviour brother settl yet consum poison die hospit
+1,90,Adult,UP,Suicide,1.0,30.0,,,deceas went mosqu consum poison substanc famili member inform phone famili member inform immedi took hospit deceas remain admit hour deceas almost unconsci state deceas kept oxygen deceas commit suicid consum sulpha
+70,7538,Adult,UP,Suicide,1.0,20.0,,,deceas poison
+68,7307,Adult,UP,Suicide,1.0,46.0,,,deceas consum poison die
+8,1058,Adult,UP,Suicide,1.0,17.0,,,deceas commit suicid consum sulfa ill take sulfa appris famili member act vomit hous went doctor climb stair complain pain waist doctor mt away taken hospit took ultim step fail intermedi exam never scold
+14,1418,Adult,UP,Suicide,2.0,26.0,,,deceas complet healthi commit suicid hang due mental stress
+17,1846,Adult,AP,Suicide,1.0,18.0,,,son say consum vomit blood die earlier healthi neighbor rel would done someth
+23,2857,Adult,UP,Suicide,1.0,25.0,,,deceas stress last three day commit suicid consum poison
+59,6308,Adult,UP,Suicide,2.0,45.0,,,deceas suffer mental stress month undergo treatment mental ill depart day earlier gone mental ill depart hospit seem tens even around consum acid taken hospit die
+38,4178,Adult,UP,Suicide,2.0,17.0,,,deceas accident consum insecticid unabl speak fallen unconsci urin ting red color admit day hospit
+39,4266,Adult,UP,Suicide,2.0,28.0,,,deceas given birth child month death sinc period stop mental state unbalanc commit suicid hang accord husband noth caus stress
+41,4332,Adult,AP,Suicide,1.0,60.0,,,father pile suffer till death approach sever doctor treatment heal desper consum poison expir
+53,5687,Adult,UP,Suicide,2.0,18.0,,,deceas commit suicid
+44,4872,Adult,Dar,Suicide,1.0,45.0,,,deceas die due commit suicid hang
+47,5220,Adult,UP,Suicide,2.0,36.0,,,deceas lot stress tension consum poison mean escap
+55,5878,Adult,AP,TB,1.0,44.0,,,first shown privat hospit consum tablet given doctor moreov consum liquor sleep without liquor die hospit morn
+35,4090,Adult,UP,TB,1.0,52.0,,,kind lump format right side deceas abdomen week death oper done right side chest lot pu come kidney doctor said kidney deceas malfunct deceas drink alcohol consum marijuana larg quantiti famili member alleg doctor medic hospit careless treatment deceas
+73,1721,Child,UP,Violent Death,2.0,4.0,,,child absolut fine problem taken hospit felt problem take poison poison given father

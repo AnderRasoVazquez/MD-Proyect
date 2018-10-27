@@ -1,292 +1,556 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-0 81,1 Adult,2 Dar,3 TB,4 1.0,5 68.0,6 nan,7 nan,8 client misplac death certif client thank servic provid hospitali
-0 118,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 23.0,6 nan,7 nan,8 client thank servic given client misplac death client said deceas death caus road
-0 131,1 Adult,2 Dar,3 Fires,4 2.0,5 32.0,6 nan,7 nan,8 client misplac death client said deceas die due burn client thank servic
-0 158,1 Adult,2 Dar,3 Stroke,4 1.0,5 43.0,6 nan,7 nan,8 client misplac death certif client thank servic provid nurs doctor hospit
-0 318,1 Adult,2 Dar,3 TB,4 1.0,5 44.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 346,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 54.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospitali misplac death certif
-0 392,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 65.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit
-0 462,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 999.0,6 nan,7 nan,8 client misplac death client claim abmt servic provid nurs theclient said servic provid money nt servic
-0 465,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 70.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 486,1 Adult,2 Dar,3 AIDS,4 2.0,5 31.0,6 nan,7 nan,8 client misplac death certif client thank servic
-0 633,1 Adult,2 Dar,3 Stroke,4 2.0,5 68.0,6 nan,7 nan,8 client thank servic provid hospitali
-0 643,1 Adult,2 Dar,3 AIDS,4 2.0,5 36.0,6 nan,7 nan,8 client said deceas client said also nurs fiew hospit
-0 674,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 62.0,6 nan,7 nan,8 client pleas medic servic provid hospit
-0 931,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 61.0,6 nan,7 nan,8 client complain nurs patient
-0 1072,1 Adult,2 Dar,3 Homicide,4 1.0,5 26.0,6 nan,7 nan,8 client thank client misplac death certif
-0 1074,1 Adult,2 Dar,3 Diabetes,4 1.0,5 46.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 1081,1 Adult,2 Dar,3 AIDS,4 1.0,5 43.0,6 nan,7 nan,8 client misplac death client thank servic hospit
-0 1130,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 999.0,6 nan,7 nan,8 client misplac death certif client thank servic provid hospit
-0 1190,1 Adult,2 Dar,3 Maternal,4 2.0,5 17.0,6 nan,7 nan,8 client said deceas get servic hospitali admit death
-0 1200,1 Adult,2 Dar,3 AIDS,4 1.0,5 30.0,6 nan,7 nan,8 client thank client misplac death cerfit
-0 1251,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 35.0,6 nan,7 nan,8 client thank client misplac death client said deceas die due difficult breath
-0 1266,1 Adult,2 Dar,3 Stroke,4 1.0,5 70.0,6 nan,7 nan,8 client thank servic client misplac death certif
-0 1290,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 40.0,6 nan,7 nan,8 client thank servic provid nurs doctor client said deceas die hiv
-0 1366,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 69.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit client misplac deah certif
-0 1374,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 50.0,6 nan,7 nan,8 client thank servic provid doctor nors client nt death certif
-0 1419,1 Adult,2 Dar,3 Stomach Cancer,4 2.0,5 63.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit client nt death certif death occur home
-0 1421,1 Adult,2 Dar,3 Drowning,4 1.0,5 18.0,6 nan,7 nan,8 client thank client misplac death certif
-0 1501,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 32.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death client said deceas die due tb aid
-0 1613,1 Adult,2 Dar,3 AIDS,4 2.0,5 44.0,6 nan,7 nan,8 client thank servic given nurs client misplac death certif l nt see
-0 1677,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 60.0,6 nan,7 nan,8 client thank client said deceas die due cancer client nt death certif
-0 1694,1 Adult,2 Dar,3 Malaria,4 1.0,5 34.0,6 nan,7 nan,8 client claim servic provid nurs hospit client misplac death certif
-0 1942,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 40.0,6 nan,7 nan,8 client thank servic client misplac death certif
-0 2028,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 57.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death cerfit
-0 2033,1 Adult,2 Dar,3 TB,4 1.0,5 60.0,6 nan,7 nan,8 client thank servic provid client nt take death certif
-0 2072,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 50.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit hospit client misplac death certif
-0 2153,1 Adult,2 Dar,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 client thank servic provid nurs doctor client client said wife die due careless deleveri process
-0 2168,1 Adult,2 Dar,3 AIDS,4 2.0,5 37.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death client said death caus hiv posit
-0 2226,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 33.0,6 nan,7 nan,8 client thank client misplac death certif
-0 2239,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 12.0,6 nan,7 nan,8 client thank client mispalc death client nt know diseas kill deceas
-0 2282,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 30.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit
-0 2349,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 38.0,6 nan,7 nan,8 client thank servic provid hospit client misplac death certif client said son die due malaria blood vomit
-0 2352,1 Adult,2 Dar,3 Homicide,4 1.0,5 25.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 2380,1 Adult,2 Dar,3 TB,4 2.0,5 19.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 2437,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 70.0,6 nan,7 nan,8 client thank servic provid nurs client misplac death certif
-0 2439,1 Adult,2 Dar,3 Colorectal Cancer,4 1.0,5 36.0,6 nan,7 nan,8 client complai servic provid nurs doctor hospit
-0 2453,1 Adult,2 Dar,3 Other Injuries,4 1.0,5 35.0,6 nan,7 nan,8 client said death brother caus much drink alcohol without eat client thank servic provid nurs doctor client misplac death certif
-0 2559,1 Adult,2 Dar,3 TB,4 1.0,5 37.0,6 nan,7 nan,8 client thank servic client misplac death certif
-0 2692,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 36.0,6 nan,7 nan,8 client thank servic client misplac death certif client said deceas die due vomit diarrhea
-0 2729,1 Adult,2 Dar,3 AIDS,4 1.0,5 58.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospitali client though brother die due aid
-0 2736,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 80.0,6 nan,7 nan,8 client misplac death certif client thank serorc provid nurs doctor hospitali
-0 2894,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 50.0,6 nan,7 nan,8 client thank client nt death certif death ocur client said husband die due cancer diseas
-0 2983,1 Adult,2 Dar,3 Epilepsy,4 2.0,5 16.0,6 nan,7 nan,8 client thank servic client misplac death certif
-0 3004,1 Adult,2 Dar,3 AIDS,4 2.0,5 40.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit client misplac death certif
-0 3026,1 Adult,2 Dar,3 Other Injuries,4 1.0,5 35.0,6 nan,7 nan,8 client thank servic provid nurs hospit client misplac death certif
-0 3084,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 35.0,6 nan,7 nan,8 client said deceas die due client thank servic provid nurs doctor client misplac death certif
-0 3374,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 75.0,6 nan,7 nan,8 client misplac death certif transfer death certif origin place client said deceas die due client thank servic provid nurs doctor hospit es
-0 3522,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 40.0,6 nan,7 nan,8 client misplac death client thank servic provid nurs doctor client said deceas die due heart diseas
-0 3635,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 29.0,6 nan,7 nan,8 client claim servic provid nurs client misplac death certif nt see
-0 3638,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 12.0,6 nan,7 nan,8 client thank client said death caus road accid
-0 3655,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 18.0,6 nan,7 nan,8 client thank servic provid nurs client misplac death certif deceas death caus road accid
-0 3726,1 Adult,2 Dar,3 AIDS,4 2.0,5 30.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 3747,1 Adult,2 Dar,3 AIDS,4 1.0,5 35.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 3758,1 Adult,2 Dar,3 TB,4 2.0,5 31.0,6 nan,7 nan,8 client pleas medic servic provid hospit
-0 3882,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 54.0,6 nan,7 nan,8 client thank servic hospit claim servic provid nurs doctor client misplac death client thought deceas caus tetanu
-0 3937,1 Adult,2 Dar,3 Diabetes,4 2.0,5 25.0,6 nan,7 nan,8 client complain servic goodth nurs harsh provid medicin deceas
-0 3971,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 45.0,6 nan,7 nan,8 client misplac death client thank servic provid nurs doctor hospit
-0 3978,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 32.0,6 nan,7 nan,8 client thank client misplac death certif
-0 4012,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 34.0,6 nan,7 nan,8 client misplac death client thank servic provid nurs doctor hospit espcial hospit
-0 4029,1 Adult,2 Dar,3 Stomach Cancer,4 1.0,5 67.0,6 nan,7 nan,8 client thank servic provid hospit state death stomach cancer
-0 4119,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 28.0,6 nan,7 nan,8 client misplac death client said babi die due skin client thank servic provid hospit
-0 4167,1 Adult,2 Dar,3 AIDS,4 2.0,5 32.0,6 nan,7 nan,8 client thank client misplac death certif
-0 4208,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 30.0,6 nan,7 nan,8 client misplac death client said deceas die due client thank servic provid nurs doctor hospit ie hospit
-0 4244,1 Adult,2 Dar,3 Maternal,4 2.0,5 29.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospitali client misplac death certif client nt known kind deas kill wife
-0 4254,1 Adult,2 Dar,3 Stroke,4 2.0,5 65.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit
-0 4348,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 39.0,6 nan,7 nan,8 client nt know diseas kill deceas client thank servic provid nurs doctor hospit client misplac death certif
-0 4355,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 68.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospitali especi hospit client said deceas death caus destrictiv liver client misplac death improv inor
-0 4372,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 23.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 4381,1 Adult,2 Dar,3 Maternal,4 2.0,5 23.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit client misplac death certif client wife die due pregnanc
-0 4404,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 74.0,6 nan,7 nan,8 client thank client thought mother die due heart diseas
-0 4576,1 Adult,2 Dar,3 Road Traffic,4 2.0,5 15.0,6 nan,7 nan,8 client thank servic provid client trnsfer death cerfit deceas famili
-0 4597,1 Adult,2 Dar,3 Malaria,4 2.0,5 54.0,6 nan,7 nan,8 client misplac death client thank servic provid nurs doctor hospit
-0 4607,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 43.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif client said sister die due heart diseas
-0 4648,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 70.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospitali especi hospit client suggest medic test shold take short time get client misplac death client thou
-0 4683,1 Adult,2 Dar,3 Other Injuries,4 1.0,5 44.0,6 nan,7 nan,8 client thank servic provid nurs morturi
-0 4743,1 Adult,2 Dar,3 Stroke,4 2.0,5 999.0,6 nan,7 nan,8 client thank servic provid nurs doctot hospit hospit client misplac death certif
-0 4826,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 29.0,6 nan,7 nan,8 client thank client nt know diseas kill young sister
-0 4828,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 16.0,6 nan,7 nan,8 client thank servic claim process buy client misplac death certif
-0 4831,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 58.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 4983,1 Adult,2 Dar,3 Stroke,4 2.0,5 73.0,6 nan,7 nan,8 client misplac death certif client thank lot servic provid doctor nurs hospitali
-0 4993,1 Adult,2 Dar,3 Epilepsy,4 2.0,5 13.0,6 nan,7 nan,8 client misplac death client thank servic provid nurs doctor hospit
-0 5203,1 Adult,2 Dar,3 Suicide,4 1.0,5 25.0,6 nan,7 nan,8 client misplac death certif client thank servic provid client said deceas hang due difficult life
-0 5265,1 Adult,2 Dar,3 Renal Failure,4 2.0,5 32.0,6 nan,7 nan,8 client thank servic client misplac death certif client said daughter die due bp
-0 5278,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 42.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death client said death caus difficult breath
-0 5283,1 Adult,2 Dar,3 Road Traffic,4 2.0,5 27.0,6 nan,7 nan,8 client thank client misplac death client said deceas death caus road accid
-0 5329,1 Adult,2 Dar,3 Drowning,4 1.0,5 34.0,6 nan,7 nan,8 client thank client misplac death certif
-0 5402,1 Adult,2 Dar,3 Asthma,4 2.0,5 70.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 5422,1 Adult,2 Dar,3 Stroke,4 1.0,5 47.0,6 nan,7 nan,8 client thank servic misplac death certif
-0 5456,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 62.0,6 nan,7 nan,8 client thank servic provid doctor nurs hospit client nt death certif client said deceas die due cancer
-0 5486,1 Adult,2 Dar,3 Poisonings,4 2.0,5 30.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit aspeci hospit
-0 5616,1 Adult,2 Dar,3 Stroke,4 2.0,5 35.0,6 nan,7 nan,8 client thank servic client misplac death certif
-0 5642,1 Adult,2 Dar,3 Stroke,4 1.0,5 66.0,6 nan,7 nan,8 client misplac death certif client thank servic
-0 5655,1 Adult,2 Dar,3 Stroke,4 1.0,5 38.0,6 nan,7 nan,8 client claim servic provid client misplac death client think deceas death caus malaria
-0 5686,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 80.0,6 nan,7 nan,8 client thank srvice provid nurs client misplac death client said nt know diseas kill grandmoth
-0 5714,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 76.0,6 nan,7 nan,8 client thought caus death bladder thank servic provid hospit
-0 5746,1 Adult,2 Dar,3 Poisonings,4 2.0,5 33.0,6 nan,7 nan,8 client misplac death certif client thank servic provid nurs doctor hospitali
-0 5780,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 35.0,6 nan,7 nan,8 client claim servic provid client think deceas death cous client misplac death certif
-0 5842,1 Adult,2 Dar,3 Epilepsy,4 1.0,5 36.0,6 nan,7 nan,8 client thank client misplac death client deceas die due epicepsi diseas
-0 5855,1 Adult,2 Dar,3 AIDS,4 2.0,5 49.0,6 nan,7 nan,8 client thank client misplac death client thought deceas death caus aid
-0 5876,1 Adult,2 Dar,3 Maternal,4 2.0,5 38.0,6 nan,7 nan,8 client thank servic provid doctor nurs hospit client claim servic provid nurs client suggest nurs
-0 6061,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 38.0,6 nan,7 nan,8 client thank servic provid client misplac death certif
-0 6121,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 37.0,6 nan,7 nan,8 client thank servic provid hospitali client said deat caus malari previminia client misplac death certif
-0 6137,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 36.0,6 nan,7 nan,8 client thank servic client said deceas death caus road accid client misplac death certif
-0 6320,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 32.0,6 nan,7 nan,8 client thank client nt death client said deceas die due cancer
-0 6451,1 Adult,2 Dar,3 Diabetes,4 1.0,5 63.0,6 nan,7 nan,8 client thank servic death certif misplac
-0 6517,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 59.0,6 nan,7 nan,8 client thank servic provid doctor client said deceas death caus beaten peopl
-0 6631,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 55.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit client misplac death certif
-0 6670,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 41.0,6 nan,7 nan,8 client thank servic provid nurs
-0 6709,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 51.0,6 nan,7 nan,8 client thank servic client misplac death certif
-0 6837,1 Adult,2 Dar,3 Diabetes,4 2.0,5 56.0,6 nan,7 nan,8 client thank servic provid nurs doctor client think deceas death caus client said shock caus due misunderstand deceas nurs du
-0 6982,1 Adult,2 Dar,3 Poisonings,4 1.0,5 25.0,6 nan,7 nan,8 client thank client said deceas die due drink alcohol client misplac death certif
-0 7034,1 Adult,2 Dar,3 Homicide,4 1.0,5 22.0,6 nan,7 nan,8 client thank client misplac death certif
-0 7077,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 999.0,6 nan,7 nan,8 client complain servic provid nurs doctor hospit
-0 7117,1 Adult,2 Dar,3 Stroke,4 1.0,5 40.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit client misplac death certif
-0 7125,1 Adult,2 Dar,3 Malaria,4 1.0,5 24.0,6 nan,7 nan,8 client thank servic provid nurs doctor especialiy hospit
-0 7148,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 40.0,6 nan,7 nan,8 client thank servic provid nurs
-0 7163,1 Adult,2 Dar,3 Stroke,4 1.0,5 87.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit client misplac death certif
-0 7208,1 Adult,2 Dar,3 Maternal,4 2.0,5 20.0,6 nan,7 nan,8 client said daughter die matern client misplac death client thank servic provid hospit
-0 7263,1 Adult,2 Dar,3 Maternal,4 2.0,5 25.0,6 nan,7 nan,8 client claim servic provid nurs doctor client misplac death certif
-0 7276,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 43.0,6 nan,7 nan,8 client thank servic provid nurs hospitali client misplac death certif client said deceas death caus destruct lung liver bobi
-0 7317,1 Adult,2 Dar,3 Stomach Cancer,4 2.0,5 71.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death client said deceas die stomach cancer
-0 7326,1 Adult,2 Dar,3 Stroke,4 1.0,5 73.0,6 nan,7 nan,8 client thank client misplac death client said docto test show intern bleed deceas
-0 7418,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 33.0,6 nan,7 nan,8 client claim servic provid nurs doctor hospit social servic delay
-0 7458,1 Adult,2 Dar,3 Malaria,4 1.0,5 39.0,6 nan,7 nan,8 client thank client misplac death certif
-0 7533,1 Adult,2 Dar,3 Suicide,4 1.0,5 30.0,6 nan,7 nan,8 client thank client misplac death certif
-0 7556,1 Adult,2 Dar,3 Asthma,4 2.0,5 33.0,6 nan,7 nan,8 client thank servic provid nurs doctor client transfer death certif origib home place
-0 7569,1 Adult,2 Dar,3 TB,4 1.0,5 81.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 7611,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 37.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 7661,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 2.0,5 46.0,6 nan,7 nan,8 client thank client misplac death client said deceas die due cancer
-0 7789,1 Adult,2 Dar,3 Other Infectious Diseases,4 2.0,5 13.0,6 nan,7 nan,8 client misplac death certif client thank servic provid doctor hospit client said daughter death caus bvi aid
-0 7810,1 Adult,2 Dar,3 AIDS,4 2.0,5 51.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit
-0 7824,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 62.0,6 nan,7 nan,8 client misplac death client thank servic provid nurs doctor hospit
-0 2,1 Child,2 Dar,3 Malaria,4 2.0,5 7.0,6 nan,7 nan,8 client thank servic death certif misplac
-0 15,1 Child,2 Dar,3 Malaria,4 1.0,5 nan,6 2.0,7 nan,8 client thank servic provid nurs hospit espcial hospit
-0 56,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 3.0,7 nan,8 client claim servic provid nures doctor client misplac death cerfit client think deceas die due tradit
-0 111,1 Child,2 Dar,3 Malaria,4 1.0,5 11.0,6 nan,7 nan,8 client misplac seath client thank servic
-0 135,1 Child,2 Dar,3 AIDS,4 2.0,5 1.0,6 nan,7 nan,8 client thank servic client misplac death certif client said mother deas die hiv think babi affect
-0 163,1 Child,2 Dar,3 Sepsis,4 1.0,5 1.0,6 nan,7 nan,8 client said babi die due malaria client thank servic provid nurs doctor hospit client misplac death certif
-0 169,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 3.0,7 nan,8 client claim servic provid nurs doctor hospit client said babi die due difficult breath client misplac death certif
-0 222,1 Child,2 Dar,3 Pneumonia,4 1.0,5 2.0,6 nan,7 nan,8 client thank servic client misplac death certif
-0 242,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 2.0,7 nan,8 client thank servic client misplac death certif
-0 257,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 4.0,6 nan,7 nan,8 client thank servic provid nurs doctor th hospit hospit client said babi die due tb
-0 290,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death client said babi die due malaria mening
-0 315,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 client claim servic provid nurs doctor hospit
-0 337,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 nan,6 4.0,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 389,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 3.0,7 nan,8 client thank servic provid nurs doctor hospit client misplac death cerif
-0 419,1 Child,2 Dar,3 Hemorrhagic fever,4 1.0,5 1.0,6 nan,7 nan,8 client state servic provid hospit wors
-0 424,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 5.0,7 nan,8 client claim servic provid nurs doctor hospit bad
-0 477,1 Child,2 Dar,3 Malaria,4 2.0,5 1.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 508,1 Child,2 Dar,3 Malaria,4 1.0,5 nan,6 8.0,7 nan,8 client thank servic provid nurs doctor client said babi die due septicaemia
-0 510,1 Child,2 Dar,3 Malaria,4 2.0,5 nan,6 3.0,7 nan,8 client thank servic provid nurs hospit client misplac death certif
-0 514,1 Child,2 Dar,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 client claim servic provid doctor nurs
-0 562,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 nan,6 4.0,7 nan,8 client thank servic servic late client misplac death certif
-0 572,1 Child,2 Dar,3 AIDS,4 1.0,5 nan,6 6.0,7 nan,8 client thank servic provid nurs doctor hospit
-0 605,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 client claim servic provid nurs doctor hospit client misplac death certif
-0 653,1 Child,2 Dar,3 AIDS,4 2.0,5 nan,6 6.0,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 681,1 Child,2 Dar,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 client thank servic provid nurs doctor client thought son deace death caus malaria
-0 745,1 Child,2 Dar,3 Drowning,4 1.0,5 10.0,6 nan,7 nan,8 client misplac death client thank sdervic
-0 746,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 5.0,6 nan,7 nan,8 client misplac death certif client thank servic
-0 748,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 5.0,7 nan,8 client thank servic provid doctor nurs client nt death certif
-0 750,1 Child,2 Dar,3 Pneumonia,4 2.0,5 11.0,6 nan,7 nan,8 client thank servic provid nurs doctor lient misplac death client nt know diseas caus death daughter
-0 783,1 Child,2 Dar,3 Sepsis,4 1.0,5 nan,6 9.0,7 nan,8 client misplac death certif client thank servic
-0 789,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 2.0,5 4.0,6 nan,7 nan,8 client misplac death certif client thank servic
-0 807,1 Child,2 Dar,3 Malaria,4 1.0,5 2.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 822,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 6.0,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 836,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 nan,6 4.0,7 nan,8 client thank servic client misplac death certif
-0 843,1 Child,2 Dar,3 Other Digestive Diseases,4 1.0,5 9.0,6 nan,7 nan,8 client misplac death certif client said son death caus sickl cell client thank servic
-0 845,1 Child,2 Dar,3 Meningitis,4 2.0,5 nan,6 9.0,7 nan,8 client thank client misplac death certif
-0 880,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 3.0,7 nan,8 client thank servic nurs doctor client said nt known diseas kill babi
-0 913,1 Child,2 Dar,3 Malaria,4 2.0,5 6.0,6 nan,7 nan,8 client claim servic provid nurs doctor hospit client misplac death certif
-0 929,1 Child,2 Dar,3 Fires,4 1.0,5 nan,6 5.0,7 nan,8 client said deceas die due client misplac death client thank servic
-0 940,1 Child,2 Dar,3 Fires,4 1.0,5 2.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospitali
-0 956,1 Child,2 Dar,3 Malaria,4 1.0,5 nan,6 8.0,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 982,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 2.0,5 1.0,6 nan,7 nan,8 client thank client misplac death certif
-0 1021,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 2.0,5 1.0,6 nan,7 nan,8 client said babi unheathi birth condit client nt death client thank servic provid nurs doctor
-0 1028,1 Child,2 Dar,3 Malaria,4 2.0,5 2.0,6 nan,7 nan,8 client thank sevic client misplac death certif
-0 1144,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 2.0,6 nan,7 nan,8 client thank servic provid nurs doctor client know diseas kill babi
-0 1184,1 Child,2 Dar,3 Drowning,4 1.0,5 10.0,6 nan,7 nan,8 client misplac death client thank servic provid hospit
-0 1190,1 Child,2 Dar,3 Malaria,4 2.0,5 6.0,6 nan,7 nan,8 client misplac death certif client thank servic
-0 1229,1 Child,2 Dar,3 AIDS,4 2.0,5 10.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death client said babi die due aid addit blood bodi
-0 1256,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 2.0,6 nan,7 nan,8 client misplac death certif client thank sarvic provid hospitali
-0 1260,1 Child,2 Dar,3 Other Digestive Diseases,4 1.0,5 3.0,6 nan,7 nan,8 client thank servic provid nurs doctor client said babi die due anemia client misplac death certif
-0 1300,1 Child,2 Dar,3 Malaria,4 1.0,5 nan,6 10.0,7 nan,8 client thank servic client misplac death certif
-0 1343,1 Child,2 Dar,3 Pneumonia,4 2.0,5 2.0,6 nan,7 nan,8 client thank client misplac death certif
-0 1358,1 Child,2 Dar,3 Drowning,4 2.0,5 5.0,6 nan,7 nan,8 client thank servic provid doctor nurs client misplac death certif
-0 1364,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 5.0,7 nan,8 client thank servic provid nurs doctor hospitali especila hospit client misplac death certif
-0 1380,1 Child,2 Dar,3 Sepsis,4 2.0,5 nan,6 9.0,7 nan,8 client said babi die due client claim servic provid client misplac death certif
-0 1387,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 2.0,6 nan,7 nan,8 clent thank servic provid nurs doctor client misplac death client said death caus heart diseas
-0 1419,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 8.0,7 nan,8 client misplac death client thank servic
-0 1467,1 Child,2 Dar,3 Meningitis,4 2.0,5 1.0,6 nan,7 nan,8 client misplac death certif client thank servic provid nurs doctor hospit client said deceas die due difficult breath
-0 1502,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 nan,6 7.0,7 nan,8 client thank servic client misplac death certif
-0 1514,1 Child,2 Dar,3 Fires,4 2.0,5 3.0,6 nan,7 nan,8 client thank client said babi die due client misplac death certif
-0 1610,1 Child,2 Dar,3 Fires,4 1.0,5 11.0,6 nan,7 nan,8 client thank client misplac death client said deceas dia due bourt fine
-0 1630,1 Child,2 Dar,3 Other Infectious Diseases,4 1.0,5 8.0,6 nan,7 nan,8 client thank servic client misplac death certif
-0 1632,1 Child,2 Dar,3 Pneumonia,4 1.0,5 nan,6 10.0,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 1636,1 Child,2 Dar,3 Meningitis,4 2.0,5 1.0,6 nan,7 nan,8 client said deceas die due difficult breath malaria client misplac death certif client thank servic provid nurs doctor hospit
-0 1664,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 11.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit client said death daughter caus shortag blood bodi stomach big client misplac death certif
-0 1706,1 Child,2 Dar,3 Meningitis,4 2.0,5 nan,6 7.0,7 nan,8 client thank servic given nurs doctor hospit client misplac death certif
-0 1719,1 Child,2 Dar,3 Malaria,4 2.0,5 6.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit client misplac death certif
-0 1731,1 Child,2 Dar,3 Sepsis,4 1.0,5 2.0,6 nan,7 nan,8 client blame nurs doctor death son
-0 1736,1 Child,2 Dar,3 Malaria,4 2.0,5 nan,6 11.0,7 nan,8 client thank servic provid nurs hospitali client misplac death client think child die due malaria
-0 1764,1 Child,2 Dar,3 Malaria,4 2.0,5 1.0,6 nan,7 nan,8 client thank client misplac death client said babi vomit blood
-0 1767,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 nan,6 8.0,7 nan,8 client thank servic client misplac death certif
-0 1775,1 Child,2 Dar,3 Sepsis,4 1.0,5 nan,6 9.0,7 nan,8 client misplac death client said babi die due client thank servic provid nurs doctor
-0 1778,1 Child,2 Dar,3 Meningitis,4 2.0,5 nan,6 7.0,7 nan,8 client claim servic provid nurs doctor hospitali hospit client said death daughter caus nurs doctor due dozen client said nurs need money rat
-0 1782,1 Child,2 Dar,3 Diarrhea/Dysentery,4 1.0,5 3.0,6 nan,7 nan,8 client thank servic provid murs doctor hospitali
-0 1806,1 Child,2 Dar,3 Other Digestive Diseases,4 2.0,5 1.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospitali client misplac death certif
-0 1849,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 5.0,6 nan,7 nan,8 client thank client misplac death certif
-0 1859,1 Child,2 Dar,3 Malaria,4 2.0,5 7.0,6 nan,7 nan,8 client thank servic client misplac death certfic
-0 1887,1 Child,2 Dar,3 AIDS,4 2.0,5 1.0,6 nan,7 nan,8 client thank servic provid nurs doctor client misplac death certif
-0 1908,1 Child,2 Dar,3 Malaria,4 1.0,5 2.0,6 nan,7 nan,8 client misplac death certif client thank servic provid nurs doctor hospit
-0 1912,1 Child,2 Dar,3 Malaria,4 1.0,5 nan,6 6.0,7 nan,8 client thanj servic provid nurs doctor hospitali client misplac death certic
-0 1974,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 1.0,6 nan,7 nan,8 client said babi die due malaria pneumonia client misplac death client thank servic prodid nurs doctor hospit
-0 1979,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 1.0,6 nan,7 nan,8 client thank client misplac death certif
-0 2002,1 Child,2 Dar,3 Sepsis,4 1.0,5 6.0,6 nan,7 nan,8 client thought caus death anemia thank servic provid hospit
-0 47,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 3.0,8 client thank servic provid doctor client misplac certif
-0 57,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 client thank client misplac death certif
-0 71,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 16.0,8 client misplac death certif client thank servic provid nurs doctor hospitali
-0 124,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 client thank client nt know diseas kill babi
-0 125,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,7 14.0,8 client thank servic provid nurs doctor hospit
-0 330,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 20.0,8 client thank servic provid nurs doctor hospit
-0 397,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 5.0,8 client thank servic provid nurs doctor client nt know diseas kill client misplac death certif
-0 421,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 2.0,8 client misplac death certif client thank servic client said babi die due prematur
-0 572,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 client thank servic provid nurs doctor hospitali
-0 599,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 20.0,8 client misplac death client thank servic
-0 643,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 4.0,8 client thank client said babi die due difficult breath client misplac death certif
-0 680,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 client thank servic provid bbi nurs doctor hospitali hospit
-0 692,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 7.0,8 client thank servic client misplac death certif
-0 840,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 nan,6 nan,7 1.0,8 client thank client misplac death certif
-0 855,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 2.0,8 client misplac death client thank client nt know diseas kill daughter
-0 870,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 7.0,8 client thank servic provid nurs doctor hospit client misplac death certif
-0 900,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 client thank servic provid nurs doctor client misplac death client said death caus prematir babi
-0 924,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 3.0,8 client thank servic provid nurs doctor client misplac death certif
-0 949,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 3.0,8 client nt death client thank servic provid nurs doctor hospit
-0 973,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,7 15.0,8 client said umbil vagin redic death thank servic provid hospit
-0 996,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 client thank servic provid nurs doctor hospit client misplac death certif
-0 1032,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 5.0,8 client thank servic provid nurs doctor client misplac death client said problem pregnanc destruct
-0 1131,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 10.0,8 client thank servic client said babi die due prematuriy difficult breath client misplac death certif
-0 1136,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 nan,6 nan,7 14.0,8 client thank servic provid nurs doctor hospitali client misplac death certif
-0 1182,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 client thankedfor servic provid nurs doctor hospit client said babi die due malaria
-0 1217,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 4.0,8 client thank servic client misplac death certif
-0 1270,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 1.0,8 client said servic provid poor
-0 1291,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 nan,6 nan,7 1.0,8 client misplac deartcartif client thank servic
-0 1297,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,7 1.0,8 client thank servic provid client nt know diseas kill babi
-0 1377,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 10.0,7 nan,8 client pleas medic servic provid hospit
-0 1444,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 client said babi die due prematur client misplac death certif client thank servic provid hospit
-0 1451,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 9.0,8 client said servic hospit client nt death certif
-0 1489,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 client said servic provid nurs doctor client said death babi caus low birh due prematur mounth pregnant
-0 1491,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 5.0,8 client thank servic provid doctor hospit client said babi die due difficult breath client misplac death certif
-0 1546,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 7.0,8 client thank servic provid nurs doctor hospitali client misplac death certif
-0 1583,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,7 25.0,8 client thank client misplac death cerfic
-0 1588,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 7.0,8 client misplac death certif client thank servic
-0 1641,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 10.0,8 client mispac death certif client thank thank servic provid hospitali
-0 1654,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 21.0,8 client thank servic provid nurs doctor hospitali hospit
-0 1685,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 2.0,8 client claim servic provid nurs doctor hospit
-0 1692,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 19.0,8 client thank servic provid nurs doctor client said babi die due prematur
-0 1700,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 client thank servic provid nurs doctor hospitali
-0 1799,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 6.0,8 client thank servic client misplac death certif
-0 1813,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 5.0,8 client thank servic provid nurs doctor hospit client misplac death certif
-0 1825,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 client misplac death certif client thank servic client said babi die due prematur
-0 1829,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 nan,6 nan,7 2.0,8 client thank servic provid nurs doctor client misplac death certif
-0 1835,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 2.0,8 client thank servic provid nurs doctor hospit client misplac death certif
-0 1853,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 3.0,8 client thank servic provid nurs doctor client misplac death cerfic clilent said death son caus destruct cord
-0 1960,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 5.0,8 client pleas medic servic provid hospit
-0 1999,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 client thank servic provid nurs client misplac death client nt know waha diseas kill son
-0 2086,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 5.0,8 client misplac deaht certif client thank servic provid nurs doctor hospit
-0 2091,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 19.0,8 client thank servic provid nurs doctor hospit client misplac death client nt know diseas kill babi
-0 2253,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 2.0,8 client thank servic provid nurs doctor hospit client said daughter die due prematur
-0 2293,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 2.0,8 client thank servic provid nurs client misplac death certif
-0 2310,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 client thank servic provid nurs client nt know diseas kill babi
-0 2319,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 12.0,8 client thank servic provid nurs doctor hospitali client misplac death certif
-0 2331,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 16.0,8 client thank servic provid us state servic provid hospit wors
-0 2384,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 5.0,8 client thank servic suggest nurs doctor must care babi client misplac death certif
-0 2420,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 nan,6 nan,7 1.0,8 client thank servic provid nurs doctor hospit client misplac death certif
-0 2448,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 6.0,8 client thank servic special hospit client misplac death certif
-0 2458,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 2.0,8 client thank thank servic provid hospitali client misplac death certif
-0 2480,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 12.0,8 client thank servic provid nurs muhimbili hospit
-0 2527,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,7 21.0,8 client thank servic client misplac death crtific
-0 2540,1 Neonate,2 Dar,3 Pneumonia,4 2.0,5 nan,6 nan,8 dient thank servic provid nurs doctor client nt know deseas caus death babi
-0 2545,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 client thank servic provid nurs doctor hospit client misplac death certif
-0 2589,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 2.0,8 client misplac death client thank servic provid nurs doctor client nt know diseas kill deceas
-0 2607,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 client thank servic given nurs doctor client misplac death certif
+164,3027,Adult,AP,AIDS,2.0,26.0,,,deliv dead femal child hous pleasant come two year got earach also get relief use two three kerosen drop immedi lost consciou ness fell first taken hospit scan taken doctor said sever variat head surviv die two hour
+104,1741,Adult,Mexico,AIDS,1.0,25.0,,,allther comment focus answer point brother die hiv brought end quickli
+193,3543,Adult,Dar,AIDS,2.0,56.0,,,client believ wife dead aid thou himselv prove neg
+171,3163,Adult,AP,AIDS,1.0,31.0,,,fever last one week said anem weak give guarante surviv
+305,5494,Adult,Dar,AIDS,2.0,54.0,,,certif taken place
+33,514,Adult,Dar,AIDS,2.0,36.0,,,client misplac death celfit client trnsfer death celfit origin home
+266,4799,Adult,Dar,AIDS,2.0,44.0,,,client believ liver problem anaemia
+371,7038,Adult,Dar,AIDS,1.0,46.0,,,said seruic good
+214,3996,Adult,AP,AIDS,2.0,35.0,,,cook kitchen sari accident burnt entir bodi blaze hand leg receiv minor burn burn doctor express doubt surviv
+241,4386,Adult,AP,AIDS,1.0,50.0,,,uncl watch tv hous septemb heard news person die accid start pain chest took immedi hospit doctor gave one inject refer us go soon admit die
+259,4737,Adult,UP,Acute Myocardial Infarction,1.0,75.0,,,feel ga chest stroke reliev start vomit pm walk steadi face also unusu doctor said heart problem oct sugar level high vomit everi min
+48,768,Adult,AP,Acute Myocardial Infarction,2.0,76.0,,,monthli menstrual problem vomit health moder good nevertheless brought hospit report stomach ach ach heart die night cours treatment
+39,605,Adult,AP,Acute Myocardial Infarction,1.0,36.0,,,went hous toilet lost consciou fell member hous brought patient hous laid bed took hospit doctor test took scan said take place doctor checkup hour die
+383,7289,Adult,AP,Acute Myocardial Infarction,2.0,85.0,,,mother unconsci sleep fail wake took hospit advis take rush doctor conduct test includ ecg ct scan refer ct scan report said blood clot brain use sneer shift amc imc without oxygen support die way
+325,6049,Adult,Bohol,Acute Myocardial Infarction,2.0,65.0,,,feb amoebiasi affect kidney underw session hemodialysi recov date clean yard site suddenli callef help time speech becam slur cant understood start becom stiff brought hospit also vomit food ate becom weak forward hospit manag becom unconsci snor loudli inhal start die ff day
+75,1247,Adult,Mexico,Acute Myocardial Infarction,2.0,85.0,,,everyth fineeveryth fine
+222,4070,Adult,AP,Acute Myocardial Infarction,2.0,73.0,,,expir high bp arthriti diabet told marri till death
+3,63,Adult,Bohol,Asthma,1.0,30.0,,,alreadi ashtmat sinc child even nebul inhal last date morn still roam around heat sun collectiong pss church went place groceri midnight noch buena alt lot shrimp beef meat wonder worri complain difficulti breath vomit water immedi bring hospit hook oxygen oxygen suppli enough ambubag also use consciou way direct eye jan die ashtma attack
+530,562,Neonate,Dar,Birth asphyxia,1.0,,,0.0,nothingto add
+531,582,Neonate,Pemba,Birth asphyxia,1.0,,,2.0,die god
+551,2291,Neonate,Dar,Birth asphyxia,1.0,,,1.0,death cerfic misplac
+539,1265,Neonate,AP,Birth asphyxia,2.0,,,0.0,took hospit year morn around pm per instruct test done outsid deliv year femal child born cri die one hour
+165,3038,Adult,AP,Bite of Venomous Animal,2.0,30.0,,,patient work pick grass throw place awar snake grass bitten snake immedi took hospit gave two inject went die go gandhi hospit
+132,2383,Adult,AP,Bite of Venomous Animal,1.0,31.0,,,brother brought mutton sunday night drank heavili wife husband slept block snake came outsid night even though door close came hole door came bitten left hand finger kill took snake doctor treatment doctor hospit said conditon seriou brought thousand rupe medicin gave medicin coma day often use stretch leg immedi use tighten leg oxygen given water drink eat anyth day
+54,904,Adult,AP,Bite of Venomous Animal,1.0,60.0,,,dinner eight monday night later went field slept night come back home six morn snake bit immedi fell snake bit snake haunt bit ankl knee thigh brother law saw immedi took tata sumo hospit us place howev final die within hour take
+139,2479,Adult,AP,Bite of Venomous Animal,1.0,41.0,,,went see real estat land place area observ left leg snake bit immedi took hospit ambul feel good activ van voic stop reach hospit case becom seriou
+445,507,Child,AP,Bite of Venomous Animal,2.0,3.0,,,slept usual night year midnight snake enter hous bitten notic given milk vomit switch light notic snake immedi took hospit sinc medicin avail sent us expir way hospit
+191,3520,Adult,AP,Bite of Venomous Animal,2.0,16.0,,,patient good health reason death bite snake snake bite poison went entir bodi die even took treatment sick earlier
+441,436,Child,AP,Bite of Venomous Animal,1.0,8.0,,,patient came school sat hous studi snake bitten leg later took hospit doctor gave inject patient die hospit doctor said entir bodi infect due snake poison
+358,6644,Adult,UP,Bite of Venomous Animal,1.0,35.0,,,death occur due snake bite
+208,3803,Adult,AP,Bite of Venomous Animal,1.0,65.0,,,husband wash cloth said grand son feel somehow fell grand son came told us snake bitten grand father immedi took hospit place doctor test minut said case seriou told us take immedi took husband went privat ambul doctor checkup confirm bitten snake said nerv head crush said chanc live head scan scan appear clearli blood clot brain treatment die
+504,1651,Child,AP,Bite of Venomous Animal,2.0,11.0,,,daughter patient asleep snake bitten call went area hospit doctor said alreadi dead
+503,1603,Child,AP,Bite of Venomous Animal,1.0,7.0,,,patient bitten snake year cri get seen snake go went ambul hospit given glucos inject expir way travel hospit place froth came mouth pass urin death
+431,197,Child,AP,Bite of Venomous Animal,2.0,8.0,,,babi play step till pm even snake hide step one notic sudden snake came bitten left hand taken privat hospit given glucos bottl inject doctor said poison spread entir bodi includ head hour expir
+430,192,Child,AP,Bite of Venomous Animal,2.0,2.0,,,daughter kitchen june near stove fire touch due lower bodi complet burnt later took hospit day receiv treatment die due burn bodi
+145,2556,Adult,AP,Bite of Venomous Animal,2.0,55.0,,,mother law sleep hous bitten snake poison went insid bodi doctor said condit seriou treatment go expir
+418,27,Child,AP,Bite of Venomous Animal,2.0,9.0,,,babi bitten snake year earli morn said ear pain vomit pu took immedi someon know medicin call ambul tongu thick minut went coma ambul came checkup said die death found snake bite ear thought bitten snake snake lick snake releas poison lick also
+522,1996,Child,AP,Bite of Venomous Animal,1.0,11.0,,,son seen snake around made us awak complain stomach pain tri incant came back home dead snake bite touch tongu know reason son dead appear tv newspap feel sad
+490,1414,Child,AP,Bite of Venomous Animal,2.0,9.0,,,poison anim bitten daughter night check bitten found scorpion immedi took daughter nearbi hospit doctor examin daughter told us take took daughter daughter well night doctor prescrib inject get anywher place doctor nurs care daughter well treat daughter well would die taken daughter hospit daughter would live
+432,200,Child,UP,Bite of Venomous Animal,1.0,,1.0,,babi die monkey bite poison spread bodi doctor told monkey bite took bone flesh
+297,5320,Adult,AP,Bite of Venomous Animal,1.0,41.0,,,brother bitten snake took hospit came know poison reach heart die within three hour
+423,80,Child,AP,Bite of Venomous Animal,2.0,6.0,,,daughter play hotel bitten snake later guest came hotel seen said girl bitten snake first mantra cure took place told us take way die way
+416,1,Child,AP,Bite of Venomous Animal,2.0,4.0,,,babi play snake near den came bite immedi lost speech face swollen took immedi hospit kept salin time breath last doctor said expir come hospit
+450,627,Child,AP,Bite of Venomous Animal,2.0,11.0,,,patient bitten snake home immedi took doctor said dead alreadi come
+134,2402,Adult,Mexico,Breast Cancer,2.0,55.0,,,intreview flow smoothlyth intreview flow smoothli
+403,7690,Adult,Dar,Breast Cancer,2.0,43.0,,,dearth certif
+109,1799,Adult,Dar,Breast Cancer,2.0,44.0,,,client addit cerfic around
+269,4821,Adult,Mexico,Breast Cancer,2.0,34.0,,,nono
+88,1462,Adult,Dar,Breast Cancer,2.0,53.0,,,death cerfic taken place
+284,5094,Adult,Dar,Breast Cancer,2.0,52.0,,,particip complain lack seriou ness examin offic sinc complain hospit doctor fail read translat written xray pictur comment introduct tb dose instead canc
+14,188,Adult,Dar,Breast Cancer,2.0,55.0,,,client thank visist home
+332,6158,Adult,Mexico,Breast Cancer,2.0,54.0,,,nt relationship even divorc brother other came left like disappear mental retard doctor said endth woman calm cooper
+100,1692,Adult,AP,COPD,1.0,70.0,,,husband fallen bp year agow went nearbi hospit doctor advis us go could recov breakfast fell suddenli went expenditur heavi went sent us went advis us go husband die treatment
+343,6319,Adult,Mexico,COPD,2.0,59.0,,,nonenon
+157,2861,Adult,Mexico,COPD,2.0,59.0,,,everyth fineciproflox lebofloxoaxino
+31,511,Adult,Mexico,COPD,1.0,60.0,,,commentsno observ
+7,91,Adult,Mexico,COPD,2.0,81.0,,,noneth time accid vari interviewe rememb approxim date open head period month neurosi recogn anyon
+12,176,Adult,Dar,Cervical Cancer,2.0,34.0,,,client additit point
+248,4502,Adult,Mexico,Cervical Cancer,2.0,51.0,,,ok might help otherseveryth ok
+346,6349,Adult,Dar,Cervical Cancer,2.0,48.0,,,client whole famili believ dead cancer
+200,3640,Adult,Mexico,Cervical Cancer,2.0,63.0,,,noneinterview setback
+2,56,Adult,Dar,Cervical Cancer,2.0,83.0,,,death certif taken daughter ourservic
+59,1041,Adult,Dar,Cervical Cancer,2.0,52.0,,,death certif sent origin place
+11,163,Adult,Dar,Cirrhosis,1.0,38.0,,,client suggest doctor increas simplift under hospitali
+197,3579,Adult,Mexico,Cirrhosis,1.0,44.0,,,think kill fine met peopl ill still aliv got wors diedi think kill fine met peopl ill still aliv got wors die
+378,7214,Adult,UP,Cirrhosis,2.0,60.0,,,liver problem reliv meal around felt giddi becam unconsci regain conscious minut vomit blood admit hospit found anem doctor said wind pipe ruptur given inject around pupil dilat bodi gradual becam cold die
+1,42,Adult,Dar,Cirrhosis,,33.0,,,deced die liver problem
+97,1658,Adult,Dar,Colorectal Cancer,2.0,35.0,,,client suggest rel allow sleep ward death certif shift upcountri
+21,303,Adult,Dar,Colorectal Cancer,2.0,26.0,,,client clian cost medicin use buy due fad doctor seem careful submis medicin deceas resoind well patient
+4,68,Adult,Mexico,Colorectal Cancer,1.0,42.0,,,commentstel lada long distanc within place phone direct woman
+544,1677,Neonate,Mexico,Congenital malformation,1.0,,,11.0,wound infect sepsi dissemin intravascular clot sever metabol acidosi anorect malform congenit cardiopathi question page interviewe said deliveri last minutesani day pm
+86,1443,Adult,AP,Diabetes,2.0,49.0,,,suffer snake bite ten day ago two day snake bite taken tradit religi oracl bubbl develop place bite later turn wound doctor consult affirm diabet know till diabet understood wound heal diabet doctor hospit said poison snake spread thu advis take immedi took got admit though admit treat well leg cut place wound cut afternoon die pm
+6,88,Adult,Mexico,Diabetes,1.0,37.0,,,infrastructur hospit insuffici demand high one wait bed avail want hospit day took transfer nephrolog ward matter kidney accommod sent us endocrinolog nurs accept us give checkup said condit bad could accommod bed one becam avail receiv discharg bad shape tuesday saturday came back hospit die follow tuesdayth interview fluent
+320,5919,Adult,AP,Diabetes,1.0,54.0,,,patient sick sinc month fell offic climb step finger injur day went hospit amput finger sometim finger also infect puss fill everywher treat also said finger remov accept taken home dress done us medicin given treat die morn sunday
+163,3018,Adult,Mexico,Diabetes,1.0,79.0,,,deplor held hospit four hour tell find anoth hospit tell rel wrong patient rude askedth paper place took care deceas last day
+398,7586,Adult,AP,Diabetes,1.0,51.0,,,father suffer accid drive lorri sustain sever leg injuri got septic due die due
+349,6394,Adult,AP,Diabetes,2.0,58.0,,,healthi year ago met rail accid place though leg injuri heal year final die reviv problem lost leg accid heal plastic leg arrang gradual nerv leg damag abl walk earlier take rest intermitt mental fit healthi till death
+396,7536,Adult,AP,Diabetes,1.0,55.0,,,husband suffer asthma joint pain diabeti bp heart problem one finger leg injur oper done finger amput injuri infect spread entir bodi die later
+49,796,Adult,Mexico,Diabetes,1.0,41.0,,,month die one testicl ruptur
+487,1270,Child,Pemba,Diarrhea/Dysentery,1.0,,7.0,,die time reach
+36,551,Adult,AP,Diarrhea/Dysentery,1.0,32.0,,,son live place came fell ill took first privat hospit hospit buy effort vain
+256,4647,Adult,AP,Diarrhea/Dysentery,1.0,21.0,,,slept day new hous famili member went function differ place aunt went saw vomit motion immedi peopl call ambul tri lift insid vehicl leg function doctor hospit gave salin bottl sent us skin becam tight color turn black lost vision also doctor also gave treatment time note state die due sunstrok advertis issu news paper
+103,1731,Adult,AP,Diarrhea/Dysentery,2.0,40.0,,,patient slept cot came work due tiresom ness took hospit said get pain hand doctor said might heart attack die later
+209,3856,Adult,AP,Diarrhea/Dysentery,1.0,81.0,,,fell toilet lift hi took hospit place doctor said kidney got spoil advis us go either took die minit due financi posit went die minit oxygen kept
+468,828,Child,AP,Drowning,1.0,11.0,,,son went school hous year morn fell drainag pit later school children came told us die immedi went time dead later polic came postmortem
+124,2115,Adult,AP,Drowning,1.0,28.0,,,hospit came hous roam know evil thought fell lake committe suicid lucki happen fell lake die spot suffer
+351,6467,Adult,AP,Drowning,2.0,17.0,,,went colleg got togeth friend went lake time pass got lake walk suddenli put leg rock slip time friend hold drown water friend shout save somebodi pass came brought minut said die time took hospit place polic came took bodi sent postmortem
+421,46,Child,AP,Drowning,2.0,10.0,,,year daughter person went beg near place well slip fell die kind sick health good die due fall well
+412,7795,Adult,Bohol,Drowning,1.0,32.0,,,accid happen patient healthi date go friend sea gather seashel friend went deeper part sea shen follow even nt know swim reach part sea ca nt afford stand anymor friend surpris see slowli slowli drown friend tri help alreadi late alreadi unconsci immedi admit hospit hour drown die
+483,1167,Child,UP,Drowning,1.0,10.0,,,accord father dead children time incid respond mother went work children went play near pond girl went near pond wash hand slip pond brother jump pond save girl dead boy also becam unconsci die way hospit
+115,1853,Adult,AP,Drowning,1.0,23.0,,,went regularli work even year thursday know whether drank fell lake somebodi push purpos lake peopl inform us death year came know later call die time immedi inform place polic sent dead bodi hospit postmortem
+419,29,Child,AP,Drowning,2.0,1.0,,,babi play year went front hous play fell tank sump one notic saw minut sump die later took hospit doctor confirm dead alreadi daughter
+148,2633,Adult,AP,Drowning,2.0,64.0,,,father die place brother phone year said go place told go reason take day reach place said use even goe day sinc depress mental went fell well year without inform anyon attempt suicid bath room year ago mother die broke wall brought healthi bp sugar problem two son went search look well suspicion dead bodi surfac water
+464,759,Child,AP,Drowning,1.0,2.0,,,children went behind templ play friday play fell water brother patient cri one man pass ask happen said younger brother fell water immedi came told us time die surfac water villag presid polic came brought boy postmortem done dead bodi given
+253,4584,Adult,Bohol,Drowning,2.0,21.0,,,sister healthi accid happen boyfriend go place swim accord boyfriend dive water sister sit big stone surpris get water sister alreadi incid happen around diver tri retriev find final around pm found stand posit deep water near hole accord doctor autopsi result hemorrahag nt see wound head hematoma bluish discolor near lip
+271,4836,Adult,AP,Drowning,1.0,24.0,,,convuls last year four year ago stand balconi fit came fell injur later bath canal fit came fell water swallow water treat hospit start talk irrelevantli admit said lug infect ask us get inject bring told expir
+435,283,Child,AP,Drowning,1.0,1.0,,,patient fallen water sump hous mother went work hous notic son come back stay insid hous work one know exactli happen neighbor immedi took hospit refus join advis take doctor confirm dead alreadi
+294,5291,Adult,UP,Drowning,1.0,25.0,,,deceas slip drown river bodi found next day month wife left someon els
+514,1826,Child,UP,Drowning,1.0,4.0,,,patient go place wife children travel vehicl break work properli abl control speed vehicl went canal wife children drown canal bodi could recov day
+57,982,Adult,AP,Drowning,1.0,28.0,,,son drive car rent peopl villag said want worship goddess templ place took son drive car rent drank nice later took son drive car rent kill son threw dead bodi nearbi lake went away
+194,3546,Adult,AP,Drowning,1.0,15.0,,,boy went place walk year afternoon later came know fell lake immedi went find took lake dead polic came incid place start investig
+506,1680,Child,AP,Drowning,1.0,11.0,,,patient sick went friend beg beg suddenli fell well fell die inform us place polic told us one girl also beg along fell well
+333,6166,Adult,AP,Drowning,1.0,19.0,,,one day patient went along friend place swim howev drown water die know swim job
+233,4255,Adult,AP,Drowning,1.0,35.0,,,wife husband person fight year angri husband went fell nearbi lake husband went lake save patient heard cri also got lake save push toward shore suddenli caught mud drown water find dead long time next day neighbor went lake search patient drown mud die patient drown march year found dead bodi
+440,431,Child,UP,Drowning,2.0,10.0,,,deceas health problem play near river got drown river
+501,1582,Child,AP,Drowning,1.0,2.0,,,went get medicin babi son went bathroom bath one fell water hous later search found water hous die later polic sent dead bodi postmortem
+500,1546,Child,UP,Drowning,2.0,9.0,,,patient go place wife children travel vehicl break work properli abl control speed vehicl went canal wife children drown canal bodi could recov day
+339,6249,Adult,AP,Drowning,1.0,36.0,,,year went home offer fajr namaz call year polic answer phone ask talk polic ask us come place year went place polic inform us found phone vehicl came back home regist complain ps regist complain ps dead bodi found two day
+210,3894,Adult,AP,Drowning,1.0,31.0,,,childhood friend get togeth holi festiv friend went togeth lake place bath one friend slip fell lake son also slip lake tri bring friend outsid boy live son die lake later took hospit postmortem
+521,1986,Child,UP,Drowning,2.0,2.0,,,patient go place wife children travel vehicl break work properli abl control speed vehicl went canal wife children drown canal bodi could recov day
+135,2422,Adult,Dar,Drowning,1.0,15.0,,,client noth comment death certif taken biolog parent upcountri
+172,3169,Adult,UP,Drowning,1.0,35.0,,,deceas live widow patient epilepsi alcohol peddl good live suffer attack epilepsi morn found head hole full water outsid hous dead
+429,191,Child,AP,Drowning,2.0,2.0,,,daughter play slip fell sump water time henc plung die nobodi seen fell wise would happen
+183,3354,Adult,UP,Drowning,1.0,20.0,,,deceas gone flood river save buffalo leg slip drown
+451,650,Child,AP,Encephalitis,1.0,5.0,,,son use go school one day everybodi school play one boy hit son shoe back side head see injuri thought small injuri ignor day later saw area injuri swollen fill water immedi took hospit nurs said due injuri blood clot blood circul hospit also kept emerg ward due increas infect expir
+457,720,Child,UP,Encephalitis,2.0,,8.0,,month birth babi suffer dehydr cure treatment observ leg work accord father leg motionless april took polio drop leg becam total numb
+443,451,Child,UP,Encephalitis,1.0,9.0,,,ill deceas cold leg chest draw whole bodi got strain like wood
+326,6050,Adult,AP,Epilepsy,2.0,75.0,,,friday around hr fit came immedi shown rmp doctor place better taken hospit doctor examin prescrib medicin said cold fit come discharg us monday fit came went hospit die even
+369,6991,Adult,AP,Epilepsy,1.0,33.0,,,boy patient mental handicap besid fit right childhood dinner day death thereaft went room sleep sometim call help use toilet rush see fit took urgent ambul hospit given inject medicin say need put ventil cost us took also put oxygen despit still unconsci die thereaft
+263,4776,Adult,AP,Epilepsy,1.0,45.0,,,brother fit fell due call ambul took hospit fell head injur badli bleed went coma doctor head oper hospit yet condit critic die
+120,1988,Adult,Bohol,Epilepsy,1.0,61.0,,,brother nt complain health incid happen histori epelipsi start last fall coconut tree time time time experienc epelipt attack day die went stream take bath surpris somebodi inform us brother found dead stream accord doctor autopsi report possibl epelipt attack caus drown result death
+174,3195,Adult,Dar,Esophageal Cancer,2.0,75.0,,,anyth sugest death cerrtif taken rel
+126,2155,Adult,Dar,Esophageal Cancer,1.0,45.0,,,rel appreci servic got hospitalth certif death taken sister outsid place
+236,4296,Adult,Bohol,Falls,1.0,76.0,,,first arrest happen second arrest eventhough advis eat high cholesterol contain food still consum egg everi morn april suddenli fall floor caus head injuri brought hospit time still respons follow morn becom unrespons asleep loud snore time longer move right arm confin hospit nine day doctor said mi brain anuerysm expir may
+166,3061,Adult,AP,Falls,1.0,47.0,,,went place cut tree fight guy head injur heavili brain head crush doctor said everi time live abl breath oxygen oxygen breath stop
+446,519,Child,AP,Falls,1.0,8.0,,,tall wall play went toilet look toward monkey suddenli fell wall tall head injur small injuri injuri becam seriou took ambul put oxygen hospit doctor came checkup said difficult live die half hour hour coma eat anyth movement
+448,593,Child,UP,Falls,2.0,8.0,,,deceas play roof top fell roof receiv injuri head bleed swell got faint gain conscious villag doctor gave inject wait whole night condit got worsen morn rush hospit die treatment
+181,3341,Adult,AP,Falls,1.0,66.0,,,cousin husband came took husband hous indiscrimin beat husband thrown hous neighbor saw admit hospit inform bone broken die due blood clot brain
+173,3190,Adult,Mexico,Falls,2.0,97.0,,,ladi fell bed convuls known long last thu taken hospit
+217,4006,Adult,AP,Falls,1.0,34.0,,,husband fell balconi one hand got fractur bandag tie place hand infect spread entir bodi die
+175,3209,Adult,AP,Falls,1.0,27.0,,,son work painter suffer head injuri fell height faint die next day
+359,6689,Adult,Dar,Falls,1.0,999.0,,,client addit pouint
+258,4733,Adult,AP,Falls,1.0,66.0,,,husband come place lost conscious suddenli fell ground son took hospit ambul die year pm doctor said injuri head blood clot drank fell ground said less chanc live even oper agre oper yet die day
+439,372,Child,AP,Falls,1.0,1.0,,,son play suddenli collid tv stand fell faint start bleed nose took hospit came know suffer
+463,755,Child,AP,Falls,1.0,7.0,,,son studi school one day left school went play sometim return went pick school bag tree tree branch fell joint joint crush immedi took hospit place give guarante brought bleed stop sinc injur tree branch treatment die
+449,615,Child,AP,Falls,2.0,4.0,,,daughter play heavi injuri due blood clot head took hospit doctor check said sever injuri
+277,4916,Adult,Pemba,Falls,1.0,40.0,,,fallen clove tree crash clove tree branch sever head injuri bleed ear nose eye mouth run hospit die way
+226,4110,Adult,AP,Falls,1.0,65.0,,,uncl drank heavili one day came hous leg slip fell ground lost consciou took hospit xray taken doctor said critic stage also said blood clot
+361,6801,Adult,Bohol,Falls,1.0,62.0,,,age hospit place week diagnos typhoid fever discharg well fair conditionh alway place bodi liniment never consult doctor take drug becam sick didnt seriou diseas sinc move alon hous visit us everi date dinner neighbor hous told us night forgot cow go even left hous fell asleep yet around follow day seen men pass river prone posit wound forehead dead seen autospsi staff note hematoma problem insid bodi thu wrote feel
+136,2440,Adult,Bohol,Falls,1.0,55.0,,,june year got accid morn fell drag hors wound hid head brought immedi hospit put oxygen iv fluid refer place per respond doctor told deceas hemorrhag head june year die around morn per respond deceas nt suffer ill
+508,1717,Child,AP,Falls,1.0,,2.0,,child felt auto got head injuri admit hospit immedi doctor told blood clout head scan head perform requir medic test child dead due strong head injuri
+10,130,Adult,AP,Falls,1.0,45.0,,,come work fell vehicl head injur took hospit treatment day later took treatment die
+38,592,Adult,Mexico,Falls,1.0,28.0,,,treat us well hospit one year ago hit car ankl broke surgeri due append use drug rehab month came clean week relaps fell ravin back hous fell sever time last time hit head fell unconsci wake againth interview fluent interviewe confus question explain rephras understand
+85,1422,Adult,UP,Falls,1.0,45.0,,,die fall roof
+121,2015,Adult,AP,Falls,1.0,48.0,,,met accid work machin entir bodi includ back bone side rib leg hand badli injur noth use function except speech identifi us accid took place weav machin expir day stay hospit
+316,5795,Adult,AP,Falls,1.0,42.0,,,husband went work morn person place came told admit husband hospit husband occasion get fit told fallen bu immedi went hospit came know fell bu intox get medic shop fell bu later expir
+71,1181,Adult,AP,Falls,1.0,28.0,,,work wall fell sever injuri head doctor head oper coma day sinc fell doctor said live also said blood clot head brain injur
+480,1107,Child,AP,Falls,1.0,9.0,,,son play kite build fit fit first time fell build cri minut head injur door post singl drop bleed doctor said brain head injur nerv crush blood nerv damag went coma minut return consciou blood clot brain took hospit said difficulti live put ventil emerg ward first given inject put glucos sent hospit
+404,7697,Adult,AP,Falls,1.0,60.0,,,uncl took oxen went field left oxen water oxen fight went separ oxen fell uncl pierc fell ground oxen walk due took nearbi hospit told us take hospit immedi took hospit uncl treatment went coma later die coma
+372,7082,Adult,AP,Falls,1.0,46.0,,,climb tamarind tree take tamarind fell tree suddenli took hospit receiv treatment took
+51,860,Adult,Bohol,Fires,2.0,79.0,,,accid happen patient good health okey date victim make fire use dri banana leav cook food fire becom suddenli big catch cloth dress dress fire time one abl see happen fire goe lower part bodi rescu brought hospit immedi forward seriou burn experienc third degre burn two day death find difficulti breath day suffer pain burn die
+505,1662,Child,AP,Fires,1.0,10.0,,,son play kite thread caught electr pole climb electr pole take kite got electr shock immedi took hospit told us take went treatment die
+188,3468,Adult,AP,Fires,2.0,23.0,,,daughter met fire accid rush hospit immedi suffer much treatment also good noth blame doctor tri level best
+50,819,Adult,AP,Fires,1.0,19.0,,,work offic boy privat institut offic lit ga stove prepar tea ga leak big blaze entir bodi burnt staff offic took hospit refus join admit surviv hour die later
+385,7306,Adult,UP,Fires,1.0,12.0,,,hous deceas caught fire smoke fill room found unconsci taken civil hospit declar dead age year month
+74,1238,Adult,AP,Fires,2.0,22.0,,,accid blaze work kitchen burn surviv day frontal portion trunk burnt sever unexpectedli happen
+76,1275,Adult,AP,Fires,2.0,25.0,,,time fire accid neighbour work hospit taken hospit deceas never spoke person respond said deceas short problem breath pump kerosen stove suddenli kerosen fell roof fire occur
+499,1526,Child,AP,Fires,1.0,10.0,,,year ga cylind burst home fire accid occur immedi ambul came took hospit gave glucos health deterior day day behav crazili two day incid burnt injur whole bodi swollen year final die
+242,4403,Adult,AP,Fires,1.0,24.0,,,convuls sinc year come twice month least loos conscious come burn took hospit earlier abl walk could walk salin bottl given day burn face head chest knee hand receiv sever burn
+67,1152,Adult,AP,Fires,1.0,27.0,,,brother ill health work bed teacher disturb famili life mean famili differ sister law due set ablaz kerosen die take treatment hospit
+198,3586,Adult,AP,Fires,2.0,35.0,,,wife sleep lamp fallen sari met fire accid admit hospit die treatment
+442,438,Child,AP,Fires,2.0,3.0,,,cook year girl play suddenli fell hot gruel took hospit place hospit doctor neglig treat day could see aliv
+201,3664,Adult,Pemba,Fires,2.0,25.0,,,die boat burnt sunk
+223,4091,Adult,AP,Fires,2.0,23.0,,,daughterinlaw motherinlaw quarrel day daughter law pore liter kerosen set blaze sinc annoy abus aunti entir bodi burnt bleed start form mouth chest nose burn doctor said hopeless case trivial issu kill husband incid hospit away differ place
+437,338,Child,AP,Fires,1.0,9.0,,,son could speak properli also abl walk birth could speak look insan day die kitchen sister law cook sister inlaw went bring firewood suddenli fell fire bodi time notic face chest leg got burnt immedi rush hospit ambul admit one day final die hospit
+218,4014,Adult,Mexico,Fires,1.0,36.0,,,commentsth woman injur right hand could write sign fingerprint wrote name one els could sign wit recov day month birth mention admit hospit brother gave inform still consciou although burn accid caus leak stationari ga tank one day accid chang connector appear leak next day came sell ga leak came run patient bathroom explos came flame neighbor tri put
+438,362,Child,AP,Fires,1.0,4.0,,,play brother sister went blast factori nearbi danger thing taken put rock blast immedi blast blast danger children burnt parent went save also burnt littl two children taken hospit difficulti breath day entir skin dri burnt die
+353,6529,Adult,AP,Fires,2.0,35.0,,,father work kuwait stay brother mother went breakfast set blaze pore kerosen hospit refus admit admit pm surviv hour know made commit act
+364,6872,Adult,Dar,Fires,1.0,24.0,,,deceas killer beaten sever inhabit due follow tri steed orieproperi
+328,6113,Adult,AP,Fires,1.0,22.0,,,son neither diseas depress suddenli set fire receiv heavi burn doctor told surviv difficult bodi burnt die second day
+365,6886,Adult,Bohol,Fires,1.0,53.0,,,month prior death told drive experienc nausea vomit went doctor said bodi larg level acid ask avoid citric food prescrib medic complain tire bodi stay place alon one day told hous burn bodi found burn dead
+22,354,Adult,AP,Fires,2.0,22.0,,,undoubtedli dowri death commit suicid selfimmol deliber burnt whole bodi burnt away burnt per cent said hospit staff staff said per cent whatev might kill
+32,512,Adult,AP,Fires,2.0,25.0,,,sari caught fire leg hand burnt kept salin thought surviv die accid abl walk also hospit
+37,587,Adult,AP,Fires,2.0,55.0,,,consum liquor intox saturday novemb unknowingli pore kerosen set ablaz warn drink father also went anoth place came burn lung damag surviv difficult said sari got stick trunk hand face hair burn fire much burn leg side taken food hospit glucos bottl inject tablet given
+338,6246,Adult,Mexico,Fires,1.0,54.0,,,solder pipe bathroom burnt leg half back right arm three day earlier fell ladder roof sinc septemb look tire testicular inflamm urin profus test prostat cancer discard cancer satisfi medic verdict could speak husband heavili sedat blood pressur alter pass away tell five hour later went visit found daughter lost job due help funeralthey kept heavili sedat alter blood pressur husband die notifi went visit five hour death find daughter lost job due check situat help husband funer
+434,268,Child,AP,Fires,1.0,10.0,,,patient ten year old son person went terrac day bhogi festiv fli kite kite got stuck current wire patient use iron pipe tri take kite put iron pipe high tension wire current pass thorough high current shock led death right hand lower part bodi got burnt due shock coloni peopl went hospit patient taken admit gave glucos immedi sent ambul three day gave glucos oxygen inject medicin peel upper skin bodi gave ointment give proper treatment
+43,651,Adult,AP,Fires,2.0,37.0,,,cook stove suddenli sari blaze fire chest waist leg left leg burnt taken hospit ambul day surviv later expir sleep earli hour th day
+212,3934,Adult,AP,Fires,1.0,77.0,,,cook suddenli hut caught fire immedi went hut get utensil also caught fire everi one came everyth finish doctor said surviv
+307,5517,Adult,AP,Fires,1.0,27.0,,,technician ac machin work copper rod magnet field around hitens wire drag thu mishap happen rush hospit advis us take hand chest liver part back burnt doctor said injur per cent burn also said one hand must remov recov month
+390,7348,Adult,AP,Fires,1.0,21.0,,,temporari employe power distribut offic day attend repair work pole suddenli power earth pole result flame pole thu fell pole injur sever chest waist face burnt sternli join hospit place later shift drank coconut water also surviv four day son forlorn lose
+178,3252,Adult,UP,Fires,1.0,71.0,,,deceas age year sinc last year sleep day hut built farm gone farm hut caught fire burnt aliv
+304,5490,Adult,AP,Fires,2.0,21.0,,,niec due famili problem commit suicid set ablaz pore kerosen marri month ago ailment
+489,1307,Child,AP,Fires,1.0,6.0,,,son play went roof line current wire roof feet height play roof notic went wire got electr shock electr power immedi fell roof due shock doctor treatment appli ointment even said possibl treatment anymor told us take immedi hospit whichi place call govern ambul avail took privat ambul hospit well day thought live day health damag complet final die day
+488,1285,Child,AP,Fires,1.0,2.0,,,child fell boil milk entir bodi boildwhen removf tshirt came along skin visit priat hospit went hospit admit feversbut spoke us well sunday suffer hiccup
+156,2852,Adult,AP,Fires,1.0,45.0,,,water boil pore kerosen fire suddenli big blaze trunk face hand burnt burn heart damag told lip turn pale gain weight death accident death
+224,4097,Adult,Mexico,Fires,1.0,23.0,,,son suffer electr shock roof friend hous week work airport cowork receiv electr discharg lightn safeti suit noth happen charg would transmit small electr shock nt know attract cabl roof close cabl brush back head discharg electr enter hea came hand doctor said bodi burn insid bruis face happen place hospit took want receiv go one place anoth hour ambul order reduc swell brain induc coma son never woke could near doctor let saw glass window ambul arriv hospit also arriv husband said cut ladi calm interview nurs taken cours acupunctur chines medicin osteopathi clinic massag told help mourn son
+154,2823,Adult,AP,Fires,2.0,23.0,,,sister got marri year ago long time live separ even recent sinc month togeth sister got one femal child girl fell brother law beat father enquir issu came hous fire accid taken place immedi doubt brother law might set sister fire jail section
+485,1251,Child,UP,Fires,2.0,4.0,,,accord respond date suddenli hut caught fire lead panic among peopl child sleep taken father went hut along father peopl nt find outsid start search fire extinguish found dead insid home got burnt bodi sent hospit postmortem
+254,4601,Adult,AP,Fires,2.0,24.0,,,fire accid well awar light ga stove around fire blaze receiv burn doctor said surviv also hope die unexpectedli sleep
+461,740,Child,UP,Fires,2.0,7.0,,,accord respond hous caught fire child sing fire bodi turn black
+147,2580,Adult,AP,Fires,1.0,28.0,,,sinc feel well ask husband prepar tea light stove kerosen stove spill cotton shirt notic light stove shirt also burnt rush kitchen stop fire due wind flame shirt aggrav observ fire accid pour water hospit doctor aver burn injuri bodi infect water pour also told kidney liver also damag surviv day die hospit
+479,1102,Child,AP,Fires,2.0,,10.0,,patient father die due fire accid patient tri kerosen stove tube burst due burnt fire die take father hospit sadli die way
+476,1024,Child,AP,Fires,1.0,6.0,,,rel came hous date cook hot water cooker fell patient time skin burnt took hospit doctor gave inject glucos doctor said would difficult daughter life may live may live hour daughter die son also die difficulti breath die
+474,1015,Child,AP,Fires,2.0,3.0,,,patient mother person pour kerosen burnt fire due entir bodi burnt mother burnt die patient burnt live day moreov die bodi burnt
+129,2244,Adult,AP,Fires,2.0,85.0,,,age mother hale healthi occas durga navaratri dashara went templ light lamp light lamp sarri caught fire one lamp blown fire call help latter went hospit doctor pronounc burn difficult surviv die two day hospit sever burn chest
+275,4903,Adult,AP,Fires,2.0,23.0,,,cook stove got blast stomach burnt took hospit appli ointment given salin ate food juic given blood also onward chang notic felt stress breath problem expir expir differ group blood given
+469,872,Child,AP,Fires,1.0,2.0,,,patient hous mother cook rice morn came play near stove suddenli fell block vessel due bodi burnt took immedi hospit doctor said bodi burnt refer us go hospit admit hospit speak nice last day fit condit becam seriou great difficulti breath final die hospit sinc mother father weep till
+118,1926,Adult,AP,Fires,2.0,35.0,,,wife husband use quarrel daili belliger use scold husband accus infertil habitu toddi liquor reason unknown immol kerosen pm die day
+102,1704,Adult,AP,Fires,1.0,48.0,,,bajji busi last year day make bajji oil hot sudden slip head got dip oil pan immedi lift call took hospit entir face burnt could see eye could talk salin inject taken give oxygen later die
+287,5163,Adult,AP,Fires,2.0,38.0,,,accident sare border ignit ga stove fire entir bodi burnt die call ambul also till die proper treatment given hospit major oper later doctor said menstrual period stop natur
+300,5403,Adult,AP,Fires,2.0,19.0,,,sometim behavior eccentr due mental problem use belliger often scream eccentr behavior pour kerosen set ablaz day chest sever burn rush hospit surviv six day six day spoke us took food also juic suddenli die
+401,7640,Adult,Mexico,Fires,1.0,20.0,,,comment doubtsh clean aluminum contain thinner light bulb explod caught fire cowork die spent day hospit due burn
+176,3235,Adult,AP,Fires,1.0,26.0,,,quarrel wife set afir kerosen husband use blanket also blaze along wife wife die home brother suffer burn chest stomach back doctor said burn percentag hospit one day took suffer heavi breath problem unabl digest thing die day
+303,5484,Adult,UP,Fires,2.0,25.0,,,death complet burnt whole bodi scorch perfectli healthi
+498,1516,Child,AP,Fires,1.0,6.0,,,offer meal person person meal meal son fell step play fell fell sambar saw immedi let immedi taken doctor place took hospit place gave glucos went spent one day treatment done doctor sunday mani doctor one hour death glucos given die
+93,1564,Adult,AP,Fires,1.0,35.0,,,climb electr pole repair receiv electr shock fell man hole face head stomach injur sever surgeri done stomach extract spoil blood afterward made effort pump blood go side came fell unconsci next day around expir
+302,5450,Adult,Mexico,Fires,1.0,23.0,,,pain caus loss child enorm without justic author nt anythingon octob suffer accid work aluminum melt plant oven explod aluminum fell frontal area protect prevent measur place cowork ran help put fire cover bodi degre burn boss health insur accept hospit entir year boss led believ health insur work year accid left organ abdomen expos ask health document show document form suit file boss provid protect equip prevent measur accid death young man judg told told call regard suit month pass receiv respons person mother deceas sob entir interview variou paus made cut
+494,1498,Child,UP,Fires,2.0,3.0,,,news publish hindustan daili newspap child die got burnt fire hut caught fire
+395,7516,Adult,AP,Fires,2.0,14.0,,,cook stove wind blow toward stove fell chest hand stomach burnt took immedi hospit appli ointment spoke drank juic ate idli suddenli breath difficulti day die die extrem difficulti breath
+245,4444,Adult,Dar,Homicide,1.0,40.0,,,client commend deced shot gun thiev day hour work area shop
+228,4113,Adult,UP,Homicide,1.0,22.0,,,deceas healthi bodi alcohol eve death drunk seen last time friend nobodi saw night next morn found home lie face first ground mark injuri neck head chest murder case uncl son friend murder left hous state parent deceas alreadi dead wife gone mother hous alon hous death
+229,4122,Adult,AP,Homicide,2.0,47.0,,,patient year annoy famili intricaci pore kerosen self came sat side niec brother wife lit match stick thrown balconi resid immedi call ambul admit hospit burn glucos inject given consum water happen due quarrel hous properti fire accid took place year expir year
+408,7754,Adult,Mexico,Homicide,1.0,17.0,,,son got shot time poke bodi head took hospit would nt receiv doctor decemb hard son lost blood find donor shot thorax abdomen leg femur right leg shatter ask plaquepl put paid peso went coma die son well want reveng peopl polic find agressor know live accord look
+406,7736,Adult,AP,Homicide,1.0,13.0,,,son fir accid year around nine night immedi call hospit took son hospit ambul reach hospit doctor near gave big inject later gave glucos two night son difficulti breath kept oxygen happen son well brain fine
+380,7265,Adult,AP,Homicide,1.0,70.0,,,uncl mental tension high bp small fight anoth famili villag two day fight uncl found field lie ground wound watch field treatment hospit die suspicion kill somebodi beaten brutal villag say blood cancer postmortem report say die due sever beat
+262,4772,Adult,AP,Homicide,1.0,25.0,,,come call lift cell brother call said fell seriou condit head fractur critic stage given treatment hospit day die due sever injuri
+249,4523,Adult,AP,Homicide,1.0,20.0,,,son assault beaten somebodi set blaze also entir bodi burnt seriou day abl take food last day fell unconsci die
+296,5318,Adult,Mexico,Homicide,1.0,34.0,,,parti danc street hit pipe head took someon els attack got hospit last minut diedno comment
+293,5277,Adult,Mexico,Homicide,1.0,35.0,,,healthcar good hospit also famili doctor availablesom symptom report brain death suffer bullet wound come display reflex intub noth els thereaft photocopi certif document avail origin mp
+319,5881,Adult,Bohol,Homicide,1.0,37.0,,,april year around even violenc happen kill far hous back hous transfer carabao two men approach suddenli hit blunt object brought hospit immedi refer per respond deceas wound spinal cord broken april year around die per respond deceas suffer andi ill kill
+322,5939,Adult,Mexico,Homicide,1.0,24.0,,,die due bullet wound notifi us hospit arriv die follow half hourth interviewe mention nt know mani thing sinc notifi alreadi hospit arriv hospit took immedi er die next half hour
+334,6213,Adult,Mexico,Homicide,1.0,55.0,,,know happen went night come back notifi hospit found lie near traffic lightappar accid
+324,6021,Adult,Bohol,Homicide,1.0,33.0,,,stab court rush hospit nt reach hour die blood wound note stab autopsi found vein connect heart hit bleed intern unconsci sinc incid happen never admit common health problem fever day subsid
+288,5176,Adult,Mexico,Homicide,1.0,17.0,,,commentsno questionsthey care began argu driver came car nephew drink glass shot fire hit arm inner forearm lungtrach lodg back remov get permiss public prosecutor uncl aunt took care mother jail year took son bodi could say goodby becam unconsci confus aunt mother ask hug kiss hold hand
+252,4566,Adult,Bohol,Homicide,1.0,41.0,,,beaten first nape x wood man beat ask help neighbor said call author man went back son finish said stroke son mouth teeth detach mouth torn unconsci doctor sutur mouth iv line oxygen start ambubag die spinal cord hit that said ca nt surviv gush blood came mouth nose minut die whatev ambubag oxygen bounc back son compahi abl drink liquour suspect get cd
+270,4834,Adult,Bohol,Homicide,1.0,21.0,,,date walk street sever men approach suddenli stub hit near chest brought hospit unfortun expir
+180,3333,Adult,Bohol,Homicide,1.0,54.0,,,date disput brother result hack lacer wound head caus massiv bleed brought hospit place clean wound refer us massiv bleed suffer high fever due wound becom ill die last june
+144,2519,Adult,AP,Homicide,1.0,40.0,,,fever day ago reduc day die drank wine fulli came hous close door pour kerosen burnt fire broke door took ambul hospit doctor said bodi burnt difficult live face eye stomach burnt complet live hour use get fit drink die
+112,1829,Adult,AP,Homicide,2.0,79.0,,,mother sleep hous place night thiev came hous steal react resist time thiev kill mother rob gold later went hous dead put case polic station took dead bodi hospit postmortem postmortem cremat
+146,2562,Adult,AP,Homicide,1.0,32.0,,,cousin fought stroke stick head head receiv major injuri first aid given hospit went polic station came back home next day got pain went kept salin inject said oper icu cost rupe fear expenditur came back given two bottl blood consciou ness till death
+159,2888,Adult,AP,Homicide,2.0,27.0,,,rel believ bhagya rekha reason death patient son scold could bear reproach one day pour kerosen burnt fire cri came saw whole bodi burnt fire fear call everyon peopl came stop fire later ambul came took hospit
+184,3362,Adult,AP,Homicide,2.0,20.0,,,patient set fire kerosen husband aliv day gave statement polic suppos happen like die husband
+60,1042,Adult,AP,Homicide,2.0,26.0,,,saturday start hospit hour sister half hour leav hous husband kill fell due knife injuri stomach hand kill taken hospit immedi struggl half hour doctor gave blood glucos salin die struggl lot
+34,526,Adult,AP,Homicide,1.0,60.0,,,peopl beaten father brutal blood bleed head due well broke leg
+95,1606,Adult,AP,Homicide,1.0,25.0,,,wife husband fought wife pore kerosen set fire liter tin liter kerosen remain upper portion front back side burnt sever surviv day burn thought surviv expir
+150,2665,Adult,AP,Homicide,1.0,35.0,,,patient kill somebodi call phone come field night got phone call immedi went field preplan accordingli kill know time murder took place got inform morn die polic came file case rel came told us patient die postmortem done dead bodi hospit complain polic suspicion brotherinlaw arrest later releas hand leg neck injur badli knive ground kill kill brutal knive axe neck part cut complet knife head hang neck one nerv patient wife said crimin releas even hand law
+116,1869,Adult,Mexico,Homicide,1.0,24.0,,,alreadi told brain dead pressur donat son organ told wait hour see react alreadi want prepar take organ awaythi address difficult find longer live refer altern address boy uncl said nt know anyth nt seen year mother sold candi front court hous went look stand last found woman turn sell candi juic
+94,1576,Adult,Mexico,Homicide,1.0,26.0,,,commentsth ladi alway repeat son healthi bled death shot time front hous took son hospit car minut later ask go see die came sigh die
+91,1524,Adult,Bohol,Homicide,1.0,50.0,,,diagnos diabet hospit place date around even shot place got wound near face rear nape arm brought immedi hospit mani hour brought hospit place date die around
+84,1411,Adult,Pemba,Homicide,2.0,20.0,,,deceas die suddenli stab nine knive stomach burn cut flesh right thigh
+5,71,Adult,Bohol,Homicide,1.0,31.0,,,never complain health problem date walk suddenli arm man intent pass shoot gun neighbor saw incid rescu brought directli hospit hospit reveal lung affect bullet caus suffer arrest ont follow day expir
+203,3678,Adult,Dar,Leukemia/Lymphomas,1.0,41.0,,,death certif countri
+182,3353,Adult,Mexico,Leukemia/Lymphomas,1.0,52.0,,,nono
+402,7677,Adult,Mexico,Leukemia/Lymphomas,2.0,69.0,,,commentsal paper villag san trotepec oaxaca phone
+384,7290,Adult,Dar,Malaria,2.0,25.0,,,client addit pointi
+244,4420,Adult,Dar,Malaria,1.0,54.0,,,client fall becom conciou death
+52,865,Adult,Mexico,Maternal,2.0,85.0,,,nt know happen mom could burn herselfth interview sad sinc woman burn bodi daughter person cri rememb state mother could imagin pain mother felt entir bodi burn without know got burn told brother went buy syring insulin took long time return avail pharmaci return found mother burn wrap sheet took hospit hospit peopl arriv understand remain hospit special area sick peopl everyon mix togeth children women men told equip necesari treat woman take anoth hopsit hospit day half day lung fill smoke neck knee degre burn interviewe uneduc write name written id
+337,6240,Adult,AP,Maternal,2.0,35.0,,,doctor perform deliveri wife taken dead femal child cesarean cesarean handl properli placenta kept insid close suitcher felt exert also expir due neglig doctor
+125,2120,Adult,Bohol,Maternal,2.0,37.0,,,die give birth child first pregnanc deliv home pregnanc advis midwif deliv hospit pedal edema accdg husband alway pregnanc year gave birth hospit told husband clean uteru give birth pain hand shake upon arriv ward matern pad full blood die way ober
+273,4896,Adult,Dar,Maternal,2.0,22.0,,,member understand sudden deth high dougth hospit servic
+130,2337,Adult,Pemba,Maternal,2.0,26.0,,,deliv parent nt know babi seen toilet polic came interrog shock convuls lost conscious sent hospit never wake death
+101,1698,Adult,UP,Maternal,2.0,20.0,,,death occur due excess bleed deliveri
+167,3083,Adult,Dar,Maternal,2.0,20.0,,,client addit point doctar aneamia
+168,3113,Adult,AP,Maternal,2.0,20.0,,,patient pregnant month problem deliveri day bp high suffer fit also fit fell unconsci unconsci till death ailment earlier
+186,3412,Adult,UP,Maternal,2.0,22.0,,,labour pain start pm admit district hospit morn refer hospit dead child deliv oper around pm death occur around pm
+352,6516,Adult,AP,Maternal,2.0,29.0,,,grand daughter month pregnanc suffer inflat bodi even angan wadi teacher come hous said happen like becom seriou shown hospit place scan taken twin insid went doctor success perform deliveri inflat get subsid expir hospit
+315,5760,Adult,Dar,Maternal,2.0,27.0,,,client complain hospit servicessh think sister die breast cancer
+211,3898,Adult,AP,Maternal,2.0,30.0,,,patient pregnant went hospit deliv femal child scizerian oper sewtcher stitch openedup air went insid even doctor taken proper care ask thing question us necessari deliveri age brought blood also outsid due neglig expir
+251,4563,Adult,Mexico,Maternal,2.0,31.0,,,everyth ok
+137,2443,Adult,Pemba,Maternal,2.0,13.0,,,eclampsia lost conscious die pregnanc complic
+526,286,Neonate,Dar,Meningitis/Sepsis,2.0,,,4.0,client addit popint
+537,1187,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,particip argn infant drank dirty deliveri
+475,1019,Child,Dar,Other Cardiovascular Diseases,1.0,8.0,,,oipinion think death due super stition belief
+105,1743,Adult,AP,Other Cardiovascular Diseases,2.0,26.0,,,dropsi swell entir bodi medicin use subsid discontinu start last day stomach inflat urin bowl movement stop die later
+280,5002,Adult,Mexico,Other Cardiovascular Diseases,2.0,67.0,,,confus never thought condit bad phone emma martha avail everi day pm return pm
+225,4104,Adult,Mexico,Other Cardiovascular Diseases,1.0,71.0,,,comment doubtsth ladi nice clear term time date relev fact term mourn process tradit cultur educ help keep idea lifedeath process face root tradit natur
+274,4900,Adult,AP,Other Cardiovascular Diseases,1.0,33.0,,,went year grand mother place place said get exert went hospit stop vehicl hospit fell secur staff telephon us told matter icu two day expir friday morn
+360,6744,Adult,Dar,Other Cardiovascular Diseases,2.0,13.0,,,client noth deaht cerfit thrown away
+306,5496,Adult,AP,Other Cardiovascular Diseases,2.0,30.0,,,jaundic die think moresfh depress
+9,113,Adult,AP,Other Cardiovascular Diseases,1.0,22.0,,,son suffer swell leg went doctor gave tablet inject swell subsid son graduat tri polic practic run leg began swell shown hospit place examin say anyth went toss examin told us heavi heart beat advis us go inject tablet given one day talk tome suddenli said get pain fell never imagin die made us orphan
+267,4818,Adult,Dar,Other Cardiovascular Diseases,2.0,35.0,,,partiicip beliv death wa caus doctor poor commit due delyal servic provis patient
+158,2881,Adult,AP,Other Cardiovascular Diseases,1.0,49.0,,,husband suffer paralysi year ago left hand leg stop function immedi went hospit treatment leg came normalci left side intact bp also went hospit bp could control die hospit alcohol low bp expir doctor said
+493,1463,Child,AP,Other Defined Causes of Child Deaths,1.0,2.0,,,patient went play year sunday somebodi put electr wire especi patient wire without bind son went play held electr wire immedi went save also got shock took asid immedi got fit took hospit die time die whole bodi becam block hand burnt
+436,296,Child,AP,Other Defined Causes of Child Deaths,1.0,,11.0,,son hous tv fell head went near tv drag wire fell mouth injur badli bleed mouth immedi took hospit doctor said brain head injur later live hour conditon sever hour coma fit time breath difficulti hour die breath fast final die
+447,575,Child,AP,Other Defined Causes of Child Deaths,1.0,7.0,,,son play day ganesh immers held servic wire immedi got electr shock die spot took hospit doctor said die alreadi
+456,709,Child,AP,Other Defined Causes of Child Deaths,1.0,7.0,,,son grand father went factori place grand father went factori find get job boy outsid new gate secur guard close without notic boy fell die spot polic came file case factori owner help us financi son die due gate close
+492,1458,Child,AP,Other Defined Causes of Child Deaths,2.0,3.0,,,children play year new wall come side new wall come new wall fell daughter injur baldi bleed nose mouth due injuri wall fell brain came head die came hous aliv half hour die neck nerv broken
+428,182,Child,AP,Other Defined Causes of Child Deaths,2.0,8.0,,,unexpectedli daughter went remov bulb night remov bulb right hand got electr shock plug hold like minut fell immedi took hospit dcm vehicl took doctor said die way fell noth happen put dcm becam cool die die within half hour electr shock reason death
+459,729,Child,AP,Other Defined Causes of Child Deaths,1.0,10.0,,,son play rock wall fell neck held fell ground fell immedi neck bone broken spot arrang vehicl went straightli hospit without stop anywher went doctor said die alreadi went postmortem done bodi
+422,73,Child,Bohol,Other Defined Causes of Child Deaths,1.0,8.0,,,hospit hospit diagnos kidney infect per respond deceas also astmat asthma start still year old took salbutamol medicin asthma occur date around morn deceas got accid fell coconut tree head first blood came mouth nose sever head injuri around morn date die
+462,749,Child,AP,Other Defined Causes of Child Deaths,1.0,11.0,,,went children place hyper transform near close hous transform current wire close hous wall children wall touch wire mistak immedi drag two hand two hand burnt complet die spot hand bone came bleed hand skin complet burnt incid took place suddenli two hand finger shock burnt taken hospit postmortem inform polic station place later took dead bodi privat ambul
+515,1846,Child,UP,Other Defined Causes of Child Deaths,2.0,10.0,,,death come wall
+510,1762,Child,Mexico,Other Defined Causes of Child Deaths,2.0,2.0,,,allth grandfath deceas card document girl birth heart problem machin measur heartbeat one month die hair fell stomach pain one week beforehand got bruis test schedul find whether leukemia one day beforehand began vomit took pediatr hospit place admit doctor levotirosin destroy liver
+519,1973,Child,UP,Other Defined Causes of Child Deaths,1.0,10.0,,,death come wall
+472,962,Child,AP,Other Defined Causes of Child Deaths,2.0,10.0,,,daughter went upstair tri hit custard fruit iron pipe got electr shock someon drag back side got shock held iron pipe immedi daughterinlaw went rescu grand daughter wife took hospit auto doctor check burnt part clean put ointment burnt neck leg treatment day hospit suddenli breath difficulti day minut die doctor postmortem hand bodi us later went cremat
+460,739,Child,UP,Other Defined Causes of Child Deaths,2.0,4.0,,,child year old went grandfath attend last ritual tervhi somewher raini season suddenli wall fell die
+342,6291,Adult,UP,Other Infectious Diseases,1.0,65.0,,,herp boil right hand fallen ill day death slowli fallen unconsci thu unabl say anyth
+16,219,Adult,UP,Other Infectious Diseases,2.0,23.0,,,cuticl seem rais rough crack nail chang breast sunken
+327,6109,Adult,UP,Other Infectious Diseases,2.0,45.0,,,date headach voic becam low day death head injuri bamboo due thatch roof fall head result deceas felt occasion prick pain head year ago jaundic cure treatment pain nodul feet eat feel rice granul go head
+382,7283,Adult,AP,Other Infectious Diseases,1.0,48.0,,,came live hood bodi collect donat funer constabl place polic station arrang kept hospit one day next day morn clock receiv call attend immedi polic came place collect donat gave place post orphan bodi came polic person took step funer never took proper food addict alcohol hospit one day die
+131,2340,Adult,Mexico,Other Infectious Diseases,1.0,74.0,,,parkiinson yearseveryth fine
+79,1298,Adult,Bohol,Other Infectious Diseases,1.0,32.0,,,typhoid fever date came home place said recurr fever one month alreadi would reliev paracetamol came home fever becam wors stomach big hard date sweat profus pale shiver verbal feel brought provinci hospit date intestin burst underw oper date die
+111,1819,Adult,Dar,Other Infectious Diseases,1.0,34.0,,,deced tefenc
+162,2979,Adult,AP,Other Infectious Diseases,2.0,65.0,,,grand mother asthma suddenli fell ill took hospit place refer immedi went expir
+81,1350,Adult,UP,Other Infectious Diseases,1.0,65.0,,,gone comatos state gone state total two time
+309,5595,Adult,AP,Other Injuries,1.0,27.0,,,year morn want go place festiv name eramgopulam celebr go railway track phase rout jntu hitech citi go fell due heavi wind fast move train fell rock left hand broken fell fastli injur insid heart later shown xray spot incid brought home help watchman later call brother law phone came call ambul took hospit gave glucos took xray lost much blood doctor said put cement plaster ask us bring took plaster went doctor time hand leg shiver immens doctor put oxygen even press hard chest long time said die anoth senior doctor came saw scold junior doctor say take proper care seriou case
+311,5641,Adult,AP,Other Injuries,1.0,42.0,,,husband went labor work break old hous usual collaps old hous accident wall fell die spot polic sent dead bodi hospit postmortem postmortem dead bodi hand us later cremat
+356,6604,Adult,AP,Other Injuries,1.0,70.0,,,went field dri grain wood poll middl support electr wire taken water pump wire fell touch die spot took food went meet time went die alreadi brought kept rock press chest think might still life neighbor field said die alreadi son also peopl said die took directli hospit without take anywher middl postmortem done dead bodi hand us die due electr shock
+58,1033,Adult,AP,Other Injuries,1.0,31.0,,,patient work compound wall morn color build stand compound wall color build without notic electr wire foot put leg wire immedi patient die got electr shock fell wall immedi took hospit doctor confirm die alreadi went place work ask give money expens owner agre gave money polic sent postmortem patient die morn due electr shock
+363,6814,Adult,AP,Other Injuries,1.0,21.0,,,patient came morn work stand made wood pole make plaster slab patient said wood stand strong want make stand iron pipe agre said drag iron pipe make stand watch current wire behind drag iron pipe touch electr wire immedi got electr shock soon separ patient electr wire use wood pipe took hospit place doctor examin said die polic sent dead bodi hospit postmortem hand dead bodi famili member postmortem cremat
+374,7133,Adult,Mexico,Other Injuries,1.0,42.0,,,found son diabet one femal friend day funer never thought go die person tell son good mechan friend caus lose alcohol drug good father caus marriag fall apart wife left even wors smoke marijuana rock inhal paint thinner lost complet mention alcohol ambul came alreadi unconsci seriou condit paramed told
+318,5852,Adult,AP,Other Injuries,1.0,22.0,,,patient wash cloth hous short circuit wet got electr shock due die sick health well
+26,401,Adult,AP,Other Injuries,1.0,17.0,,,patient sick day went function dinner dinner arrang function hall patient friend dinner night return hous told us go duti return home coloni peopl came told us found dead bodi patient train track immedi call took hospit kept glucos oxygen kept pipe urin coma day doctor confirm die due heavi injuri head polic said inquiri someon hit head strong weapon
+61,1063,Adult,AP,Other Injuries,1.0,36.0,,,friend went lake fish fish put electr shock fish friend notic electr wire person went lake die spot inform polic later taken hospit doctor also gave report sick earlier
+29,452,Adult,AP,Other Injuries,1.0,40.0,,,went work sunday iron rod brother person went hold rod rod touch electr wire got electr shock took hospit nobodi hous death cowork inform us death
+66,1133,Adult,Bohol,Other Injuries,2.0,15.0,,,afternoon date daughter togeth friend went seashor gather shell sinc weather fine four hour lightn togeth thunder suddenli hit friend water hold stainless knife immedi girl fli drop daughter also step swamp friend die spot daughter lost conscious electr shock girl also hit lightn happen saw daughter friend unconsci hesit touch immedi electr current flow tri touch w w tri bring daughter hospit hope still aliv doctor tri reviv declar dead arriv sign burn neck chest back part bodi
+375,7154,Adult,Bohol,Other Injuries,2.0,46.0,,,mother good health accid happen went seashor togeth two friend gather seashel weather hit thrown away die spot hit hold stainless knife commit burn chest lip back doctor find electr shock secondari lightn
+227,4111,Adult,Bohol,Other Injuries,1.0,40.0,,,nt ill year met accid dynamit fish hit explos brought hospit forward lung liver affect accid hand cut year die
+96,1628,Adult,AP,Other Injuries,1.0,35.0,,,son labour work usual went work work suddenli wall fell seriou injuri doctor said stomach kidney also injur next day breath problem expir
+264,4781,Adult,Bohol,Other Injuries,1.0,30.0,,,husband healthi never experi seriou health problem met incid gun saw confin alreadi hospit intub seem dead time companion said gun blast suddenli face saw bleed blood tissu brain tour incid die
+80,1323,Adult,AP,Other Injuries,1.0,39.0,,,patient touch electr pole outsid hous got electr shock due die sick day heavi rain electr power came pole know touch pole die
+160,2951,Adult,AP,Other Injuries,1.0,17.0,,,son went along friend lay manur field tractor work finish lay manur return way tractor fell due son sever injuri sow e immedi took govern hospit place doctor examin hi said treat told us take hospit immedi took son hospit even doctor check die
+161,2976,Adult,AP,Other Injuries,1.0,50.0,,,husband work restaur place went date usual iron rod front restaur fell due heavi wind date husband take iron rod someon els date person went drink water meanwhil husband got electr shock fell restaur manag call sent hospit came test said die place polic sent dead bodi postmortem postmortem dead bodi hand us cremat
+92,1525,Adult,AP,Other Injuries,1.0,45.0,,,work place year suddenli leg fell machin cut immedi took hospit treatment die alreadi time later bodi taken postmortem left leg cut complet machin
+177,3242,Adult,UP,Other Injuries,1.0,68.0,,,accord respond live electr wire touch tree pick leav also respond say tree becom electrifi deceas experienc shock fell tree fall unconsci taken hospit doctor unabl save die
+230,4164,Adult,AP,Other Injuries,1.0,17.0,,,patient job put banner build pole day die went fix banner electr pole poll wet got electr shock die spot
+219,4031,Adult,AP,Other Injuries,2.0,23.0,,,wednesday construct work build go backsid place take cement bag feet slip bag fell neck bodi observ time later sister law saw inform us immedi took auto hospit doctor spoke chief mason ask forti thousand rupe first know chief mason spoke doctor took signatur sent us doctor admit went coma doctor told dud say anyth till regain conscious also said difficult surviv
+239,4377,Adult,Pemba,Other Non-communicable Diseases,2.0,40.0,,,respond explain deeas suffer heavi bleed vagina sha sent hospit doctor said mayoma die time
+366,6948,Adult,Dar,Other Non-communicable Diseases,1.0,38.0,,,client noth sugget
+46,714,Adult,Mexico,Other Non-communicable Diseases,2.0,47.0,,,commentspurpura rel paper got hous minor ask adult sent children look sister live maiz field
+207,3779,Adult,Pemba,Other Non-communicable Diseases,1.0,60.0,,,respond said father die due strangul hernia
+155,2838,Adult,Bohol,Other Non-communicable Diseases,1.0,50.0,,,never becam sick never consult check doctor day came home form friend drunk sat suddenli fell chair mouth twitch bubbl came mouth tri wake never spoken took half hour brought hospit becasu compani arriv late vision blank doctor said sugar level lower brain affect attack pm die even
+373,7092,Adult,Mexico,Other Non-communicable Diseases,1.0,64.0,,,commentsthi difficult case due locat hous number incorrect spent one half hour look ask around final locat address area number order also one side road part one neighborhood differ neighborhood
+153,2819,Adult,Mexico,Other Non-communicable Diseases,2.0,51.0,,,suffer anymor least recov life goe paper brother went place take care paperwork
+42,646,Adult,Pemba,Other Non-communicable Diseases,1.0,60.0,,,brother die swollen throat sent hospit wednesday die friday
+221,4060,Adult,Bohol,Other Non-communicable Diseases,1.0,70.0,,,expect death father age wa still okey nov morn went ricefield even eat supper around oclock even vomit hospit found ultrasound result bruis whole intestin schedul surgeri intestin surgeri done even die
+237,4309,Adult,Dar,Other Non-communicable Diseases,2.0,88.0,,,client commend death dece due ster dispit doctor also said famili back ground straight confus
+47,756,Adult,Pemba,Other Non-communicable Diseases,2.0,32.0,,,pray fell pray complain stomahcach dizzi rush hospit doctor avail delay give treatment caus death
+261,4770,Adult,Mexico,Other Non-communicable Diseases,1.0,74.0,,,mistreat hospit hygien disposit part suffer chill skin becam yellow document handi week hospit doctor say whether vomit
+53,902,Adult,Mexico,Other Non-communicable Diseases,2.0,59.0,,,patient seriou ill experiment treatment famili member advis get treatment whether machin experiment medicineif patient seriou ill experiment treatment famili member advis get treatment whether machin experiment medicin
+89,1477,Adult,Dar,Other Non-communicable Diseases,2.0,38.0,,,die nt suggest rel notfi case critic condit patient deseas die cervic cancer
+73,1224,Adult,UP,Other Non-communicable Diseases,1.0,30.0,,,deceas non hodgkin lymphoma snaplastc larg cell type
+298,5332,Adult,Dar,Other Non-communicable Diseases,1.0,22.0,,,clientsaid late rel believ withch
+295,5308,Adult,Mexico,Other Non-communicable Diseases,1.0,56.0,,,hope caus death found believ uric acid complic document small town discharg
+285,5127,Adult,Mexico,Other Non-communicable Diseases,2.0,44.0,,,receiv top notch healthcar thank
+179,3294,Adult,UP,Pneumonia,1.0,70.0,,,date headach voic becam low day death head injuri bamboo due thatch roof fall head result deceas felt occasion prick pain head year ago jaundic cure treatment pain nodul feet eat feel rice granul go head
+357,6608,Adult,Bohol,Pneumonia,1.0,46.0,,,decemb year husband togeth friend drunk result quarrel husband stub one friend kill brought place last juli husband imprison alway claim pain head vomit saliva husband high drinker even drunk alcohol drink without eat meal sudden headach continu even alreadi place imprison admit three time hospit includ last admiss decemb abl visit husband visit husband fever accord husband said mayb stress tooth extract decemb visit husband place visit husband suffer sever headach vomit request place author bring husband hospit admit whole year even one famili member abl visit husband even due financi constrain husband alway send letter ask visit feel well want visit nt money oct nt know date husband admit hospit surpris policeman came resid inform get cadav husband morgu hospit alreadi die morn day even receiv last letter send deceas die
+78,1284,Adult,Mexico,Pneumonia,1.0,42.0,,,everyth okeveryth ok
+466,800,Child,Dar,Pneumonia,1.0,2.0,,,client sever malaria
+425,123,Child,Dar,Pneumonia,2.0,,1.0,,particip undertook hiv aid examin result contradictori one side told result posit side neg
+491,1442,Child,Pemba,Pneumonia,2.0,,8.0,,measl receiv six syring get well breathless high fever die treatment
+392,7438,Adult,UP,Pneumonia,1.0,60.0,,,deceas extrem endur endur mani physic problem found blood pressur fallen low room side garbag dump buffalo got pile henc strong stench result probabl harm health
+411,7794,Adult,Dar,Pneumonia,1.0,43.0,,,death caus malaria particip complain servic provid hospit sinc deceas introdec quinin drip dose coplet drip quinin gave quinin
+517,1865,Child,Dar,Pneumonia,2.0,,2.0,,caes death pneumonia
+82,1352,Adult,AP,Poisonings,1.0,43.0,,,patient suffer stomach pain way hous field fell lake way hous famili member seen took govern hospit place doctor sent hospit hour later die
+195,3555,Adult,AP,Poisonings,2.0,61.0,,,consum ml bathroom clean acid even hour talk us expir went coma die
+30,464,Adult,AP,Poisonings,1.0,23.0,,,nephew love one girl also love nephew love love neglect nephew relationship man due love failur drank acid immedi took hospit treatment die
+350,6430,Adult,AP,Poisonings,2.0,30.0,,,daughter law set ablaz kerosen commit suicid reason husband respons toward famili use alcohol quarrel everyday
+40,615,Adult,UP,Poisonings,1.0,28.0,,,deceas bitten snake reach hospit bitten hand anoth cut made home later hand tie hand later unti doctor hospit inject medicin glucos mount hour later experienc sharp pain bodi hour death begun lose conscious die pm time death foam came mouth
+321,5933,Adult,Dar,Poisonings,1.0,13.0,,,deac took poison believ toilet disagr due undervir behavour
+415,7844,Adult,AP,Poisonings,2.0,25.0,,,open tailor shop center idl loss busi close shop brought materi hous meanwhil brought poison drank mouth tighten pu mouth immedi took hospit place made vomit complet coma night next day start speak slowli littl littl ask food said feel hungri doctor told us wet mouth later puls came die
+538,1221,Neonate,Dar,Preterm Delivery,1.0,,,3.0,complein late transfer hospit without reason doctor given order
+534,1082,Neonate,Mexico,Preterm Delivery,1.0,,,6.0,cloth babi funer found injuri look catheter ask permiss
+548,2022,Neonate,Mexico,Preterm Delivery,1.0,,,0.0,fine thing like happen
+553,2477,Neonate,Mexico,Preterm Delivery,1.0,,,27.0,comment questionsth front central area forehead sink day death appar go oper survic die could breath mother daughter kind accept visit home
+64,1119,Adult,Dar,Prostate Cancer,1.0,57.0,,,client additon nb celfit requir avail
+323,5998,Adult,Dar,Prostate Cancer,1.0,78.0,,,client additionala point
+149,2653,Adult,Mexico,Prostate Cancer,1.0,62.0,,,everyth fineeveryth fine
+19,249,Adult,Mexico,Prostate Cancer,1.0,68.0,,,nonenon
+410,7782,Adult,Mexico,Renal Failure,2.0,85.0,,,everyth went welleveryth went well
+400,7633,Adult,Mexico,Renal Failure,1.0,30.0,,,hope help other suffer thiseveryth fine
+0,7,Adult,Dar,Renal Failure,1.0,65.0,,,client thank said father suffer henia
+220,4050,Adult,Mexico,Renal Failure,2.0,85.0,,,thank hospit treatment good thing food alway arriv coldw thank hospit treatment good thing food alway arriv cold
+8,96,Adult,Mexico,Renal Failure,2.0,80.0,,,commentseveryth fine
+15,205,Adult,AP,Renal Failure,1.0,69.0,,,pile complaint last two year come goe serious ill took hospit fell unconsci stay three day die
+205,3760,Adult,Mexico,Renal Failure,1.0,29.0,,,commentsh live alon drank alcohol smoke marihuana
+106,1749,Adult,AP,Renal Failure,2.0,71.0,,,aunti ill far knowledg concern last two year complain burn irrit leg use pore water leg complain stomach ach took privat hospit place went govern hospit examin advis us go hospit place examin tolld blood circul head clot head expir treatment
+142,2512,Adult,AP,Road Traffic,1.0,18.0,,,accid took place heavi blow forehead head injuri waist leg hand injur day went coma difficulti speak also day move hand leg third day thing happen sinc coma till die
+355,6585,Adult,AP,Road Traffic,1.0,46.0,,,ap rtc bu hit bike ride went coma immedi accid test done hospit rs spent hospit day senior doctor declar would surviv later brought kept icu day throat tube put intak anyth day doctor confirm surviv chanc
+170,3140,Adult,AP,Road Traffic,2.0,60.0,,,though oper cours treatment doctor alreadi told us would surviv took signatur famili member die accid use sneer sound use shake hand leg suddenli frequent interv howev lost sight also voic even use respond word
+455,708,Child,AP,Road Traffic,1.0,2.0,,,went hospit tuesday got auto went buy banana meanwhil one car came hit son badli immedi die spot later polic came sent bodi postmortem two son one son die accid even famili plan
+453,667,Child,AP,Road Traffic,2.0,4.0,,,children cross main road near place cross road one dcm came hit strongli half hour till ambul come wound face waist bleed ambul came took hospit doctor put glucos told us take either time die die took night postmortem done morn dead bodi sent go mirchi dcm came accid lost much blood vagina bleed long time wound strong injuri stomach die hospit even
+452,652,Child,AP,Road Traffic,2.0,3.0,,,mother daughter go place travel bu one lorri came hit bu badli km away three member die bu member major injuri daughter one among heavi injuri head eye bu jump becam unconsci hour major accid brain damag eye swell bleed injuri head forehead
+190,3497,Adult,AP,Road Traffic,2.0,70.0,,,mother sat stair fell lost conscious kind sick took hospit ambul shed die hospit
+204,3688,Adult,AP,Road Traffic,1.0,38.0,,,polic said fell hit road divid call ambul sent hospit color bone head side rib sever injur oper also done due excess water store liver die day oper hospit day meanwhil made walk night felt exert call nurs telephon doctor gave inject die around morn
+215,3999,Adult,Mexico,Road Traffic,1.0,65.0,,,commentsth women mention partner fell citi bu hit head advis go see ambul came pick man coma long time reason variou thing know
+234,4260,Adult,AP,Road Traffic,1.0,42.0,,,son diabet come shop met accid admit hospit die receiv treatment
+231,4194,Adult,Mexico,Road Traffic,1.0,61.0,,,car accid driver drive fast hit brake patient project bu fell hit head blood sugar went hospit healthcar hospit adequ mani peopl see also lack materi bed stretcher rel remain stretcher taken floor hour later taken intens care ambul hour neurosurgeon hospit charg money time remain ambul
+232,4202,Adult,AP,Road Traffic,1.0,24.0,,,husband met trolley accid took hospit expir treatment
+63,1104,Adult,UP,Road Traffic,2.0,45.0,,,death occur due road accid
+25,367,Adult,AP,Road Traffic,1.0,80.0,,,husband slip fell bathroom took vehicl hospit die bp joint pain bp rais nerv got hemorrhag
+426,148,Child,AP,Road Traffic,2.0,2.0,,,daughter play opposit hous sadli wheeler lorri tripper went head die spot vehicl went head brain came spot immedi took hospit ambul postmortem die like accid vehicl went head terribl head injuri die spot
+424,104,Child,AP,Road Traffic,2.0,8.0,,,year went place met accid near return home die spot polic regist case took hospit postmortem done hospit ford endeavour grandson drive
+250,4527,Adult,UP,Road Traffic,2.0,13.0,,,deceas perfectli healthi femal electr pole fallen remain aliv hour first shown privat doctor refer hospit give medicin whatsoev death occur en rout district hospit place
+257,4708,Adult,Bohol,Road Traffic,2.0,55.0,,,april year around went place rode motorcycl got accid motorcycl rode toppl fall balanc head hit rush immedi hospit hospit hour refer per respond part deceas head broke coma april year around die
+420,42,Child,AP,Road Traffic,1.0,9.0,,,go rel hous near place year reach alight auto pay auto son tri cross road cross road auto hit fell away due impact bodi sustain injuri bleed excess head die spot polic regist report one son
+417,12,Child,AP,Road Traffic,1.0,9.0,,,went church around home prayer finish around around noon snack son start go home around road accid taken place near place son cross road slip felldown speed lorri come lift hand appeal lorri stop show son road lorri went away son son dead
+465,770,Child,UP,Road Traffic,1.0,11.0,,,deceas child use studi sibl neighborhood thatch roof ill got burnt sibl fire studi
+467,824,Child,AP,Road Traffic,1.0,2.0,,,includ son went outsid one day stood bu stand went shop buy eatabl suddenli one truck came hit badli went away immedi took hospit took doctor said die die vehicl hit
+133,2398,Adult,AP,Road Traffic,1.0,21.0,,,met sever accid pm novemb year die next day pm blood observ urin voic sight sensit stop absolut
+268,4820,Adult,Bohol,Road Traffic,1.0,14.0,,,april year met accid ride bicycl one saw patient pass brought hospit unconsci hole back head transfer nurs hospit bodi clean blood hospit later arriv die
+65,1121,Adult,AP,Road Traffic,1.0,52.0,,,met sever road accid morn hour place shift hospit servic doctor morn duti assur life till hour though kept icu three day treatment nomin doctor callou neglig treatment case treat serious accid case rather administ normal tablet fever cough doctor also uncouth respond attend patient though die doctor deceiv enact treatment dead bodi accord doctor injuri brain would cure tablet hour accid gave sureti life proven futil
+511,1811,Child,AP,Road Traffic,2.0,1.0,,,daughter met accid tractor year one tractor rod went insid bodi sever bleed expir
+70,1176,Adult,AP,Road Traffic,1.0,39.0,,,accid pm one know happen phone call went spot call join hospit coma day oper head three day oper stomach kidney also damag sent unabl pass urin advis machin vain taken die later
+512,1816,Child,AP,Road Traffic,2.0,3.0,,,daughter grand daughter went field morn hous hot afternoon sat shadow tree sinc field side road auto man pass side turn auto park tree auto driver observ sat side tree auto came fast hit badli sadli daughter die spot grand daughter injur sever taken hospit die way
+77,1278,Adult,AP,Road Traffic,1.0,54.0,,,travel twowheel chetak scooter lorri headlight beam eye blur sight use partial blind night even accid result fell scooter head injur sever head injuri brain partial came cut ear leg also injur sever doctor said seriou condit x ray report taken whole bodi includ head advic doctor
+83,1383,Adult,Bohol,Road Traffic,1.0,22.0,,,april year around deceas got accid rode multicab two front wheel vehicl explod affect part face chest immedi brought hospit emerg room oxygen iv fluid reffer bone check chin crush bone chest fractur per respond doctor told deceas chanc surviv coma place icu around pm die
+497,1511,Child,AP,Road Traffic,1.0,3.0,,,son stand side road one car came hit badli car fellow took vehicl back side sadli care came went die spot stand mud side road car fellow came kill cruelli apart two daughter studi class stay place poor peopl get benefit survey feel sad benefit us good went polic station mro mani time none care us took immedi hospit accid postmortem done heavi injuri head hand leg bleed die spot
+496,1504,Child,UP,Road Traffic,2.0,4.0,,,babi die collis roadway bu place accid took place around pm
+495,1499,Child,Dar,Road Traffic,1.0,7.0,,,decid road acid way school dead spot
+513,1820,Child,Bohol,Road Traffic,1.0,11.0,,,verbal mother other pm met accid motorcycl seat top miner water contain fell vehicl pass hit head rush hospit cut head arriv attend immedi wipe bodi took hour paid much attent around pm start ambubag cathet insert urinari ouput doctor said ca nt surviv anymor even transfer brain pm ask get priest pray die midnight grandmoth verbal brought hospit surviv still someth grandson given much attent even iv fluid oxygen whatev grandmoth person child custodi year die
+520,1985,Child,AP,Road Traffic,2.0,3.0,,,hous babi went play neighbor driver take max dikap wheeler vehicl toward back side back tyre went head die immedi spot took hospit vehicl went head brain came fell road die spot due accid noth happen rest bodi
+108,1797,Adult,Bohol,Road Traffic,1.0,25.0,,,met accid motorcycl cut head hole side side trunk notic doctor oxygen hook ambubag condit danger absenc heartbeat arriv saw emerg guy brought said brother awak pass juli becam unconsci die minut right chest protrud hand submerg tri press doctor nt open check deceas bodi per respond saw cut hole without bandag
+114,1849,Adult,UP,Road Traffic,1.0,18.0,,,parent deceas pass away two year ago work hotel die bu accid highway accord polic postmortem report head crush
+482,1155,Child,AP,Road Traffic,1.0,10.0,,,son came school went friend play met accid rtc bu receiv treatment hospit die
+481,1128,Child,AP,Road Traffic,2.0,8.0,,,year birth mother die follow father word child stay due mischiev impress join hostel june year cross road one car came hit heart hole seen brain struggl lot took hospit glucos given die pm felt lone sad child death would die join hostel
+478,1078,Child,UP,Road Traffic,1.0,7.0,,,babi die road accid throttl truck accid took place around pm
+477,1066,Child,AP,Road Traffic,2.0,11.0,,,nice studi hostel place one day met accid car cross road school admit hospit die treatment go
+127,2184,Adult,AP,Road Traffic,1.0,29.0,,,met accid place come head injuri taken hospit admit year expir year pm
+473,1009,Child,AP,Road Traffic,1.0,2.0,,,whole famili went templ way back place oil tanker chemic tanker came hit car badli son die spot injuri face head immedi die took hospit taken postmortem along boy mother father uncl aunti die spot entir famili die road due terribl accid took place
+128,2221,Adult,UP,Road Traffic,1.0,65.0,,,deceas mark wound sharp object forehead seen husband husband enquir wound gestur slowli hand stop fell unconsci husband unabl gaug depth injuri insuffici illumin time also excret cloth husband chang cloth take hospit dead time
+41,629,Adult,AP,Road Traffic,1.0,49.0,,,drive tvsxl two wheeler vehicl one auto fellow came hit badli fell immedi head injur admit hospit doctor scan xray head injur badli told us take scan done doctor oper yet doctor said difficult live die day
+470,897,Child,AP,Road Traffic,1.0,2.0,,,worker take sand behind cement road side hous tractor son went near tractor twice brought hous hear engin sound thought tractor might gone went bath room bath son went near tractor stood engin wheel fill tractor sand driver look ahead start without notic son behind back wheel went head son head crush brain came die spot later polic came wrote report sent dead bodi hospit postmortem postmortem bodi hand us cremat
+486,1252,Child,AP,Road Traffic,1.0,5.0,,,patient die due road accid met road accid recent took hospit treatment doctor said blood clot head due road accid conditon critic told us take bring hospit die way
+272,4868,Adult,AP,Road Traffic,1.0,47.0,,,fallen bicycl unexpectedli blood start come urin kept tube four day approxim time discharg came doctor said nerv neck damag henc surviv
+507,1699,Child,AP,Road Traffic,2.0,3.0,,,uncl nice come place two wheeler bike met accid tractor girl die sport sustain sever head injuri due bleed hour mouth ear nose due die spot uncl drive sustain fractur hand sever injuri face left leg still bed rest doctor said take rest month girl die spot due skull fractur brain visibl
+313,5676,Adult,AP,Road Traffic,1.0,56.0,,,head sever injur hit pole come duti vehicl left leg fractur lost blood taken hospit ambul earlier ailment work good health unabl walk hospit support till icu hour expir
+376,7161,Adult,AP,Road Traffic,1.0,56.0,,,cross road board bu around pm place hous van came hit fell distanc badli injur chest head took blood start ooz mouth nose go hospit doctor extract blood heart mouth scan taken told oper done coma expir around earli hour day
+18,240,Adult,AP,Road Traffic,1.0,22.0,,,cross road indica car hit profus bleed much blood hospit hand leg sever injur suffer lot suffer expir day told period hospit right day accid place
+283,5068,Adult,Mexico,Road Traffic,2.0,38.0,,,run suv came back run ruptur intern organ rib broken spleen kidney liver remov wrist broken ankl toe said sister die wayth interviewe calm
+341,6285,Adult,AP,Road Traffic,1.0,28.0,,,fell come vehicl hit buffalo taken hospit immedi scan taken doctor said difficult surviv sinc hemorrhag head day coma die day
+301,5405,Adult,Bohol,Road Traffic,1.0,28.0,,,drive motorcycl drunk immedi brought hospit moment later alreadi dead kept complain pain
+330,6148,Adult,AP,Road Traffic,1.0,40.0,,,even around pm start home went place around pm receiv phone call accid taken place know dash ditch forehead injur remain part intact first took govern hospit place bandag tie advis us go hospit surgeri done hospit kept ventil day shift gener ward start identifi us tea eaten idli coconut water day afternoon around sever temperatur came took emerg ward earli hour around bp come doctor said dead
+381,7280,Adult,AP,Road Traffic,1.0,21.0,,,lorri hit cross road pm seriou injuri head stomach blood ooz nose ear scan xray taken clot stomach abl breath doctor said breath properli surviv day expir
+308,5537,Adult,AP,Road Traffic,1.0,25.0,,,ct scan taken head remov alcohol stomach kept icc salin day demis kept ventil even oxygen also given sever injuri vehicl hit night polic peopl join hospit
+399,7605,Adult,Bohol,Road Traffic,1.0,24.0,,,june year met accid dawn ride motorcycl reason accid nt known yet brought hospit suppos undergo oper stil unstabl head affect unconsci june year die night nt ill accid caus death
+347,6352,Adult,Bohol,Road Traffic,2.0,12.0,,,ill date disco across street way home cross street ran motorcycl brought hospit place forward head affect part arriv die
+409,7755,Adult,AP,Road Traffic,1.0,35.0,,,hit ap rtc bu cross road pm left leg run bu complet crunch took ambul join hospit injur leg oper die midnight death laps back coma speak anyth
+387,7331,Adult,Mexico,Road Traffic,1.0,16.0,,,day pass away come see notifi death call recogn bodypsychotherapi necessari famili much afflict
+310,5639,Adult,UP,Road Traffic,2.0,68.0,,,deceas car spun control crash tree three peopl travel serious injur die undergo treatment trauma centr
+279,4982,Adult,AP,Road Traffic,1.0,25.0,,,go motorcycl auto hit ran away fell road around pm previou month went function consum wine start danc leg twist sprain occur subsid yet pain still head chest receiv injuri remov blood chest head earlier vomit blood die next day hr
+391,7391,Adult,Mexico,Road Traffic,2.0,76.0,,,die hospit ask us file report sinc homicid go file report public prosecutor hospit turn report hospit write death certif say admit day hospit die day went place forens medic servic autopsi turn caus death due burst intestinesintern organsth interview went smoothli
+389,7343,Adult,AP,Road Traffic,1.0,48.0,,,father met accid place head injur blood start ooz ear took govern hospit doctor told us facil suffici due reason took hospit treatment day die later reason death injuri head
+502,1584,Child,Dar,Sepsis,2.0,,11.0,,hr opinion death cans number guinin inject due quinini inject destoy blood cell resuilt destori abil bodi reproduc also daim lack serius hospit medic
+527,329,Neonate,AP,Stillbirth,2.0,,,0.0,dust allergi headach threw dust vomit due went hospit scooter came hospit gate got fit fell bp high doctor cesarean oper doctor said babi die womb
+540,1317,Neonate,Dar,Stillbirth,2.0,,,0.0,respond said nursesattend well
+525,272,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain seven month pregnanc aph went hospit hospit ten day two day deliveri felt bell swell began bleed aph went hospit
+541,1332,Neonate,AP,Stillbirth,2.0,,,0.0,took daughter hospit villag delay way due die doctor said womb small
+543,1458,Neonate,AP,Stillbirth,2.0,,,0.0,wife work hous slip fell womb injur due babi die womb
+524,226,Neonate,Pemba,Stillbirth,1.0,,,0.0,die god
+528,342,Neonate,Pemba,Stillbirth,1.0,,,0.0,respond explain deliv eight month encephalu membran three month deliveri took antibioticamoxacillin also polyhydromino
+523,127,Neonate,AP,Stillbirth,1.0,,,0.0,pregnant scan doctor said amniot fluid defici womb said difficult child surviv earlier excess bleed also month pregnanc prenat deliveri month gave birth dead child due defici amniot fluid exactli thing happen presum
+545,1802,Neonate,Pemba,Stillbirth,1.0,,,0.0,die god
+542,1344,Neonate,AP,Stillbirth,2.0,,,0.0,went hospit place th advis scan came know child dead scan immedi rush pm gave admiss perform scan glucos given continu second day also even inject given pain come hr dead femal child born discharg year ask come week
+554,2506,Neonate,Bohol,Stillbirth,1.0,,,0.0,date around morn labor start around noon rush hospit around afternoon bag water broke blood came mother gave birth around afternoon per doctor babi alreadi dead
+533,1047,Neonate,Dar,Stillbirth,1.0,,,0.0,additon point
+552,2387,Neonate,Pemba,Stillbirth,2.0,,,0.0,die god merci
+536,1095,Neonate,AP,Stillbirth,1.0,,,0.0,high bp came month use inject tonic regularli becom normal everyth normal suddenli happnedtwo month ago ct scan done doctor said child healthi
+535,1083,Neonate,Mexico,Stillbirth,2.0,,,0.0,went hospit refer unfortun happenedfath person new pregnanc six month
+550,2240,Neonate,Mexico,Stillbirth,2.0,,,0.0,commenth say wife went checkup said babi dead ask doctor one eye miss skin leg miss told sinc amniot fluid dead day skin came
+532,766,Neonate,AP,Stillbirth,2.0,,,0.0,ate fruit juic mutton egg side effect went hospit everi week test third month went scan
+549,2080,Neonate,AP,Stillbirth,2.0,,,0.0,month pregnanc went hospit bp raisedthey sent us fit bp come control lost child perform abort use medicin properli carri say money medicin
+529,416,Neonate,AP,Stillbirth,1.0,,,0.0,manuscript illeg
+546,1909,Neonate,UP,Stillbirth,1.0,,,0.0,accord respond doctor reach late ladi got treatment late incid took place
+547,1976,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit encourag visit home
+87,1448,Adult,AP,Stroke,1.0,54.0,,,attack paralysi year went hospit immedi expir day one includ childredn time death everi one came froth came mouth glucos given bodi sever vibrat
+55,907,Adult,AP,Stroke,2.0,62.0,,,mother diabet unexpectedli fell sofa took immedi hospit doctor said dead due high bp habit tobacco chew liquor consum
+56,917,Adult,AP,Stroke,2.0,60.0,,,earlier fine got high bp suddenli fell morn around fit paralysi attack took hospit half day advis us go day expir
+348,6366,Adult,Bohol,Stroke,2.0,62.0,,,asymptomat even manag go market may market suddenli fall becom unconsci directli brought hospit refer start iv infus also administ still remain unconsci snore doctor said arrest expir follow day
+110,1812,Adult,AP,Stroke,1.0,80.0,,,slip breakfast froth came mouth time went hospit go shift high bp ct scan taken said brain lost stiff due old age kept salin expir lift leg pass urin
+123,2071,Adult,Mexico,Stroke,2.0,74.0,,,caus death establish death certif eg cirrhosisthey perform tomographi scan hemorrhag incompat life
+317,5829,Adult,Bohol,Stroke,1.0,40.0,,,date took coconut wine morn hard liquor afternoon slept outsid hous follow day cant move bodi brought hospit last oct doctor reveal r side part paralyz unconsci doctor told us comatos last oct vomit doctor told us liquior intox die last oct
+345,6346,Adult,Bohol,Stroke,1.0,88.0,,,death father sudden bed ridden even suffer ill age still activ smart april earli morn surpris hear nois chair hit floor near cr came room see happen surpris see father lie floor head hit blood come neither wound apart face edemat ask happen languag cant understood clearli halfleft part bodi cant feel anymor around morn abl ask help niec nephew oclock consult doctor given antibiot transfer hospit wa oxygen never respons anymor alway asleep preffer undergo ctscan alreadi entrust father god father die vomit much blood less hour pm die
+367,6967,Adult,AP,Stroke,2.0,59.0,,,fell went coma doctor told alreadi surviv
+117,1880,Adult,Bohol,Stroke,2.0,91.0,,,first cardiac arrest second cardiac arrest asymptomat complain health problem date cousin visit hous surpris saw lie floor unconsi transfer notic grandmoth edemat format forehead decid brought hospit start inhal unconsci snore loudli expir last aug
+99,1679,Adult,AP,Stroke,1.0,46.0,,,taken auto work go place call around inform leg hand function son reach auto went hospit admit ijn emerg ward inject glucos given rd lost vision even around pm expir
+314,5689,Adult,AP,Stroke,1.0,44.0,,,got went press work lunch walk fell taken hospit place scan said hemorrhag oper cost around one lakh rupe went bp said oper perform bp come even expir
+379,7233,Adult,AP,Stroke,2.0,72.0,,,got paralysi year ago month ago fell head injur day went coma
+113,1848,Adult,Mexico,Stroke,2.0,96.0,,,nothingno noth
+98,1665,Adult,AP,Stroke,2.0,56.0,,,negligi hospit number doctor nurs bought brought tablet inject outsid negligi take scan xray take money take rs scan govern hosptial great burden poor peopl first day patient amc ward hesh shift gener ward doctor sent forcebili gener ward negligi doctor becam reason death coma yawn littl cough
+340,6263,Adult,Mexico,Stroke,2.0,97.0,,,commentsnon updat
+119,1968,Adult,AP,Stroke,1.0,51.0,,,right till day death everyth normal except high dinner day spoke us slept around pm earli hour around snore sound came cot went saw lost vision speech immedi join hospit place ct scan done found blood clot brain due fear expenditur took hospit die coma
+331,6154,Adult,Mexico,Stroke,1.0,62.0,,,hope questionnair use youi hope questionnair use
+413,7797,Adult,Bohol,Stroke,2.0,75.0,,,histori high bp given medic mainten order take bp increas asymptomat even manag household chore may morn household chore complain headach let took medic take med notic becom unconsci directli brought hospit doctor reveal arrest also snor loud ff day die
+386,7318,Adult,AP,Stroke,2.0,58.0,,,sit suddenli fell unconsci taken immedi hospit tri oxygen took tongu got swollen earlier use tablet inflamm leg
+276,4912,Adult,AP,Stroke,1.0,47.0,,,paralysi attack left leg hand two year ago shown doctor hospit place hand leg bent littl better got exert cat wheez said get chest pain fell immedi immedi took hospit die around earli hour
+265,4786,Adult,AP,Stroke,1.0,65.0,,,husband fell high bp head injur left leg hand paralyz admit hospit take treatment die
+260,4768,Adult,AP,Stroke,1.0,55.0,,,work place work fever sinc week shown hospit took gave inject instruct us give water husband ask water pick quarrel sleep day demis shaken hand wide open eye expir inject given earlier entir bodi hot suffer paralysi hand leg mouth hour death mouth come normalci
+278,4955,Adult,AP,Stroke,1.0,54.0,,,slept dinner got morn made us wakeup went bath room came back fall rush care hospit engag taxi scan done announc nerv head damag earli hour day die said bp noth differ earlier fever also
+281,5009,Adult,Mexico,Stroke,1.0,56.0,,,commentsther public transport reach address better arriv still daylight
+246,4467,Adult,Bohol,Stroke,2.0,64.0,,,first arrest occur recov diet restrict insist eat anchovi april fine went tagb fiesta may household chore suddenli ask help saw experi stiff found hard get immedi brought hospit apprais arrest becom unconsci die later
+235,4284,Adult,AP,Stroke,1.0,44.0,,,doctor told us brain nerv cut left hand leg work hour hour laps coma noth accept throat tube salin bottl put behavior hospit staff good indiffer care patient
+282,5044,Adult,AP,Stroke,1.0,46.0,,,suffer chicken gunya fever year ago afterward kidney got treatment place onward dialysi done three day death went dialysi hospit came back even finish dinner fell nausea immedi attend told nerv hemorrhag head left leg hand told due high bp happen next day die
+405,7725,Adult,Bohol,Stroke,2.0,76.0,,,patient live alon houseof children resid place never complaint anyth regard health except cough long time caus go health center ask prescript medicin nt actual reach one week sinc went checkup caus medicin still sept year went hous one day ask jackfruit nobodi repli that destroy door caus heard somebodi gasp breath difficulti saw lie kitchen suffer difficulti breath protrus note forehead move say word rush hospit void loos bowel movement thought mayb went earli morn kitchen cook rice tri reach caserol fell actual went noon seem lie mani hour alreadi hospit tri save life cpr gone
+289,5183,Adult,AP,Stroke,1.0,53.0,,,went bath even fell tri get stand could taken hospit scan said brain hemorrhag took hospit went coma hypertens last year stop consum medicin
+216,4002,Adult,AP,Stroke,2.0,40.0,,,eye got oper hospit three year ago fell cot bled ear right leg hand paralys incid abl recogn anyon shift hospit immedi fall bed rush auto richshaw admit emerg ward duti doctor check declar hand leg paralys later given salin bottl unabl urin even test purpos final declar dead
+312,5646,Adult,Dar,Stroke,1.0,45.0,,,client believ deceeas poison os witch
+206,3769,Adult,AP,Stroke,2.0,59.0,,,vomit green color felt vomit sensat took hospit sudden speech vision lost went coma doctor insert pipe nose use take salin six month drag pain leg hand due high bp way alright die like aunt healthi earlier
+213,3992,Adult,AP,Stroke,1.0,99.0,,,leg swell stomach also bulg took hospit later affect paralysi complet lost voic later taken sight also almost lost pipe put nose mouth labor breath rib bump continu till death predica sever pathet final die
+196,3578,Adult,Bohol,Stroke,1.0,53.0,,,may asymptomat day afternoon one neighbor saw drunk coconut wine left want go home household chore ride motorcycl suddenli complain headach neighbor immedi brought hospit upon arriv hospit staff took bp result mmhg refer us evalu close monitor slowli becom unconsci snore loudli administ inhal follow day exactli pm die
+35,528,Adult,AP,Stroke,1.0,75.0,,,activ festiv day lunch fell unconsci taken hospit ecg ct scan doctor said surviv
+141,2505,Adult,Mexico,Stroke,2.0,66.0,,,attent patient intens careth certif graveyard
+143,2518,Adult,AP,Stroke,2.0,24.0,,,doctor told blood clot brain hand leg paralyz year ago burnt injuri lower part bodi suffer breath problem last year dyspnea also cough use take breath much difficulti went coma two day two day ago snap coma woke go toilet came back bed later went coma afterward taken hospit die labor breath though eye open conscious sens touch respond accordingli
+414,7803,Adult,AP,Stroke,2.0,65.0,,,went bathroom day morn around came back fell suddenli took hospit sent us scan said hemorrhag brain right leg right hand stop function stomach inflat day death fell unconsci die later earlier vomit
+291,5193,Adult,AP,Stroke,1.0,80.0,,,day ago fell unexpectedli neither accid suicid convert natur death murder case postmortem worri much corps cut piec doctor hard common man roam around polic hospit postmortem done unidentifi doubt death sinc two day speech stomachach last year homoeopathi treatment given
+394,7475,Adult,Mexico,Stroke,2.0,59.0,,,commentstel phone
+152,2752,Adult,AP,Stroke,2.0,40.0,,,husband fell giddinessh hospit day expir
+397,7576,Adult,AP,Stroke,1.0,62.0,,,affect eye chang behavior also chang way speak suddenli speak word reduc later leg hand without strength
+189,3484,Adult,AP,Stroke,1.0,75.0,,,told patient mental depress bp fell cot sleep lost conscious unconsci till death
+27,441,Adult,AP,Stroke,2.0,90.0,,,though elderli woman use healthi sinc sleep insid hous know happen earli hour seen lie unconsci taken doctor accord nerv head cut due heavi bp led paralysi sent us hospit treat two day hospit doctor declar could surviv coma till death
+185,3366,Adult,AP,Stroke,2.0,35.0,,,earlier well went bath room fell suddenli tri lift hand leg stop function call went hospit suspect clot brain die
+28,449,Adult,AP,Stroke,1.0,67.0,,,paralysi stroke came first time littl better use ayurved medicin gajvel paralysi came year august left leg hand waist affect also use ayurved medicin everyth bed sinc day make effort make sit fall way fell one day head injur took hospit die day hr
+24,359,Adult,Bohol,Suicide,1.0,30.0,,,son secur guard use play firearm sinc young becam guard compani alway remind play point bodi might pull trigger accident never listen date clean gun play point neck accident pull pull abl said oh burst drop ground rush hospit rush emerg emerg procedur done save gone minut compani told happen saw son morgu alreadi dead
+23,358,Adult,AP,Suicide,2.0,25.0,,,except hair entir bodi burnt burn doctor sure surviv accid taken place year expir year unbear kidney pain due stone commit
+20,257,Adult,Dar,Suicide,1.0,27.0,,,deced polic case made frastrat heac commit scucid
+45,683,Adult,AP,Suicide,2.0,24.0,,,taken hospit entir burnt face becom dark appli medicin burn given salin bottl doctor express doubt surviv
+17,237,Adult,AP,Suicide,2.0,26.0,,,brother law also came take wife hospit call went hospit doctor pronounc burn incid happen around pm ask happen said know unbear stomach ach commit doctor enter burn record
+44,667,Adult,AP,Suicide,2.0,25.0,,,burnt fire januari afternoon came peopl seen road later took hospit one day die
+362,6807,Adult,AP,Suicide,1.0,19.0,,,went duti place theatr reason known us owner theatr sever beaten return home humili took mother theatr immol petrol sever burn taken hospit three day succumb injuri die
+238,4316,Adult,AP,Suicide,1.0,30.0,,,heavili drunk abus everyon went insid hous pore kerosen blaze immedi took hospit face chest sever burnt hand leg much burnt doctor prescrib medicin gave inject gave littl water felt thirst die
+202,3673,Adult,AP,Suicide,1.0,49.0,,,went work fine time one year ago fell went place work injur knee cap knee broken unit shown hospit suffer stomach pain day ago boy asleep went insid pour kerosen set fire took hospit immedi die
+336,6239,Adult,AP,Suicide,1.0,35.0,,,brotheronlaw alcohol one day set fire drink burnt took hospit treat die day
+335,6223,Adult,AP,Suicide,2.0,26.0,,,wordi dual husband pour kerosen selfimmol bid wee hour took ambul join hospit sinc per cent burn doctor assur life ointment appli burnt bodi salin bottl also put surviv day sinc abl speak thought could surviv burn die day
+62,1066,Adult,AP,Suicide,1.0,38.0,,,paint work night day side hous talk mother brother husband went insid hous pore turpentin oil set fire immedi went hospit admit emerg ward said well burnt case blaze around pm die earli hour afraid go insid
+240,4383,Adult,AP,Suicide,2.0,40.0,,,sari caught fire lamp caus burn leg waist bubbl face thought surviv due neglig treatment expir hospit
+377,7196,Adult,AP,Suicide,2.0,35.0,,,kept water stove start cook ga stove sudden flame caught fire taken hospit surviv day third day around pm breath last doctor said burn
+199,3622,Adult,UP,Suicide,2.0,17.0,,,accord respond live electr wire touch tree pick leav also respond say tree becom electrifi deceas experienc shock fell tree fall unconsci
+247,4488,Adult,AP,Suicide,2.0,48.0,,,mother suffer depress last month father die year ago fell depress recent got aggrav twice quarrel wife set blaze kerosen keep asid jewelri burn doctor said surviv maximum hour day kept oxygen salin given water food said even food given die
+407,7752,Adult,AP,Suicide,2.0,18.0,,,suffer intestin ulcer year doctor confirm accord reason sever dyspnea x ray report also taken advic doctor doctor also advis medic usag medicin lesser pain use sever vex sever frequent stomach ach immol kerosen die though hand leg face sever injur succumb per cent burn rest bodi
+286,5154,Adult,AP,Suicide,2.0,35.0,,,desert husband two children us immedi reason instig selfimmol bid pour kerosen casual went kitchen cook pour kerosen pm even sinc whole bodi burnt sever doctor confirm could surviv immedi take hospit ointment appli bodi salin bottl put die earli morn
+290,5184,Adult,AP,Suicide,1.0,41.0,,,go work drink everyday day drank liquor around pm even pore kerosen set ablaz took hospit right till day burn subsid got walk face thigh bodi burnt start eat littl thought go home two day get cot previous use come bathroom pass urin express fear anxieti die night around earlier intox tri twice set ablaz stop
+292,5212,Adult,AP,Suicide,1.0,30.0,,,annoy quarrel us came matern home day husband came talk within half hour selfimmol petrol took hospit die next day morn
+299,5335,Adult,AP,Suicide,1.0,27.0,,,wife husband fight difficulti know pour kerosen burnt fire wife die husband taken hospit die night doctor said bodi burnt difficult live speak anyth say anyth
+393,7445,Adult,Bohol,Suicide,1.0,30.0,,,silent type person loner nephew time togeth famili brother paid watch caretak fishpond earli morn june around sisterinlaw argument result stumb sisterinlaw use sharp bolo hand saw wound sisterinlaw also stum twice stomach arriv hous saw side lost consciou saw much blood wound wait arriv polic bring hospit hook oxygen transfer due lack facil attend need patient transfer place admit oper done vein way vile cut stumbwound also intestin stomach oper contin fever remain unconci also difficulti breath die day hospit
+255,4616,Adult,AP,Suicide,1.0,60.0,,,father mental depress bp hous hold expenditur father borrow loan outsid crop yield could repay unabl withstand difficulti die
+388,7341,Adult,Bohol,Suicide,1.0,67.0,,,undergon complet treatment coars tb pavillion tb mani month start drink liquor smoke tabacco hang self well health problem even took shot liquor dawn whe seen dead
+192,3524,Adult,AP,Suicide,1.0,35.0,,,went place week ago feel well time last night sleep well say bad word next day took lunch laer thrown away cell phone broken piec sent us away phone elder brother stood steadfast walk casual immol kerosen rush hospit heavi burn chest hand stomach leg doctor gave assur burn sever took hospit afternoon die pm night
+122,2064,Adult,AP,Suicide,2.0,20.0,,,daughter patient activ date ate nice well spoke peopl nice hous watch tv told suddenli go bakeri get curri puff went bakeri afternoon time came back hous pour kerosen burnt fire injur immedi took hospit took emerg ward doctor said less chanc live burnt chest lower abdomen doctor said bodi burnt burnt afternoon pm die morn commit suicid love fail
+68,1168,Adult,AP,Suicide,2.0,38.0,,,daughterinlaw fit around summer recent start fit year use work hous look children fit hous reduc fit increas year time recent went market januari son fit fell ground sinc said headach head heavi use behav mad fellow scold anybodi start fit year start scold walk street burnt januari even open door went fell road son came put auto took hospit shift emerg femal bed ward given glucos spoke loudli told us nice children also nice die friday around
+69,1170,Adult,AP,Suicide,2.0,27.0,,,sleep alon room kerosen lamp window fell chest burnt face hand leg burnt took hospit ambul doctor said bodi burnt die day expect would die last day drank juic ate idli spoke nice went bath room walk die suddenli day
+72,1218,Adult,AP,Suicide,1.0,35.0,,,year blaze kerosen sinc two year well mental depress ask us make sit possibl us bodi becom stiffen expir morn
+90,1506,Adult,AP,Suicide,2.0,44.0,,,mother cook kitchen burnt fire daddi person younger brother went save also burnt fire time mother burnt due could save hospit
+107,1763,Adult,AP,Suicide,2.0,28.0,,,whole bodi burnt immol kerosen owe unbear stomachach doctor affirm would surviv husband partli insan
+354,6551,Adult,AP,Suicide,2.0,32.0,,,three month third deliveri weak child born expir almost one year sinc eldest one die previous lost interest life commit suicid pore kerosen burnt face chest hand burn get fit also deliveri time fit fit came one h death
+368,6989,Adult,AP,Suicide,2.0,28.0,,,awar ga leak around pm went kitchen switch light big blast blaze around bodi burnt join hospit burn day could recov moder spoke littl expenditur heavi move could recov well could go bathroom two blood bottl given one earli hour day condit becom seriou die even around pm
+329,6117,Adult,AP,Suicide,1.0,38.0,,,tb exert use medicin month hospit place stop use medicin recurr cough exert exert prepar allam murabba zinger cake sell prepar got cough fell pan bodi burnt took die
+344,6332,Adult,AP,Suicide,2.0,14.0,,,four peopl stop patient come school teas recollect incid felt sad hang one immedi took hospit felt breath problem one day expir
+370,7017,Adult,AP,Suicide,2.0,21.0,,,due differ husband stay month son age month husband came compromis though said would take back home left without made phone call pm day immol pour kerosen entir bodi burnt total skin peel took hospit ambul treat day nearli bottl salin given ointment appli whole bodi also given water last moment suffer breathless thu oxygen put moment breath last
+138,2476,Adult,Bohol,Suicide,1.0,32.0,,,decemb consult hospit due gastric pain headach doctor said sympstom ulcer sinc success time got drunk alcohol drink get better go back vice gastric pain reoccur sa hope cure ill one week commit suicid time proper mindset date morn still okey talk us around day went grassi place distanc hous minut hear sound gun went saw lie ground unconsci dead alreadi wound nape
+140,2503,Adult,AP,Suicide,1.0,22.0,,,home made attempt get rice dish kerosen tin besid stove fell sudden blaze entir bodi got burnt happen even around pm took immedi hospit kept oxygen salin ask us give bath earli hour around complain breath problem told us want go bathroom blood came motion expir even around pm
+151,2714,Adult,Bohol,Suicide,2.0,29.0,,,deceas silent type person loner physic okey got marri time attempt suicid gave birth child month symptom nervou breakdown month recov consult doctor sept gave birth child one month chang behavior attitud ask husband hous separ paent law jan year transfer hous jan year togeth fiesta celebr baptism child morn still okey oclock afternoon ask permiss go parent hous alreadi peopl home asleep decid go market buy milk babi malathion insecticid arriv home told husband milk babi husband recogn also bring malathion immedi enter bedroom husband follow open door deceas run away hold malathion husband run alreadi take pesticid husband grab time deceas vomit lot reddish fluid hematoma lost conscious admit hospit due lack hospit facil trsnfer place aftera thought alredi okey consciou ask glass water jan attack whole bodi becam violet like color comat attack success jan year noon transfer icu even day die accord doctor post partum effect gave birth liver compress caus nervou breakdown
+187,3420,Adult,AP,Suicide,2.0,21.0,,,wife husband fought togeth consum liquor went kitchen blaze self kerosen entir bodi burnt took hospit place shift asthmat symptom expir
+243,4405,Adult,AP,TB,1.0,41.0,,,tb sinc month also known hiv alright month ago tb confirm began think one witch craft start go templ perform ceremoni prayer hospit ssaid tough surviv intern everyth spoil gave glucos oxygen expir expir around peculiar chang seen bodi later die
+169,3117,Adult,Dar,TB,1.0,999.0,,,client additiuon point
+13,186,Adult,Dar,TB,1.0,999.0,,,decoad liver problem bp malaria last stage
+509,1751,Child,AP,Violent Death,2.0,9.0,,,day water thanda due electr motor failur daughter law told grand daughter go fetch water agricultur motor refus get daughter law scold went away fetch water came water went insid saw grand daughter hang rope immedi taken motor cycl hospit way expir hand bodi postmortem us
+433,217,Child,AP,Violent Death,2.0,7.0,,,grand daughter kill burnt babi tuesday know heart call babi say put henna pour kerosen burnt grand daughter went holiday think would take place
+444,461,Child,UP,Violent Death,1.0,7.0,,,ladi along babi year daughter suddenli came front train arrog proudli use fight husband
+454,679,Child,AP,Violent Death,1.0,10.0,,,one day father drank came hous pierc throat son slept kill time known nearbi know whether father fight hous problem famili polic came inquir arrest father earlier came somewher live
+471,941,Child,UP,Violent Death,2.0,6.0,,,babi fall pond near explos area accord respond bodi divid piec bodi blood dead
+518,1963,Child,AP,Violent Death,2.0,6.0,,,kill wife daughter axe year clean floor chang cloth kept bed went neighbor villag came morn said three men came mask kill wife children later polic gave current shock open mouth said kill wife doubt polic ask kill daughter said told daughter say three men came mask kill mother disagre say therefor press throat kill
+516,1852,Child,AP,Violent Death,2.0,5.0,,,sleep mid night got pour liter kerosen daughter attempt suicid kept daughter lap burnt die spot becam dead bodi broke door night found dead bodi mother daughter becam block ash die husband long time motherinlaw struggl year without husband mental tension may marri burnt daughter mental tension anybodi work watchman sometim four year ago came coloni well till sister burnt along daughter
+484,1244,Child,UP,Violent Death,2.0,4.0,,,child famili shift place day death girl suffer tb mother month babi year daughter commit suicid front train aggress arrog use pressur husband money
+427,162,Child,AP,Violent Death,2.0,11.0,,,patient daughter brutal kill woman nativ place present home daughter vicious beaten death bodi thrown field could abl even guess caus behind gruesom murder daughter lodg polic complaint case book trial daughter absolut health problem
+458,721,Child,AP,Violent Death,2.0,3.0,,,mother kill younger daughter blind father desert went away unknown place kill daughter made vain attempt commit suicid

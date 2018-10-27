@@ -1,234 +1,201 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-0 27,1 Adult,2 Mexico,3 COPD,4 2.0,5 78.0,6 nan,7 nan,8 nan
-0 78,1 Adult,2 AP,3 Maternal,4 2.0,5 20.0,6 nan,7 nan,8 nan
-0 134,1 Adult,2 AP,3 Diabetes,4 1.0,5 55.0,6 nan,7 nan,8 nan
-0 164,1 Adult,2 Mexico,3 Stroke,4 2.0,5 71.0,6 nan,7 nan,8 nan
-0 258,1 Adult,2 AP,3 Homicide,4 2.0,5 26.0,6 nan,7 nan,8 nan
-0 308,1 Adult,2 Mexico,3 Lung Cancer,4 2.0,5 73.0,6 nan,7 nan,8 nan
-0 368,1 Adult,2 AP,3 Stroke,4 1.0,5 37.0,6 nan,7 nan,8 nan
-0 436,1 Adult,2 AP,3 Asthma,4 2.0,5 46.0,6 nan,7 nan,8 nan
-0 532,1 Adult,2 AP,3 Cirrhosis,4 1.0,5 42.0,6 nan,7 nan,8 nan
-0 570,1 Adult,2 AP,3 Other Non-communicable Diseases,4 2.0,5 65.0,6 nan,7 nan,8 nan
-0 661,1 Adult,2 AP,3 Maternal,4 2.0,5 18.0,6 nan,7 nan,8 nan
-0 696,1 Adult,2 AP,3 Asthma,4 1.0,5 60.0,6 nan,7 nan,8 nan
-0 746,1 Adult,2 UP,3 COPD,4 2.0,5 70.0,6 nan,7 nan,8 nan
-0 826,1 Adult,2 Mexico,3 Stomach Cancer,4 2.0,5 33.0,6 nan,7 nan,8 nan
-0 847,1 Adult,2 Mexico,3 Homicide,4 2.0,5 41.0,6 nan,7 nan,8 nan
-0 897,1 Adult,2 AP,3 Diabetes,4 2.0,5 55.0,6 nan,7 nan,8 nan
-0 929,1 Adult,2 Bohol,3 Diabetes,4 1.0,5 71.0,6 nan,7 nan,8 nan
-0 958,1 Adult,2 AP,3 Acute Myocardial Infarction,4 2.0,5 51.0,6 nan,7 nan,8 nan
-0 994,1 Adult,2 AP,3 COPD,4 1.0,5 55.0,6 nan,7 nan,8 nan
-0 1076,1 Adult,2 AP,3 TB,4 1.0,5 36.0,6 nan,7 nan,8 nan
-0 1115,1 Adult,2 Mexico,3 Acute Myocardial Infarction,4 2.0,5 89.0,6 nan,7 nan,8 nan
-0 1137,1 Adult,2 AP,3 Pneumonia,4 1.0,5 55.0,6 nan,7 nan,8 nan
-0 1193,1 Adult,2 AP,3 Other Non-communicable Diseases,4 2.0,5 45.0,6 nan,7 nan,8 nan
-0 1258,1 Adult,2 AP,3 Renal Failure,4 1.0,5 64.0,6 nan,7 nan,8 nan
-0 1311,1 Adult,2 AP,3 Stroke,4 1.0,5 73.0,6 nan,7 nan,8 nan
-0 1367,1 Adult,2 AP,3 Epilepsy,4 1.0,5 60.0,6 nan,7 nan,8 nan
-0 1396,1 Adult,2 AP,3 Other Infectious Diseases,4 1.0,5 27.0,6 nan,7 nan,8 nan
-0 1495,1 Adult,2 UP,3 Diarrhea/Dysentery,4 1.0,5 60.0,6 nan,7 nan,8 nan
-0 1542,1 Adult,2 Mexico,3 Other Cardiovascular Diseases,4 2.0,5 47.0,6 nan,7 nan,8 nan
-0 1574,1 Adult,2 AP,3 Asthma,4 1.0,5 70.0,6 nan,7 nan,8 nan
-0 1614,1 Adult,2 Mexico,3 Diabetes,4 1.0,5 64.0,6 nan,7 nan,8 nan
-0 1701,1 Adult,2 UP,3 Maternal,4 2.0,5 26.0,6 nan,7 nan,8 nan
-0 1777,1 Adult,2 Mexico,3 AIDS,4 2.0,5 20.0,6 nan,7 nan,8 nan
-0 1855,1 Adult,2 AP,3 TB,4 1.0,5 62.0,6 nan,7 nan,8 nan
-0 1907,1 Adult,2 AP,3 Diarrhea/Dysentery,4 1.0,5 40.0,6 nan,7 nan,8 nan
-0 1939,1 Adult,2 AP,3 Renal Failure,4 1.0,5 63.0,6 nan,7 nan,8 nan
-0 2003,1 Adult,2 AP,3 Renal Failure,4 1.0,5 57.0,6 nan,7 nan,8 nan
-0 2063,1 Adult,2 AP,3 Stroke,4 1.0,5 42.0,6 nan,7 nan,8 nan
-0 2106,1 Adult,2 AP,3 TB,4 1.0,5 22.0,6 nan,7 nan,8 nan
-0 2166,1 Adult,2 AP,3 Diarrhea/Dysentery,4 2.0,5 70.0,6 nan,7 nan,8 nan
-0 2202,1 Adult,2 Mexico,3 Falls,4 2.0,5 91.0,6 nan,7 nan,8 nan
-0 2280,1 Adult,2 Mexico,3 Diabetes,4 2.0,5 62.0,6 nan,7 nan,8 nan
-0 2314,1 Adult,2 AP,3 Other Infectious Diseases,4 2.0,5 36.0,6 nan,7 nan,8 nan
-0 2355,1 Adult,2 Mexico,3 Other Cardiovascular Diseases,4 2.0,5 75.0,6 nan,7 nan,8 nan
-0 2412,1 Adult,2 Mexico,3 Lung Cancer,4 2.0,5 71.0,6 nan,7 nan,8 nan
-0 2470,1 Adult,2 Mexico,3 Pneumonia,4 2.0,5 43.0,6 nan,7 nan,8 nan
-0 2527,1 Adult,2 AP,3 COPD,4 2.0,5 76.0,6 nan,7 nan,8 nan
-0 2581,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 52.0,6 nan,7 nan,8 nan
-0 2610,1 Adult,2 Mexico,3 Other Infectious Diseases,4 2.0,5 65.0,6 nan,7 nan,8 nan
-0 2689,1 Adult,2 AP,3 Diabetes,4 1.0,5 51.0,6 nan,7 nan,8 nan
-0 2762,1 Adult,2 Mexico,3 AIDS,4 1.0,5 45.0,6 nan,7 nan,8 nan
-0 2793,1 Adult,2 Bohol,3 Pneumonia,4 2.0,5 47.0,6 nan,7 nan,8 nan
-0 2839,1 Adult,2 AP,3 Stroke,4 2.0,5 75.0,6 nan,7 nan,8 nan
-0 2890,1 Adult,2 Bohol,3 Other Infectious Diseases,4 1.0,5 40.0,6 nan,7 nan,8 nan
-0 2939,1 Adult,2 AP,3 Epilepsy,4 1.0,5 35.0,6 nan,7 nan,8 nan
-0 2990,1 Adult,2 AP,3 Drowning,4 1.0,5 15.0,6 nan,7 nan,8 nan
-0 3056,1 Adult,2 AP,3 Pneumonia,4 1.0,5 65.0,6 nan,7 nan,8 nan
-0 3109,1 Adult,2 Mexico,3 Cirrhosis,4 1.0,5 37.0,6 nan,7 nan,8 nan
-0 3183,1 Adult,2 AP,3 Diarrhea/Dysentery,4 1.0,5 53.0,6 nan,7 nan,8 nan
-0 3247,1 Adult,2 AP,3 AIDS,4 2.0,5 36.0,6 nan,7 nan,8 nan
-0 3290,1 Adult,2 Bohol,3 Stomach Cancer,4 1.0,5 58.0,6 nan,7 nan,8 nan
-0 3322,1 Adult,2 Mexico,3 Homicide,4 1.0,5 27.0,6 nan,7 nan,8 nan
-0 3406,1 Adult,2 Mexico,3 Other Non-communicable Diseases,4 2.0,5 66.0,6 nan,7 nan,8 nan
-0 3460,1 Adult,2 AP,3 Renal Failure,4 2.0,5 55.0,6 nan,7 nan,8 nan
-0 3480,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 61.0,6 nan,7 nan,8 nan
-0 3577,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 70.0,6 nan,7 nan,8 nan
-0 3716,1 Adult,2 AP,3 Diarrhea/Dysentery,4 1.0,5 25.0,6 nan,7 nan,8 nan
-0 3798,1 Adult,2 AP,3 Renal Failure,4 1.0,5 60.0,6 nan,7 nan,8 nan
-0 3834,1 Adult,2 AP,3 Road Traffic,4 1.0,5 53.0,6 nan,7 nan,8 nan
-0 3940,1 Adult,2 AP,3 Poisonings,4 2.0,5 18.0,6 nan,7 nan,8 nan
-0 3980,1 Adult,2 AP,3 Pneumonia,4 1.0,5 26.0,6 nan,7 nan,8 nan
-0 4043,1 Adult,2 AP,3 Cirrhosis,4 1.0,5 46.0,6 nan,7 nan,8 nan
-0 4116,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 2.0,5 69.0,6 nan,7 nan,8 nan
-0 4175,1 Adult,2 Mexico,3 Lung Cancer,4 2.0,5 37.0,6 nan,7 nan,8 nan
-0 4233,1 Adult,2 AP,3 Other Non-communicable Diseases,4 2.0,5 58.0,6 nan,7 nan,8 nan
-0 4290,1 Adult,2 Mexico,3 AIDS,4 1.0,5 25.0,6 nan,7 nan,8 nan
-0 4362,1 Adult,2 UP,3 COPD,4 1.0,5 58.0,6 nan,7 nan,8 nan
-0 4395,1 Adult,2 AP,3 Diarrhea/Dysentery,4 2.0,5 68.0,6 nan,7 nan,8 nan
-0 4459,1 Adult,2 AP,3 Pneumonia,4 2.0,5 23.0,6 nan,7 nan,8 nan
-0 4491,1 Adult,2 AP,3 Other Injuries,4 1.0,5 55.0,6 nan,7 nan,8 nan
-0 4593,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 44.0,6 nan,7 nan,8 nan
-0 4677,1 Adult,2 Mexico,3 Other Cardiovascular Diseases,4 2.0,5 84.0,6 nan,7 nan,8 nan
-0 4758,1 Adult,2 AP,3 Acute Myocardial Infarction,4 1.0,5 61.0,6 nan,7 nan,8 nan
-0 4829,1 Adult,2 AP,3 Drowning,4 1.0,5 17.0,6 nan,7 nan,8 nan
-0 4877,1 Adult,2 Bohol,3 Pneumonia,4 1.0,5 37.0,6 nan,7 nan,8 nan
-0 4931,1 Adult,2 Mexico,3 Diabetes,4 1.0,5 46.0,6 nan,7 nan,8 nan
-0 5012,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 55.0,6 nan,7 nan,8 nan
-0 5048,1 Adult,2 AP,3 Cirrhosis,4 2.0,5 50.0,6 nan,7 nan,8 nan
-0 5080,1 Adult,2 AP,3 Acute Myocardial Infarction,4 1.0,5 55.0,6 nan,7 nan,8 nan
-0 5132,1 Adult,2 Mexico,3 Acute Myocardial Infarction,4 2.0,5 71.0,6 nan,7 nan,8 nan
-0 5180,1 Adult,2 AP,3 Pneumonia,4 2.0,5 39.0,6 nan,7 nan,8 nan
-0 5228,1 Adult,2 AP,3 Asthma,4 1.0,5 81.0,6 nan,7 nan,8 nan
-0 5281,1 Adult,2 Mexico,3 AIDS,4 2.0,5 46.0,6 nan,7 nan,8 nan
-0 5325,1 Adult,2 AP,3 AIDS,4 2.0,5 38.0,6 nan,7 nan,8 nan
-0 5350,1 Adult,2 AP,3 Pneumonia,4 1.0,5 57.0,6 nan,7 nan,8 nan
-0 5385,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 2.0,5 41.0,6 nan,7 nan,8 nan
-0 5444,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 66.0,6 nan,7 nan,8 nan
-0 5501,1 Adult,2 Mexico,3 Acute Myocardial Infarction,4 1.0,5 54.0,6 nan,7 nan,8 nan
-0 5566,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 1.0,5 40.0,6 nan,7 nan,8 nan
-0 5604,1 Adult,2 Mexico,3 Acute Myocardial Infarction,4 2.0,5 69.0,6 nan,7 nan,8 nan
-0 5656,1 Adult,2 UP,3 Breast Cancer,4 2.0,5 51.0,6 nan,7 nan,8 nan
-0 5682,1 Adult,2 AP,3 AIDS,4 2.0,5 32.0,6 nan,7 nan,8 nan
-0 5744,1 Adult,2 AP,3 Pneumonia,4 1.0,5 70.0,6 nan,7 nan,8 nan
-0 5800,1 Adult,2 AP,3 Other Non-communicable Diseases,4 2.0,5 13.0,6 nan,7 nan,8 nan
-0 5838,1 Adult,2 UP,3 Diarrhea/Dysentery,4 2.0,5 20.0,6 nan,7 nan,8 nan
-0 5895,1 Adult,2 AP,3 Drowning,4 1.0,5 36.0,6 nan,7 nan,8 nan
-0 5982,1 Adult,2 AP,3 Fires,4 2.0,5 35.0,6 nan,7 nan,8 nan
-0 6038,1 Adult,2 AP,3 AIDS,4 1.0,5 55.0,6 nan,7 nan,8 nan
-0 6104,1 Adult,2 Bohol,3 Pneumonia,4 2.0,5 93.0,6 nan,7 nan,8 nan
-0 6129,1 Adult,2 Mexico,3 AIDS,4 1.0,5 nan,6 nan,7 nan,8 nan
-0 6198,1 Adult,2 AP,3 Acute Myocardial Infarction,4 2.0,5 50.0,6 nan,7 nan,8 nan
-0 6259,1 Adult,2 Mexico,3 AIDS,4 2.0,5 26.0,6 nan,7 nan,8 nan
-0 6300,1 Adult,2 Mexico,3 Leukemia/Lymphomas,4 1.0,5 49.0,6 nan,7 nan,8 nan
-0 6340,1 Adult,2 AP,3 Diabetes,4 1.0,5 55.0,6 nan,7 nan,8 nan
-0 6435,1 Adult,2 UP,3 COPD,4 2.0,5 65.0,6 nan,7 nan,8 nan
-0 6546,1 Adult,2 AP,3 Renal Failure,4 1.0,5 37.0,6 nan,7 nan,8 nan
-0 6622,1 Adult,2 AP,3 Pneumonia,4 1.0,5 26.0,6 nan,7 nan,8 nan
-0 6707,1 Adult,2 Pemba,3 Maternal,4 2.0,5 35.0,6 nan,7 nan,8 nan
-0 6738,1 Adult,2 Mexico,3 Other Non-communicable Diseases,4 1.0,5 35.0,6 nan,7 nan,8 nan
-0 6787,1 Adult,2 Mexico,3 Maternal,4 2.0,5 39.0,6 nan,7 nan,8 nan
-0 6849,1 Adult,2 AP,3 Drowning,4 2.0,5 35.0,6 nan,7 nan,8 nan
-0 6896,1 Adult,2 AP,3 TB,4 1.0,5 57.0,6 nan,7 nan,8 nan
-0 6927,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 1.0,5 49.0,6 nan,7 nan,8 nan
-0 7049,1 Adult,2 UP,3 Other Non-communicable Diseases,4 1.0,5 72.0,6 nan,7 nan,8 nan
-0 7164,1 Adult,2 AP,3 AIDS,4 2.0,5 36.0,6 nan,7 nan,8 nan
-0 7195,1 Adult,2 UP,3 Cirrhosis,4 2.0,5 55.0,6 nan,7 nan,8 nan
-0 7260,1 Adult,2 Bohol,3 Renal Failure,4 1.0,5 21.0,6 nan,7 nan,8 nan
-0 7337,1 Adult,2 Mexico,3 Lung Cancer,4 2.0,5 89.0,6 nan,7 nan,8 nan
-0 7411,1 Adult,2 Mexico,3 Acute Myocardial Infarction,4 1.0,5 54.0,6 nan,7 nan,8 nan
-0 7439,1 Adult,2 Mexico,3 Suicide,4 2.0,5 15.0,6 nan,7 nan,8 nan
-0 7469,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 71.0,6 nan,7 nan,8 nan
-0 7514,1 Adult,2 Mexico,3 Homicide,4 1.0,5 68.0,6 nan,7 nan,8 nan
-0 7557,1 Adult,2 AP,3 Diabetes,4 2.0,5 66.0,6 nan,7 nan,8 nan
-0 7597,1 Adult,2 AP,3 Drowning,4 2.0,5 23.0,6 nan,7 nan,8 nan
-0 7668,1 Adult,2 AP,3 Diabetes,4 1.0,5 72.0,6 nan,7 nan,8 nan
-0 7740,1 Adult,2 AP,3 Malaria,4 2.0,5 19.0,6 nan,7 nan,8 nan
-0 7808,1 Adult,2 AP,3 Diarrhea/Dysentery,4 2.0,5 65.0,6 nan,7 nan,8 nan
-0 8,1 Child,2 AP,3 Other Infectious Diseases,4 1.0,5 nan,6 11.0,7 nan,8 nan
-0 37,1 Child,2 Bohol,3 Pneumonia,4 2.0,5 nan,6 2.0,7 nan,8 nan
-0 83,1 Child,2 UP,3 Diarrhea/Dysentery,4 2.0,5 nan,6 1.0,7 nan,8 nan
-0 106,1 Child,2 AP,3 Pneumonia,4 2.0,5 nan,6 1.0,7 nan,8 nan
-0 166,1 Child,2 AP,3 Hemorrhagic fever,4 2.0,5 nan,6 6.0,7 nan,8 nan
-0 187,1 Child,2 AP,3 Sepsis,4 1.0,5 1.0,6 nan,7 nan,8 nan
-0 241,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 7.0,7 nan,8 nan
-0 286,1 Child,2 AP,3 Road Traffic,4 1.0,5 8.0,6 nan,7 nan,8 nan
-0 324,1 Child,2 UP,3 Other Defined Causes of Child Deaths,4 2.0,5 6.0,6 nan,7 nan,8 nan
-0 359,1 Child,2 UP,3 Other Infectious Diseases,4 2.0,5 3.0,6 nan,7 nan,8 nan
-0 392,1 Child,2 AP,3 Drowning,4 1.0,5 10.0,6 nan,7 nan,8 nan
-0 416,1 Child,2 AP,3 Malaria,4 1.0,5 1.0,6 nan,7 nan,8 nan
-0 468,1 Child,2 UP,3 Encephalitis,4 2.0,5 nan,6 3.0,7 nan,8 nan
-0 513,1 Child,2 AP,3 Pneumonia,4 2.0,5 nan,6 2.0,7 nan,8 nan
-0 538,1 Child,2 AP,3 Pneumonia,4 1.0,5 3.0,6 nan,7 nan,8 nan
-0 561,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 1.0,5 10.0,6 nan,7 nan,8 nan
-0 595,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 1.0,5 5.0,6 nan,7 nan,8 nan
-0 634,1 Child,2 AP,3 Violent Death,4 1.0,5 4.0,6 nan,7 nan,8 nan
-0 658,1 Child,2 AP,3 Bite of Venomous Animal,4 1.0,5 11.0,6 nan,7 nan,8 nan
-0 693,1 Child,2 AP,3 Bite of Venomous Animal,4 1.0,5 11.0,6 nan,7 nan,8 nan
-0 752,1 Child,2 AP,3 Road Traffic,4 1.0,5 4.0,6 nan,7 nan,8 nan
-0 798,1 Child,2 AP,3 Bite of Venomous Animal,4 1.0,5 9.0,6 nan,7 nan,8 nan
-0 851,1 Child,2 UP,3 Other Infectious Diseases,4 2.0,5 3.0,6 nan,7 nan,8 nan
-0 881,1 Child,2 AP,3 Malaria,4 2.0,5 4.0,6 nan,7 nan,8 nan
-0 903,1 Child,2 AP,3 Hemorrhagic fever,4 1.0,5 nan,6 6.0,7 nan,8 nan
-0 937,1 Child,2 UP,3 Diarrhea/Dysentery,4 1.0,5 nan,6 2.0,7 nan,8 nan
-0 991,1 Child,2 AP,3 Pneumonia,4 1.0,5 2.0,6 nan,7 nan,8 nan
-0 1042,1 Child,2 UP,3 Falls,4 1.0,5 3.0,6 nan,7 nan,8 nan
-0 1084,1 Child,2 AP,3 Sepsis,4 1.0,5 nan,6 2.0,7 nan,8 nan
-0 1104,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 2.0,5 10.0,6 nan,7 nan,8 nan
-0 1140,1 Child,2 AP,3 Hemorrhagic fever,4 2.0,5 4.0,6 nan,7 nan,8 nan
-0 1160,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 1.0,5 2.0,6 nan,7 nan,8 nan
-0 1222,1 Child,2 UP,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 4.0,7 nan,8 nan
-0 1282,1 Child,2 AP,3 Pneumonia,4 1.0,5 nan,6 1.0,7 nan,8 nan
-0 1362,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 nan,6 5.0,7 nan,8 nan
-0 1410,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 5.0,7 nan,8 nan
-0 1434,1 Child,2 AP,3 Malaria,4 2.0,5 1.0,6 nan,7 nan,8 nan
-0 1465,1 Child,2 AP,3 Violent Death,4 2.0,5 nan,6 4.0,7 nan,8 nan
-0 1501,1 Child,2 Mexico,3 Drowning,4 2.0,5 1.0,6 nan,7 nan,8 nan
-0 1525,1 Child,2 AP,3 Fires,4 2.0,5 4.0,6 nan,7 nan,8 nan
-0 1568,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 1.0,5 9.0,6 nan,7 nan,8 nan
-0 1621,1 Child,2 AP,3 Bite of Venomous Animal,4 2.0,5 2.0,6 nan,7 nan,8 nan
-0 1672,1 Child,2 AP,3 Violent Death,4 1.0,5 nan,6 10.0,7 nan,8 nan
-0 1747,1 Child,2 UP,3 Meningitis,4 1.0,5 nan,6 8.0,7 nan,8 nan
-0 1788,1 Child,2 UP,3 Diarrhea/Dysentery,4 1.0,5 11.0,6 nan,7 nan,8 nan
-0 1822,1 Child,2 AP,3 Pneumonia,4 1.0,5 nan,6 3.0,7 nan,8 nan
-0 1863,1 Child,2 AP,3 Pneumonia,4 2.0,5 nan,6 1.0,7 nan,8 nan
-0 1893,1 Child,2 AP,3 Fires,4 1.0,5 2.0,6 nan,7 nan,8 nan
-0 1927,1 Child,2 AP,3 Pneumonia,4 2.0,5 3.0,6 nan,7 nan,8 nan
-0 1950,1 Child,2 AP,3 Diarrhea/Dysentery,4 2.0,5 nan,6 1.0,7 nan,8 nan
-0 2000,1 Child,2 AP,3 Bite of Venomous Animal,4 2.0,5 4.0,6 nan,7 nan,8 nan
-0 2041,1 Child,2 AP,3 Pneumonia,4 1.0,5 nan,6 nan,7 29.0,8 nan
-0 33,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 4.0,8 nan
-0 70,1 Neonate,2 Mexico,3 Birth asphyxia,4 2.0,5 nan,6 nan,7 1.0,8 nan
-0 112,1 Neonate,2 AP,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 nan
-0 217,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 257,1 Neonate,2 UP,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 5.0,8 nan
-0 321,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 371,1 Neonate,2 Bohol,3 Congenital malformation,4 1.0,5 nan,6 nan,7 6.0,8 nan
-0 426,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 nan
-0 453,1 Neonate,2 Mexico,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 5.0,8 nan
-0 520,1 Neonate,2 Mexico,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 589,1 Neonate,2 AP,3 Congenital malformation,4 2.0,5 nan,6 nan,7 7.0,8 nan
-0 641,1 Neonate,2 AP,3 Congenital malformation,4 2.0,5 nan,6 nan,8 nan
-0 687,1 Neonate,2 AP,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 nan
-0 728,1 Neonate,2 AP,3 Congenital malformation,4 2.0,5 nan,6 nan,7 5.0,8 nan
-0 797,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 853,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 4.0,8 nan
-0 899,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 nan
-0 975,1 Neonate,2 AP,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 nan
-0 1008,1 Neonate,2 AP,3 Congenital malformation,4 1.0,5 nan,6 nan,8 nan
-0 1120,1 Neonate,2 UP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 1174,1 Neonate,2 Mexico,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 10.0,8 nan
-0 1223,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 nan
-0 1314,1 Neonate,2 AP,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 nan
-0 1373,1 Neonate,2 Mexico,3 Congenital malformation,4 1.0,5 nan,6 nan,7 12.0,8 nan
-0 1405,1 Neonate,2 AP,3 Congenital malformation,4 2.0,5 nan,6 nan,7 2.0,8 nan
-0 1469,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 nan
-0 1516,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 1590,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 1687,1 Neonate,2 Mexico,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 24.0,8 nan
-0 1779,1 Neonate,2 AP,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 nan
-0 1839,1 Neonate,2 AP,3 Congenital malformation,4 2.0,5 nan,6 nan,7 3.0,8 nan
-0 1918,1 Neonate,2 UP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 1950,1 Neonate,2 Mexico,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 9.0,8 nan
-0 2017,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 nan
-0 2108,1 Neonate,2 Mexico,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 8.0,8 nan
-0 2208,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 4.0,8 nan
-0 2261,1 Neonate,2 AP,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 nan
-0 2324,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 nan
-0 2362,1 Neonate,2 AP,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 4.0,8 nan
-0 2415,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 2463,1 Neonate,2 Mexico,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 2536,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 2574,1 Neonate,2 AP,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 4.0,8 nan
-0 2616,1 Neonate,2 Mexico,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 1.0,8 nan
+0,86,Adult,Dar,AIDS,,44.0,,,patricip think rel death caus hiv aid though tb
+46,6456,Adult,Dar,Acute Myocardial Infarction,1.0,47.0,,,caus death suspect shock sinc immedi death deceas nt ill symptom
+189,2239,Neonate,Pemba,Birth asphyxia,1.0,,,0.0,caus death prolong labour
+182,2098,Neonate,Dar,Birth asphyxia,2.0,,,0.0,respond said death babi caus nurs
+171,1544,Neonate,Pemba,Birth asphyxia,2.0,,,0.0,respond explain prolong labour deliv babi alreadi die main caus death witch
+167,1230,Neonate,Pemba,Birth asphyxia,1.0,,,0.0,caus death prolong labour
+162,994,Neonate,Pemba,Birth asphyxia,1.0,,,4.0,caus death prematur
+146,283,Neonate,Pemba,Birth asphyxia,1.0,,,0.0,thought death caus drink dirti water deliveri
+199,2618,Neonate,Pemba,Birth asphyxia,1.0,,,0.0,respond explain caus death babi born larg heart never cri
+17,2270,Adult,Dar,Breast Cancer,2.0,54.0,,,client thought caus death cancer red bone cancer
+21,3114,Adult,Dar,Breast Cancer,2.0,77.0,,,client thank servic thought death caus cancer
+18,2362,Adult,Dar,Breast Cancer,2.0,65.0,,,death transfer origin home place respond think caus death breast cancer also advic govern work research result benef peopl
+3,393,Adult,Dar,Cirrhosis,1.0,18.0,,,client thought caus death malaria pneumonia
+147,288,Neonate,Pemba,Congenital malformation,2.0,,,0.0,sure problem caus death babi
+160,860,Neonate,Pemba,Congenital malformation,1.0,,,0.0,babi stop move close deliveri thought caus death
+190,2274,Neonate,Pemba,Congenital malformation,2.0,,,0.0,caus death prolong labour
+30,4684,Adult,Pemba,Diabetes,2.0,38.0,,,death caus high blood pressur
+45,6294,Adult,Pemba,Diabetes,1.0,65.0,,,stroke caus death father
+33,4797,Adult,Pemba,Diabetes,1.0,56.0,,,respond explain main caus caus diabet
+82,711,Child,Pemba,Diarrhea/Dysentery,1.0,4.0,,,respond explain caus death sudden faint sleep convuls
+47,6473,Adult,Pemba,Diarrhea/Dysentery,1.0,70.0,,,death caus urinari problem
+135,1972,Child,Pemba,Diarrhea/Dysentery,2.0,7.0,,,respond explain deceas fever recov week began swell armpit neck groin small rash caus death
+39,5389,Adult,Dar,Diarrhea/Dysentery,2.0,13.0,,,client thought caus death state servic provid hospit wors
+136,1975,Child,Pemba,Diarrhea/Dysentery,2.0,,3.0,,mother said caus death frequent diarrhea
+133,1964,Child,Pemba,Diarrhea/Dysentery,1.0,,5.0,,caus death diarrhea
+111,1543,Child,Pemba,Diarrhea/Dysentery,1.0,,9.0,,respond explain caus death diarrhea delay receiv care hospit
+73,482,Child,Pemba,Diarrhea/Dysentery,1.0,8.0,,,respondetn explain caus death diarrhea vomit
+56,11,Child,Pemba,Diarrhea/Dysentery,1.0,3.0,,,caus death fever stomach pain
+57,30,Child,Pemba,Diarrhea/Dysentery,1.0,,5.0,,respondetn explain caus death fever diarrhea vomit
+72,460,Child,Pemba,Diarrhea/Dysentery,1.0,4.0,,,respond explain caus death dysenteri stop urinar
+109,1459,Child,Pemba,Diarrhea/Dysentery,1.0,,5.0,,respondetn explain caus death diarrhea vomit
+71,459,Child,Dar,Diarrhea/Dysentery,1.0,,11.0,,opinion think death caus malaria fever togeth sever diarheang
+70,458,Child,Pemba,Diarrhea/Dysentery,1.0,,7.0,,death caus swollen stomachprotrud bell
+64,178,Child,Dar,Diarrhea/Dysentery,2.0,2.0,,,caus death sever went togeth sever vomit cough diarhea
+69,441,Child,Dar,Diarrhea/Dysentery,1.0,1.0,,,opinion believ death caus malaria fever belov suffer
+137,2010,Child,Pemba,Diarrhea/Dysentery,1.0,1.0,,,respond explain caus death diarrhea vomit
+66,340,Child,Pemba,Diarrhea/Dysentery,2.0,1.0,,,caus death seriou diarrhea dyhdrat
+127,1794,Child,Pemba,Diarrhea/Dysentery,2.0,,8.0,,caus death fever diarrhea
+92,1012,Child,Pemba,Diarrhea/Dysentery,2.0,4.0,,,respond explain caus death fever loos neck
+14,2100,Adult,Pemba,Diarrhea/Dysentery,1.0,70.0,,,respond explain caus death diarrhea destini arriv
+122,1700,Child,Pemba,Diarrhea/Dysentery,2.0,3.0,,,respondetn explain caus death diarrhea vomit
+119,1670,Child,Pemba,Diarrhea/Dysentery,1.0,,9.0,,death caus ill long time time reach
+115,1596,Child,Pemba,Diarrhea/Dysentery,2.0,,1.0,,caus death swollen leg caus high fever
+105,1338,Child,Pemba,Diarrhea/Dysentery,1.0,,6.0,,caus death pneumonia convuls
+98,1137,Child,Pemba,Diarrhea/Dysentery,2.0,,6.0,,respond said caus death hivaid
+118,1666,Child,Pemba,Diarrhea/Dysentery,2.0,11.0,,,respond explain caus death swell leg
+117,1641,Child,Pemba,Diarrhea/Dysentery,2.0,,12.0,,respondetn explain caus death diarrhea
+20,2899,Adult,Pemba,Diarrhea/Dysentery,1.0,15.0,,,respond explain caus death dysenteri
+102,1292,Child,Pemba,Diarrhea/Dysentery,1.0,6.0,,,respondetn explain caus death dysenteri
+123,1716,Child,Pemba,Diarrhea/Dysentery,1.0,,6.0,,caus death sever diarrhea
+1,106,Adult,UP,Drowning,2.0,18.0,,,deceas month pregnant health problem complet healthi caus death drown
+60,81,Child,Pemba,Drowning,2.0,3.0,,,caus death fall river
+15,2104,Adult,Pemba,Falls,1.0,20.0,,,respond explan death caus fall clove tree
+25,3748,Adult,Pemba,Falls,1.0,14.0,,,respond explain caus death yellow fever day death deceas fall footbal pitch fractur arm kept secret until fever came complain arm pain
+51,6808,Adult,Pemba,Falls,1.0,32.0,,,respond explain caus death stab sharp object stomach injur intern
+50,6800,Adult,Pemba,Falls,1.0,68.0,,,respond explain caus death fallen clove tree nt know long die fall found alreadi dead
+7,1054,Adult,Pemba,Falls,1.0,60.0,,,respond explan death caus fall clove tree
+29,4644,Adult,Pemba,Falls,1.0,19.0,,,respond explain caus death fallen coconut tree
+43,6023,Adult,Pemba,Falls,1.0,55.0,,,death caus fall clove tree
+40,5499,Adult,Pemba,Falls,1.0,70.0,,,respond explain caus death fall clove tree
+67,360,Child,Dar,Fires,1.0,,5.0,,caus death deceas infant fire
+8,1527,Adult,Dar,Homicide,1.0,24.0,,,client said death parthi caus careless doctor nurs duti night
+10,1757,Adult,Pemba,Homicide,1.0,13.0,,,respond explain deceas went swim river fallen cave caus death
+24,3645,Adult,Mexico,Lung Cancer,1.0,69.0,,,death certif mention caus death cancer still questionth interview fluent
+85,806,Child,Dar,Malaria,1.0,1.0,,,opinion caus death deceas malaria fever
+93,1030,Child,Pemba,Malaria,2.0,,9.0,,respondetn explain caus death high fever
+63,159,Child,Dar,Malaria,1.0,,,,caus death malaria state client
+114,1592,Child,Dar,Malaria,2.0,2.0,,,client said caus death malaria anemia
+9,1725,Adult,Dar,Maternal,2.0,23.0,,,client said death caus lazi dector nurs
+37,5242,Adult,Pemba,Maternal,2.0,24.0,,,sick long time breath problem caus death
+16,2227,Adult,Dar,Maternal,2.0,19.0,,,respond claim death caus nurs neglig
+34,4839,Adult,Dar,Maternal,2.0,28.0,,,respond said caus death sever pph nt follow death certif yet
+26,4393,Adult,Dar,Maternal,2.0,25.0,,,respond said death caus doctor neglig medic record deceas mother
+54,7107,Adult,Pemba,Maternal,2.0,36.0,,,respond said husband problem urin catheter wrongli done lead sever bleed caus death
+49,6739,Adult,Pemba,Maternal,2.0,35.0,,,respond explain caus death excess bleed deliveri pph want contribut blood laboratori technician
+48,6514,Adult,Dar,Maternal,2.0,30.0,,,respond said death caus delay addit blood
+44,6091,Adult,Dar,Maternal,2.0,29.0,,,respond said death caus nurs neglig
+4,765,Adult,Pemba,Maternal,2.0,40.0,,,respond explain caus death excess bleed deliveri csection die oper babi aliv
+31,4766,Adult,Dar,Maternal,2.0,27.0,,,respond said death caus doctor neglig
+28,4575,Adult,Dar,Maternal,2.0,35.0,,,caus death sever fever
+5,900,Adult,Pemba,Maternal,2.0,30.0,,,mother die second day deliveri caus death consequ pregnanc excess bleed deliveri
+58,64,Child,Dar,Meningitis,1.0,,10.0,,client thought death pneumonia
+83,732,Child,Dar,Meningitis,2.0,,5.0,,client thank servic said caus death pneumonia anemia
+141,14,Neonate,Dar,Meningitis/Sepsis,1.0,,,4.0,respond said death babi caus nurs
+186,2168,Neonate,Dar,Meningitis/Sepsis,1.0,,,0.0,client thought caus death wors servic hospit
+169,1436,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,opinion think death caus problem respir
+23,3503,Adult,Dar,Other Cardiovascular Diseases,2.0,72.0,,,client noth opinion death caus diabet cancer deaseas
+81,677,Child,Pemba,Other Defined Causes of Child Deaths,2.0,,4.0,,mother explain child fever cough caus death
+100,1210,Child,Pemba,Other Defined Causes of Child Deaths,2.0,8.0,,,given polio vaccin babi got high fever pain swell leg caus death
+65,301,Child,Pemba,Other Digestive Diseases,1.0,2.0,,,respond explain deceas suffer prolong fever cough retent urin swell privat part eventu caus death
+6,908,Adult,Dar,Other Injuries,1.0,31.0,,,client said young brother die due beat unkown peopl caus intern bleed caus death client misplac death client said young brother die way hospi
+36,5128,Adult,Pemba,Other Non-communicable Diseases,1.0,42.0,,,respond said husband havign breath problem caus think death husband
+12,1992,Adult,Dar,Other Non-communicable Diseases,2.0,18.0,,,client say caus death shock bp
+2,165,Adult,Dar,Other Non-communicable Diseases,2.0,74.0,,,client thank servic thought death caus cancer mouth cancer
+19,2441,Adult,Dar,Other Non-communicable Diseases,2.0,57.0,,,client thought caus death cervic cancer
+22,3346,Adult,Mexico,Other Non-communicable Diseases,2.0,26.0,,,pill caus blood sugar rise caus diabet phone pm request psycholog support
+124,1748,Child,Pemba,Pneumonia,2.0,,9.0,,mother said caus death diarrhea vomit
+112,1575,Child,Pemba,Pneumonia,1.0,3.0,,,caus death wa high malaria breathless
+139,2037,Child,Pemba,Pneumonia,2.0,,2.0,,caus death high fever
+116,1609,Child,Pemba,Pneumonia,2.0,,8.0,,caus death sever convuls fever
+140,2064,Child,Pemba,Pneumonia,1.0,1.0,,,respond explain caus death asthma
+132,1947,Child,Pemba,Pneumonia,1.0,,2.0,,respond explain caus death breathless problem vomit
+131,1932,Child,Pemba,Pneumonia,1.0,1.0,,,caus death fever cough
+130,1894,Child,Pemba,Pneumonia,2.0,,1.0,,caus death high fever
+129,1872,Child,Pemba,Pneumonia,1.0,,8.0,,caus death high fever
+120,1685,Child,Pemba,Pneumonia,2.0,,1.0,,respond explain caus death malaria also delay receiv treatment due financi problem purchas drug
+121,1695,Child,Pemba,Pneumonia,1.0,,8.0,,caus death pneumonia
+128,1858,Child,Pemba,Pneumonia,2.0,,8.0,,caus death sever breathless fever also swollen arm kept drip
+126,1781,Child,Pemba,Pneumonia,2.0,1.0,,,respondetn explain caus death pneumonia
+138,2016,Child,Pemba,Pneumonia,1.0,,1.0,,caus death breathless fever
+125,1779,Child,Pemba,Pneumonia,2.0,,10.0,,respondetn explain caus death high fever lack blood water
+104,1324,Child,Pemba,Pneumonia,2.0,,2.0,,caus death convuls fever
+99,1162,Child,Pemba,Pneumonia,1.0,,4.0,,respondetn explain caus death pneumonia
+79,617,Child,Pemba,Pneumonia,2.0,5.0,,,respondetn explain caus death pneumonia
+78,607,Child,Dar,Pneumonia,2.0,1.0,,,client thought caus death convuls
+77,590,Child,Pemba,Pneumonia,2.0,,7.0,,respondetn explain caus death pneumonia
+76,535,Child,Pemba,Pneumonia,1.0,,6.0,,caus death pneumonia
+41,5712,Adult,Pemba,Pneumonia,1.0,80.0,,,respond explain death caus high blood pressur
+74,486,Child,Pemba,Pneumonia,2.0,,8.0,,respondetn explain caus death diarrhea fever
+80,673,Child,Dar,Pneumonia,1.0,,7.0,,client think caus death premonia
+68,371,Child,Pemba,Pneumonia,2.0,5.0,,,caus death yellow fever
+59,78,Child,Pemba,Pneumonia,2.0,4.0,,,respond explain caus death heart diseas three day death child fever
+55,7723,Adult,Dar,Pneumonia,1.0,12.0,,,caus death hiv aid
+53,7052,Adult,Dar,Pneumonia,1.0,66.0,,,death caus pneumonia
+35,5023,Adult,Pemba,Pneumonia,1.0,30.0,,,respond explain caus death pneumonia ulcer low blood pressur breath
+110,1469,Child,Pemba,Pneumonia,2.0,,8.0,,respondetn explain caus death convuls
+38,5303,Adult,Dar,Pneumonia,2.0,33.0,,,client caus death aid
+61,97,Child,Pemba,Pneumonia,2.0,2.0,,,caus death sever convuls frequent stool bad smell colour
+84,754,Child,Pemba,Pneumonia,1.0,,7.0,,respondetn explain caus death pneumonia
+75,487,Child,Pemba,Pneumonia,1.0,2.0,,,father babi said caus death hisbabi sever diarrhea
+87,898,Child,Pemba,Pneumonia,1.0,,8.0,,caus death high fever
+11,1801,Adult,Dar,Pneumonia,1.0,75.0,,,client thought caus death anemia servic provid hospit wors
+107,1402,Child,Pemba,Pneumonia,1.0,,10.0,,respondetn explain caus death pneumonia deceas ill seven day recov four inject first fever three inject second one
+106,1366,Child,Pemba,Pneumonia,2.0,,8.0,,caus death sever measl
+103,1304,Child,Pemba,Pneumonia,2.0,1.0,,,caus death pneumonia
+13,2022,Adult,Pemba,Pneumonia,2.0,60.0,,,respond explain caus death car accid
+86,896,Child,Pemba,Pneumonia,2.0,,10.0,,respondetn explain caus death pneumonia
+27,4473,Adult,Pemba,Pneumonia,1.0,85.0,,,respond explain deceas suddenli fallen mosqu taken hospit stay hour caus death
+42,5990,Adult,Pemba,Pneumonia,1.0,20.0,,,fever cough irrit caus death
+95,1081,Child,Pemba,Pneumonia,2.0,1.0,,,respondetn explain caus death pneumonia
+94,1068,Child,Pemba,Pneumonia,2.0,,8.0,,respondetn explain caus death high fever
+91,1005,Child,Pemba,Pneumonia,2.0,2.0,,,caus death fever
+89,963,Child,Pemba,Pneumonia,1.0,2.0,,,respond explain caus death tetanu fever
+96,1095,Child,Pemba,Pneumonia,2.0,,1.0,,caus death caus high fever
+90,996,Child,Pemba,Pneumonia,2.0,1.0,,,respondetn explain caus death fever
+134,1969,Child,Dar,Poisonings,2.0,1.0,,,client thought death caus malaria
+173,1684,Neonate,Pemba,Preterm Delivery,2.0,,,1.0,caus death excess bleed labour deliveri
+159,842,Neonate,Pemba,Preterm Delivery,2.0,,,12.0,caus death prematur
+158,816,Neonate,Pemba,Preterm Delivery,1.0,,,1.0,caus death prematur born eighth month pregnanc mother excess bleed deliveri
+168,1404,Neonate,Dar,Preterm Delivery,1.0,,,2.0,caus death due fact infact yet also suffer yellow fever
+184,2140,Neonate,Pemba,Preterm Delivery,1.0,,,0.0,caus death prematur excess bleed deliveri
+154,764,Neonate,Pemba,Preterm Delivery,1.0,,,0.0,caus death prematur born eighth month difficulti breath
+153,757,Neonate,Dar,Preterm Delivery,1.0,,,1.0,client thank idea caus death
+176,1745,Neonate,Pemba,Preterm Delivery,1.0,,,0.0,caus death prematur born seventh month pregnanc
+174,1703,Neonate,Dar,Preterm Delivery,2.0,,,2.0,caus death infant yet matur time deliveri
+175,1708,Neonate,Dar,Preterm Delivery,2.0,,,1.0,respond said death babi caus nurs
+144,215,Neonate,Pemba,Preterm Delivery,2.0,,,0.0,caus death prematur born eighth month mother excess bleed deliveri
+177,1768,Neonate,Pemba,Preterm Delivery,2.0,,,0.0,caus death prematur born eighth month pregnanc mother bleed water came sinc seven month
+180,1975,Neonate,Pemba,Preterm Delivery,1.0,,,0.0,babi stop move seven month thought caus death
+188,2232,Neonate,Dar,Preterm Delivery,1.0,,,0.0,client thank servic got hospit suspect caus death due mother sever bleed
+170,1488,Neonate,Dar,Preterm Delivery,2.0,,,1.0,client state caus fo death wors servic hospit
+32,4789,Adult,Mexico,Renal Failure,1.0,38.0,,,commentsth ladi mention caus death differ death certif say
+108,1446,Child,Pemba,Road Traffic,2.0,5.0,,,respondetn explain caus death car accid
+113,1586,Child,Dar,Road Traffic,1.0,9.0,,,caus death road accid deceas hit bu place live almost one month death
+88,931,Child,Pemba,Road Traffic,2.0,8.0,,,caus death car accid
+62,138,Child,Pemba,Road Traffic,1.0,7.0,,,caus death car accid head injuri sexual organ
+97,1111,Child,Dar,Sepsis,1.0,2.0,,,caus death fire accid
+101,1231,Child,Dar,Sepsis,1.0,2.0,,,client thank servic thought death caus malaria
+183,2127,Neonate,Pemba,Stillbirth,1.0,,,0.0,nt know caus death
+185,2157,Neonate,Dar,Stillbirth,1.0,,,0.0,respond claim death babi caus nurs nt attend earlier
+187,2217,Neonate,Pemba,Stillbirth,2.0,,,0.0,sever convuls mother caus death babi deliveri
+198,2577,Neonate,Dar,Stillbirth,1.0,,,0.0,respond said nurs careless caus death babi
+163,1015,Neonate,Pemba,Stillbirth,2.0,,,0.0,mother said caus death prematur bleed
+192,2356,Neonate,Pemba,Stillbirth,1.0,,,0.0,caus death babi deliv leg first
+193,2428,Neonate,Dar,Stillbirth,2.0,,,0.0,respond said death caus nurs doctor careless patient admit three day low bp oper done
+194,2436,Neonate,Dar,Stillbirth,2.0,,,0.0,respond said insist much neglig caus infant death
+195,2485,Neonate,Dar,Stillbirth,1.0,,,0.0,respond claim deceas mother prolong labour even receiv exytocin may caus death
+196,2491,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond nt know caus death
+197,2499,Neonate,Pemba,Stillbirth,1.0,,,0.0,mother thought caus death caus placenta came first caus babi drink dirti water
+191,2317,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain caus death prematur
+161,872,Neonate,Pemba,Stillbirth,2.0,,,0.0,death caus prolong labour mother labour three day
+181,2072,Neonate,Pemba,Stillbirth,1.0,,,0.0,caus death prolong labour
+179,1969,Neonate,Dar,Stillbirth,1.0,,,0.0,respond said servic good medic record death certif issu nt know caus death
+164,1088,Neonate,Dar,Stillbirth,1.0,,,0.0,respond said death twin mother caus careless doctor nurs
+165,1153,Neonate,Pemba,Stillbirth,2.0,,,0.0,caus death prolong labour babi born bveech
+166,1183,Neonate,Pemba,Stillbirth,1.0,,,0.0,respond nt know caus death
+157,801,Neonate,Dar,Stillbirth,1.0,,,0.0,mother said fell thought caus death
+156,799,Neonate,Pemba,Stillbirth,1.0,,,0.0,ill three day nt know caus death babi
+152,738,Neonate,Pemba,Stillbirth,2.0,,,0.0,caus death prematur excess bleed
+142,21,Neonate,Dar,Stillbirth,1.0,,,0.0,respond claim death babi caus doctor careless
+151,495,Neonate,Pemba,Stillbirth,1.0,,,0.0,respond explain excess bleed deliverey caus bodi weak caus babi death
+150,460,Neonate,Pemba,Stillbirth,1.0,,,0.0,caus death prolong labour second stage labour
+149,319,Neonate,Pemba,Stillbirth,2.0,,,0.0,nt know caus death
+148,303,Neonate,Pemba,Stillbirth,2.0,,,0.0,caus death sbf excess bleed deliveri
+145,248,Neonate,Dar,Stillbirth,1.0,,,0.0,respond said death babi caus nurs
+143,46,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain caus death prolong labour hospit book show babi face present prolong labour asphyxia
+178,1778,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain deliv sb thought caus prolong labour
+172,1637,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain caus death babi larg delay passageway second stage labour
+155,771,Neonate,Pemba,Stillbirth,2.0,,,0.0,caus death stop urin prolong labour
+52,6913,Adult,Dar,TB,1.0,48.0,,,client misplac death client thank client said doctor told death caus destrruct liter liver destruct caus arsh

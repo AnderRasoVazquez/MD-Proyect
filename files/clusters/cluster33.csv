@@ -1,234 +1,148 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-0 33,1 Adult,2 Mexico,3 Acute Myocardial Infarction,4 2.0,5 61.0,6 nan,7 nan,8 nan
-0 89,1 Adult,2 Mexico,3 Homicide,4 1.0,5 32.0,6 nan,7 nan,8 nan
-0 136,1 Adult,2 Mexico,3 AIDS,4 2.0,5 26.0,6 nan,7 nan,8 nan
-0 172,1 Adult,2 AP,3 Falls,4 1.0,5 17.0,6 nan,7 nan,8 nan
-0 266,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 2.0,5 45.0,6 nan,7 nan,8 nan
-0 321,1 Adult,2 Mexico,3 Lung Cancer,4 2.0,5 83.0,6 nan,7 nan,8 nan
-0 381,1 Adult,2 AP,3 Acute Myocardial Infarction,4 1.0,5 58.0,6 nan,7 nan,8 nan
-0 444,1 Adult,2 AP,3 AIDS,4 1.0,5 40.0,6 nan,7 nan,8 nan
-0 550,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 1.0,5 72.0,6 nan,7 nan,8 nan
-0 586,1 Adult,2 AP,3 AIDS,4 1.0,5 35.0,6 nan,7 nan,8 nan
-0 664,1 Adult,2 AP,3 Homicide,4 1.0,5 16.0,6 nan,7 nan,8 nan
-0 701,1 Adult,2 AP,3 Acute Myocardial Infarction,4 1.0,5 42.0,6 nan,7 nan,8 nan
-0 766,1 Adult,2 AP,3 TB,4 1.0,5 51.0,6 nan,7 nan,8 nan
-0 827,1 Adult,2 Mexico,3 Other Cardiovascular Diseases,4 2.0,5 76.0,6 nan,7 nan,8 nan
-0 859,1 Adult,2 Bohol,3 Renal Failure,4 2.0,5 27.0,6 nan,7 nan,8 nan
-0 901,1 Adult,2 Bohol,3 Renal Failure,4 2.0,5 52.0,6 nan,7 nan,8 nan
-0 930,1 Adult,2 AP,3 AIDS,4 1.0,5 42.0,6 nan,7 nan,8 nan
-0 977,1 Adult,2 AP,3 Renal Failure,4 2.0,5 27.0,6 nan,7 nan,8 nan
-0 1034,1 Adult,2 AP,3 Diabetes,4 2.0,5 60.0,6 nan,7 nan,8 nan
-0 1082,1 Adult,2 Mexico,3 Other Cardiovascular Diseases,4 2.0,5 84.0,6 nan,7 nan,8 nan
-0 1118,1 Adult,2 AP,3 Diabetes,4 1.0,5 60.0,6 nan,7 nan,8 nan
-0 1140,1 Adult,2 Mexico,3 AIDS,4 1.0,5 34.0,6 nan,7 nan,8 nan
-0 1211,1 Adult,2 Mexico,3 AIDS,4 1.0,5 32.0,6 nan,7 nan,8 nan
-0 1264,1 Adult,2 AP,3 AIDS,4 2.0,5 50.0,6 nan,7 nan,8 nan
-0 1331,1 Adult,2 AP,3 Renal Failure,4 2.0,5 30.0,6 nan,7 nan,8 nan
-0 1371,1 Adult,2 Mexico,3 Diabetes,4 2.0,5 57.0,6 nan,7 nan,8 nan
-0 1413,1 Adult,2 AP,3 Drowning,4 1.0,5 66.0,6 nan,7 nan,8 nan
-0 1497,1 Adult,2 Bohol,3 Other Cardiovascular Diseases,4 1.0,5 72.0,6 nan,7 nan,8 nan
-0 1546,1 Adult,2 AP,3 Other Injuries,4 1.0,5 18.0,6 nan,7 nan,8 nan
-0 1583,1 Adult,2 AP,3 Poisonings,4 1.0,5 29.0,6 nan,7 nan,8 nan
-0 1636,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 58.0,6 nan,7 nan,8 nan
-0 1717,1 Adult,2 AP,3 Suicide,4 2.0,5 17.0,6 nan,7 nan,8 nan
-0 1779,1 Adult,2 Mexico,3 Colorectal Cancer,4 2.0,5 72.0,6 nan,7 nan,8 nan
-0 1860,1 Adult,2 Mexico,3 AIDS,4 1.0,5 30.0,6 nan,7 nan,8 nan
-0 1915,1 Adult,2 AP,3 Diabetes,4 1.0,5 39.0,6 nan,7 nan,8 nan
-0 1953,1 Adult,2 AP,3 AIDS,4 1.0,5 37.0,6 nan,7 nan,8 nan
-0 2005,1 Adult,2 Mexico,3 Maternal,4 2.0,5 28.0,6 nan,7 nan,8 nan
-0 2088,1 Adult,2 Mexico,3 AIDS,4 1.0,5 43.0,6 nan,7 nan,8 nan
-0 2147,1 Adult,2 AP,3 Renal Failure,4 2.0,5 48.0,6 nan,7 nan,8 nan
-0 2177,1 Adult,2 Mexico,3 Diabetes,4 1.0,5 67.0,6 nan,7 nan,8 nan
-0 2240,1 Adult,2 Mexico,3 Acute Myocardial Infarction,4 1.0,5 62.0,6 nan,7 nan,8 nan
-0 2300,1 Adult,2 Mexico,3 Maternal,4 2.0,5 23.0,6 nan,7 nan,8 nan
-0 2327,1 Adult,2 AP,3 TB,4 2.0,5 23.0,6 nan,7 nan,8 nan
-0 2376,1 Adult,2 AP,3 TB,4 2.0,5 31.0,6 nan,7 nan,8 nan
-0 2416,1 Adult,2 UP,3 Renal Failure,4 1.0,5 25.0,6 nan,7 nan,8 nan
-0 2498,1 Adult,2 Mexico,3 Other Non-communicable Diseases,4 2.0,5 61.0,6 nan,7 nan,8 nan
-0 2528,1 Adult,2 AP,3 Maternal,4 2.0,5 19.0,6 nan,7 nan,8 nan
-0 2587,1 Adult,2 AP,3 Bite of Venomous Animal,4 1.0,5 25.0,6 nan,7 nan,8 nan
-0 2614,1 Adult,2 AP,3 Diarrhea/Dysentery,4 1.0,5 72.0,6 nan,7 nan,8 nan
-0 2694,1 Adult,2 Bohol,3 Lung Cancer,4 1.0,5 66.0,6 nan,7 nan,8 nan
-0 2773,1 Adult,2 AP,3 COPD,4 1.0,5 65.0,6 nan,7 nan,8 nan
-0 2804,1 Adult,2 AP,3 Stroke,4 2.0,5 68.0,6 nan,7 nan,8 nan
-0 2864,1 Adult,2 UP,3 Other Non-communicable Diseases,4 2.0,5 40.0,6 nan,7 nan,8 nan
-0 2897,1 Adult,2 Bohol,3 Pneumonia,4 2.0,5 14.0,6 nan,7 nan,8 nan
-0 2959,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 13.0,6 nan,7 nan,8 nan
-0 3002,1 Adult,2 Mexico,3 COPD,4 2.0,5 89.0,6 nan,7 nan,8 nan
-0 3063,1 Adult,2 AP,3 AIDS,4 1.0,5 46.0,6 nan,7 nan,8 nan
-0 3139,1 Adult,2 Mexico,3 Homicide,4 1.0,5 20.0,6 nan,7 nan,8 nan
-0 3191,1 Adult,2 AP,3 Acute Myocardial Infarction,4 1.0,5 58.0,6 nan,7 nan,8 nan
-0 3251,1 Adult,2 Bohol,3 Road Traffic,4 1.0,5 48.0,6 nan,7 nan,8 nan
-0 3297,1 Adult,2 AP,3 Maternal,4 2.0,5 20.0,6 nan,7 nan,8 nan
-0 3349,1 Adult,2 AP,3 Acute Myocardial Infarction,4 1.0,5 46.0,6 nan,7 nan,8 nan
-0 3407,1 Adult,2 AP,3 Diabetes,4 2.0,5 50.0,6 nan,7 nan,8 nan
-0 3463,1 Adult,2 AP,3 AIDS,4 1.0,5 48.0,6 nan,7 nan,8 nan
-0 3481,1 Adult,2 AP,3 Epilepsy,4 1.0,5 14.0,6 nan,7 nan,8 nan
-0 3600,1 Adult,2 Mexico,3 Diabetes,4 1.0,5 42.0,6 nan,7 nan,8 nan
-0 3767,1 Adult,2 Mexico,3 Homicide,4 1.0,5 22.0,6 nan,7 nan,8 nan
-0 3800,1 Adult,2 AP,3 Diarrhea/Dysentery,4 1.0,5 48.0,6 nan,7 nan,8 nan
-0 3848,1 Adult,2 AP,3 Asthma,4 1.0,5 48.0,6 nan,7 nan,8 nan
-0 3942,1 Adult,2 AP,3 Pneumonia,4 2.0,5 21.0,6 nan,7 nan,8 nan
-0 3983,1 Adult,2 AP,3 Diarrhea/Dysentery,4 1.0,5 64.0,6 nan,7 nan,8 nan
-0 4061,1 Adult,2 AP,3 Poisonings,4 2.0,5 40.0,6 nan,7 nan,8 nan
-0 4130,1 Adult,2 Mexico,3 Stroke,4 1.0,5 54.0,6 nan,7 nan,8 nan
-0 4199,1 Adult,2 AP,3 Homicide,4 1.0,5 34.0,6 nan,7 nan,8 nan
-0 4236,1 Adult,2 AP,3 Acute Myocardial Infarction,4 1.0,5 69.0,6 nan,7 nan,8 nan
-0 4301,1 Adult,2 AP,3 TB,4 1.0,5 26.0,6 nan,7 nan,8 nan
-0 4365,1 Adult,2 AP,3 Drowning,4 1.0,5 18.0,6 nan,7 nan,8 nan
-0 4422,1 Adult,2 AP,3 Epilepsy,4 2.0,5 30.0,6 nan,7 nan,8 nan
-0 4461,1 Adult,2 AP,3 Drowning,4 1.0,5 38.0,6 nan,7 nan,8 nan
-0 4508,1 Adult,2 AP,3 Other Injuries,4 1.0,5 29.0,6 nan,7 nan,8 nan
-0 4603,1 Adult,2 Mexico,3 Stomach Cancer,4 2.0,5 82.0,6 nan,7 nan,8 nan
-0 4695,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 29.0,6 nan,7 nan,8 nan
-0 4764,1 Adult,2 AP,3 Pneumonia,4 1.0,5 20.0,6 nan,7 nan,8 nan
-0 4849,1 Adult,2 AP,3 Acute Myocardial Infarction,4 2.0,5 68.0,6 nan,7 nan,8 nan
-0 4881,1 Adult,2 AP,3 COPD,4 1.0,5 62.0,6 nan,7 nan,8 nan
-0 4939,1 Adult,2 Bohol,3 Road Traffic,4 1.0,5 66.0,6 nan,7 nan,8 nan
-0 5016,1 Adult,2 Mexico,3 Leukemia/Lymphomas,4 2.0,5 74.0,6 nan,7 nan,8 nan
-0 5055,1 Adult,2 Mexico,3 Suicide,4 1.0,5 54.0,6 nan,7 nan,8 nan
-0 5086,1 Adult,2 AP,3 Acute Myocardial Infarction,4 2.0,5 80.0,6 nan,7 nan,8 nan
-0 5136,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 2.0,5 40.0,6 nan,7 nan,8 nan
-0 5194,1 Adult,2 Mexico,3 Other Non-communicable Diseases,4 2.0,5 89.0,6 nan,7 nan,8 nan
-0 5251,1 Adult,2 Bohol,3 Renal Failure,4 1.0,5 52.0,6 nan,7 nan,8 nan
-0 5286,1 Adult,2 AP,3 Bite of Venomous Animal,4 2.0,5 19.0,6 nan,7 nan,8 nan
-0 5330,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 35.0,6 nan,7 nan,8 nan
-0 5356,1 Adult,2 AP,3 Acute Myocardial Infarction,4 1.0,5 62.0,6 nan,7 nan,8 nan
-0 5387,1 Adult,2 Mexico,3 Other Cardiovascular Diseases,4 2.0,5 70.0,6 nan,7 nan,8 nan
-0 5445,1 Adult,2 AP,3 Drowning,4 1.0,5 12.0,6 nan,7 nan,8 nan
-0 5509,1 Adult,2 AP,3 TB,4 2.0,5 23.0,6 nan,7 nan,8 nan
-0 5584,1 Adult,2 Mexico,3 Diabetes,4 1.0,5 36.0,6 nan,7 nan,8 nan
-0 5606,1 Adult,2 AP,3 Maternal,4 2.0,5 20.0,6 nan,7 nan,8 nan
-0 5668,1 Adult,2 Mexico,3 Breast Cancer,4 2.0,5 47.0,6 nan,7 nan,8 nan
-0 5691,1 Adult,2 Mexico,3 Leukemia/Lymphomas,4 1.0,5 12.0,6 nan,7 nan,8 nan
-0 5752,1 Adult,2 AP,3 Diabetes,4 1.0,5 44.0,6 nan,7 nan,8 nan
-0 5802,1 Adult,2 AP,3 Bite of Venomous Animal,4 2.0,5 60.0,6 nan,7 nan,8 nan
-0 5854,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 42.0,6 nan,7 nan,8 nan
-0 5912,1 Adult,2 AP,3 AIDS,4 1.0,5 50.0,6 nan,7 nan,8 nan
-0 5996,1 Adult,2 AP,3 Other Cardiovascular Diseases,4 2.0,5 51.0,6 nan,7 nan,8 nan
-0 6051,1 Adult,2 Mexico,3 Road Traffic,4 2.0,5 69.0,6 nan,7 nan,8 nan
-0 6108,1 Adult,2 AP,3 Road Traffic,4 1.0,5 24.0,6 nan,7 nan,8 nan
-0 6157,1 Adult,2 UP,3 Acute Myocardial Infarction,4 2.0,5 62.0,6 nan,7 nan,8 nan
-0 6200,1 Adult,2 AP,3 Other Injuries,4 1.0,5 60.0,6 nan,7 nan,8 nan
-0 6274,1 Adult,2 AP,3 Malaria,4 1.0,5 70.0,6 nan,7 nan,8 nan
-0 6303,1 Adult,2 AP,3 Falls,4 1.0,5 18.0,6 nan,7 nan,8 nan
-0 6373,1 Adult,2 AP,3 COPD,4 1.0,5 60.0,6 nan,7 nan,8 nan
-0 6448,1 Adult,2 AP,3 Diabetes,4 1.0,5 15.0,6 nan,7 nan,8 nan
-0 6560,1 Adult,2 Mexico,3 Diabetes,4 1.0,5 46.0,6 nan,7 nan,8 nan
-0 6629,1 Adult,2 Mexico,3 Renal Failure,4 1.0,5 21.0,6 nan,7 nan,8 nan
-0 6708,1 Adult,2 AP,3 Other Non-communicable Diseases,4 2.0,5 17.0,6 nan,7 nan,8 nan
-0 6741,1 Adult,2 AP,3 Diarrhea/Dysentery,4 2.0,5 80.0,6 nan,7 nan,8 nan
-0 6804,1 Adult,2 Mexico,3 Other Cardiovascular Diseases,4 1.0,5 62.0,6 nan,7 nan,8 nan
-0 6858,1 Adult,2 AP,3 Falls,4 1.0,5 50.0,6 nan,7 nan,8 nan
-0 6920,1 Adult,2 Mexico,3 Cervical Cancer,4 2.0,5 60.0,6 nan,7 nan,8 nan
-0 6934,1 Adult,2 AP,3 Poisonings,4 1.0,5 80.0,6 nan,7 nan,8 nan
-0 7091,1 Adult,2 UP,3 Other Non-communicable Diseases,4 1.0,5 60.0,6 nan,7 nan,8 nan
-0 7178,1 Adult,2 Mexico,3 Other Infectious Diseases,4 2.0,5 31.0,6 nan,7 nan,8 nan
-0 7200,1 Adult,2 Bohol,3 Other Non-communicable Diseases,4 1.0,5 31.0,6 nan,7 nan,8 nan
-0 7293,1 Adult,2 Pemba,3 Maternal,4 2.0,5 30.0,6 nan,7 nan,8 nan
-0 7353,1 Adult,2 AP,3 Other Non-communicable Diseases,4 1.0,5 74.0,6 nan,7 nan,8 nan
-0 7414,1 Adult,2 Pemba,3 Other Non-communicable Diseases,4 2.0,5 45.0,6 nan,7 nan,8 nan
-0 7444,1 Adult,2 AP,3 Diabetes,4 1.0,5 49.0,6 nan,7 nan,8 nan
-0 7471,1 Adult,2 AP,3 Epilepsy,4 2.0,5 30.0,6 nan,7 nan,8 nan
-0 7518,1 Adult,2 AP,3 Pneumonia,4 1.0,5 32.0,6 nan,7 nan,8 nan
-0 7564,1 Adult,2 Bohol,3 Breast Cancer,4 2.0,5 67.0,6 nan,7 nan,8 nan
-0 7607,1 Adult,2 AP,3 TB,4 2.0,5 47.0,6 nan,7 nan,8 nan
-0 7705,1 Adult,2 AP,3 Maternal,4 2.0,5 38.0,6 nan,7 nan,8 nan
-0 7757,1 Adult,2 AP,3 TB,4 1.0,5 42.0,6 nan,7 nan,8 nan
-0 7815,1 Adult,2 Mexico,3 Homicide,4 1.0,5 30.0,6 nan,7 nan,8 nan
-0 9,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 11.0,7 nan,8 nan
-0 41,1 Child,2 UP,3 Other Cancers,4 1.0,5 11.0,6 nan,7 nan,8 nan
-0 84,1 Child,2 AP,3 Violent Death,4 1.0,5 1.0,6 nan,7 nan,8 nan
-0 107,1 Child,2 AP,3 Bite of Venomous Animal,4 2.0,5 9.0,6 nan,7 nan,8 nan
-0 167,1 Child,2 AP,3 Drowning,4 1.0,5 8.0,6 nan,7 nan,8 nan
-0 189,1 Child,2 UP,3 Encephalitis,4 1.0,5 10.0,6 nan,7 nan,8 nan
-0 247,1 Child,2 AP,3 Hemorrhagic fever,4 2.0,5 nan,6 9.0,7 nan,8 nan
-0 293,1 Child,2 Pemba,3 Pneumonia,4 1.0,5 1.0,6 nan,7 nan,8 nan
-0 325,1 Child,2 AP,3 Sepsis,4 1.0,5 1.0,6 nan,7 nan,8 nan
-0 364,1 Child,2 AP,3 Meningitis,4 2.0,5 nan,6 1.0,7 nan,8 nan
-0 399,1 Child,2 AP,3 Road Traffic,4 1.0,5 9.0,6 nan,7 nan,8 nan
-0 428,1 Child,2 Mexico,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 2.0,7 nan,8 nan
-0 489,1 Child,2 AP,3 Hemorrhagic fever,4 1.0,5 4.0,6 nan,7 nan,8 nan
-0 515,1 Child,2 AP,3 Pneumonia,4 2.0,5 nan,6 4.0,7 nan,8 nan
-0 549,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 2.0,5 9.0,6 nan,7 nan,8 nan
-0 566,1 Child,2 AP,3 Pneumonia,4 2.0,5 nan,6 5.0,7 nan,8 nan
-0 598,1 Child,2 AP,3 Pneumonia,4 2.0,5 nan,6 2.0,7 nan,8 nan
-0 636,1 Child,2 AP,3 Violent Death,4 1.0,5 5.0,6 nan,7 nan,8 nan
-0 660,1 Child,2 AP,3 Other Digestive Diseases,4 2.0,5 11.0,6 nan,7 nan,8 nan
-0 702,1 Child,2 UP,3 Encephalitis,4 1.0,5 3.0,6 nan,7 nan,8 nan
-0 766,1 Child,2 Mexico,3 Pneumonia,4 2.0,5 3.0,6 nan,7 nan,8 nan
-0 825,1 Child,2 Mexico,3 Pneumonia,4 2.0,5 7.0,6 nan,7 nan,8 nan
-0 856,1 Child,2 UP,3 Encephalitis,4 1.0,5 2.0,6 nan,7 nan,8 nan
-0 883,1 Child,2 Bohol,3 Pneumonia,4 2.0,5 nan,6 7.0,7 nan,8 nan
-0 910,1 Child,2 AP,3 Bite of Venomous Animal,4 1.0,5 8.0,6 nan,7 nan,8 nan
-0 949,1 Child,2 AP,3 Bite of Venomous Animal,4 2.0,5 9.0,6 nan,7 nan,8 nan
-0 999,1 Child,2 UP,3 Pneumonia,4 2.0,5 3.0,6 nan,7 nan,8 nan
-0 1049,1 Child,2 AP,3 Drowning,4 1.0,5 9.0,6 nan,7 nan,8 nan
-0 1085,1 Child,2 AP,3 Road Traffic,4 1.0,5 5.0,6 nan,7 nan,8 nan
-0 1119,1 Child,2 AP,3 Drowning,4 1.0,5 4.0,6 nan,7 nan,8 nan
-0 1145,1 Child,2 Pemba,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 2.0,7 nan,8 nan
-0 1166,1 Child,2 AP,3 Pneumonia,4 1.0,5 nan,6 3.0,7 nan,8 nan
-0 1225,1 Child,2 UP,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 7.0,7 nan,8 nan
-0 1296,1 Child,2 Mexico,3 Diarrhea/Dysentery,4 1.0,5 1.0,6 nan,7 nan,8 nan
-0 1372,1 Child,2 Mexico,3 Other Defined Causes of Child Deaths,4 2.0,5 nan,6 nan,7 28.0,8 nan
-0 1415,1 Child,2 AP,3 Pneumonia,4 1.0,5 5.0,6 nan,7 nan,8 nan
-0 1435,1 Child,2 AP,3 Sepsis,4 2.0,5 nan,6 11.0,7 nan,8 nan
-0 1470,1 Child,2 AP,3 Drowning,4 1.0,5 9.0,6 nan,7 nan,8 nan
-0 1509,1 Child,2 AP,3 Hemorrhagic fever,4 2.0,5 6.0,6 nan,7 nan,8 nan
-0 1531,1 Child,2 AP,3 Bite of Venomous Animal,4 1.0,5 2.0,6 nan,7 nan,8 nan
-0 1593,1 Child,2 Mexico,3 Other Cardiovascular Diseases,4 2.0,5 1.0,6 nan,7 nan,8 nan
-0 1624,1 Child,2 AP,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 1.0,7 nan,8 nan
-0 1677,1 Child,2 AP,3 Diarrhea/Dysentery,4 1.0,5 nan,6 1.0,7 nan,8 nan
-0 1758,1 Child,2 AP,3 Fires,4 2.0,5 1.0,6 nan,7 nan,8 nan
-0 1793,1 Child,2 AP,3 Sepsis,4 2.0,5 nan,6 1.0,7 nan,8 nan
-0 1831,1 Child,2 AP,3 Drowning,4 1.0,5 9.0,6 nan,7 nan,8 nan
-0 1866,1 Child,2 AP,3 Pneumonia,4 2.0,5 nan,6 5.0,7 nan,8 nan
-0 1903,1 Child,2 AP,3 Hemorrhagic fever,4 2.0,5 5.0,6 nan,7 nan,8 nan
-0 1934,1 Child,2 AP,3 Pneumonia,4 2.0,5 nan,6 2.0,7 nan,8 nan
-0 1959,1 Child,2 Bohol,3 Sepsis,4 1.0,5 nan,6 3.0,7 nan,8 nan
-0 2021,1 Child,2 AP,3 Bite of Venomous Animal,4 1.0,5 4.0,6 nan,7 nan,8 nan
-0 1,1 Neonate,2 AP,3 Birth asphyxia,4 2.0,5 nan,6 nan,7 3.0,8 nan
-0 34,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 nan
-0 78,1 Neonate,2 Mexico,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 nan
-0 131,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 218,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 263,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 331,1 Neonate,2 Mexico,3 Congenital malformation,4 1.0,5 nan,6 nan,7 21.0,8 nan
-0 377,1 Neonate,2 Mexico,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 432,1 Neonate,2 Mexico,3 Congenital malformation,4 2.0,5 nan,6 nan,7 21.0,8 nan
-0 474,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 5.0,8 nan
-0 522,1 Neonate,2 Pemba,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 591,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 663,1 Neonate,2 Mexico,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 5.0,8 nan
-0 694,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 755,1 Neonate,2 UP,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 1.0,8 nan
-0 802,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 4.0,8 nan
-0 856,1 Neonate,2 UP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 925,1 Neonate,2 Mexico,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 23.0,8 nan
-0 976,1 Neonate,2 AP,3 Congenital malformation,4 2.0,5 nan,6 nan,7 2.0,8 nan
-0 1075,1 Neonate,2 AP,3 Congenital malformation,4 2.0,5 nan,6 nan,7 2.0,8 nan
-0 1130,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 nan
-0 1189,1 Neonate,2 AP,3 Congenital malformation,4 1.0,5 nan,6 nan,7 16.0,8 nan
-0 1253,1 Neonate,2 Pemba,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 1327,1 Neonate,2 AP,3 Birth asphyxia,4 2.0,5 nan,6 nan,7 3.0,8 nan
-0 1375,1 Neonate,2 Mexico,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 nan
-0 1412,1 Neonate,2 UP,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 2.0,8 nan
-0 1477,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 1526,1 Neonate,2 Mexico,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 2.0,8 nan
-0 1597,1 Neonate,2 Mexico,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 1.0,8 nan
-0 1712,1 Neonate,2 Mexico,3 Congenital malformation,4 1.0,5 nan,6 nan,7 24.0,8 nan
-0 1783,1 Neonate,2 Mexico,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 nan
-0 1850,1 Neonate,2 AP,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 nan
-0 1941,1 Neonate,2 UP,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 nan
-0 1966,1 Neonate,2 Mexico,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 6.0,8 nan
-0 2025,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 2156,1 Neonate,2 AP,3 Birth asphyxia,4 2.0,5 nan,6 nan,7 13.0,8 nan
-0 2209,1 Neonate,2 AP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 2276,1 Neonate,2 UP,3 Stillbirth,4 1.0,5 nan,6 nan,8 nan
-0 2336,1 Neonate,2 AP,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 6.0,8 nan
-0 2383,1 Neonate,2 AP,3 Birth asphyxia,4 2.0,5 nan,6 nan,7 2.0,8 nan
-0 2421,1 Neonate,2 AP,3 Stillbirth,4 2.0,5 nan,6 nan,8 nan
-0 2470,1 Neonate,2 Mexico,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 7.0,8 nan
-0 2547,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 2.0,8 nan
-0 2578,1 Neonate,2 Mexico,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 19.0,8 nan
-0 2619,1 Neonate,2 AP,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 3.0,8 nan
+4,634,Adult,Dar,AIDS,1.0,43.0,,,mother noth add servic good nb misplac medic record
+41,1744,Child,Dar,AIDS,2.0,9.0,,,mother agre death babi nb misplac medic record
+30,93,Child,Dar,AIDS,2.0,2.0,,,client commend poor respons nurs doctor commend doctor nurs given special educ handl client mistreat deceas
+27,7184,Adult,AP,Asthma,2.0,55.0,,,mother asthma taken hospit medicin given mother asthma control doctor said mother lot sugar condit money came mother undergo blood test die middl treatment doctor said heart attack treatment done properli
+52,120,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother ask doctor transpar everyth happen transfer anoth hospit done right time
+82,850,Neonate,Pemba,Birth asphyxia,2.0,,,0.0,babi die prolong labour mother could nt push
+85,913,Neonate,Dar,Birth asphyxia,2.0,,,0.0,client reguest nurs polit word mother especi call assist
+46,30,Neonate,Mexico,Birth asphyxia,1.0,,,8.0,commentsth mother death certif live babi father good relationship like ask certif know mother exact home address
+88,1017,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother complain delay care want exytocin delay till last minut
+90,1029,Neonate,Pemba,Birth asphyxia,2.0,,,1.0,mother explain high pressur labour pitocin introduc deliv small babi cri death
+91,1039,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother complaint babi tire deliv led death
+107,1461,Neonate,Pemba,Birth asphyxia,2.0,,,0.0,mother thought babi die delay come
+110,1614,Neonate,Mexico,Birth asphyxia,2.0,,,0.0,babi born mother plainli told pediatrician avail sever hour death inquir told dead put incub want give nurs doctor rude rel deliveri sedat fulli recov gave document sign prepar deliveri mani practition perform tactilevagin inspect hurt without consentther mani question know answer say babi girl cri born move breath incub pediatrician see place tabl observ difficulti breath mother sedat see babi inquir babi would bring hour told die interviewe mother law one sister law arriv interview mother law want give inform becam upset told bad medic attent receiv hospit doctor said noth could done proof sister law convinc agre one month interviewe anoth babi neither mother law sister law want sign wit upset
+113,1648,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother commend good care hospit accept outcom
+61,279,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother hadilit point
+117,1756,Neonate,Pemba,Birth asphyxia,1.0,,,0.0,babi die mother lost mani blood deliveri
+146,2584,Neonate,Dar,Birth asphyxia,2.0,,,0.0,servic good nurs mother oblig deliv
+56,205,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother complain number nurs hospit mother minor oper got stitch nurs said time stitch
+138,2396,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother ask nurs care especi mother need assist
+136,2287,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother given enough care labour ward till husband seek meet doctor advic taken ooper nurs less corcern
+13,2359,Adult,Mexico,Breast Cancer,2.0,72.0,,,interest project good luckh thank visit rememb mother way suffer due ill said talk mother feel close thank listen
+23,6142,Adult,Mexico,COPD,1.0,80.0,,,commentsat end explain object mother mother show death certif finish interview got person messag say ask death certif interview
+5,663,Adult,Mexico,Cervical Cancer,2.0,50.0,,,mother becam depress chemotherapi session made tire nauseou gave stomach pain sometim confus thing instantno comment interview went well
+10,1432,Adult,Mexico,Cirrhosis,1.0,42.0,,,studi seem alright peopl know rel die peopl cooper would nt receiv hospit seem fair allit fluent interview although person mother want present interview went street want mother wit either want protect mother loss difficult widow wife die cancer daughter live mother
+131,2160,Neonate,Dar,Congenital malformation,2.0,,,0.0,mother addit inform segect
+87,1002,Neonate,Dar,Congenital malformation,1.0,,,0.0,mother addit point sturbon will interview
+127,2096,Neonate,Dar,Congenital malformation,1.0,,,3.0,client commend deced malform anu
+120,1781,Neonate,Dar,Congenital malformation,2.0,,,0.0,mother well attend
+99,1285,Neonate,Dar,Congenital malformation,2.0,,,0.0,mother commend good care
+14,3581,Adult,Mexico,Diabetes,2.0,76.0,,,comment everyth normal processa rel deceas found address given place said father mother close attend burial
+33,430,Child,Dar,Drowning,1.0,9.0,,,client addit point still await doctor commend result research
+6,716,Adult,AP,Drowning,2.0,80.0,,,mother sugar month think die kept mind got depress
+35,647,Child,AP,Drowning,2.0,4.0,,,patient went along mother sunday year mother work play look mother fell water sump mother search daughter worker got doubt look water sump die surfac water taken hospit postmortem
+42,1931,Child,Pemba,Falls,1.0,6.0,,,babi die due cast devil hospit said tetanu mother deni
+3,535,Adult,Dar,Leukemia/Lymphomas,1.0,85.0,,,client commend death clearli prove caus blood cans well aftend
+1,291,Adult,Dar,Leukemia/Lymphomas,1.0,,,,client addit point commend deceac cancer
+17,4333,Adult,Mexico,Leukemia/Lymphomas,1.0,53.0,,,die first chemotherapi session doctor said go see third wonder diedinterviewe know mother keep document
+15,3855,Adult,Mexico,Leukemia/Lymphomas,1.0,18.0,,,commentsthey show document mother angri place govern offer help
+38,1379,Child,Dar,Malaria,,,9.0,,client commend deced sever malaria
+12,1630,Adult,Mexico,Maternal,2.0,52.0,,,commentsmi mother use suffer lot sometim courag see hospit use healthi
+20,5524,Adult,Dar,Maternal,2.0,22.0,,,mother complain nurs neglig
+21,5726,Adult,Dar,Maternal,2.0,27.0,,,respond claim satisfi hospit servic couldt oper mother save babi mother die
+132,2162,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,mother claim death babi caus nurs babi head nurs told get bed order spread plastic sheet mother deliv floor
+53,152,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,mother ask nurs care children becaus babi kept uncov delay sent labour room
+72,563,Neonate,Dar,Meningitis/Sepsis,1.0,,,2.0,mother commend well attend
+145,2531,Neonate,Dar,Meningitis/Sepsis,2.0,,,2.0,mother commend well attend
+128,2111,Neonate,Dar,Meningitis/Sepsis,1.0,,,3.0,mother thank hospit servic request disharg given moment examin babi condit
+125,1995,Neonate,Dar,Meningitis/Sepsis,1.0,,,3.0,mother complain nurs lazi use abus ward ask assist
+137,2366,Neonate,Dar,Meningitis/Sepsis,1.0,,,7.0,mother commend good care receiv labour ward
+100,1308,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,mother complain umbil cord cut properli said attend student field work
+7,727,Adult,Dar,Other Cardiovascular Diseases,1.0,37.0,,,mother pleas hospit servic
+18,4336,Adult,Mexico,Other Cardiovascular Diseases,2.0,54.0,,,wish could give mother back
+43,2045,Child,Pemba,Other Defined Causes of Child Deaths,1.0,,10.0,,mother todl babi suffer pneumonia die
+40,1715,Child,Mexico,Other Defined Causes of Child Deaths,1.0,,1.0,,commentth interviewe longer live address mother home come everi day later need wait
+39,1626,Child,Bohol,Other Defined Causes of Child Deaths,1.0,,1.0,,mother nt complic pregnanc went doctor prenat date mother gave birth hospit upon birth child intestin outsid stomach anal open underw anoplasti repair abdomin wall discharg week admit hospit dehydr due frequent vomit
+36,944,Child,Mexico,Other Defined Causes of Child Deaths,1.0,7.0,,,doctor care knew child well fever mother know children temperatur high doctor reject meth child sever cerebr palsi blind mute deaf high fever would see ask mother taken emerg ward problem express anger hospit treatment mani time interview say give son medic attent need need come back get data document inform mother keep document deceas
+0,52,Adult,AP,Other Injuries,2.0,56.0,,,mother climb chair take one suitcas attic lost balanc fell form chair soon fell blood came nose ear immedi took mother govern hospit place doctor examin said condit seriou treat suggest us take hospit immedi took mother form hospit final die undergo treatment mother went coma fell said die blood got clot brain
+25,6479,Adult,Mexico,Other Non-communicable Diseases,2.0,72.0,,,good fortun mother long remain us
+2,525,Adult,Dar,Other Non-communicable Diseases,2.0,999.0,,,client commend decres liver cancer bwt dead treatement
+31,143,Child,Mexico,Pneumonia,1.0,1.0,,,glad mother know diseas children die hope inform use person say day son die go hospit babi pregnant mother came hospit son awar happen day regret son person mother think nurs administ vaccin shot babi caus die ill day explain nurs still insist gave shot babi live much longer next day interviewe mother want sue person want told begin interview
+89,1028,Neonate,Dar,Pneumonia,2.0,,,4.0,client complain bad care nurs toward mother babi
+140,2465,Neonate,Bohol,Pneumonia,2.0,,,1.0,wife deliveri overdu prlong labor hospit accord doctor babi meconium stain still insid mother babi deliv use oxygen immedi transfer nicu comment mother present interview church prefer ask father deceas
+26,6742,Adult,Mexico,Pneumonia,2.0,76.0,,,hope use youth interviewe told mother treat privat hospit first hospit got sick
+142,2508,Neonate,Dar,Preterm Delivery,1.0,,,0.0,client commend good care given labour period certif given got lost
+54,169,Neonate,Pemba,Preterm Delivery,2.0,,,0.0,babi deliv seven month mother excess bleed deliveri
+112,1621,Neonate,Dar,Preterm Delivery,2.0,,,0.0,mother complain servic unsatisfactori
+135,2225,Neonate,Dar,Preterm Delivery,2.0,,,3.0,client commend though give birth permatur babi nurs slow action
+116,1688,Neonate,Dar,Preterm Delivery,2.0,,,4.0,mother condit good seem psycholog disturb second babi fair well
+69,501,Neonate,Pemba,Preterm Delivery,2.0,,,2.0,mother excess bleed deliveri
+49,92,Neonate,Dar,Preterm Delivery,2.0,,,0.0,mother noth add congratul servic improv
+102,1366,Neonate,Pemba,Preterm Delivery,2.0,,,0.0,babi deliv seven month mother excess bleed deliveri
+50,115,Neonate,AP,Preterm Delivery,1.0,,,1.0,fell unconsci deliveri child kept box shown us babi notic scratch head red color becom black later mother regain conscious day
+28,7464,Adult,Dar,Renal Failure,2.0,20.0,,,client commend deaced liver kidney well recoglz away mani month
+34,608,Child,UP,Sepsis,1.0,,8.0,,babi suffer fever swell leg mother abl answer emot
+32,216,Child,Mexico,Sepsis,1.0,,3.0,,autopsi find hesh die worri peopl told ill blood would like known exactli hesh hadsh key hous go get death certif mother law paper much desir get father want sign consent form mother
+123,1934,Neonate,Pemba,Stillbirth,1.0,,,0.0,babi born sb mother explain excess fluid lost deliveri
+55,171,Neonate,Mexico,Stillbirth,2.0,,,0.0,improv health servic hospit treat peopl betterth interviewe mother becam aggress want interview take place daughter agre give end mother came said hope would help improv health servic benefit peopl
+144,2530,Neonate,Dar,Stillbirth,1.0,,,0.0,mother complain nurs care lazi labour ward time use abus word mother seek assist
+103,1391,Neonate,Bohol,Stillbirth,1.0,,,0.0,mother feel complic year mother bag water broke wash cloth year babi hand came mother start feel pain call midwif mother brought hospit hospit refus brought gave birth cesarian section babi dead upon birth
+104,1394,Neonate,Pemba,Stillbirth,1.0,,,0.0,mother said told doctor womb tire almost pressur high
+105,1419,Neonate,Dar,Stillbirth,1.0,,,0.0,nurs attet mother till deliv babi cri nurs enough especi night
+106,1440,Neonate,Pemba,Stillbirth,2.0,,,0.0,mother fear drug took chest problem caus babi stop move womb final die sb macer
+143,2516,Neonate,Dar,Stillbirth,2.0,,,0.0,mother complain rthe night one nurs avail led lack support servic nearbi mother labour assist
+108,1500,Neonate,Dar,Stillbirth,2.0,,,0.0,mother complain doctor nurs careful especiali come emerg like opereshen due high birth weight babi
+109,1606,Neonate,Bohol,Stillbirth,1.0,,,0.0,year mother month pregnant bleed mother deliv babi dead april mother month pregnant prenat hospit nt hear child heartbeat advis mother undergo ultrasound babi dead mother admit hospit given psytot open cervix april mother cervix still delat given shot induc labor babi dead upon birth
+141,2482,Neonate,Dar,Stillbirth,1.0,,,0.0,mother complain shair eguip mother may head costamin secret mother doctor shair even outsid involv go
+111,1616,Neonate,Pemba,Stillbirth,2.0,,,0.0,mother convuls babi stop move deliv alreadi dead
+139,2404,Neonate,Bohol,Stillbirth,1.0,,,0.0,mother month pregnant suffer uti went hospit checkup given prescript uti per mother still month pregnant womb alreadi big may year went ultra sound per doctor result ultra sound child heart lung fluid may year home mother bag water broke mother brought hospit hospit may year around even mother gave birth babi alreadi dead mother still month pregnant
+134,2191,Neonate,Bohol,Stillbirth,1.0,,,0.0,pregnanc mother beriberi edematos vitamin b defici character swollen leg august year around even mother suddenli collaps brought immedi hospit mother pale sever blee babi heartbeat check found babi longer heartbeat refer directli august year gave birth csection around babi alreadi dead per mother know noth incid last knew time got collaps per mother nt experi labor alreadi month pregnant said child sinc first pregnanc nt immun nt practic prenat
+114,1653,Neonate,Dar,Stillbirth,2.0,,,0.0,mother complain nt receiv care
+115,1660,Neonate,UP,Stillbirth,1.0,,,0.0,child mother felt giddi becam unconsci day deliveri mild pain abdomen month deliveri also swell bodi deliveri done nurs mother could nt rememb name
+133,2188,Neonate,Dar,Stillbirth,1.0,,,0.0,mother complain nurs nt provid help except receiv babi mother help without nurs help
+130,2137,Neonate,Dar,Stillbirth,2.0,,,0.0,mother complain nurs care sport deliv mother
+129,2125,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic good given hiv test result
+118,1762,Neonate,UP,Stillbirth,1.0,,,0.0,child mother weak told even babi move womb hour stop move
+119,1766,Neonate,Dar,Stillbirth,2.0,,,0.0,mother complain nurs behaviour take money order provid servicecar
+126,2047,Neonate,UP,Stillbirth,1.0,,,0.0,mother swell hand leg anem fever pregnanc suffer convuls
+121,1787,Neonate,Pemba,Stillbirth,2.0,,,0.0,babi born sb fresh due mother lost mani blood deliveri aph
+122,1821,Neonate,Pemba,Stillbirth,2.0,,,0.0,babi born sb due mother aph
+124,1988,Neonate,Dar,Stillbirth,1.0,,,0.0,mother complain servic unsatisfactori
+57,229,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth say death babi said god wish ask famili plan method use
+101,1328,Neonate,Dar,Stillbirth,1.0,,,0.0,well attend nurs contend sevic hospit accept result death babi
+97,1252,Neonate,Dar,Stillbirth,1.0,,,0.0,mother claim nurs careless
+75,666,Neonate,UP,Stillbirth,1.0,,,0.0,mother abdomen pain breech deliveri mother suffer convuls anem weak
+98,1281,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add congratul doctor nurs good job show collabor mother
+51,118,Neonate,Pemba,Stillbirth,2.0,,,0.0,babi die mother lost mani blood deliveri
+71,531,Neonate,Dar,Stillbirth,1.0,,,0.0,commend good attend nurs
+70,513,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank nurs help harsh mother labour
+68,488,Neonate,Pemba,Stillbirth,1.0,,,0.0,babi die mother seriou convuls
+67,441,Neonate,Bohol,Stillbirth,2.0,,,0.0,mother regular prenat check up hospit result okay may year start abdomin pain seem like cramp may year fetch midwif pain still present mayb labor cervix alway cm dilat without progress may year went doctor doctor said fetal heartbeat mother brought elev bp gave birth cs babi dead mother nt notic bag water break broken manual oper
+66,380,Neonate,Pemba,Stillbirth,2.0,,,0.0,babi born sb due mother lost mani blood deliveri
+65,376,Neonate,Dar,Stillbirth,2.0,,,0.0,mother nt receiv hospit care deliv hereself given medic record
+64,337,Neonate,Dar,Stillbirth,1.0,,,0.0,mother complain nurs abus nurs care mother need posho order offer quick servic
+63,294,Neonate,Bohol,Stillbirth,1.0,,,0.0,mother month pregnant abnorm complic note pregnanc receiv complet dose immun year labor pain start head alreadi mother difficulti deliv babi babi big pm famili decid brought patient hospit mother alreadi worn exhaust hospit mother receiv inject pm babi deliv dead lb
+62,287,Neonate,Dar,Stillbirth,2.0,,,0.0,mother didnt addit point well attend
+60,276,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add nb misplac medic record given death certif
+59,262,Neonate,Dar,Stillbirth,2.0,,,0.0,mother complain nt receiv help babi deliv leg first
+58,247,Neonate,Pemba,Stillbirth,2.0,,,0.0,babi born sb due mother prolong labour doctor midwiferi help
+76,685,Neonate,Pemba,Stillbirth,2.0,,,0.0,babi born sb due mother becam weak deliveri csection
+77,697,Neonate,UP,Stillbirth,2.0,,,0.0,accord grandpar babi babi born dead mother weak reason dead born child besid mother also anem famili member donat blood
+74,625,Neonate,Pemba,Stillbirth,1.0,,,0.0,respond explain mother deliv twin first one hospit could deliv second natur way introduc pitocin fail transfer hospit oper
+79,803,Neonate,Dar,Stillbirth,1.0,,,0.0,respond complain nurs could oper mother die order rescu babi
+96,1205,Neonate,Dar,Stillbirth,1.0,,,0.0,mother commend well attend
+95,1186,Neonate,Pemba,Stillbirth,1.0,,,0.0,babi born alreadi die due mother aph prolong labour
+94,1133,Neonate,Pemba,Stillbirth,1.0,,,0.0,babi die mother eclampsia
+93,1110,Neonate,Dar,Stillbirth,2.0,,,0.0,mother complain hospit neglig problem known earlier refus take hospit
+92,1094,Neonate,Dar,Stillbirth,2.0,,,0.0,mother commend well attend
+45,15,Neonate,Pemba,Stillbirth,1.0,,,0.0,mother didt know caus death told doctor babi drank dirth water
+78,795,Neonate,Pemba,Stillbirth,2.0,,,0.0,babi die womb mother malaria
+86,972,Neonate,Pemba,Stillbirth,2.0,,,0.0,accord medic record mother ruptur uteru deliv sb iufd
+47,37,Neonate,Dar,Stillbirth,2.0,,,0.0,mother condit got wors without receiv care medic record lost
+84,907,Neonate,Pemba,Stillbirth,2.0,,,0.0,babi born asphyxia due mother hadlack blood convuls
+83,883,Neonate,Pemba,Stillbirth,1.0,,,0.0,respond said prolong labour deliv sb fresh
+81,829,Neonate,Dar,Stillbirth,1.0,,,0.0,mother commend good care labour ward well attend
+80,824,Neonate,Dar,Stillbirth,2.0,,,0.0,mother said well attend
+48,63,Neonate,UP,Stillbirth,1.0,,,0.0,mother anem breech deliveri
+73,580,Neonate,UP,Stillbirth,2.0,,,0.0,mother sever anem
+29,7748,Adult,Mexico,Stomach Cancer,2.0,91.0,,,commentsth paper mother hometown ladi plan go month
+11,1602,Adult,AP,Stroke,2.0,70.0,,,mother well month expir ail bp lung deceas also old age
+19,4437,Adult,Mexico,Stroke,2.0,86.0,,,glad studi also carri place mother place difficult interview ladi one took care mother past year mother embol ladi use bath meal mother home time hous connect interviewe feel guilti took mother hospit ill mother said want die bed moreov month ago mother partner die take care one sister took home interviewe feel lone mother hous hous husband give support daughter go get marri feel even lone urgent need emot support
+22,5770,Adult,Mexico,Stroke,2.0,64.0,,,noth els comment hope prove helpfuldiffus cephal angiomatosi ladi say mother headach sinc littl use tie handkerchief head sooth pain never thought someth seriou think tomographi scan done ladi would sometim faint often constip four day death mother take hot shower scream husband come help manag catch fall faint deepli taken hospit interviewe talk mother open eye much effort seem fallen deep sleep mother answer call
+9,1166,Adult,Mexico,Stroke,2.0,80.0,,,true patient well taken care found let fall anoth patient rel next mother due bump nt person comment mother start pass lost strength took hospit diagnosi embol follow let fall cerebr effus upset
+8,880,Adult,Mexico,Stroke,2.0,64.0,,,hospit bed lot neglig sinc never treat properli nt anyth without consent perform ct scan move common hall mother good dead hospit transfer
+24,6278,Adult,Mexico,Stroke,2.0,82.0,,,mother hypertens sinc year embol hospit one half month affect function importantli speech alway yellow eye embol headachesth hospit doctor use come home give checkup interviewe enter state shock mother death feel vent feel go mother decid call regist last name name
+16,4105,Adult,Bohol,TB,1.0,13.0,,,sinc child alreadi asthma relaps got sick got diarrhea drink water pump think water come pump clean start cough notic becom weak loos weight decid bring hospit told us son tuberculosi taken care mother mother alreadi die case mayb son acquir ill mother die case note place deceas live good ventil poor hous clean father deceas teari answer question
+44,2050,Child,AP,Violent Death,1.0,3.0,,,watchman third floor mother son commit suicid hang ceil know whether problem request insist us answer unknown question would problemat livelihood promot build might furiou unnecessari involv accord knowledg son first hang mother later mother hang healthi
+37,1262,Child,UP,Violent Death,1.0,6.0,,,babi mother home someon attack neck behind led death spot suspect act neighbor heat argument fir also regist

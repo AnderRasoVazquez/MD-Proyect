@@ -1,86 +1,264 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-0 29,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 45.0,6 nan,7 nan,8 client thank servic provid client transfer death certif origin home place
-0 135,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 46.0,6 nan,7 nan,8 client thank servic provid nurs doctor client transfer death certif origin home place
-0 188,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 55.0,6 nan,7 nan,8 client thank visist home
-0 404,1 Adult,2 Dar,3 Other Injuries,4 2.0,5 25.0,6 nan,7 nan,8 client thank client transfer death certof origin home place
-0 514,1 Adult,2 Dar,3 AIDS,4 2.0,5 36.0,6 nan,7 nan,8 client misplac death celfit client trnsfer death celfit origin home
-0 737,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 70.0,6 nan,7 nan,8 client thank servic death certif origin place
-0 792,1 Adult,2 Dar,3 Cirrhosis,4 1.0,5 40.0,6 nan,7 nan,8 client thank servic clain delay client transfer death certif deceas origin home place
-0 803,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 37.0,6 nan,7 nan,8 client thank servic provid hospitali client transfer death certif origin home place
-0 1041,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 52.0,6 nan,7 nan,8 death certif sent origin place
-0 1138,1 Adult,2 Dar,3 TB,4 2.0,5 999.0,6 nan,7 nan,8 client trnsfer death cerfit origin home place client thank servic provid nurs doctor hospit
-0 1196,1 Adult,2 Dar,3 Homicide,4 1.0,5 37.0,6 nan,7 nan,8 client thank servic provid nurseand doctor hospit especi hospit client transfer death certif origin home place
-0 1226,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 35.0,6 nan,7 nan,8 client thank client transfer death certif origin home place
-0 1337,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 35.0,6 nan,7 nan,8 client thank servic provid nurs hospitali especi hospit doctor transfer death certif origin home place
-0 1380,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 36.0,6 nan,7 nan,8 client thank client transfer death certif origin home place
-0 1555,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 58.0,6 nan,7 nan,8 client thank servic hospit client transfer death certif origin home place
-0 1598,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 70.0,6 nan,7 nan,8 thank servic deceas pass away place origin place
-0 1643,1 Adult,2 Dar,3 Colorectal Cancer,4 1.0,5 31.0,6 nan,7 nan,8 client transfer death certif origin home place client said seric provid bynurs doctor fifti client suggest add ward hospitali
-0 1700,1 Adult,2 Dar,3 Malaria,4 1.0,5 35.0,6 nan,7 nan,8 client trnsfer death cerfit origin home place client suggest noth
-0 1727,1 Adult,2 Dar,3 Homicide,4 1.0,5 18.0,6 nan,7 nan,8 client thank client transfer death certif deceas father person
-0 1786,1 Adult,2 Dar,3 Malaria,4 2.0,5 38.0,6 nan,7 nan,8 client claim servic provid nurs doctor transfer death certif origin home place client thought deceas death caus headach
-0 1999,1 Adult,2 Dar,3 Other Infectious Diseases,4 1.0,5 22.0,6 nan,7 nan,8 client thank servic provid nures doctor client trnsfer death cerfit origin home place
-0 2052,1 Adult,2 Dar,3 AIDS,4 2.0,5 54.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit hospit client transfer death certic origin home place
-0 2139,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 75.0,6 nan,7 nan,8 client said deceas die due cancer ie breast cancer client transfer death certif origin home place client thank servic provid hospit especi hospit
-0 2213,1 Adult,2 Dar,3 Maternal,4 2.0,5 19.0,6 nan,7 nan,8 client claim servic provid nurs doctor client transfer death certif origin home place
-0 2266,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 68.0,6 nan,7 nan,8 client thank servic client nt death certif death ocur home
-0 2495,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 45.0,6 nan,7 nan,8 client thank servic provid nurs doctor client transfer death certif origin home place
-0 2576,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 80.0,6 nan,7 nan,8 client transfer death certif origin home place client said servic poor imani patient servic client said mother die due goitek
-0 2586,1 Adult,2 Dar,3 Stroke,4 2.0,5 49.0,6 nan,7 nan,8 respond nt death certif sent home origin
-0 2901,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 46.0,6 nan,7 nan,8 client thank servic given nurse doctor hospit especi hospit client transfer death certif origin place place
-0 3146,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 27.0,6 nan,7 nan,8 client said deceas die due difficult breath client transfer death certif origin home
-0 3221,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 45.0,6 nan,7 nan,8 client transfer death certif origin home place client thank servic
-0 3371,1 Adult,2 Dar,3 Lung Cancer,4 2.0,5 36.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit client transfer death certif origin home place
-0 3405,1 Adult,2 Dar,3 Pneumonia,4 1.0,5 31.0,6 nan,7 nan,8 client transfer death certif orisin home place client thank client said nt know diseas caus death deceas
-0 3436,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 71.0,6 nan,7 nan,8 client said deceas die stomach client transfer death certif origin home place client thank servic provid nurs doctor hospit
-0 3918,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 38.0,6 nan,7 nan,8 client thank servic client transfer death certif origin home place
-0 4024,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 40.0,6 nan,7 nan,8 client thank servic provid nurs doctor client transfer death certif origin home place
-0 4126,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 75.0,6 nan,7 nan,8 client thank servic especi hospit client transfer death certif origin home place client said deceas die due cancer iebreast cancer
-0 4145,1 Adult,2 Dar,3 Road Traffic,4 1.0,5 47.0,6 nan,7 nan,8 respond nt death certif sent home origin
-0 4276,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 26.0,6 nan,7 nan,8 client thank servic client though deceas die due cancer client tranler death certif origin home
-0 4373,1 Adult,2 Dar,3 TB,4 1.0,5 35.0,6 nan,7 nan,8 client thank servic client left death certif origin home place
-0 4622,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 16.0,6 nan,7 nan,8 client thank servic provod nurs doctor hospitali client transfer death certif origin home place
-0 4749,1 Adult,2 Dar,3 Suicide,4 1.0,5 47.0,6 nan,7 nan,8 client transfer death certif origin home place client thank client said death deceas caus hang due social misunderstand
-0 4780,1 Adult,2 Dar,3 Stroke,4 1.0,5 60.0,6 nan,7 nan,8 client thank servic provid client misplac death cerfit origin home
-0 4932,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 58.0,6 nan,7 nan,8 client transfer death certifit origin home place client thank servic provid nurs doctor
-0 4960,1 Adult,2 Dar,3 Maternal,4 2.0,5 31.0,6 nan,7 nan,8 client said death certif taken parent origin place
-0 4984,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 36.0,6 nan,7 nan,8 particip noth comment death certif sent deceas origin home place
-0 5113,1 Adult,2 Dar,3 AIDS,4 2.0,5 39.0,6 nan,7 nan,8 client thank client transfer death certif origin place place
-0 5309,1 Adult,2 Dar,3 TB,4 1.0,5 20.0,6 nan,7 nan,8 client thank servic provid hospit nurs doctor hospit client transfer death certif origin home place
-0 5469,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 1.0,5 48.0,6 nan,7 nan,8 client said brother die due client claim servic provid nurs hospit client transfer death certif origin home place
-0 5558,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 46.0,6 nan,7 nan,8 client complain poor servic death cerfic send origin place
-0 5579,1 Adult,2 Dar,3 Lung Cancer,4 1.0,5 67.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit client transfer death certif origin home
-0 5629,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 999.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit especi hospit client transfer death cerfit origin home place
-0 5695,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 75.0,6 nan,7 nan,8 client thank servic client transfer death certif origin home place
-0 5725,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 44.0,6 nan,7 nan,8 client noth client transfer death cerfit origin home home
-0 5772,1 Adult,2 Dar,3 Stroke,4 1.0,5 40.0,6 nan,7 nan,8 client said deceas death caus destruct liver bodi client transfer death certif origin home place client thank servic
-0 5781,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 87.0,6 nan,7 nan,8 client thank client nt death certif death occur home
-0 5888,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 56.0,6 nan,7 nan,8 client thank servic provid nurs doctor client transfer death certif origin place place
-0 5914,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 27.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospitali especi hospit client transfer death certif origin place place client said death theiar deceas caus back
-0 6062,1 Adult,2 Dar,3 Breast Cancer,4 2.0,5 37.0,6 nan,7 nan,8 client thank servic client nt death certif death occur home
-0 6088,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 58.0,6 nan,7 nan,8 client thank servic provid nurs hospit hospit client transfer death certif origin home place
-0 6126,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 40.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit claim client trnsfer death certif origin home place
-0 6163,1 Adult,2 Dar,3 TB,4 1.0,5 37.0,6 nan,7 nan,8 client thank servic provid client transfer death certif origin home place
-0 6298,1 Adult,2 Dar,3 Prostate Cancer,4 1.0,5 65.0,6 nan,7 nan,8 client transfer death certif origin home place client thank client suggest doctor doctor nurs tell patient true client said brother die due
-0 6329,1 Adult,2 Dar,3 AIDS,4 2.0,5 27.0,6 nan,7 nan,8 client transfer death certif origin home place client thank servic provid nurs doctor
-0 6520,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 45.0,6 nan,7 nan,8 client thank servic provid nurs doctor client transfer death certif origin home place
-0 6559,1 Adult,2 Dar,3 Stroke,4 2.0,5 87.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospit hospit client trnsfer death certif origin home place client suggest shmld make test faster
-0 6632,1 Adult,2 Dar,3 Diabetes,4 1.0,5 55.0,6 nan,7 nan,8 client thank servic provid nurs doctorsin client trnsfer death cerfit origin home
-0 6698,1 Adult,2 Dar,3 Stomach Cancer,4 1.0,5 48.0,6 nan,7 nan,8 client thank servic client nt death certific death occur home
-0 6817,1 Adult,2 Dar,3 Renal Failure,4 1.0,5 92.0,6 nan,7 nan,8 client thank serviv provid nurs doctor hospitali especi hospit client receiv death certif transfer origin home place client nt know diseas
-0 6862,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 30.0,6 nan,7 nan,8 client transfer death certif origin home place client think deceas death caus malaria diseas
-0 6863,1 Adult,2 Dar,3 TB,4 1.0,5 52.0,6 nan,7 nan,8 client thank client transfer death cerfit origin home place
-0 7229,1 Adult,2 Dar,3 TB,4 2.0,5 53.0,6 nan,7 nan,8 client claim servic provid nurs doctor especi hospit client transfer death certif origin home place
-0 7427,1 Adult,2 Dar,3 Leukemia/Lymphomas,4 1.0,5 87.0,6 nan,7 nan,8 client thank client nt death certif death ocur home
-0 7713,1 Adult,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 27.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospitali client transfer death death certif origin home
-0 7,1 Child,2 Dar,3 Other Defined Causes of Child Deaths,4 1.0,5 nan,6 10.0,7 nan,8 client thank servic provid nurs doctor hospiatali mother deceas move death certif origin place place
-0 619,1 Child,2 Dar,3 Malaria,4 1.0,5 3.0,6 nan,7 nan,8 client thank servic provid nurs doctor hospitali client transfer death certif origin home place
-0 1227,1 Child,2 Dar,3 AIDS,4 2.0,5 10.0,6 nan,7 nan,8 client thank client thought death deceas caus heart diseas deceas use oxygen machin client transfer death certif origin home place
-0 1276,1 Child,2 Dar,3 Road Traffic,4 1.0,5 4.0,6 nan,7 nan,8 client said deceas die due road client thank client transfer death certif origin home place
-0 1581,1 Child,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 nan,6 6.0,7 nan,8 client said deceas die due client transfer death certif origin home place
-0 1616,1 Child,2 Dar,3 Pneumonia,4 2.0,5 2.0,6 nan,7 nan,8 client claim servic provid nurs doctor client transfer death certif origin home
-0 1784,1 Child,2 Dar,3 Pneumonia,4 2.0,5 nan,6 2.0,7 nan,8 client transfer death certif origin home client thank servic
-0 1965,1 Child,2 Dar,3 Sepsis,4 2.0,5 7.0,6 nan,7 nan,8 client transfer death certif origin home place client thank servic provid nurs doctor hospit client said deceas die stomach pain
-0 2060,1 Child,2 Dar,3 Diarrhea/Dysentery,4 2.0,5 nan,6 11.0,7 nan,8 client thank servic provid nurs doctor hospit especi hospit client transfer death cerfit origin home place
-0 1623,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 9.0,8 client thank servic client transfer death certif origin home place
-0 1777,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,8 client claim servic provid nurs doctor client transfer death certif origin home place
+162,572,Child,Dar,AIDS,1.0,,6.0,,client thank servic provid nurs doctor hospit
+55,3275,Adult,Dar,AIDS,1.0,38.0,,,client thank servic provid nurs doctor hospit hospit especi hospit
+106,5952,Adult,Dar,AIDS,2.0,34.0,,,client misplac death cerfic client thank servic provid doctor nurs hospitali especi hospit
+47,2784,Adult,Dar,AIDS,2.0,33.0,,,client thank servic provid nurs doctor especi hospit
+11,1062,Adult,Dar,AIDS,2.0,35.0,,,particip thank servic provid nurs doctor
+46,2729,Adult,Dar,AIDS,1.0,58.0,,,client thank servic provid nurs doctor hospitali client though brother die due aid
+114,6666,Adult,Dar,AIDS,1.0,43.0,,,particip thank serviv provid nurs doctor especi hospit
+185,1726,Child,Dar,AIDS,2.0,4.0,,,client thank servic provid nurs doctor hospit especi hospit
+116,6700,Adult,Dar,AIDS,1.0,42.0,,,particip thank servic provid nurs hospit
+38,2317,Adult,Dar,AIDS,2.0,37.0,,,client claim servic provid nurs doctor hospit especi hospit
+146,7787,Adult,Dar,AIDS,1.0,35.0,,,particip thank servic provid nurs doctor
+147,7810,Adult,Dar,AIDS,2.0,51.0,,,client thank servic provid nurs doctor hospit
+148,7812,Adult,Dar,AIDS,2.0,30.0,,,client thank servic provid nurs doctor hospit especi hospit
+155,300,Child,Dar,AIDS,2.0,,9.0,,client thank servic provid hospit
+120,6923,Adult,Dar,AIDS,1.0,61.0,,,client thank servic provid nurs doctor hospit especi hospit
+73,4092,Adult,Dar,AIDS,2.0,46.0,,,client claim servic provid nurs doctor hospit especi hospit
+35,2264,Adult,Dar,Breast Cancer,2.0,43.0,,,client thank servic provid hospit
+107,6067,Adult,Dar,Breast Cancer,2.0,51.0,,,client thank servic provid nurs doctor hospit hospit
+93,5438,Adult,Dar,Breast Cancer,2.0,50.0,,,particip thank servic provid nurs doctor
+31,2128,Adult,Dar,Breast Cancer,2.0,41.0,,,client thank servic provid nurs doctor hospit especi hospit
+112,6357,Adult,Dar,Breast Cancer,2.0,53.0,,,particip thank servic provid nurs doctor especi hospit
+138,7474,Adult,Dar,Breast Cancer,2.0,46.0,,,particip thnked servic provid nurs doctor especi hospit
+144,7704,Adult,Dar,Breast Cancer,2.0,30.0,,,client thank servic provid nurs hospit especi hospit client claim servic provid
+66,3680,Adult,Dar,Breast Cancer,2.0,52.0,,,particip thank servic provid provid doctor especi hospit
+29,1965,Adult,Dar,Breast Cancer,2.0,40.0,,,client thank servic provid nurs doctor hospit especi hospit client said wife die due breast client said ward peopl share one bed
+80,4667,Adult,Dar,Breast Cancer,2.0,60.0,,,particip tahnk servic provid nurs doctor especi hospit
+19,1408,Adult,Dar,Breast Cancer,2.0,40.0,,,particip thank servic provid nurs doctor especi hospit
+131,7160,Adult,Dar,Cervical Cancer,2.0,51.0,,,client thank servic provid nurs doctor hospitali especi hospit
+58,3365,Adult,Dar,Cervical Cancer,2.0,55.0,,,particip thank servic provid nurs especi hospit
+45,2713,Adult,Dar,Cervical Cancer,2.0,999.0,,,client thank servic prodid nurs doctor hospit especi hospit
+44,2687,Adult,Dar,Cervical Cancer,2.0,46.0,,,client thank servic provid nurs doctor hospitali especi hospit
+64,3652,Adult,Dar,Cervical Cancer,2.0,58.0,,,client thank servic provid nurs doctor hospit especi hospit client nt death certif deceas die home place
+78,4438,Adult,Dar,Cervical Cancer,2.0,55.0,,,client thank servic provid doctor hospit especi hospit
+113,6386,Adult,Dar,Cervical Cancer,2.0,53.0,,,client thank servic provid nurs doctor hospit especi hospit client nt death certic cleaseas die home
+37,2282,Adult,Dar,Cervical Cancer,2.0,30.0,,,client thank servic provid nurs doctor hospit
+33,2192,Adult,Dar,Cervical Cancer,2.0,43.0,,,client thank servic provid nurs doctor hospit especi hospit
+87,5004,Adult,Dar,Cirrhosis,1.0,50.0,,,client thank servic provid nurs doctor hospit especi hospit client transfer death certif origin
+36,2275,Adult,Dar,Cirrhosis,2.0,65.0,,,client thank servic provid nurs doctor hospit especi hospit
+28,1964,Adult,Dar,Cirrhosis,1.0,30.0,,,particip thank servic provid nurs doctor
+56,3323,Adult,Dar,Colorectal Cancer,1.0,58.0,,,client thank servic provid nurs hospitali especi hospit client think deceas die due cancer
+104,5856,Adult,Dar,Colorectal Cancer,2.0,999.0,,,particip thank servic provid nurs doctor especi hospit
+41,2439,Adult,Dar,Colorectal Cancer,1.0,36.0,,,client complai servic provid nurs doctor hospit
+67,3831,Adult,Dar,Colorectal Cancer,1.0,59.0,,,client thank servic provid nurs doctor hospit especi hospit client said deceas die due cancer
+255,2284,Neonate,Dar,Congenital malformation,2.0,,,1.0,particip thank servic provid nurs doctor especi hospit
+221,893,Neonate,Dar,Congenital malformation,1.0,,,8.0,client claim servic provid nurs nurs hospit especi hospit client said babi die prematur poor servic provid nurs
+220,826,Neonate,Dar,Congenital malformation,1.0,,,1.0,client thank servic provid nurs doctor hospit especi hospit client said babi die due puffi fontanel
+215,667,Neonate,Dar,Congenital malformation,2.0,,,2.0,client thank servic provid nurs doctor hospit especi hospit
+103,5832,Adult,Dar,Diabetes,1.0,35.0,,,theclient claim servic provid nurs doctor hospit especi hospit
+12,1108,Adult,Dar,Diabetes,2.0,32.0,,,particip thank servic provid hospit
+142,7612,Adult,Dar,Diabetes,1.0,58.0,,,client thank servic provid nurs doctor hospitali especi hospit
+139,7478,Adult,Dar,Diabetes,2.0,34.0,,,client thank servic provid nurs doctor hospit especi hospit
+50,2862,Adult,Dar,Diabetes,2.0,55.0,,,client thank servic provid nurs doctor hospitali especi hospit clientmisplas death client said mother die due diabet blood pressor
+99,5674,Adult,Dar,Diarrhea/Dysentery,2.0,24.0,,,particip thank servic provid nurs doctor especi hospit
+197,2060,Child,Dar,Diarrhea/Dysentery,2.0,,11.0,,client thank servic provid nurs doctor hospit especi hospit client transfer death cerfit origin home place
+32,2183,Adult,Dar,Diarrhea/Dysentery,1.0,80.0,,,client thank servic provid nurs doctor hospit especi hospit client transfer death certif wife deceas
+164,587,Child,Dar,Diarrhea/Dysentery,2.0,,11.0,,particip thank servic provid nurs doctor
+10,997,Adult,Dar,Diarrhea/Dysentery,1.0,51.0,,,client thank servic provid nurs doctor hospit especi hospit
+186,1782,Child,Dar,Diarrhea/Dysentery,1.0,3.0,,,client thank servic provid murs doctor hospitali
+177,1464,Child,Dar,Diarrhea/Dysentery,1.0,4.0,,,client thank servic provid hospit
+151,110,Child,Dar,Drowning,1.0,,11.0,,client thank servic provid nurs doctor hospitali especi hospit
+126,7046,Adult,Dar,Falls,1.0,999.0,,,client thank servic provid nurs hospit especi hospit
+166,940,Child,Dar,Fires,1.0,2.0,,,client thank servic provid nurs doctor hospitali
+40,2381,Adult,Dar,Fires,1.0,33.0,,,particip thank servic provid nurs doctor especi hospit sourc death fireburnt
+110,6311,Adult,Dar,Homicide,1.0,28.0,,,client thank servic provid nurs doctor hospit hospit
+8,684,Adult,Dar,Leukemia/Lymphomas,1.0,25.0,,,client thank servic provid nurs doctor hospit especi hospit
+118,6760,Adult,Dar,Leukemia/Lymphomas,1.0,48.0,,,client thank servic provid nurs docto hospitali especi hospit
+16,1294,Adult,Dar,Leukemia/Lymphomas,1.0,999.0,,,particip thank servic especi hospit
+54,3240,Adult,Dar,Leukemia/Lymphomas,1.0,49.0,,,particip thank servic whichi provid nurs doctor especi hospit
+62,3530,Adult,Dar,Leukemia/Lymphomas,1.0,55.0,,,particip thank servic provid nurs nurs doctor especi hospit also particip suggest sours
+59,3370,Adult,Dar,Lung Cancer,1.0,57.0,,,client thank servic provid nurs doctor hospit especi hospit
+196,2028,Child,Dar,Malaria,1.0,,3.0,,particip thank servic especi hospit
+173,1317,Child,Dar,Malaria,2.0,,9.0,,particip thank servic provid nurs especi hospit
+123,6954,Adult,Dar,Malaria,1.0,55.0,,,client clim servic provid nurs doctor hospit especi hospit
+163,582,Child,Dar,Malaria,1.0,,10.0,,particip thank servic provid nurs especi hospit
+129,7125,Adult,Dar,Malaria,1.0,24.0,,,client thank servic provid nurs doctor especialiy hospit
+188,1790,Child,Dar,Malaria,1.0,1.0,,,client thank servic provid nurs doctor hospit especi hospit
+156,315,Child,Dar,Malaria,1.0,1.0,,,client claim servic provid nurs doctor hospit
+180,1537,Child,Dar,Malaria,2.0,1.0,,,client thank servic provid nurs doctor hospit especi hospit
+149,15,Child,Dar,Malaria,1.0,,2.0,,client thank servic provid nurs hospit espcial hospit
+159,495,Child,Dar,Malaria,2.0,,7.0,,client claim servic provid nurs doctor hospit hospit
+92,5411,Adult,Dar,Malaria,2.0,40.0,,,client thank servic provid nurs doctor hospit especi hospit
+91,5379,Adult,Dar,Malaria,2.0,12.0,,,client thank servic provid nurs doctor hospit especi hospit
+168,1046,Child,Dar,Malaria,2.0,1.0,,,client thank servic provid nurs doctor hospit especi hospit client transfer death certic origin home
+21,1603,Adult,Dar,Malaria,2.0,48.0,,,client thank servic provid nurs doctor hospit especi hospit client transfer death certif sister person
+105,5876,Adult,Dar,Maternal,2.0,38.0,,,client thank servic provid doctor nurs hospit client claim servic provid nurs client suggest nurs
+136,7366,Adult,Dar,Maternal,2.0,18.0,,,particip thank servic provid nurs doctor especi hospit also said sourc death caus eclampsia
+75,4186,Adult,Dar,Maternal,2.0,30.0,,,client think servic provid hospit especi nurs
+128,7085,Adult,Dar,Maternal,2.0,30.0,,,client thank servic provid nurs doctor hospit especi hospit
+53,3220,Adult,Dar,Maternal,2.0,32.0,,,client thank servic provid doctor nurs hospit especi hospit client said deceas death caus aid
+153,145,Child,Dar,Meningitis,2.0,1.0,,,particip thank servic provid nurs doctor especi hospit particip misplac death certif
+167,943,Child,Dar,Meningitis,2.0,1.0,,,particip thank servic provid nurs especi hospit
+169,1064,Child,Dar,Meningitis,2.0,2.0,,,client thank servic provid nurs doctor hospitali especi hospit
+183,1627,Child,Dar,Meningitis,2.0,1.0,,,client thank servic provid nurs doctor hospit especi hospit
+238,1651,Neonate,Dar,Meningitis/Sepsis,2.0,,,11.0,client thank servic provid hospit
+245,1790,Neonate,Dar,Meningitis/Sepsis,2.0,,,4.0,client thank servic provid nurs doctor hospit especi hospit client suggest doctor nurs provid seron neonat even weekend ether weekday
+247,1863,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,client thank servic provid nurs doctor hospit especi hospit client nt know diseas kill babi
+254,2281,Neonate,Dar,Meningitis/Sepsis,1.0,,,3.0,particip thank servic provid nurs doctor especi hospit
+218,794,Neonate,Dar,Meningitis/Sepsis,1.0,,,5.0,particip state good servic doctor nurs hospit especi child
+236,1587,Neonate,Dar,Meningitis/Sepsis,1.0,,,3.0,particip thank servic provid nurs especi hospit
+214,638,Neonate,Dar,Meningitis/Sepsis,2.0,,,3.0,particip thank servic provid nurs doctor especi hospit
+213,590,Neonate,Dar,Meningitis/Sepsis,1.0,,,3.0,particip thank servic provid nurs doctor especi hospit
+205,439,Neonate,Dar,Meningitis/Sepsis,2.0,,,4.0,particip thank servic provid hospit
+226,1055,Neonate,Dar,Meningitis/Sepsis,2.0,,,5.0,client thank servic provid nurs doctor hospitali especi hospit
+201,210,Neonate,Dar,Meningitis/Sepsis,1.0,,,3.0,client thank servic provid nurs doctor hospit especi hospit
+233,1480,Neonate,Dar,Meningitis/Sepsis,2.0,,,1.0,particip thank servic nurs doctor especi hospit misplac death certif
+154,257,Child,Dar,Other Cardiovascular Diseases,1.0,4.0,,,client thank servic provid nurs doctor th hospit hospit client said babi die due tb
+145,7768,Adult,Dar,Other Cardiovascular Diseases,2.0,62.0,,,particip thank servic provid nurs doctor hospit
+51,2933,Adult,Dar,Other Cardiovascular Diseases,1.0,77.0,,,particip thank servic provid nurs hospit
+137,7378,Adult,Dar,Other Cardiovascular Diseases,1.0,36.0,,,particip thank servic provid nurs especi hospit
+65,3654,Adult,Dar,Other Cardiovascular Diseases,2.0,80.0,,,particip thank servic provid hospit
+170,1217,Child,Dar,Other Cardiovascular Diseases,1.0,2.0,,,particip thank servic provid nurs doctor especi hospit sourc death caus malaria
+130,7148,Adult,Dar,Other Cardiovascular Diseases,1.0,40.0,,,client thank servic provid nurs
+74,4165,Adult,Dar,Other Cardiovascular Diseases,1.0,75.0,,,client thank servic provid nurs doctor hospitali especi hospit
+117,6758,Adult,Dar,Other Cardiovascular Diseases,2.0,999.0,,,client thank servic provid nurs doctor hospit especi hospit
+181,1558,Child,Dar,Other Cardiovascular Diseases,1.0,,9.0,,client claim servic provid nurs doctor hospit especi hospit client said son die poor servic provid nurs
+89,5314,Adult,Dar,Other Cardiovascular Diseases,1.0,56.0,,,client thank servic provid nurs doctor hospit especi hospit client said husband die due blood pressur bp
+95,5536,Adult,Dar,Other Cardiovascular Diseases,1.0,51.0,,,particip thank servic provid nurs doctor especi hospit particip suggest sourc death diabet
+101,5731,Adult,Dar,Other Cardiovascular Diseases,2.0,58.0,,,client claim servic provid nurs doctor hospit especi hospit
+192,1966,Child,Dar,Other Defined Causes of Child Deaths,2.0,5.0,,,client claim servic provid nurs doctor hospit especi hospit
+189,1817,Child,Dar,Other Digestive Diseases,2.0,2.0,,,client thank servic provid hospit
+30,2059,Adult,Dar,Other Infectious Diseases,1.0,62.0,,,client thank servic provid nurs doctor hospitali especi hospit
+109,6255,Adult,Dar,Other Infectious Diseases,1.0,61.0,,,client claim servic provid nuse hospit especi hospit client thank lot servic provid doctor hospit especi hospit
+5,502,Adult,Dar,Other Infectious Diseases,1.0,14.0,,,particip thank much servic provid nurs doctor especi hospit
+82,4683,Adult,Dar,Other Injuries,1.0,44.0,,,client thank servic provid nurs morturi
+18,1362,Adult,Dar,Other Non-communicable Diseases,1.0,19.0,,,client thank servic provid nurs nad doctor hospit especi hospit
+13,1185,Adult,Dar,Other Non-communicable Diseases,2.0,35.0,,,particip thank much servic provid nurs doctor especi hospit sourc death caus cervic cancer
+143,7672,Adult,Dar,Other Non-communicable Diseases,1.0,46.0,,,particip thank servic provid doctor
+90,5371,Adult,Dar,Other Non-communicable Diseases,2.0,38.0,,,paericip thank servic provid nurs doctor especi hospit
+119,6794,Adult,Dar,Other Non-communicable Diseases,1.0,65.0,,,client thank servic provid nurs doctor hospit especi hospit client transfer death certif deceas children
+57,3336,Adult,Dar,Other Non-communicable Diseases,2.0,42.0,,,client thank servic provid nurs hospit especi hospit client transfer death certif brother person
+25,1856,Adult,Dar,Other Non-communicable Diseases,1.0,31.0,,,particip thank servic especi hospit
+102,5757,Adult,Dar,Other Non-communicable Diseases,1.0,65.0,,,client thank servic provid nurs doctor hospit especi hospit
+81,4681,Adult,Dar,Other Non-communicable Diseases,2.0,63.0,,,client thank servic provid nurs doctor hospit especi hospit client transfer death certif brother
+22,1651,Adult,Dar,Other Non-communicable Diseases,2.0,65.0,,,particip thank servic provid nurs doctor especi hospit also said sourc death caus liver failur
+96,5603,Adult,Dar,Other Non-communicable Diseases,1.0,30.0,,,particip thank servic provid nurs doctor especi hospit sourc death born cancer
+4,501,Adult,Dar,Other Non-communicable Diseases,1.0,46.0,,,particip thank much servic provid nurs doctor especi hospit also said sourc death caus liver cancer
+2,390,Adult,Dar,Other Non-communicable Diseases,1.0,29.0,,,client thank servic provid nurs hospit especi hospit
+115,6670,Adult,Dar,Other Non-communicable Diseases,1.0,41.0,,,client thank servic provid nurs
+70,3956,Adult,Dar,Other Non-communicable Diseases,2.0,20.0,,,client claim servic provid nurs hospit especi hospit client think deceas death caus malaria
+77,4433,Adult,Dar,Other Non-communicable Diseases,2.0,41.0,,,client thank servic provid nurs doctor hospit especi hospit
+135,7322,Adult,Dar,Other Non-communicable Diseases,1.0,44.0,,,particip thank servic provid doctor hospit
+17,1337,Adult,Dar,Other Non-communicable Diseases,1.0,35.0,,,client thank servic provid nurs hospitali especi hospit doctor transfer death certif origin home place
+86,4874,Adult,Dar,Other Non-communicable Diseases,2.0,54.0,,,client thank servic provid nurs doctor hospit especi hospit
+97,5629,Adult,Dar,Other Non-communicable Diseases,2.0,999.0,,,client thank servic provid nurs doctor hospit especi hospit client transfer death cerfit origin home place
+69,3952,Adult,Dar,Other Non-communicable Diseases,2.0,25.0,,,particip thank servic provid nurs doctor especi hospit
+127,7077,Adult,Dar,Other Non-communicable Diseases,1.0,999.0,,,client complain servic provid nurs doctor hospit
+178,1480,Child,Dar,Pneumonia,2.0,,8.0,,client thank servic provid nurs doctor hospit especi hospit
+176,1433,Child,Dar,Pneumonia,1.0,,8.0,,particip thank servic provid hospit
+175,1428,Child,Dar,Pneumonia,1.0,,6.0,,particip thank servic provid nurs doctor hospit also sourc death pneumonia
+184,1633,Child,Dar,Pneumonia,1.0,,10.0,,particip thank servic provid nurs especi hospit particip misplac death certif
+209,508,Neonate,Dar,Pneumonia,2.0,,,3.0,client thank servic provid nurs doctor hospit especi hospit
+165,719,Child,Dar,Pneumonia,2.0,1.0,,,client thank servic provid nurs doctor hospit especi hospit
+193,1994,Child,Dar,Pneumonia,2.0,,5.0,,client claim servic prodid nurs doctor hospit especi hospit
+182,1622,Child,Dar,Pneumonia,1.0,,11.0,,client thank servic provid nurs doctor hospit especi hospit
+179,1535,Child,Dar,Pneumonia,1.0,,2.0,,client thank servic provid nurs doctor hospitali especi hospit
+198,125,Neonate,Dar,Pneumonia,1.0,,,14.0,client thank servic provid nurs doctor hospit
+172,1246,Child,Dar,Pneumonia,1.0,,3.0,,particip thank servic provid nurs doctor especi hospit
+171,1219,Child,Dar,Pneumonia,2.0,1.0,,,client thank servic provid nurs doctor hospit especi hospit
+187,1789,Child,Dar,Pneumonia,2.0,,9.0,,client thank servic provid nurs doctor hospit especi hospit
+191,1876,Child,Dar,Pneumonia,1.0,1.0,,,client thank servic provid nurs doctor hospitali especi hospit
+195,2022,Child,Dar,Pneumonia,2.0,1.0,,,client thank servic provid nurs doctor hospit especi hospit
+0,117,Adult,Dar,Pneumonia,1.0,35.0,,,client thank servic provid nurs doctor hospit especi hospitali
+160,498,Child,Dar,Pneumonia,2.0,2.0,,,client thank servic provid nurs doctor hospitali especi hospit
+42,2583,Adult,Dar,Pneumonia,1.0,47.0,,,client thank servic provid nurs doctor hospit especi hospit
+20,1487,Adult,Dar,Pneumonia,2.0,30.0,,,client claim servic provid nurs doctor hospit hospit
+48,2826,Adult,Dar,Pneumonia,2.0,24.0,,,client complain servic provid nurs doctor hospit especi hospit
+3,392,Adult,Dar,Pneumonia,1.0,65.0,,,client thank servic provid nurs doctor hospit
+1,277,Adult,Dar,Pneumonia,2.0,27.0,,,client thank servic provid nurs doctor hospit especi hospit client said deceas die due tb pneumonia
+43,2597,Adult,Dar,Pneumonia,1.0,59.0,,,client thank servic provid nurs doctor hospit especi hospit
+124,6957,Adult,Dar,Pneumonia,2.0,72.0,,,particip thank servic provid nurs doctor especi hospit also said death caus malaria
+161,514,Child,Dar,Pneumonia,1.0,1.0,,,client claim servic provid doctor nurs
+150,86,Child,Dar,Pneumonia,1.0,4.0,,,client thank servic provid nurs doctor hospitali especi hospit
+158,424,Child,Dar,Pneumonia,2.0,,5.0,,client claim servic provid nurs doctor hospit bad
+152,121,Child,Dar,Pneumonia,2.0,3.0,,,client thank servic provid nurs doctor hospitali especi hospit client misplac death certific
+157,326,Child,Dar,Pneumonia,1.0,,9.0,,particip thank servic provid hospit
+94,5486,Adult,Dar,Poisonings,2.0,30.0,,,client thank servic provid nurs doctor hospit aspeci hospit
+216,680,Neonate,Dar,Preterm Delivery,1.0,,,2.0,client thank servic provid bbi nurs doctor hospitali hospit
+231,1303,Neonate,Dar,Preterm Delivery,2.0,,,2.0,particip thank servic provid nurs doctor
+230,1206,Neonate,Dar,Preterm Delivery,1.0,,,1.0,client thank servic provid hospit wors
+229,1192,Neonate,Dar,Preterm Delivery,2.0,,4.0,,particip thank servic provid nurs doctor especi hospit
+228,1124,Neonate,Dar,Preterm Delivery,1.0,,,3.0,client thank servic provid nurs doctor hospitali especi hospit
+225,1051,Neonate,Dar,Preterm Delivery,2.0,,,12.0,particip thank servic provid hospit
+217,693,Neonate,Dar,Preterm Delivery,2.0,,,3.0,particip thank servic provid nurs doctor especi hospit also misplac death certif
+224,1005,Neonate,Dar,Preterm Delivery,1.0,,,0.0,client claim servic provid nurs doctor hospitali especi hospit
+223,977,Neonate,Dar,Preterm Delivery,2.0,,,1.0,particip thank servic provid doctor especi hospit
+232,1359,Neonate,Dar,Preterm Delivery,1.0,,,0.0,particip thank servic provid hospit
+222,949,Neonate,Dar,Preterm Delivery,1.0,,,3.0,client nt death client thank servic provid nurs doctor hospit
+219,811,Neonate,Dar,Preterm Delivery,2.0,,,4.0,particip thank servic provid nurs doctor especi hospit
+227,1109,Neonate,Dar,Preterm Delivery,2.0,,,1.0,particip thank servic provid nurs doctor especi hospit
+234,1513,Neonate,Dar,Preterm Delivery,1.0,,,1.0,particip thank servic provid nurs doctor especi hospit
+241,1685,Neonate,Dar,Preterm Delivery,2.0,,,2.0,client claim servic provid nurs doctor hospit
+237,1594,Neonate,Dar,Preterm Delivery,2.0,,,1.0,client thank servic provid nurs doctor hospit especi hospit
+260,2480,Neonate,Dar,Preterm Delivery,2.0,,,12.0,client thank servic provid nurs muhimbili hospit
+259,2472,Neonate,Dar,Preterm Delivery,1.0,,,4.0,client claim servic provid nurs doctor hospit especi hospit ye client death certif
+258,2433,Neonate,Dar,Preterm Delivery,1.0,,,3.0,client thank servic provid nurs hospit especi hospit
+257,2380,Neonate,Dar,Preterm Delivery,1.0,,,8.0,client thank servic provid nurs doctor hospitali especi hospit
+256,2331,Neonate,Dar,Preterm Delivery,2.0,,,16.0,client thank servic provid us state servic provid hospit wors
+253,2263,Neonate,Dar,Preterm Delivery,1.0,,,1.0,client thank servic provid hospit
+252,2253,Neonate,Dar,Preterm Delivery,2.0,,,2.0,client thank servic provid nurs doctor hospit client said daughter die due prematur
+251,2215,Neonate,Dar,Preterm Delivery,1.0,,,3.0,particip thank servic provid nurs doctor especi hospit
+250,2013,Neonate,Dar,Preterm Delivery,1.0,,,3.0,client thank servic provid nurs doctor hospitali especi hospit
+249,1912,Neonate,Dar,Preterm Delivery,2.0,,,21.0,client thank servic provid nurs doctor hospitali especi hospit
+248,1911,Neonate,Dar,Preterm Delivery,2.0,,,5.0,client thank servic provid nurs doctor hospit especi hospit client said death babi caus prematur
+246,1810,Neonate,Dar,Preterm Delivery,1.0,,,2.0,client thank servic provid nurs doctor hospit especi hospit client said babi die due difficult breath
+244,1769,Neonate,Dar,Preterm Delivery,2.0,,,4.0,particip thank servic provid nurs doctor especiali hospit
+243,1757,Neonate,Dar,Preterm Delivery,1.0,,,2.0,particip thank much servic provid nurs doctor hospitali
+242,1700,Neonate,Dar,Preterm Delivery,2.0,,,3.0,client thank servic provid nurs doctor hospitali
+240,1674,Neonate,Dar,Preterm Delivery,2.0,,,1.0,particip thank servic provid nurs especi hospit
+239,1654,Neonate,Dar,Preterm Delivery,1.0,,,21.0,client thank servic provid nurs doctor hospitali hospit
+235,1585,Neonate,Dar,Preterm Delivery,2.0,,,5.0,client thank servic provid nurs doctor hospit especi hospit client nt know diseas kill babi
+211,568,Neonate,Dar,Preterm Delivery,1.0,,,2.0,particip thank servic provid nurs doctor especi hospit also said sourc death caus luck breath
+212,572,Neonate,Dar,Preterm Delivery,1.0,,,1.0,client thank servic provid nurs doctor hospitali
+208,505,Neonate,Dar,Preterm Delivery,1.0,,,8.0,particip thank much servic provid nurs doctor especi hospit
+261,2539,Neonate,Dar,Preterm Delivery,1.0,,,1.0,client thank servic provid nurs doctor hospit especi hospit client nt know diseas kill babi
+210,564,Neonate,Dar,Preterm Delivery,1.0,,,1.0,client thank servic provid nurs doctor hospit especi hospit client said babi prematur
+199,165,Neonate,Dar,Preterm Delivery,2.0,,,0.0,particip thank servic provid hospit
+200,208,Neonate,Dar,Preterm Delivery,1.0,,,0.0,particip thank much servic provid nurs doctor especi hospit
+202,330,Neonate,Dar,Preterm Delivery,2.0,,,20.0,client thank servic provid nurs doctor hospit
+203,336,Neonate,Dar,Preterm Delivery,2.0,,,13.0,client thank servic provid hospit
+262,2590,Neonate,Dar,Preterm Delivery,2.0,,,2.0,particip thank servic provid nurs doctor especi hospit also said death caus difficult breath
+206,487,Neonate,Dar,Preterm Delivery,1.0,,,2.0,particip thank servic provid hospit state servic provid wors
+207,500,Neonate,Dar,Preterm Delivery,1.0,,,6.0,client thank servic provid nurs doctor hospit hospit
+204,388,Neonate,Dar,Preterm Delivery,1.0,,,4.0,particip thank servic provid muhimbili hospit state servic provid hospit wors
+79,4532,Adult,Dar,Prostate Cancer,1.0,80.0,,,particip thank servic provid nurs doctor
+27,1881,Adult,Dar,Prostate Cancer,1.0,56.0,,,particip thank much servic provid nurs doctor especislli hospit
+52,2946,Adult,Dar,Prostate Cancer,1.0,64.0,,,particip thank servic provid nurs doctor hospit especi hospit
+100,5714,Adult,Dar,Prostate Cancer,1.0,76.0,,,client thought caus death bladder thank servic provid hospit
+85,4775,Adult,Dar,Renal Failure,1.0,59.0,,,client thank servic provid nurs doctor hospit hospit
+88,5065,Adult,Dar,Renal Failure,2.0,24.0,,,client thank servic provid nurs doctor hospit especi hospit
+49,2836,Adult,Dar,Renal Failure,1.0,60.0,,,particip thank much servic provid nurs doctor especi hospit sourc death caus bladder
+133,7269,Adult,Dar,Renal Failure,1.0,59.0,,,particip thank much servic provid nurs doctor especi hospit
+9,743,Adult,Dar,Renal Failure,2.0,17.0,,,client thank servic provid nurs doctor hospit especi hospit
+34,2255,Adult,Dar,Renal Failure,2.0,70.0,,,client thank servic provid nurs doctor hospitali especi hospit
+174,1396,Child,Dar,Sepsis,2.0,,1.0,,client thank servic provid nurs doctor hospit especi hospit
+194,2002,Child,Dar,Sepsis,1.0,6.0,,,client thought caus death anemia thank servic provid hospit
+190,1855,Child,Dar,Sepsis,2.0,,7.0,,particip thank servic provid nyrs doctor especi hospit
+24,1751,Adult,Dar,Stomach Cancer,2.0,54.0,,,client thank servic provid nurs doctor hospitali especi hospit
+71,4029,Adult,Dar,Stomach Cancer,1.0,67.0,,,client thank servic provid hospit state death stomach cancer
+6,633,Adult,Dar,Stroke,2.0,68.0,,,client thank servic provid hospitali
+134,7286,Adult,Dar,Stroke,2.0,55.0,,,client thank servic provid nurs doctor hospit especi hospit
+140,7525,Adult,Dar,Stroke,1.0,47.0,,,client thank servic provid nurs doctor hospitali especi hospit
+98,5669,Adult,Dar,Stroke,2.0,49.0,,,client thank servic provid nurs doctor hospitali especi hospit
+122,6944,Adult,Dar,Stroke,1.0,67.0,,,particip thank servic especi hospit
+72,4068,Adult,Dar,Stroke,1.0,75.0,,,client thank servic provid nurs doctor hospit especi hospit
+76,4254,Adult,Dar,Stroke,2.0,65.0,,,client thank servic provid nurs doctor hospit
+23,1708,Adult,Dar,Stroke,2.0,60.0,,,client thank servic provid nurs doctor hospit especi hospit
+15,1286,Adult,Dar,Stroke,2.0,74.0,,,particip thank servic provid especi hospit also misplac death certif
+26,1879,Adult,Dar,Stroke,2.0,102.0,,,client thank servic provid nurs doctor hospit especi hospit
+60,3434,Adult,Dar,Stroke,2.0,75.0,,,client claim servic provid nurs doctor hospitali especi hospit
+84,4704,Adult,Dar,Stroke,1.0,55.0,,,particip thank servic provid especi hospit
+111,6326,Adult,Dar,Suicide,2.0,23.0,,,client thank servic provid hospit
+141,7598,Adult,Dar,TB,2.0,999.0,,,client claim servic servic provid nurs doctor hospitali especi hospit
+132,7268,Adult,Dar,TB,1.0,59.0,,,client thank servic provid nurs doctor hospit especi hospit client misplac death cerfic
+39,2354,Adult,Dar,TB,2.0,19.0,,,client thank servic provid nurs doctor hospit especi hospit
+61,3486,Adult,Dar,TB,2.0,22.0,,,client claim servic provid nurs doctor hospit especi hospit
+63,3589,Adult,Dar,TB,2.0,46.0,,,client thank servic provid nurs doctor hospit especi hospit
+121,6931,Adult,Dar,TB,1.0,40.0,,,client thank servic provid nurs doctor hospit especi hospit
+108,6210,Adult,Dar,TB,1.0,17.0,,,particip thank servic provid hospit
+68,3883,Adult,Dar,TB,2.0,19.0,,,particip thank servic provid nurs doctor especi hospit
+14,1207,Adult,Dar,TB,2.0,20.0,,,particip thank servic provid nurs especi hospit
+7,660,Adult,Dar,TB,2.0,999.0,,,particip thank servic provid hospit especi nurs doctor
+125,7042,Adult,Dar,TB,1.0,54.0,,,client claim servic provid nurser doctor hospit especi hospit
+83,4688,Adult,Dar,TB,2.0,31.0,,,client thank servic provid nurs doctor hospit hospit

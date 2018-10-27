@@ -1,204 +1,356 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-0 16,1 Adult,2 Dar,3 AIDS,4 1.0,5 50.0,6 nan,7 nan,8 respond thank visit
-0 116,1 Adult,2 Dar,3 Maternal,4 2.0,5 20.0,6 nan,7 nan,8 respond thank servic
-0 410,1 Adult,2 Dar,3 Esophageal Cancer,4 1.0,5 41.0,6 nan,7 nan,8 respond noth add
-0 506,1 Adult,2 Dar,3 Stroke,4 1.0,5 54.0,6 nan,7 nan,8 respond thank servic
-0 679,1 Adult,2 Dar,3 AIDS,4 1.0,5 35.0,6 nan,7 nan,8 respond noth add said husband die leg cancer
-0 799,1 Adult,2 Dar,3 Maternal,4 2.0,5 18.0,6 nan,7 nan,8 respond thank visit
-0 1089,1 Adult,2 Dar,3 Other Non-communicable Diseases,4 2.0,5 55.0,6 nan,7 nan,8 noth say thank
-0 1165,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 58.0,6 nan,7 nan,8 respond thank visit
-0 1216,1 Adult,2 Dar,3 Maternal,4 2.0,5 29.0,6 nan,7 nan,8 respond noth add medic record misplac
-0 1271,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 75.0,6 nan,7 nan,8 respond noth add thank nurs bigheart medic record upcountri
-0 1333,1 Adult,2 Dar,3 Maternal,4 2.0,5 27.0,6 nan,7 nan,8 respond thank servic
-0 1570,1 Adult,2 Dar,3 AIDS,4 1.0,5 35.0,6 nan,7 nan,8 respond noth add
-0 2471,1 Adult,2 Dar,3 AIDS,4 1.0,5 49.0,6 nan,7 nan,8 respond noth say thank visit note death certif taken deceas son
-0 2496,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 2.0,5 68.0,6 nan,7 nan,8 respond thank visit
-0 2923,1 Adult,2 Dar,3 Maternal,4 2.0,5 37.0,6 nan,7 nan,8 respond noth add
-0 2977,1 Adult,2 Dar,3 Colorectal Cancer,4 2.0,5 999.0,6 nan,7 nan,8 respond noth add thank appreaci visit
-0 3133,1 Adult,2 Dar,3 Pneumonia,4 2.0,5 24.0,6 nan,7 nan,8 respond thank visit
-0 3379,1 Adult,2 Dar,3 AIDS,4 1.0,5 52.0,6 nan,7 nan,8 respond satisfi hospit servic
-0 3525,1 Adult,2 Dar,3 Maternal,4 2.0,5 17.0,6 nan,7 nan,8 respond nt satisfi servic
-0 4285,1 Adult,2 Dar,3 AIDS,4 1.0,5 40.0,6 nan,7 nan,8 respond thank servic
-0 4358,1 Adult,2 Dar,3 AIDS,4 1.0,5 45.0,6 nan,7 nan,8 respond noth add
-0 5049,1 Adult,2 Dar,3 Maternal,4 2.0,5 17.0,6 nan,7 nan,8 respond noth add medic record deceas father
-0 5151,1 Adult,2 Dar,3 AIDS,4 1.0,5 54.0,6 nan,7 nan,8 respond noth add
-0 5886,1 Adult,2 Dar,3 Other Cardiovascular Diseases,4 1.0,5 81.0,6 nan,7 nan,8 respond thank visit
-0 6020,1 Adult,2 Dar,3 AIDS,4 1.0,5 55.0,6 nan,7 nan,8 respond thank servic
-0 6217,1 Adult,2 Dar,3 Maternal,4 2.0,5 18.0,6 nan,7 nan,8 respond said servic normal
-0 6343,1 Adult,2 Dar,3 TB,4 2.0,5 79.0,6 nan,7 nan,8 respond noth add
-0 6576,1 Adult,2 Dar,3 Maternal,4 2.0,5 24.0,6 nan,7 nan,8 respond noth add pleas hospit servic
-0 6684,1 Adult,2 Dar,3 Maternal,4 2.0,5 17.0,6 nan,7 nan,8 respond thank visit
-0 6772,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 46.0,6 nan,7 nan,8 thank visit
-0 7277,1 Adult,2 Dar,3 Maternal,4 2.0,5 21.0,6 nan,7 nan,8 respond noth add medic record misplac
-0 66,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 respond noth add
-0 81,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit
-0 85,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic
-0 104,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 113,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit hospit servic good
-0 147,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 157,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 163,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 176,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add medic record misplac
-0 188,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit
-0 219,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond thank servic
-0 270,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 278,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit
-0 317,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 341,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 354,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 respond thank visit
-0 392,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit servic hospit good
-0 394,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 396,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi servic hospit
-0 399,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 410,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,7 3.0,8 respond noth add
-0 427,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 respond thank visit
-0 430,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond noth add
-0 434,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 5.0,8 respond satisfi servic
-0 445,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit
-0 449,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 494,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 5.0,8 respond noth add
-0 515,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add medic record sent upcounrti
-0 527,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit
-0 530,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 respond noth add
-0 540,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 550,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 556,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 561,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 respond noth add
-0 583,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 592,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit
-0 606,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit
-0 608,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit
-0 621,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 respond thank servic
-0 622,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 1.0,8 respond thank visit
-0 675,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic
-0 690,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 respond thank visit ask improv servic
-0 691,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond noth add
-0 724,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 725,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 5.0,8 respond thank servic
-0 749,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,8 respond noth add
-0 752,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 768,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond noth add
-0 817,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit
-0 825,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 827,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi hospit servic
-0 831,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit
-0 866,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 895,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit servic hospit good
-0 896,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 respond thank interview
-0 902,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 935,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond thank visit
-0 937,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit
-0 942,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit
-0 950,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi servic
-0 954,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 979,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit
-0 991,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit hospit servic good
-0 995,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond noth add servic good
-0 1004,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond noth add
-0 1011,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic
-0 1019,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 respond thank visit
-0 1024,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 1036,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 1086,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 1125,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 1137,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,8 respond noth add
-0 1142,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,8 respond noth add
-0 1163,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit
-0 1165,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond satisfi servic
-0 1167,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit
-0 1181,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit
-0 1233,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 1244,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,7 1.0,8 respond thank visit
-0 1248,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 1258,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 respond noth add
-0 1261,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond thank servic left medic record hospit
-0 1288,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 1294,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 1.0,8 respond noth add
-0 1304,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 1318,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi servic
-0 1333,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 respond satisfi servic
-0 1355,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 1357,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 respond thank visit
-0 1386,1 Neonate,2 Dar,3 Pneumonia,4 1.0,5 nan,6 nan,8 respond noth add
-0 1392,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic
-0 1393,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,8 respond noth add
-0 1407,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 2.0,8 respond noth add
-0 1417,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 1423,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit
-0 1447,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi servic
-0 1453,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 1465,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 1506,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit
-0 1510,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 1520,1 Neonate,2 Dar,3 Congenital malformation,4 1.0,5 nan,6 nan,8 respond noth add given medic record
-0 1521,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 respond thank visit
-0 1572,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic
-0 1591,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi servic
-0 1601,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 1620,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 1645,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add servic bad provid help last moment
-0 1655,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic
-0 1656,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 respond noth add
-0 1664,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 1673,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 1675,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 1740,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond satisfi servic
-0 1770,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 1823,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,8 respond noth add
-0 1847,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add complain
-0 1856,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 respond said servic normal
-0 1879,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond thank visit servic hospit good
-0 1885,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit
-0 1900,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic
-0 1916,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 1936,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 respond thank visit servic good
-0 1942,1 Neonate,2 Dar,3 Stillbirth,4 1.0,6 nan,7 nan,8 respond satisfi servic
-0 1953,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 1961,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,8 respond thank servic
-0 1963,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond satisfi servic hospit
-0 1971,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic
-0 1976,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit encourag visit home
-0 1977,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 1982,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 1991,1 Neonate,2 Dar,3 Congenital malformation,4 2.0,5 nan,6 nan,8 respond noth add satisfi hospit servic
-0 2038,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic
-0 2046,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond said servic satisfi enough
-0 2052,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 2055,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 2063,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic
-0 2064,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 respond thank visit
-0 2070,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi servic hospit
-0 2079,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit
-0 2087,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond said servic normal
-0 2088,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond pleas servic
-0 2132,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 respond satisfi servic
-0 2174,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 respond thank visit
-0 2186,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic
-0 2196,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,7 3.0,8 respond noth add
-0 2210,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 2219,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 2269,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 respond noth add
-0 2271,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 2280,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond thank servic
-0 2283,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit
-0 2340,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank doctor attend nice
-0 2353,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic
-0 2365,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank visit
-0 2374,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond noth add
-0 2382,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond said servic normal
-0 2417,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond noth add servic good
-0 2427,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,7 2.0,8 respond noth add
-0 2461,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit
-0 2464,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank good hospit servic visit home
-0 2494,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond said servic normal
-0 2500,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add complain
-0 2512,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit
-0 2550,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 2557,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond satisfi servic
-0 2558,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 2559,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit
-0 2561,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi servic
-0 2570,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond noth add
-0 2576,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond noth add
-0 2580,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond noth add
-0 2586,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank visit
+0,16,Adult,Dar,AIDS,1.0,50.0,,,respond thank visit
+175,7570,Adult,Dar,AIDS,1.0,38.0,,,client thank servic
+118,4879,Adult,Dar,AIDS,2.0,23.0,,,client thank servic
+158,6750,Adult,Dar,AIDS,2.0,999.0,,,client thank servic
+156,6681,Adult,Dar,AIDS,1.0,999.0,,,thank hospit servic
+121,5030,Adult,Dar,AIDS,1.0,47.0,,,client thank servic got hospit
+153,6541,Adult,Dar,AIDS,2.0,35.0,,,client thank servic
+29,1240,Adult,Dar,AIDS,2.0,30.0,,,client said deceas let brought hospit way thank servic
+91,3871,Adult,Dar,AIDS,2.0,999.0,,,particip thank servic
+129,5338,Adult,Dar,AIDS,2.0,27.0,,,client thank servic got hospit
+172,7316,Adult,Dar,AIDS,2.0,21.0,,,client thank servic
+45,2278,Adult,Dar,AIDS,1.0,26.0,,,client thank servic
+143,6020,Adult,Dar,AIDS,1.0,55.0,,,respond thank servic
+184,7804,Adult,Dar,AIDS,2.0,45.0,,,particip thank servic
+183,7801,Adult,Dar,AIDS,2.0,38.0,,,particip thank servic
+182,7790,Adult,Dar,AIDS,1.0,50.0,,,client thank servic
+144,6089,Adult,Dar,AIDS,2.0,41.0,,,client thank servic got hospit satisfactori
+149,6317,Adult,Dar,AIDS,2.0,40.0,,,respond thank visit servic receiv hospit
+92,3874,Adult,Dar,AIDS,1.0,39.0,,,client thank servic
+43,2169,Adult,Dar,AIDS,2.0,42.0,,,client thank servic
+16,604,Adult,Dar,AIDS,1.0,25.0,,,client thank servic
+101,4343,Adult,Dar,AIDS,2.0,42.0,,,client thank servic
+15,583,Adult,Dar,AIDS,2.0,46.0,,,client thank servic
+114,4755,Adult,Dar,AIDS,2.0,33.0,,,client thank servic
+98,4285,Adult,Dar,AIDS,1.0,40.0,,,respond thank servic
+110,4605,Adult,Dar,AIDS,1.0,59.0,,,client thank servic
+6,126,Adult,Dar,AIDS,1.0,46.0,,,client thank servic
+111,4628,Adult,Dar,AIDS,2.0,36.0,,,client thank servic
+61,2779,Adult,Dar,Asthma,1.0,75.0,,,client thank servic
+113,4741,Adult,Dar,Asthma,1.0,85.0,,,particip thank servic
+252,427,Neonate,Dar,Birth asphyxia,2.0,,,0.0,respond thank visit
+338,2280,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond thank servic
+337,2267,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond thank servic receiv
+300,1421,Neonate,Dar,Birth asphyxia,1.0,,,0.0,interview thank servic got
+283,1019,Neonate,Dar,Birth asphyxia,2.0,,,0.0,respond thank visit
+277,935,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond thank visit
+266,622,Neonate,Dar,Birth asphyxia,1.0,,,1.0,respond thank visit
+260,546,Neonate,Dar,Birth asphyxia,1.0,,,0.0,client thank servic
+245,260,Neonate,Dar,Birth asphyxia,1.0,,,1.0,client thank servic
+242,219,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond thank servic
+174,7487,Adult,Dar,Breast Cancer,2.0,54.0,,,client thank servic suggest servic improv
+168,7010,Adult,Dar,Breast Cancer,2.0,78.0,,,client thank servic
+54,2482,Adult,Dar,Breast Cancer,2.0,66.0,,,client thank servic
+58,2649,Adult,Dar,Breast Cancer,2.0,34.0,,,client thank servic
+147,6260,Adult,Dar,Breast Cancer,2.0,78.0,,,client thank servic
+34,1473,Adult,Dar,Breast Cancer,2.0,65.0,,,particip thank servic
+137,5701,Adult,Dar,Breast Cancer,2.0,49.0,,,client thank servic
+32,1378,Adult,Dar,Breast Cancer,2.0,44.0,,,client thank servic
+162,6832,Adult,Dar,Breast Cancer,2.0,60.0,,,client thank servic
+84,3713,Adult,Dar,Breast Cancer,2.0,73.0,,,client thank servic
+66,2982,Adult,Dar,Breast Cancer,2.0,30.0,,,client thank servic said deceas die breast cancer
+138,5706,Adult,Dar,Cervical Cancer,2.0,48.0,,,client thank servic certif
+80,3483,Adult,Dar,Cervical Cancer,2.0,59.0,,,client thank servic
+86,3742,Adult,Dar,Cervical Cancer,2.0,60.0,,,client thank servic
+119,4974,Adult,Dar,Cervical Cancer,2.0,90.0,,,client thank servic
+90,3809,Adult,Dar,Cervical Cancer,2.0,78.0,,,client thank servic
+159,6772,Adult,Dar,Cervical Cancer,2.0,46.0,,,thank visit
+82,3643,Adult,Dar,Cervical Cancer,2.0,59.0,,,client thank servic
+165,6877,Adult,Dar,Cervical Cancer,2.0,35.0,,,client thank servic
+28,1229,Adult,Dar,Cervical Cancer,2.0,40.0,,,client thank servic
+163,6845,Adult,Dar,Cervical Cancer,2.0,56.0,,,client thank servic
+164,6867,Adult,Dar,Cervical Cancer,2.0,54.0,,,client thank servic
+51,2378,Adult,Dar,Cervical Cancer,2.0,75.0,,,client thank servic
+42,2134,Adult,Dar,Cervical Cancer,2.0,58.0,,,client thank servic
+14,548,Adult,Dar,Cervical Cancer,2.0,50.0,,,client thank servic
+107,4531,Adult,Dar,Cirrhosis,1.0,80.0,,,client thank servic
+19,692,Adult,Dar,Cirrhosis,1.0,59.0,,,client thank servic
+103,4346,Adult,Dar,Colorectal Cancer,2.0,38.0,,,client thank servic
+148,6281,Adult,Dar,Colorectal Cancer,1.0,90.0,,,client thank servic
+123,5110,Adult,Dar,Colorectal Cancer,2.0,30.0,,,client thank servic
+342,2311,Neonate,Dar,Congenital malformation,2.0,,,0.0,client thank servic
+321,1961,Neonate,Dar,Congenital malformation,2.0,,,0.0,respond thank servic
+317,1896,Neonate,Dar,Congenital malformation,2.0,,,7.0,particip thank servic
+310,1734,Neonate,Dar,Congenital malformation,1.0,,,0.0,client thank servic got
+243,223,Neonate,Dar,Congenital malformation,1.0,,,1.0,particip thank servic
+109,4600,Adult,Dar,Diabetes,2.0,26.0,,,client thank servic
+85,3739,Adult,Dar,Diabetes,2.0,48.0,,,client said deceas die diabet also thank servic
+127,5294,Adult,Dar,Diabetes,1.0,56.0,,,client thank servic
+59,2662,Adult,Dar,Diabetes,,65.0,,,client thank servic
+77,3402,Adult,Dar,Diabetes,1.0,63.0,,,thank servic
+167,6962,Adult,Dar,Diabetes,1.0,60.0,,,client thank servic
+133,5538,Adult,Dar,Diabetes,1.0,59.0,,,client thank servic
+70,3111,Adult,Dar,Diabetes,2.0,68.0,,,client thank servic
+170,7244,Adult,Dar,Diarrhea/Dysentery,2.0,33.0,,,client thank servic
+100,4318,Adult,Dar,Diarrhea/Dysentery,1.0,16.0,,,client thank servic
+181,7750,Adult,Dar,Diarrhea/Dysentery,2.0,65.0,,,client thank servic
+192,193,Child,Dar,Diarrhea/Dysentery,1.0,1.0,,,particip thank servic
+227,1485,Child,Dar,Diarrhea/Dysentery,2.0,8.0,,,client thank servic
+205,592,Child,Dar,Diarrhea/Dysentery,2.0,,6.0,,client thank servic
+188,48,Child,Dar,Diarrhea/Dysentery,1.0,,5.0,,client thank servic think child die malaria
+120,5013,Adult,Dar,Diarrhea/Dysentery,2.0,66.0,,,particip thank servic
+204,553,Child,Dar,Diarrhea/Dysentery,2.0,1.0,,,client servic
+69,3091,Adult,Dar,Drowning,1.0,38.0,,,particip thank servic
+186,7846,Adult,Dar,Esophageal Cancer,1.0,90.0,,,client thank servic
+57,2630,Adult,Dar,Esophageal Cancer,2.0,999.0,,,client thank servic although certif
+106,4465,Adult,Dar,Esophageal Cancer,2.0,52.0,,,client thank servic
+105,4447,Adult,Dar,Esophageal Cancer,1.0,84.0,,,client thank servic
+196,244,Child,Dar,Falls,1.0,4.0,,,client thank servic
+202,410,Child,Dar,Fires,1.0,5.0,,,client thank servic
+4,70,Adult,Dar,Fires,2.0,20.0,,,client thank servic
+41,2113,Adult,Dar,Fires,2.0,23.0,,,client thank servic
+200,388,Child,Dar,Fires,2.0,8.0,,,client thank servic
+198,336,Child,Dar,Fires,1.0,8.0,,,client thank servic
+26,1083,Adult,Dar,Homicide,1.0,35.0,,,client thank servic
+117,4863,Adult,Dar,Leukemia/Lymphomas,2.0,49.0,,,particip thank servic
+134,5647,Adult,Dar,Leukemia/Lymphomas,1.0,999.0,,,client thank servic
+177,7631,Adult,Dar,Leukemia/Lymphomas,1.0,86.0,,,particip thank servic
+24,970,Adult,Dar,Leukemia/Lymphomas,2.0,16.0,,,thank servic
+152,6407,Adult,Dar,Lung Cancer,1.0,48.0,,,client thank servic
+210,689,Child,Dar,Malaria,1.0,1.0,,,client thank servic
+207,643,Child,Dar,Malaria,1.0,1.0,,,client thank servic client uncl die due malaria
+212,741,Child,Dar,Malaria,2.0,2.0,,,client thank servic
+194,210,Child,Dar,Malaria,2.0,,8.0,,client thank servic
+219,988,Child,Dar,Malaria,1.0,,9.0,,particip thank servic
+226,1436,Child,Dar,Malaria,1.0,10.0,,,particip thank servic
+190,65,Child,Dar,Malaria,2.0,,11.0,,client thank servic
+189,59,Child,Dar,Malaria,2.0,7.0,,,client thank servic
+35,1509,Adult,Dar,Malaria,2.0,70.0,,,client thank servic
+201,397,Child,Dar,Malaria,1.0,4.0,,,client thank servic
+135,5658,Adult,Dar,Maternal,2.0,22.0,,,client thank servic
+185,7807,Adult,Dar,Maternal,2.0,21.0,,,client thank servic think deceas die anaemia
+33,1451,Adult,Dar,Maternal,2.0,35.0,,,client thank servic
+49,2339,Adult,Dar,Maternal,2.0,27.0,,,client thank servic
+166,6952,Adult,Dar,Maternal,2.0,29.0,,,client thank servic
+56,2547,Adult,Dar,Maternal,2.0,30.0,,,client thank servic
+30,1333,Adult,Dar,Maternal,2.0,27.0,,,respond thank servic
+60,2737,Adult,Dar,Maternal,2.0,30.0,,,client thank servic good
+157,6684,Adult,Dar,Maternal,2.0,17.0,,,respond thank visit
+155,6614,Adult,Dar,Maternal,2.0,28.0,,,client thank servic
+102,4344,Adult,Dar,Maternal,2.0,35.0,,,client thank servic
+21,799,Adult,Dar,Maternal,2.0,18.0,,,respond thank visit
+17,620,Adult,Dar,Maternal,2.0,25.0,,,client thank servic
+5,116,Adult,Dar,Maternal,2.0,20.0,,,respond thank servic
+151,6381,Adult,Dar,Maternal,2.0,15.0,,,client thank servic
+216,869,Child,Dar,Meningitis,1.0,,11.0,,client thank servic
+233,2027,Child,Dar,Meningitis,1.0,,3.0,,client thank servic
+213,756,Child,Dar,Meningitis,1.0,,4.0,,particip thank servic
+235,36,Neonate,Dar,Meningitis/Sepsis,2.0,,,0.0,respond thank servic receiv
+265,621,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,respond thank servic
+267,631,Neonate,Dar,Meningitis/Sepsis,2.0,,,7.0,client thank servic
+270,682,Neonate,Dar,Meningitis/Sepsis,2.0,,,5.0,client thank servic
+286,1104,Neonate,Dar,Meningitis/Sepsis,2.0,,,3.0,particip thank servic
+333,2174,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,respond thank visit
+340,2285,Neonate,Dar,Meningitis/Sepsis,1.0,,,5.0,client thank servic
+341,2299,Neonate,Dar,Meningitis/Sepsis,1.0,,,5.0,client thank servic
+354,2610,Neonate,Dar,Meningitis/Sepsis,2.0,,,7.0,particip thank servic
+140,5886,Adult,Dar,Other Cardiovascular Diseases,1.0,81.0,,,respond thank visit
+145,6110,Adult,Dar,Other Cardiovascular Diseases,1.0,55.0,,,particip thank servic
+38,1883,Adult,Dar,Other Cardiovascular Diseases,1.0,32.0,,,particip thank servic
+74,3324,Adult,Dar,Other Cardiovascular Diseases,2.0,54.0,,,client thank servic
+232,1938,Child,Dar,Other Cardiovascular Diseases,2.0,3.0,,,client thank servic
+36,1709,Adult,Dar,Other Cardiovascular Diseases,2.0,70.0,,,client thank servic
+55,2496,Adult,Dar,Other Cardiovascular Diseases,2.0,68.0,,,respond thank visit
+75,3329,Adult,Dar,Other Cardiovascular Diseases,1.0,40.0,,,particip thank servic
+161,6803,Adult,Dar,Other Cardiovascular Diseases,1.0,15.0,,,client thank servic
+46,2288,Adult,Dar,Other Cardiovascular Diseases,2.0,32.0,,,particip thank servic
+141,6000,Adult,Dar,Other Cardiovascular Diseases,2.0,30.0,,,particip thank servic
+95,4156,Adult,Dar,Other Cardiovascular Diseases,2.0,30.0,,,client thank servic
+3,35,Adult,Dar,Other Cardiovascular Diseases,2.0,77.0,,,client noth say thank
+27,1165,Adult,Dar,Other Cardiovascular Diseases,1.0,58.0,,,respond thank visit
+99,4314,Adult,Dar,Other Cardiovascular Diseases,1.0,65.0,,,client thank servic
+79,3428,Adult,Dar,Other Cardiovascular Diseases,2.0,44.0,,,client thank servic
+211,725,Child,Dar,Other Cardiovascular Diseases,2.0,8.0,,,client thank servic
+68,3011,Adult,Dar,Other Cardiovascular Diseases,1.0,56.0,,,client thank
+215,819,Child,Dar,Other Defined Causes of Child Deaths,,,8.0,,client thank servic got hospit wors
+231,1712,Child,Dar,Other Defined Causes of Child Deaths,2.0,,1.0,,client thank servic
+214,804,Child,Dar,Other Defined Causes of Child Deaths,1.0,4.0,,,client thank servic
+206,623,Child,Dar,Other Defined Causes of Child Deaths,1.0,,3.0,,client thank servic
+208,661,Child,Dar,Other Defined Causes of Child Deaths,2.0,,6.0,,client thank servic
+197,332,Child,Dar,Other Defined Causes of Child Deaths,2.0,1.0,,,client thank servic
+209,688,Child,Dar,Other Defined Causes of Child Deaths,1.0,3.0,,,client thank servic
+229,1580,Child,Dar,Other Digestive Diseases,2.0,1.0,,,client thank servic
+221,1303,Child,Dar,Other Infectious Diseases,1.0,9.0,,,client thank servic
+131,5409,Adult,Dar,Other Infectious Diseases,1.0,40.0,,,client thank fopr servic
+13,541,Adult,Dar,Other Infectious Diseases,1.0,23.0,,,particip thank servic
+7,147,Adult,Dar,Other Infectious Diseases,1.0,45.0,,,client thank servic
+97,4183,Adult,Dar,Other Infectious Diseases,1.0,16.0,,,client thank servic
+108,4542,Adult,Dar,Other Infectious Diseases,2.0,31.0,,,client thank servic
+63,2806,Adult,Dar,Other Infectious Diseases,1.0,12.0,,,client thank servic
+1,30,Adult,Dar,Other Infectious Diseases,1.0,65.0,,,client thank servic
+150,6353,Adult,Dar,Other Non-communicable Diseases,2.0,29.0,,,client thank servic
+83,3676,Adult,Dar,Other Non-communicable Diseases,1.0,50.0,,,client thank servic
+10,398,Adult,Dar,Other Non-communicable Diseases,1.0,38.0,,,client thank servic
+87,3749,Adult,Dar,Other Non-communicable Diseases,1.0,17.0,,,client thank servic
+128,5299,Adult,Dar,Other Non-communicable Diseases,1.0,45.0,,,particip thank servic
+139,5723,Adult,Dar,Other Non-communicable Diseases,2.0,30.0,,,client thank servic
+53,2459,Adult,Dar,Other Non-communicable Diseases,1.0,34.0,,,client thank servic
+176,7629,Adult,Dar,Other Non-communicable Diseases,1.0,50.0,,,client thank servic got hospit
+8,173,Adult,Dar,Other Non-communicable Diseases,2.0,52.0,,,client said servic perfect thank doctor
+169,7224,Adult,Dar,Other Non-communicable Diseases,1.0,68.0,,,client thank servic
+39,1955,Adult,Dar,Other Non-communicable Diseases,2.0,41.0,,,client thank servic
+72,3302,Adult,Dar,Other Non-communicable Diseases,2.0,57.0,,,client thank servic
+67,2998,Adult,Dar,Other Non-communicable Diseases,1.0,33.0,,,client thank servic
+146,6251,Adult,Dar,Other Non-communicable Diseases,2.0,50.0,,,client thank servic got hospit
+2,34,Adult,Dar,Pneumonia,2.0,37.0,,,client thank servic
+218,954,Child,Dar,Pneumonia,,15.0,,,particip thank servic
+217,891,Child,Dar,Pneumonia,2.0,,8.0,,client thank servic
+115,4757,Adult,Dar,Pneumonia,1.0,62.0,,,client thank servic
+222,1363,Child,Dar,Pneumonia,1.0,,7.0,,client thank servic
+223,1367,Child,Dar,Pneumonia,2.0,,8.0,,client thank servic
+225,1378,Child,Dar,Pneumonia,1.0,,2.0,,client thank servic
+22,885,Adult,Dar,Pneumonia,2.0,60.0,,,client thank servic
+323,1974,Neonate,Dar,Pneumonia,2.0,,,9.0,client thank servic
+88,3768,Adult,Dar,Pneumonia,2.0,25.0,,,client thank servic
+296,1305,Neonate,Dar,Pneumonia,1.0,,,5.0,client thank servic
+116,4803,Adult,Dar,Pneumonia,1.0,35.0,,,client thank servic
+255,459,Neonate,Dar,Pneumonia,1.0,,,2.0,client thank servic
+112,4664,Adult,Dar,Pneumonia,2.0,55.0,,,client thank servic
+220,1035,Child,Dar,Pneumonia,2.0,2.0,,,client thank servic
+331,2152,Neonate,Dar,Pneumonia,2.0,2.0,,,client thank servic
+230,1585,Child,Dar,Pneumonia,2.0,1.0,,,client thank servic
+37,1815,Adult,Dar,Pneumonia,1.0,30.0,,,client thank servic
+154,6554,Adult,Dar,Pneumonia,1.0,45.0,,,thank servic death certif
+50,2360,Adult,Dar,Pneumonia,2.0,37.0,,,client thank thank servic
+191,137,Child,Dar,Pneumonia,2.0,2.0,,,particip thank servic
+160,6791,Adult,Dar,Pneumonia,1.0,25.0,,,client thank servic
+130,5383,Adult,Dar,Pneumonia,2.0,65.0,,,client thank servic
+195,221,Child,Dar,Pneumonia,2.0,,7.0,,client thank servic
+193,196,Child,Dar,Pneumonia,2.0,,1.0,,client thank servic
+71,3133,Adult,Dar,Pneumonia,2.0,24.0,,,respond thank visit
+48,2299,Adult,Dar,Pneumonia,1.0,50.0,,,client thank servic
+199,363,Child,Dar,Pneumonia,2.0,,3.0,,die nt thank servic
+125,5153,Adult,Dar,Poisonings,1.0,65.0,,,particip thank servic
+294,1286,Neonate,Dar,Preterm Delivery,2.0,,,14.0,client thank servic
+271,690,Neonate,Dar,Preterm Delivery,1.0,,,0.0,respond thank visit ask improv servic
+251,407,Neonate,Dar,Preterm Delivery,2.0,,,7.0,client thank servic
+311,1746,Neonate,Dar,Preterm Delivery,1.0,,,4.0,client thank servic
+314,1844,Neonate,Dar,Preterm Delivery,2.0,,,1.0,client thank servic
+247,354,Neonate,Dar,Preterm Delivery,1.0,,,0.0,respond thank visit
+329,2100,Neonate,Dar,Preterm Delivery,1.0,,,1.0,client thank servic provid us
+249,387,Neonate,Dar,Preterm Delivery,2.0,,,1.0,client think child die prematur client thank servic
+272,725,Neonate,Dar,Preterm Delivery,1.0,,,5.0,respond thank servic
+248,364,Neonate,Dar,Preterm Delivery,1.0,,,1.0,client thank servic
+330,2103,Neonate,Dar,Preterm Delivery,2.0,,,0.0,respond thank servic receiv
+259,539,Neonate,Dar,Preterm Delivery,2.0,,,3.0,particip thank servic
+256,511,Neonate,Dar,Preterm Delivery,2.0,,,1.0,client thank servic
+293,1278,Neonate,Dar,Preterm Delivery,1.0,,,0.0,client thank servic provid us
+302,1430,Neonate,Dar,Preterm Delivery,2.0,,,0.0,client thank servic
+291,1240,Neonate,Dar,Preterm Delivery,1.0,,,0.0,respond thank servic receiv
+351,2562,Neonate,Dar,Preterm Delivery,1.0,,,4.0,client thank servic
+295,1300,Neonate,Dar,Preterm Delivery,2.0,,,0.0,client thank servic
+297,1357,Neonate,Dar,Preterm Delivery,1.0,,,0.0,respond thank visit
+348,2481,Neonate,Dar,Preterm Delivery,2.0,,,8.0,client thank servic
+299,1402,Neonate,Dar,Preterm Delivery,1.0,,,3.0,client thank servic
+234,27,Neonate,Dar,Preterm Delivery,1.0,,,0.0,particip thank servic
+326,2064,Neonate,Dar,Preterm Delivery,1.0,,,0.0,respond thank visit
+278,936,Neonate,Dar,Preterm Delivery,2.0,,,4.0,particip thank servic
+307,1592,Neonate,Dar,Preterm Delivery,2.0,,,3.0,client thank servic
+328,2082,Neonate,Dar,Preterm Delivery,1.0,,,3.0,client thank servic
+304,1521,Neonate,Dar,Preterm Delivery,2.0,,,0.0,respond thank visit
+23,887,Adult,Dar,Prostate Cancer,1.0,46.0,,,client thank servic
+142,6019,Adult,Dar,Prostate Cancer,1.0,65.0,,,client thank servic
+40,2047,Adult,Dar,Prostate Cancer,1.0,50.0,,,client thank servic
+44,2217,Adult,Dar,Renal Failure,1.0,52.0,,,client thank servic
+11,453,Adult,Dar,Renal Failure,1.0,29.0,,,client thank servic
+179,7731,Adult,Dar,Renal Failure,1.0,16.0,,,particip thank servic
+62,2803,Adult,Dar,Renal Failure,2.0,56.0,,,client thank servic
+20,785,Adult,Dar,Renal Failure,2.0,18.0,,,client thank servic
+187,32,Child,Dar,Road Traffic,1.0,6.0,,,client thank visit
+224,1376,Child,Dar,Road Traffic,1.0,11.0,,,client thank servic
+228,1560,Child,Dar,Sepsis,2.0,1.0,,,client thank servic provid us
+203,524,Child,Dar,Sepsis,1.0,,6.0,,client thank servic hospit realli wors
+306,1572,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic
+305,1553,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic receiv
+345,2378,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+346,2418,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+303,1506,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank visit
+332,2165,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic receiv thank visit
+347,2461,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit
+298,1392,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic
+349,2512,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit
+350,2559,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit
+352,2566,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic receiv
+301,1423,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank visit
+344,2365,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank visit
+309,1680,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+327,2079,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit
+325,2063,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic
+324,2038,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic
+322,1971,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic
+320,1931,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+319,1901,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+318,1900,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic
+316,1885,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank visit
+315,1878,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+334,2186,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic
+313,1830,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic receiv
+312,1771,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+335,2212,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+336,2249,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+339,2283,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank visit
+343,2353,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic
+308,1655,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic
+282,1011,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic
+250,389,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic receiv
+290,1181,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank visit
+262,592,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank visit
+261,585,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+353,2586,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit
+292,1244,Neonate,Dar,Stillbirth,2.0,,,1.0,respond thank visit
+257,527,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit
+254,445,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit
+253,428,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic receiv
+246,278,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit
+244,258,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic receiv
+241,188,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit
+240,183,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic receiv
+239,179,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+238,85,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic
+237,81,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank visit
+236,68,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic receiv
+263,606,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank visit
+264,608,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank visit
+258,532,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+285,1096,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+289,1167,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit
+288,1163,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank visit
+287,1151,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic receiv
+268,633,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+284,1020,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic receiv
+280,942,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank visit
+279,937,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit
+276,831,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank visit
+281,979,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit
+275,817,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank visit
+274,788,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic receiv
+269,675,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic
+273,730,Neonate,Dar,Stillbirth,2.0,,,0.0,respond thank servic receiv
+65,2916,Adult,Dar,Stomach Cancer,1.0,61.0,,,client thank servic
+64,2905,Adult,Dar,Stroke,1.0,85.0,,,client thank servic
+12,506,Adult,Dar,Stroke,1.0,54.0,,,respond thank servic
+104,4356,Adult,Dar,Stroke,2.0,81.0,,,client thank servic
+171,7247,Adult,Dar,Stroke,2.0,25.0,,,client thank servic
+9,256,Adult,Dar,Stroke,1.0,54.0,,,client thank servic
+93,4016,Adult,Dar,Stroke,2.0,84.0,,,client thank servic
+52,2455,Adult,Dar,Stroke,1.0,70.0,,,client thank servic
+18,681,Adult,Dar,Stroke,2.0,35.0,,,client thank servic
+76,3348,Adult,Dar,Stroke,1.0,60.0,,,particip thank servic
+180,7746,Adult,Dar,Stroke,1.0,85.0,,,client thank servic
+122,5091,Adult,Dar,Stroke,1.0,,,,client thank servic said perfect
+96,4172,Adult,Dar,Stroke,2.0,28.0,,,client thank servic
+81,3533,Adult,Dar,Stroke,2.0,60.0,,,thank servic
+136,5693,Adult,Dar,Stroke,1.0,60.0,,,client thank servic
+89,3777,Adult,Dar,Suicide,2.0,18.0,,,particip thank servic
+25,1005,Adult,Dar,TB,2.0,28.0,,,client thank servic
+124,5143,Adult,Dar,TB,1.0,53.0,,,client thank servic
+78,3426,Adult,Dar,TB,2.0,81.0,,,client thank servic got hospit nurs hospit thank caus death anemia
+94,4141,Adult,Dar,TB,2.0,55.0,,,client thank servic
+132,5413,Adult,Dar,TB,1.0,38.0,,,client thank servic
+47,2298,Adult,Dar,TB,1.0,48.0,,,particip thank servic
+178,7675,Adult,Dar,TB,2.0,41.0,,,client thank servic
+173,7441,Adult,Dar,TB,1.0,32.0,,,client thank servic
+73,3317,Adult,Dar,TB,2.0,999.0,,,client thank servic
+31,1336,Adult,Dar,TB,2.0,25.0,,,client thank servic
+126,5267,Adult,Dar,TB,1.0,64.0,,,particip thank servic

@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 import random
 from src.utils import utils
 from src.utils.distance import MDistance
@@ -17,7 +18,7 @@ class KMeans:
         kmeans = KMeans(output_path, data, k=k, m=m)
         kmeans._form_clusters(verbose=True)
 
-    def __init__(self, output_path, data, k=10, tolerance=0.3, m=2, init_strat="random", max_it=50):
+    def __init__(self, output_path, data, k=10, tolerance=0.1, m=2, init_strat="random", max_it=50):
         self._data = data
         self._k = min(k, len(self._data))
         self._centroids = [None] * k
@@ -53,6 +54,7 @@ class KMeans:
         self._save_clusters(verbose)
         if verbose:
             print("Clusters Saved")
+        self.plot(separate=True)
 
     def _initialize_centroids(self, init_strat):
         # default: INIT_RANDOM
@@ -146,16 +148,31 @@ class KMeans:
 
         for i in range(self._k):
             cluster = pd.SparseDataFrame(columns=self._data.columns)
-
             for t in range(len(self._instances)):
                 if self._belonging_bits[t][i]:
                     instance_data = pd.SparseDataFrame([self._data.get_values()[t]], columns=self._data.columns)
                     cluster = cluster.append(instance_data.copy(), ignore_index=True)
 
             cluster_path = os.path.join(dir_path, 'cluster{}.csv'.format(i))
+            cluster = cluster.sort_values(by=['gs_text34'])
             cluster.to_csv(path_or_buf=cluster_path, index_label=False)
             if verbose:
                 print("Saved cluster nº {}".format(i))
+
+    def plot(self, separate):
+        pca = utils.pca_filter(self._instances, 2)
+        for i in range(len(self._centroids)):
+            if separate:
+                plt.figure(i)
+            c = [[random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1)]]
+            for t in range(len(self._instances)):
+                if self._belonging_bits[t][i]:
+                    plt.scatter(pca[t][0], pca[t][1], c=c)
+                    if separate:
+                        plt.text(pca[t][0], pca[t][1], s=self._data['gs_text34'][t], fontsize=10)
+            if separate:
+                plt.title("Cluster {}".format(i))
+        plt.show()
 
 
 if __name__ == '__main__':

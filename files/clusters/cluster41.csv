@@ -1,97 +1,262 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-0 654,1 Adult,2 Dar,3 Maternal,4 2.0,5 20.0,6 nan,7 nan,8 respond claim servic bad nt receiv death certif
-0 709,1 Adult,2 Mexico,3 Pneumonia,4 2.0,5 37.0,6 nan,7 nan,8 care receiv hospit ws good although never found die
-0 1202,1 Adult,2 Pemba,3 Maternal,4 2.0,5 37.0,6 nan,7 nan,8 vagin bleed delay receiv care main caus death said wife arriv hospit nt receiv care
-0 1663,1 Adult,2 Mexico,3 Cirrhosis,4 1.0,5 64.0,6 nan,7 nan,8 person mention attent receiv hospit poor person mention attent receiv hospit poor
-0 3976,1 Adult,2 Dar,3 AIDS,4 1.0,5 43.0,6 nan,7 nan,8 respond thank servic brother receiv satisfi
-0 4396,1 Adult,2 Mexico,3 Stroke,4 1.0,5 83.0,6 nan,7 nan,8 attent receiv hospit goodth interview good fluent
-0 4525,1 Adult,2 Dar,3 AIDS,4 1.0,5 44.0,6 nan,7 nan,8 respond thank servic receiv hospit good
-0 4731,1 Adult,2 Dar,3 AIDS,4 2.0,5 46.0,6 nan,7 nan,8 respond pleas servic wife receiv death certif medic record sent upcountri deceas mother
-0 5127,1 Adult,2 Mexico,3 Other Non-communicable Diseases,4 2.0,5 44.0,6 nan,7 nan,8 receiv top notch healthcar thank
-0 5319,1 Adult,2 Dar,3 AIDS,4 1.0,5 53.0,6 nan,7 nan,8 respond thank servic deceas receiv good
-0 6317,1 Adult,2 Dar,3 AIDS,4 2.0,5 40.0,6 nan,7 nan,8 respond thank visit servic receiv hospit
-0 6710,1 Adult,2 Dar,3 Cervical Cancer,4 2.0,5 30.0,6 nan,7 nan,8 respond thank hospit servic claim servic delay patent die treatment
-0 7167,1 Adult,2 Mexico,3 Fires,4 1.0,5 70.0,6 nan,7 nan,8 took long time take hospit took hour hospit want receiv granddaugght talk doctor would receiv thereth interview went smoothli
-0 1543,1 Child,2 Pemba,3 Diarrhea/Dysentery,4 1.0,5 nan,6 9.0,7 nan,8 respond explain caus death diarrhea delay receiv care hospit
-0 1860,1 Child,2 Pemba,3 Pneumonia,4 2.0,5 1.0,6 nan,7 nan,8 respond explain deceas seriou pneumonia examin done receiv proper care
-0 36,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 37,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother condit got wors without receiv care medic record lost
-0 53,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother nt satisfi hospit servic nt receiv care suppos deliv csection nt
-0 64,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 1.0,8 respond satisfi hospit servic claim doctor cooper
-0 68,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv
-0 108,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond satisfi servic receiv
-0 179,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 183,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv
-0 206,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 servic resond receiv good
-0 235,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond said receiv good servic
-0 258,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv
-0 262,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother complain nt receiv help babi deliv leg first
-0 266,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,7 1.0,8 client said sevic receiv hospit poor compas
-0 301,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 respond said receiv good servic
-0 376,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother nt receiv hospit care deliv hereself given medic record
-0 383,1 Neonate,2 Dar,3 Birth asphyxia,4 2.0,5 nan,6 nan,8 respond claim babi nt receiv servic nurs
-0 389,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv
-0 406,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 mother complain servic sinc receiv servic immedi arriv
-0 428,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv
-0 489,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond said receiv good servic death babi god
-0 523,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv first ultrasound show problem second ultrasound show problem oper surpris first ultrasound show problem
-0 532,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 585,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 613,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 servic resond receiv good nurs help respond nice
-0 623,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi servic receiv
-0 633,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 635,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 1.0,8 respond satisfi servic receiv
-0 637,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi servic receiv
-0 730,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 732,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi servic receiv
-0 788,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv
-0 823,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond satisfi servic receiv medic record left hospit
-0 836,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond said servic receiv hospit bad nurs nt help patient
-0 851,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond satisfi servic receiv
-0 898,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv good
-0 1020,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv
-0 1070,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank good servic receiv help
-0 1081,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond nt like servic receiv claim delay provid care nt know mother kept medic record
-0 1096,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 1151,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv
-0 1168,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 2.0,8 respond thank servic receiv medic record found
-0 1210,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv attend nice environ clean
-0 1231,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond satisfi servic receiv
-0 1240,1 Neonate,2 Dar,3 Preterm Delivery,4 1.0,5 nan,6 nan,8 respond thank servic receiv
-0 1280,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond said receiv good servic
-0 1383,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank receiv good servic
-0 1495,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi servic receiv
-0 1552,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank good servic receiv hospit
-0 1553,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv
-0 1562,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 16.0,8 respond satisfi servic receiv
-0 1653,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother complain nt receiv care
-0 1680,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 1698,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 2.0,5 nan,6 nan,7 8.0,8 respond complain didi nt receiv servic sinc child admit unknown problem
-0 1725,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank good servic receiv
-0 1732,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv one babi die god
-0 1738,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv claim nurs contribut death babi
-0 1771,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 1816,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 servic good nt receiv care lost medic record
-0 1830,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv
-0 1878,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 1898,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond satisfi servic receiv
-0 1901,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 1931,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 2103,1 Neonate,2 Dar,3 Preterm Delivery,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 2165,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv thank visit
-0 2193,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv help nice
-0 2212,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 2249,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 2267,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond thank servic receiv
-0 2279,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond claim mother receiv servic last moment weak
-0 2321,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi servic receiv
-0 2338,1 Neonate,2 Dar,3 Birth asphyxia,4 1.0,5 nan,6 nan,8 respond thank much servic receiv good
-0 2366,1 Neonate,2 Dar,3 Meningitis/Sepsis,4 1.0,5 nan,6 nan,7 7.0,8 mother commend good care receiv labour ward
-0 2378,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 2418,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond thank servic receiv
-0 2474,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 mother accept situat lost babi also satisfi servic receiv
-0 2478,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond satisfi servic receiv
-0 2487,1 Neonate,2 Dar,3 Stillbirth,4 2.0,5 nan,6 nan,8 respond satisfi servic receiv
-0 2528,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv though satisfi
-0 2566,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond thank servic receiv
-0 2621,1 Neonate,2 Dar,3 Stillbirth,4 1.0,5 nan,6 nan,8 respond satisfi servic receiv
+78,2471,Adult,Dar,AIDS,1.0,49.0,,,respond noth say thank visit note death certif taken deceas son
+175,5794,Adult,UP,AIDS,1.0,36.0,,,deceas pu brain hiv deceas admit came back home improv health admit day later deceas smoker
+42,1348,Adult,UP,AIDS,2.0,40.0,,,deceas brain tuberculosi hiv
+202,6854,Adult,Dar,AIDS,1.0,28.0,,,client believ deceas dead blood cancer
+15,611,Adult,UP,AIDS,1.0,35.0,,,deceas gone place work work day fell ill treatment complet cure deceas irrit disposit would get angri easili
+226,7312,Adult,Mexico,AIDS,1.0,39.0,,,noth deceas healthi suddenli condit becam seriou die
+36,1105,Adult,Bohol,Acute Myocardial Infarction,2.0,85.0,,,transfer place hous built near place far concern never complain anyth health use take care son work still walk thick die old knew mild fever ask son bring hospit reach hospit die hour note health record hospit respond happen know deceas lass year know much deceas accord observ deceas healthi never ill sinc came know deceas deceas never complain anyth health deceas slight fever time complain si feel well
+124,4013,Adult,UP,Acute Myocardial Infarction,2.0,60.0,,,eldest son deceas die year ago due deceas stress grievou state day death woman neighborhood come meet talker dead son discuss start cri faint
+166,5582,Adult,UP,Acute Myocardial Infarction,1.0,65.0,,,deceas went urin go sleep experienc sharp pain urin taken hospit doctor place diagnos heart attack breath rhythm broken breath rate rapid deceas experienc relief symptom intensifi night deceas expir
+92,2846,Adult,UP,Acute Myocardial Infarction,1.0,60.0,,,deceas absolut healthi cycl km day death deceas suffer ill known arkulnisha year death
+54,1790,Adult,UP,Asthma,1.0,45.0,,,deceas experienc troubl breath dust present excess environ sever pain began shoulder blade bitten dog month ago treat
+9,440,Adult,UP,Bite of Venomous Animal,2.0,13.0,,,deceas bitten snake bitten deceas vomit time vomit yellow color slowli voic start stoop eye also begun slowli close
+35,1095,Adult,UP,Bite of Venomous Animal,2.0,19.0,,,deceas bitten snake die
+72,2344,Adult,UP,Bite of Venomous Animal,2.0,13.0,,,deceas die due bitten snake
+39,1242,Adult,UP,Bite of Venomous Animal,1.0,16.0,,,deceas suffer movement rib winter bitten insect taken nurs home place fell unconsci admit hospit regain consciou die
+152,4966,Adult,UP,Bite of Venomous Animal,2.0,55.0,,,deceas bitten snake
+44,1428,Adult,UP,Bite of Venomous Animal,2.0,80.0,,,deceas stung swarm bee die treatment hospit
+190,6306,Adult,UP,Bite of Venomous Animal,1.0,38.0,,,deceas bitten snake
+112,3662,Adult,UP,Bite of Venomous Animal,1.0,25.0,,,deceas bitten snake die
+133,4261,Adult,UP,Bite of Venomous Animal,2.0,18.0,,,deceas bitten snake die
+134,4302,Adult,UP,Bite of Venomous Animal,2.0,35.0,,,deceas bitten snake finger left hand consequ hand tie tightli string deceas taken privat doctor unti string said nail turn black due insuffici blood flow doctor also given inject deceas bought hospit situat becom seriou deceas put oxygen doctor ask inject inject deceas foam come mouth deceas
+165,5497,Adult,UP,Bite of Venomous Animal,1.0,58.0,,,day death deceas bitten snake
+94,2904,Adult,UP,Bite of Venomous Animal,1.0,55.0,,,deceas die due snake bite deceas regain consciou hour death doctor said deceas gone coma deceas complet healthi
+214,7116,Adult,UP,Bite of Venomous Animal,2.0,40.0,,,deceas bitten snake
+106,3495,Adult,UP,Bite of Venomous Animal,1.0,17.0,,,deceas bitten snake die
+203,6904,Adult,UP,Bite of Venomous Animal,2.0,45.0,,,deceas bitten snake
+211,7094,Adult,UP,Bite of Venomous Animal,1.0,27.0,,,deceas bitten mad dog dog die day day death deceas develop problem throat deceas unabl swallow anyth voic deceas also chang resembl dog deceas hallucin see dog water given
+91,2843,Adult,Dar,Breast Cancer,2.0,53.0,,,client said deceas die breast cancer
+85,2747,Adult,Dar,Breast Cancer,2.0,72.0,,,client think deceas die breast cancer
+14,608,Adult,UP,COPD,1.0,67.0,,,due asthma deceas live unusu life blood pressur becam sever low final day deceas
+212,7097,Adult,UP,COPD,1.0,60.0,,,deceas patient asthma deceas heavi smoker undergon treatment mani differ hospit littl result
+164,5472,Adult,UP,COPD,1.0,64.0,,,deceas got fever reliev medic doctor said puls sink pancrea decreas
+48,1598,Adult,Dar,Cervical Cancer,2.0,70.0,,,thank servic deceas pass away place origin place
+122,3938,Adult,Dar,Cirrhosis,2.0,45.0,,,client said deceas die aid
+0,1,Adult,Mexico,Cirrhosis,1.0,51.0,,,comment person told us happen deceas month live know answer question deceas taken hospit ambul husband went hospit one day ladi say deceas cirrhosi caus death
+101,3284,Adult,Dar,Colorectal Cancer,2.0,80.0,,,client said deceas die cervic cancer
+75,2450,Adult,Dar,Colorectal Cancer,2.0,35.0,,,client said deceas die cervic cancer
+163,5428,Adult,Dar,Diabetes,1.0,42.0,,,client beleav deceas sudden bpfall
+23,752,Adult,Dar,Diabetes,1.0,35.0,,,particip deliev death cansel deceas failur obey medic instruct given medic offic due fact deceas
+181,6084,Adult,UP,Diabetes,1.0,65.0,,,memori deceas grown weak consumpt cigarett beetel etc increas condit decor give blood deceas
+98,3095,Adult,Pemba,Diabetes,1.0,21.0,,,deceas die die diabet tb
+146,4867,Adult,Mexico,Diabetes,2.0,58.0,,,commentsth inform said deceas lost eyesight year ago shown id card place deceas identifi handicap bilater secondari blind retin detach said deceas surgeri ulcer buttock two year death
+40,1248,Adult,Dar,Diabetes,2.0,47.0,,,accord particip view think deceas die due long prolong suffer diabat
+176,5860,Adult,Dar,Diabetes,2.0,999.0,,,particip comment dose given deceas look suitabl sufficinet healthi
+223,7282,Adult,Dar,Diabetes,1.0,60.0,,,death deceas due armi robberi death certif taken father client live place year death deceas amend father decas first year appear
+79,2487,Adult,UP,Diabetes,1.0,46.0,,,deceas injur road accid injuri occur head deceas deceas bleed one side head side hurt serious bleed death deceas undergon throat oper deceas unabl speak till death fall unconsci deceas would get high fever could go high
+161,5340,Adult,UP,Diarrhea/Dysentery,1.0,14.0,,,deceas complet healthi day death suddenli fell ill die
+205,6946,Adult,Dar,Diarrhea/Dysentery,2.0,18.0,,,client thought deceas bewtch
+240,7719,Adult,UP,Drowning,1.0,45.0,,,deceas slip fell river deceas brought deceas unconsci puls still deceas die could admit hospit
+183,6120,Adult,Dar,Drowning,1.0,22.0,,,deceas fisher die daili activ fish due down
+254,1479,Child,UP,Encephalitis,2.0,3.0,,,deceas vomit fever stop speak
+99,3205,Adult,UP,Falls,1.0,34.0,,,deceas work feet deep pit suddenli mud dug pit fell insid deceas trap beneath one hour sens rescu
+238,7628,Adult,UP,Falls,1.0,25.0,,,deceas complet healthi die fire
+103,3419,Adult,UP,Falls,1.0,52.0,,,deceas fell well dead brought
+7,289,Adult,UP,Falls,1.0,13.0,,,deceas buri debri minor landslid die
+61,1994,Adult,UP,Falls,1.0,25.0,,,deceas came beneath tractor die
+224,7304,Adult,Bohol,Falls,1.0,30.0,,,feb year deceas admit due loos bowel movement day feb year loo bowel movement deceas advic respond aunt hospit admit day hospit went back work day discharg hospitalapril year deceas got accid led death deceas first electricut fell immedi rush hospit cowork around pm deceas got accid per respond deceas die around pm date
+249,772,Child,Pemba,Falls,2.0,5.0,,,respond said deceas die crashedhit coconut tree
+237,7620,Adult,UP,Falls,1.0,20.0,,,deceas suffer brain injuri road accid ill suddenli lot blood come mouth deceas
+86,2760,Adult,UP,Falls,1.0,55.0,,,deceas suffer fall tree injur intern extern die deceas could taken hospit
+55,1830,Adult,UP,Falls,1.0,12.0,,,deceas fell well dead brought famili member say deceas also bitten snake
+131,4249,Adult,UP,Falls,1.0,20.0,,,deceas fell septic tank die
+51,1673,Adult,UP,Falls,1.0,28.0,,,deceas fell septic tank die
+192,6359,Adult,UP,Falls,1.0,34.0,,,deceas suffer accid construct site buri debri extract deceas dead
+140,4612,Adult,UP,Falls,1.0,50.0,,,deceas suffer fall ceil hurt head serious brick fell deceas bodi fall deceas die spot
+141,4690,Adult,UP,Falls,2.0,20.0,,,deceas fallen bike die
+147,4883,Adult,UP,Falls,2.0,25.0,,,deceas fallen roof die deceas gone complet numb fall hurt head leg injuri seem intern seriou
+179,5974,Adult,UP,Falls,1.0,35.0,,,deceas electrocut fallen electr pole head deceas serious injur due fall
+173,5783,Adult,UP,Falls,1.0,68.0,,,deceas crush tree die
+169,5651,Adult,UP,Falls,1.0,22.0,,,deceas fell height ft die
+83,2717,Adult,UP,Fires,1.0,45.0,,,deceas burnt die
+172,5782,Adult,UP,Fires,1.0,53.0,,,deceas electrocut die
+123,3961,Adult,UP,Fires,1.0,25.0,,,deceas burnt die
+128,4151,Adult,UP,Fires,2.0,35.0,,,stove explod deceas admit hospit die next day pm
+196,6530,Adult,UP,Fires,2.0,55.0,,,deceas burnt could taken hospit die
+178,5923,Adult,UP,Fires,2.0,27.0,,,deceas burnt die hospit
+244,165,Child,UP,Fires,2.0,,1.0,,deceas health problem got burnt die
+129,4161,Adult,UP,Fires,1.0,36.0,,,deceas burnt badli still aliv die could taken hospit
+130,4239,Adult,UP,Fires,2.0,25.0,,,deceas die burnt
+50,1672,Adult,UP,Fires,1.0,25.0,,,deceas put fire stress deceas die spend day hospit
+1,6,Adult,UP,Fires,2.0,16.0,,,deceas burnt lost mental balanc die within hour accid
+30,1035,Adult,UP,Fires,2.0,40.0,,,deceas burnt die hospit
+2,19,Adult,UP,Fires,1.0,35.0,,,deceas burnt die
+38,1198,Adult,UP,Fires,2.0,34.0,,,deceas burnt die
+120,3880,Adult,UP,Homicide,2.0,25.0,,,deceas woman month pregnant deceas felt slight headach afternoon suddenli began bleed soon faint breath becam labor deceas die could reach hospit abort child still within womb bleed excess
+121,3920,Adult,UP,Homicide,1.0,42.0,,,deceas hit bullet die
+58,1893,Adult,UP,Homicide,1.0,24.0,,,deceas complet healthi murder
+193,6403,Adult,Dar,Homicide,1.0,999.0,,,client commend deceas homcid case
+138,4528,Adult,UP,Homicide,1.0,25.0,,,deceas often stress due death husband deceas murder
+49,1662,Adult,Dar,Homicide,1.0,29.0,,,client believ deceas shoot birth gun
+209,7061,Adult,UP,Homicide,1.0,18.0,,,deceas murder bodi hidden water bodi stone
+10,447,Adult,UP,Homicide,1.0,50.0,,,deceas injur intestin urethra swollen blood come deceas mouth immedi upon injuri deceas unabl sit lie urin stop
+158,5270,Adult,UP,Homicide,1.0,25.0,,,deceas extrem stress start villag home found dead next day
+119,3839,Adult,UP,Homicide,1.0,40.0,,,deceas shot bullet die
+222,7267,Adult,UP,Homicide,2.0,55.0,,,deceas crush death brick
+220,7221,Adult,UP,Homicide,1.0,45.0,,,deceas hit bullet die
+218,7198,Adult,UP,Homicide,2.0,30.0,,,deceas kill hit brick
+217,7172,Adult,UP,Homicide,1.0,22.0,,,deceas murder someon choke deceas
+12,461,Adult,UP,Homicide,1.0,55.0,,,deceas kill
+213,7103,Adult,UP,Homicide,2.0,34.0,,,deceas attack sharp object neck die spot
+26,927,Adult,UP,Homicide,1.0,19.0,,,deceas shot bullet consequ die
+24,854,Adult,UP,Homicide,1.0,48.0,,,deceas beaten stick rib broken bodi bruis die road famili member could reach
+11,448,Adult,UP,Homicide,1.0,25.0,,,deceas hit three bullet die spot
+109,3553,Adult,UP,Homicide,1.0,25.0,,,deceas murder bodi hidden water bodi stone
+18,648,Adult,UP,Homicide,1.0,38.0,,,deceas wound sharp object neck face thu murder
+93,2892,Adult,UP,Homicide,2.0,50.0,,,deceas kill sharp weapon
+64,2043,Adult,UP,Homicide,1.0,15.0,,,accid leg deceas broken due reason consequ deceas walk limp fight deceas injur brick hurl hit templ die spot
+102,3361,Adult,UP,Homicide,1.0,48.0,,,deceas wound sharp object die
+80,2502,Adult,Dar,Leukemia/Lymphomas,2.0,13.0,,,client believ deceas blood cancer
+139,4582,Adult,Dar,Leukemia/Lymphomas,2.0,19.0,,,particip think deceas die due lack blood led bleed claim lack serius midic personel due fact deceas lack blood sens reach nt know
+25,864,Adult,UP,Lung Cancer,1.0,55.0,,,deceas burnt die
+13,554,Adult,UP,Malaria,1.0,30.0,,,deceas gone place work came back feverish state die
+210,7093,Adult,Dar,Maternal,2.0,24.0,,,respond medic record deceas parent
+234,7572,Adult,Pemba,Maternal,2.0,35.0,,,respond said deceas jaundic die
+52,1707,Adult,UP,Maternal,2.0,25.0,,,deceas month pregnant suddenli began bleed child deliv oper stillborn bleed continu deceas given blood
+236,7616,Adult,UP,Maternal,2.0,28.0,,,deceas gave birth girl continu bleed excess bleed could stop deceas die
+69,2249,Adult,UP,Maternal,2.0,26.0,,,deceas start ill get pregnant deceas abl eat adequ amount food later treat cure
+5,208,Adult,UP,Maternal,2.0,28.0,,,analysi doctor diagnos deceas malaria deceas never fall ill also felt jaundic month pregnant
+159,5289,Adult,Dar,Maternal,2.0,999.0,,,death occur deceas undergon oper failur deliv babi
+162,5369,Adult,UP,Maternal,2.0,20.0,,,allergi leg infect spread deceas feel burn sensat leg suffer convuls deceas die immedi
+221,7254,Adult,UP,Maternal,2.0,21.0,,,deceas began experienc labour pain hour later gave birth girl hospit hour normal deliveri deceas began bleed excess hour bleed deceas refer hospit continu bled deceas stop bleed pm die hour later pm
+60,1911,Adult,Pemba,Maternal,2.0,20.0,,,deceas die hour oper
+206,6980,Adult,UP,Maternal,2.0,23.0,,,deceas suffer convuls minut deliveri occur en rout hospit child stillborn child die womb deceas stop urin kidney work correctli doctor said deceas might jaundic
+184,6131,Adult,UP,Maternal,2.0,35.0,,,deceas bled excess blood foul smell bleed could control till death deceas start bleed half hour deliveri
+108,3549,Adult,Dar,Maternal,2.0,25.0,,,medic record nt avail death certif sent upcountri deceas parent
+208,7027,Adult,Pemba,Maternal,2.0,30.0,,,deceas die oper found got ectop
+113,3698,Adult,Pemba,Maternal,2.0,32.0,,,respond said deceas die cesarean oper
+116,3729,Adult,Dar,Maternal,2.0,35.0,,,accord particip opinion deceas die due eph bodema protein hypertens gestosi time deliv babi
+258,41,Neonate,Dar,Meningitis/Sepsis,1.0,,,7.0,client commend deceas yellow fever
+248,663,Child,Dar,Other Cancers,1.0,,6.0,,accord particip deceas suffer njoma deceas led womb around neck deceas sinc moth old
+115,3724,Adult,UP,Other Cardiovascular Diseases,2.0,25.0,,,year death lump form breast deceas lump form twice cure time treatment januari deceas abort month old pregnanc natur becom irrit
+16,628,Adult,Dar,Other Cardiovascular Diseases,1.0,50.0,,,client think deceas die due anaemia heart expans
+256,1757,Child,Dar,Other Cardiovascular Diseases,2.0,9.0,,,client believ deceas bewith
+104,3458,Adult,UP,Other Cardiovascular Diseases,1.0,40.0,,,deceas sever fever month death sometim fever would lessen deceas went treatment multipl doctor multipl analysi turn neg final deceas refer hospit die hour later
+137,4476,Adult,Dar,Other Cardiovascular Diseases,2.0,13.0,,,client commend deceas heart attack failur result pneumonia
+242,71,Child,Pemba,Other Defined Causes of Child Deaths,1.0,,10.0,,respond expain deceas die due fever dysentri bleed mouth nose
+243,76,Child,Pemba,Other Defined Causes of Child Deaths,2.0,1.0,,,deceas die crashedhit cupboard
+246,294,Child,Pemba,Other Defined Causes of Child Deaths,2.0,8.0,,,respond expain deceas die due stomach pain prolong diarrohea
+250,837,Child,Dar,Other Defined Causes of Child Deaths,1.0,6.0,,,client said deceas die bomb blast
+182,6101,Adult,Pemba,Other Infectious Diseases,2.0,14.0,,,respond expain deceas death caus tetenu deceas injur himherself stick hesh got fever stiffnexx bodi later die
+31,1046,Adult,UP,Other Infectious Diseases,2.0,35.0,,,deceas diagnos brain fever doctor
+232,7552,Adult,UP,Other Infectious Diseases,2.0,45.0,,,deceas fallen ill suddenli boil appear hip grown ripe burst later made condit wors blood pressur deceas becom low
+3,171,Adult,UP,Other Infectious Diseases,1.0,30.0,,,deceas prone extrem stress first attack
+110,3595,Adult,UP,Other Infectious Diseases,2.0,27.0,,,deceas unabl speak foam came everi time open mouth
+117,3753,Adult,UP,Other Infectious Diseases,2.0,20.0,,,deceas mild headach suddenli fell unconsci close examin reveal sever fever fever fall unconsci accord doctor die due brain hemorrhag
+135,4317,Adult,UP,Other Infectious Diseases,2.0,45.0,,,deceas primarili liver problem excess water format stomach infect occur deceas itch bodi mc stop unabl eat puls sink slowli water risen brain
+142,4699,Adult,Dar,Other Injuries,1.0,24.0,,,death certif hold deceas father
+17,640,Adult,UP,Other Injuries,2.0,45.0,,,brick wall fell deceas could extract minut later sign extern wound blood flow vagina deceas intern wound chest head
+33,1071,Adult,UP,Other Injuries,1.0,65.0,,,deceas gone somewher rain buri fall wall extract debri minut later dead pm time death
+167,5597,Adult,UP,Other Injuries,2.0,70.0,,,wall fallen deceas die spot
+87,2766,Adult,UP,Other Injuries,1.0,40.0,,,deceas involv accid tractor hit train seriou injuri near wait limb sever die due excess bleed
+71,2325,Adult,UP,Other Injuries,1.0,20.0,,,deceas mental unstabl talk insan sinc last day deceas later left home found dead bodi deceas found crush railway track
+174,5786,Adult,UP,Other Injuries,1.0,55.0,,,deceas die train accid
+125,4018,Adult,UP,Other Injuries,1.0,35.0,,,wall fallen deceas extract sat abl proper convers time felt pain chest abdomen lot water fill way hospit die en rout die clock due intern wound
+28,996,Adult,UP,Other Injuries,1.0,38.0,,,deceas die get buri wall
+191,6356,Adult,UP,Other Injuries,2.0,42.0,,,deceas die struck lightn
+194,6492,Adult,UP,Other Injuries,1.0,20.0,,,deceas perfectli healthi male electrocut death
+186,6162,Adult,UP,Other Injuries,1.0,26.0,,,deceas suffer electrocut toe calv deceas burnt instantli deceas die spot
+187,6192,Adult,UP,Other Injuries,2.0,22.0,,,deceas month pregnant deceas die due lightn fall
+171,5741,Adult,UP,Other Injuries,2.0,65.0,,,wall fell deceas pm extract debri alreadi dead deceas walk bent back grievou wound head chest
+126,4052,Adult,UP,Other Injuries,1.0,72.0,,,deceas buri wall fallen injur waist injuri abdomen well deceas urin swell occur urethra deceas die next morn
+20,708,Adult,UP,Other Injuries,1.0,18.0,,,deceas die get buri wall
+160,5326,Adult,Dar,Other Injuries,1.0,30.0,,,deceas die hit sharp knofe
+143,4730,Adult,UP,Other Injuries,1.0,23.0,,,deceas fell thresh machin die
+127,4076,Adult,UP,Other Injuries,2.0,12.0,,,deceas die get buri wall
+96,2938,Adult,UP,Other Injuries,1.0,24.0,,,deceas die struck lightn
+157,5237,Adult,UP,Other Injuries,1.0,55.0,,,deceas die train accid
+145,4853,Adult,UP,Other Injuries,1.0,70.0,,,deceas die wall fallen death occur around
+46,1536,Adult,UP,Other Injuries,2.0,40.0,,,deceas hit lightn die
+230,7397,Adult,UP,Other Injuries,1.0,15.0,,,deceas die struck lightn
+136,4389,Adult,UP,Other Injuries,1.0,46.0,,,deceas fell thresh machin die
+151,4927,Adult,UP,Other Injuries,1.0,75.0,,,deceas die wall crash deceas age person hurt leg year ago face troubl walk eye good read without glass hand trembl eat famili member fed bodi weak walk help support day death wall suddenli fell got buri extract debri found dead hurt head bodi
+148,4884,Adult,UP,Other Injuries,1.0,22.0,,,deceas complet healthi kill
+150,4902,Adult,UP,Other Injuries,1.0,45.0,,,deceas struck lightn die
+231,7515,Adult,UP,Other Injuries,1.0,25.0,,,deceas die get buri wall
+22,731,Adult,Dar,Other Non-communicable Diseases,1.0,31.0,,,respond medic record sent upcountri place deceas parent
+111,3596,Adult,Dar,Other Non-communicable Diseases,2.0,80.0,,,respond said deceas die certif shift upcountri
+62,2018,Adult,UP,Other Non-communicable Diseases,2.0,65.0,,,deceas suddenli faint
+88,2791,Adult,Dar,Other Non-communicable Diseases,1.0,77.0,,,client think deceas die liver cancer
+73,2350,Adult,Dar,Other Non-communicable Diseases,1.0,67.0,,,client think deceas die liver cancer
+66,2102,Adult,Pemba,Other Non-communicable Diseases,2.0,19.0,,,respond said deceas complan headach diabet also die deliv
+8,361,Adult,Pemba,Other Non-communicable Diseases,1.0,12.0,,,respond told tha deceas sufer jaundic die
+225,7311,Adult,Pemba,Other Non-communicable Diseases,1.0,75.0,,,deceas die fever prolong cough tuberclosi
+219,7207,Adult,Dar,Other Non-communicable Diseases,1.0,999.0,,,deceas suffer form hermia opinion particip thick death case due high amount tradit alcohol use taken deceas
+6,259,Adult,Pemba,Other Non-communicable Diseases,1.0,55.0,,,deceas die diarrohea vomit blood
+70,2309,Adult,Dar,Other Non-communicable Diseases,1.0,14.0,,,client said deceas die malaria sickl cell
+90,2822,Adult,Pemba,Other Non-communicable Diseases,1.0,80.0,,,deceas problem urin put cathet bleed die thereaft
+198,6730,Adult,UP,Pneumonia,1.0,37.0,,,deceas eat anyth time ill death
+200,6779,Adult,UP,Pneumonia,2.0,37.0,,,deceas stone stomach famili member say caus problem deceas stomach stone year
+204,6914,Adult,UP,Pneumonia,1.0,20.0,,,deceas stay away home peopl took home fell ill high fever deceas unconsci till death accord doctor might brain tumor
+76,2461,Adult,UP,Pneumonia,1.0,25.0,,,deceas left room unconsci state time foam come deceas mouth
+177,5903,Adult,UP,Pneumonia,1.0,73.0,,,deceas resid unhygien environ henc possibl caus health problem hygien deceas kept ventil part left leg turn blue
+19,689,Adult,Dar,Pneumonia,1.0,80.0,,,client thought deceas die hernia
+4,187,Adult,UP,Pneumonia,1.0,20.0,,,deceas suffer jaundic four time year cure treatment deceas describ sever pain limb respond describ foul waterlik liquid came deceas mouth transport hospit month death victim urin usual
+114,3714,Adult,Dar,Pneumonia,2.0,22.0,,,client think deceas die aid
+65,2097,Adult,Pemba,Pneumonia,1.0,50.0,,,respond explana deceas ill chest problem long time
+247,426,Child,UP,Pneumonia,1.0,,3.0,,deceas vomit bloat head fontanel bodi turn white death
+68,2234,Adult,Pemba,Pneumonia,1.0,28.0,,,deceas die fever vomit sob dizzi
+252,934,Child,UP,Pneumonia,1.0,5.0,,,deceas fever abdomen got bloat
+253,1132,Child,UP,Pneumonia,1.0,,2.0,,accord respond neglig shown deceas head drawn insid
+235,7593,Adult,Dar,Pneumonia,2.0,35.0,,,client suspect deceas hiv aid
+59,1903,Adult,Bohol,Poisonings,2.0,81.0,,,jan year around deceas kept vomit ca nt abl speak rush hospit per doctor deceas tookeaten poison substanc jan year deceas die
+105,3492,Adult,Dar,Poisonings,2.0,51.0,,,particip noth aron commentthat death deceas due fact deceas take alcohol seen affect husband decid give medicin canditron chang fro
+185,6143,Adult,UP,Poisonings,1.0,25.0,,,deceas poison due conflict death white foam come mouth deceas wellbuilt person complet healthi never fallen ill
+260,2373,Neonate,Dar,Preterm Delivery,2.0,,,17.0,word particip claim deceas abdomen found dirti water due medic offic examin
+259,1541,Neonate,Dar,Preterm Delivery,2.0,,,1.0,client said deceas die fo prematur
+168,5638,Adult,Dar,Prostate Cancer,1.0,76.0,,,client said deceas die brain cancer
+215,7121,Adult,UP,Renal Failure,2.0,26.0,,,deceas sever anemia
+197,6678,Adult,UP,Renal Failure,2.0,46.0,,,ill deceas ga problem ill deceas tumor womb day death undergon oper womb wast trap kidney treat ill lip deceas dri ill put oxygen could breath
+34,1088,Adult,UP,Renal Failure,2.0,16.0,,,swell come bodi deceas liver valv lung damag mayb deceas jaundic doctor confirm
+27,981,Adult,UP,Renal Failure,2.0,65.0,,,per deceas husband deceas inherit breath problem parent deceas isnophelia kidney fail
+233,7560,Adult,Dar,Renal Failure,2.0,46.0,,,deceas believ die renal failur mening malaria also conclus sservic poor
+229,7389,Adult,UP,Road Traffic,1.0,16.0,,,deceas fail examin came train die
+43,1398,Adult,UP,Road Traffic,1.0,12.0,,,deceas die spot road accid
+201,6802,Adult,UP,Road Traffic,1.0,30.0,,,deceas die road accid cycl travel collid truck
+144,4816,Adult,UP,Road Traffic,1.0,30.0,,,deceas involv road accid die spot
+45,1521,Adult,UP,Road Traffic,1.0,55.0,,,deceas suffer complet checkup three month death seen complet fit accid thu sever pain spinal cord
+84,2735,Adult,UP,Road Traffic,1.0,34.0,,,deceas die road accid
+251,887,Child,UP,Road Traffic,1.0,9.0,,,press clip also made avail deceas die road accid wheel vehicl
+95,2909,Adult,UP,Road Traffic,1.0,28.0,,,deceas die road accid
+239,7699,Adult,UP,Road Traffic,1.0,65.0,,,deceas die road accid
+97,3078,Adult,UP,Road Traffic,1.0,32.0,,,deceas suffer two day death complet healthi otherwis involv accid die spot
+100,3217,Adult,UP,Road Traffic,1.0,15.0,,,deceas struck bu die spot
+118,3837,Adult,UP,Road Traffic,1.0,12.0,,,deceas die road accid
+47,1589,Adult,UP,Road Traffic,1.0,13.0,,,deceas involv road accid deceas taken hospit deceas suffer head injuri deceas die hour
+227,7376,Adult,UP,Road Traffic,1.0,35.0,,,deceas fell speed train suffer seriou injuri head die spot
+154,5073,Adult,UP,Road Traffic,2.0,55.0,,,deceas injur back head swell abdomen puls deceas sink
+107,3528,Adult,UP,Road Traffic,1.0,25.0,,,deceas come truck die
+207,6995,Adult,UP,Road Traffic,1.0,28.0,,,deceas die road accid
+195,6501,Adult,UP,Road Traffic,1.0,23.0,,,deceas involv road accid injur serious bleed head deceas taken hospit gone coma ctscan show head injuri deceas remain admit day die day
+21,711,Adult,UP,Road Traffic,1.0,57.0,,,deceas hit move vehicl taken trauma centr die hour
+189,6261,Adult,UP,Road Traffic,1.0,20.0,,,deceas reportedli healthi work leather factori place return home train fell die site
+188,6254,Adult,UP,Road Traffic,1.0,35.0,,,motorcycl deceas slip skid road serious injur head die instantli
+180,6077,Adult,Bohol,Road Traffic,2.0,40.0,,,may year around pm deceas got accid fell tricycl rode deceas ride back driver brought immedi hospit put oxygen iv fluid refer immedi hospit place deceas wound head right side per doctor place seem deceas ca nt make alreadi coma scale may year die around pm per respond deceas thin nt complain ill
+216,7168,Adult,UP,Road Traffic,1.0,23.0,,,deceas involv road accid site immedi
+29,1009,Adult,UP,Road Traffic,1.0,28.0,,,deceas involv road accid serious injur head deceas taken hospit ctscan done show head injuri
+77,2464,Adult,Bohol,Road Traffic,1.0,39.0,,,may year got accid brought immedi hospit refer directli wound stitch head affect part refer ct scan break forehead oper day oper got fever deceas also cough per respond accid alon led deceas death also complic kidney diseas long respond abl rememb exact date deceas experienc inabl walk consult doctor deceas nt want went tradit healer treatment deceas ca nt walk month later abl walk also hospit known kidney diseas
+257,1824,Child,Dar,Road Traffic,2.0,9.0,,,caus death road accid deceas hit toyota hiac way home school cross road
+255,1635,Child,Dar,Road Traffic,1.0,11.0,,,deceas die due noad accid lit bu cross road
+156,5118,Adult,UP,Road Traffic,1.0,15.0,,,deceas hurt back head die uncontrol excess bleed
+155,5108,Adult,UP,Road Traffic,1.0,12.0,,,deceas involv road accid tractor travel overturn crush chest crush tractor happen around pm deceas taken trauma centr polic deceas receiv news deceas expir
+63,2027,Adult,UP,Road Traffic,2.0,15.0,,,deceas die road accid
+74,2446,Adult,UP,Stroke,1.0,50.0,,,half deceas bodi paralyz death vein head deceas ruptur caus becom mental unstabl admit hospit hour die
+89,2794,Adult,UP,Stroke,2.0,75.0,,,blood pressur deceas high suddenli fallen ill faint deceas taken hospit die hour
+67,2149,Adult,UP,Stroke,2.0,70.0,,,deceas mental stress death husband date prone forget thing sometim red spot would appear bodi prone itch would heal deceas undergon oper glaucoma date approxim pm deceas suffer attack fit fell unconsci deceas taken hospit tube put nose third day admiss foul smell substanc reddish color came deceas mouth doctor said nerv brain shrunk
+81,2552,Adult,Bohol,Stroke,2.0,87.0,,,feb year even deceas experienc lost apetit eat talk around even brought hospit thru ambul next day still deceas wont eat wont speak oxygen doctor said deceas suffer pneumonia deceas also histori high blood pressur per daughter feb year around morn die deceas also difficulti breath experienc fast breath
+32,1056,Adult,UP,Stroke,2.0,45.0,,,deceas mental disturb past three month also vein head ruptur
+56,1852,Adult,UP,Stroke,2.0,70.0,,,bodi deceas suddenli becom stiff start trembl deceas start experienc problem speak paralyz neck doctor said brain hemorrhag
+149,4899,Adult,UP,Stroke,1.0,42.0,,,deceas gotten brain fever wife said nt seem fever deceas never fell easili day earlier suddenli felt dizzi fallen admit hospit place
+228,7384,Adult,Bohol,Stroke,1.0,54.0,,,octob year stroke confin hospit june year stroke hospit deceas seizur advis doctor checkup neurologist per respond neurologist told someth deceas brain respond abl rememb june stroke around pm deceas attack stroke collaps brought immedi hospit also vomit day june die morn stroke per respond ill deceas stroke
+153,5059,Adult,Bohol,Stroke,1.0,75.0,,,februari sunday ill start feel well experienc uneasy breath deceas want speak ca nt abl speak also fever feb year deceas diedth wife abl see hospit time per respond deceas also bellpalsi
+41,1339,Adult,Bohol,Stroke,1.0,81.0,,,date around rush hospit deceas experienc numb left foot hospit deceas hardli speak refer alreadi oxygen hospit place date rush provinci hospitalw oxygen suction sanction whiledidnt reach one day deceas still hardli speak cough also start ngt date die around morn
+57,1889,Adult,UP,Suicide,1.0,38.0,,,deceas spray insecticid name cynergi last hour farm return feel uneasi start vomit also deceas prone bleed nose sinc last year
+241,7729,Adult,UP,Suicide,1.0,20.0,,,deceas perfectli healthi male hang death
+53,1718,Adult,UP,Suicide,2.0,26.0,,,deceas perfectli healthi femal hang remain aliv hour die en rout hospit
+132,4256,Adult,UP,Suicide,1.0,22.0,,,deceas hang death
+82,2596,Adult,Dar,Suicide,1.0,30.0,,,deceas found hang
+37,1184,Adult,UP,Suicide,1.0,32.0,,,deceas alcohol deceas often complain pain lung chest found hang tree one morn
+170,5654,Adult,UP,Suicide,2.0,16.0,,,deceas commit suicid hang bodi deceas found warm life bodi
+199,6754,Adult,UP,Suicide,1.0,30.0,,,mother elder brother deceas commit suicid burn year respect deceas complet healthi watchman profess marri year ago wife desert live alon report jovial carefre natur
+245,215,Child,UP,Violent Death,2.0,1.0,,,deceas crush death brick

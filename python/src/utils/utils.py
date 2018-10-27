@@ -1,5 +1,6 @@
 # for reference in color codes: https://github.com/DavidPerezGomez/ANSI-escape-codes/blob/master/ANSI%20escapes
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.decomposition import PCA
 
 
 def is_number(string):
@@ -14,6 +15,11 @@ def tfidf_filter(data_frame, attribute):
     tfidf_vectorizer = TfidfVectorizer(use_idf=True)
     tfidf_matrix = tfidf_vectorizer.fit_transform(data_frame[attribute].values.astype('U'))
     return tfidf_matrix
+
+
+def pca_filter(instances, attributes):
+    pca = PCA(n_components=attributes)
+    return pca.fit_transform(instances.copy())
 
 
 # def csv_to_sparse_csv(path1, path2):
