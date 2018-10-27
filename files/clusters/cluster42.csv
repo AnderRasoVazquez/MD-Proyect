@@ -1,28 +1,135 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-16,3124,Adult,Mexico,AIDS,1.0,42.0,,,mention sever occas previou year gone doctor underw exam differ diseas aid diagnosedth inform look sad interview cri sever time kind cooper
-12,2397,Adult,Mexico,AIDS,1.0,27.0,,,commentsth mother still sad difficult ground time space
-21,6841,Adult,Mexico,AIDS,1.0,42.0,,,therapi take pill doctor said work person said husband die aid focus answer specif manner without comment face express sad worri
-5,1835,Adult,Mexico,AIDS,1.0,35.0,,,soon tube got sore lipsth inform sad would talk slowli cri answer
-2,919,Adult,Mexico,COPD,2.0,85.0,,,noveri peac inform nt give extra inform
-18,4515,Adult,Mexico,Colorectal Cancer,2.0,93.0,,,comment doubtsdur interview man eye fill tear sever time hard time answer question immedi think nt want cri
-6,1845,Adult,Mexico,Diabetes,1.0,61.0,,,point view hospit fault nt take care time fashion would give care informationsever rel arriv explain arriv inform calm sad
-23,7455,Adult,Mexico,Diabetes,1.0,74.0,,,commentsth ladi say father fell entranc hous fractur hip wish go doctor time got wors sad
-13,2732,Adult,Mexico,Leukemia/Lymphomas,1.0,20.0,,,commentsth inform calm sad interview shed tear
-24,7761,Adult,Mexico,Leukemia/Lymphomas,1.0,17.0,,,loss sad happen within day forc go doctor would happenedsh accept emot support say feel much necessari feel sad time famili know write smart woman understood everyth answer assert strong kind accompani take bu
-9,1954,Adult,Mexico,Leukemia/Lymphomas,1.0,74.0,,,commentsat first inform distrust ask sought particip repli somewhat random becam relax woman appear sad moment smile end calm nice gave mole told could come back whenev want
-11,2158,Adult,Mexico,Other Cardiovascular Diseases,1.0,85.0,,,end liquid came arm leg bodi knew go pass away call children ask forgiv himth interviewe kind sad loss husband
-3,1151,Adult,Mexico,Other Cardiovascular Diseases,1.0,31.0,,,first symptom extrem drowsi test end figur heartth ladi look sad want answer socioeconom part studi
-1,824,Adult,Mexico,Other Infectious Diseases,1.0,44.0,,,sinc year nt lymphoma anymor handl end tumor chest mediastinumth inform nice even offer someth eat thank nt accept said nt ask serv nice cooper
-7,1935,Adult,Mexico,Other Infectious Diseases,1.0,48.0,,,commentsat begin interview bit tens sinc inform start cri moment ask date death ask whether need time recov want come back anoth day said use might well answer said talk would help know talk later make sad later calm interview flow smoothli end thank listen
-25,7765,Adult,Mexico,Other Non-communicable Diseases,2.0,71.0,,,need oxygen took hopeless condit point use better give someon els could take advantag given opportun ask could get open alreadi done taken use analysi doctor cordial rude despit hard time one go person take emot support session depress cri interview angri mother livein partner sad experi live deceas diseas surgeri hospit
-17,3759,Adult,Mexico,Pneumonia,1.0,29.0,,,symptom made look like influenza fact would say nt know thatth ladi look sad cooper kind
-20,5600,Adult,Mexico,Pneumonia,2.0,86.0,,,nt rememb anythingat begin inform look sad soon talk afterward agre interview went smoothli
-19,5339,Adult,Mexico,Pneumonia,1.0,74.0,,,help handsth interviewe answer question gener inform modul secur reason mistrust person mention never left husband side stay wait room wait test result oper lung time put valv chest sad moment sob nt need emot support session
-26,945,Neonate,Mexico,Preterm Delivery,1.0,,,0.0,hope help someoneth mother sad hurt thing happen lost anoth babi thursday month sorri end interview
-8,1950,Adult,Mexico,Renal Failure,2.0,74.0,,,noveri sad inform cri sever occas
-0,668,Adult,Mexico,Renal Failure,1.0,76.0,,,noth help give inform other benefit gladli alreadi donat hear aid thing use peopl husband use say one care father let sibl never listen gone avail husband use get angri gone person state sad want emot support session say sad never end alway father special person mention father die sad diseas
-22,7070,Adult,Mexico,Road Traffic,1.0,18.0,,,institution would inhal solvent went parti pick sister troubl man nt agre drink daughter came back said son danger ask nt come back went look polic station got hospit interview long woman sad would cri lot
-14,2745,Adult,Mexico,Stroke,2.0,90.0,,,child love much work much would happi good deathth inform say mother breakfast told time remain weak state think die sad old age want share time work imped although took work felt fine healthwis despit chronic diseas four month death leg amput insomniac longer want eat request emot support need talk someon mourn mix emot sad joy mother like child took care dress cleans time respect mother ask permiss go somewher current talk pictur tell day ask permiss still
-10,2035,Adult,Mexico,Stroke,2.0,66.0,,,commentat end interview name sad thought emot support session would necessari due distanc saw began get thing chest remain hour allow talk go famili live place alon grandfath grandmoth like mother sad need someon talk get thing chest
-4,1210,Adult,Mexico,Stroke,1.0,84.0,,,hope use prevent peopl go suffer better inform healthth interview took place relax environ even though end inform sad talk calm thank us visit
-15,3120,Adult,AP,Suicide,2.0,19.0,,,inform patient die consum poison could surviv even spend rs lack felt sad
+10,1081,Adult,Dar,AIDS,1.0,43.0,,,client misplac death client thank servic hospit
+70,135,Child,Dar,AIDS,2.0,1.0,,,client thank servic client misplac death certif client said mother deas die hiv think babi affect
+35,4167,Adult,Dar,AIDS,2.0,32.0,,,client thank client misplac death certif
+3,486,Adult,Dar,AIDS,2.0,31.0,,,client misplac death certif client thank servic
+13,1200,Adult,Dar,AIDS,1.0,30.0,,,client thank client misplac death cerfit
+52,5855,Adult,Dar,AIDS,2.0,49.0,,,client thank client misplac death client thought deceas death caus aid
+39,5113,Adult,Dar,AIDS,2.0,39.0,,,client thank client transfer death certif origin place place
+19,1613,Adult,Dar,AIDS,2.0,44.0,,,client thank servic given nurs client misplac death certif l nt see
+132,2527,Neonate,Dar,Birth asphyxia,2.0,,,21.0,client thank servic client misplac death crtific
+50,5781,Adult,Dar,Breast Cancer,2.0,87.0,,,client thank client nt death certif death occur home
+54,6062,Adult,Dar,Breast Cancer,2.0,37.0,,,client thank servic client nt death certif death occur home
+28,2903,Adult,Dar,Cervical Cancer,2.0,56.0,,,client thank servic client mispleas death certif
+121,1481,Neonate,Dar,Congenital malformation,2.0,,,19.0,client said servic death certif misplac
+107,402,Neonate,Dar,Congenital malformation,1.0,,,19.0,client noth suggest client misplac death certif
+57,6451,Adult,Dar,Diabetes,1.0,63.0,,,client thank servic death certif misplac
+79,836,Child,Dar,Diarrhea/Dysentery,1.0,,4.0,,client thank servic client misplac death certif
+93,1502,Child,Dar,Diarrhea/Dysentery,1.0,,7.0,,client thank servic client misplac death certif
+99,1767,Child,Dar,Diarrhea/Dysentery,1.0,,8.0,,client thank servic client misplac death certif
+27,2692,Adult,Dar,Diarrhea/Dysentery,1.0,36.0,,,client thank servic client misplac death certif client said deceas die due vomit diarrhea
+49,5780,Adult,Dar,Diarrhea/Dysentery,2.0,35.0,,,client claim servic provid client think deceas death cous client misplac death certif
+24,2349,Adult,Dar,Diarrhea/Dysentery,1.0,38.0,,,client thank servic provid hospit client misplac death certif client said son die due malaria blood vomit
+33,3978,Adult,Dar,Diarrhea/Dysentery,1.0,32.0,,,client thank client misplac death certif
+104,1979,Child,Dar,Diarrhea/Dysentery,2.0,1.0,,,client thank client misplac death certif
+75,745,Child,Dar,Drowning,1.0,10.0,,,client misplac death client thank sdervic
+88,1297,Child,Dar,Drowning,1.0,9.0,,,client thank servic client misplac death certif client noth suggest
+37,4802,Adult,Dar,Drowning,1.0,28.0,,,client suggest noth client misplac death certif
+18,1421,Adult,Dar,Drowning,1.0,18.0,,,client thank client misplac death certif
+43,5329,Adult,Dar,Drowning,1.0,34.0,,,client thank client misplac death certif
+103,1892,Child,Dar,Drowning,1.0,10.0,,,client misplac death certif client said son die due drown place client thank sevic especi polic
+29,2983,Adult,Dar,Epilepsy,2.0,16.0,,,client thank servic client misplac death certif
+51,5842,Adult,Dar,Epilepsy,1.0,36.0,,,client thank client misplac death client deceas die due epicepsi diseas
+6,737,Adult,Dar,Esophageal Cancer,1.0,70.0,,,client thank servic death certif origin place
+26,2630,Adult,Dar,Esophageal Cancer,2.0,999.0,,,client thank servic although certif
+22,2226,Adult,Dar,Esophageal Cancer,1.0,33.0,,,client thank client misplac death certif
+2,131,Adult,Dar,Fires,2.0,32.0,,,client misplac death client said deceas die due burn client thank servic
+94,1514,Child,Dar,Fires,2.0,3.0,,,client thank client said babi die due client misplac death certif
+83,929,Child,Dar,Fires,1.0,,5.0,,client said deceas die due client misplac death client thank servic
+61,7034,Adult,Dar,Homicide,1.0,22.0,,,client thank client misplac death certif
+59,6869,Adult,Dar,Homicide,1.0,29.0,,,client suggest noth client misplac death certif
+5,656,Adult,Dar,Homicide,1.0,19.0,,,client suggest noth client misplac death certif
+20,1727,Adult,Dar,Homicide,1.0,18.0,,,client thank client transfer death certif deceas father person
+9,1072,Adult,Dar,Homicide,1.0,26.0,,,client thank client misplac death certif
+63,7427,Adult,Dar,Leukemia/Lymphomas,1.0,87.0,,,client thank client nt death certif death ocur home
+45,5514,Adult,Dar,Leukemia/Lymphomas,2.0,25.0,,,client thank servic death certif taken upcountri
+66,7661,Adult,Dar,Leukemia/Lymphomas,2.0,46.0,,,client thank client misplac death client said deceas die due cancer
+38,4828,Adult,Dar,Leukemia/Lymphomas,2.0,16.0,,,client thank servic claim process buy client misplac death certif
+89,1300,Child,Dar,Malaria,1.0,,10.0,,client thank servic client misplac death certif
+64,7458,Adult,Dar,Malaria,1.0,39.0,,,client thank client misplac death certif
+102,1859,Child,Dar,Malaria,2.0,7.0,,,client thank servic client misplac death certfic
+69,111,Child,Dar,Malaria,1.0,11.0,,,client misplac seath client thank servic
+98,1764,Child,Dar,Malaria,2.0,1.0,,,client thank client misplac death client said babi vomit blood
+86,1190,Child,Dar,Malaria,2.0,6.0,,,client misplac death certif client thank servic
+55,6135,Adult,Dar,Malaria,2.0,22.0,,,client noth client misplac death certif
+68,2,Child,Dar,Malaria,2.0,7.0,,,client thank servic death certif misplac
+85,1028,Child,Dar,Malaria,2.0,2.0,,,client thank sevic client misplac death certif
+62,7208,Adult,Dar,Maternal,2.0,20.0,,,client said daughter die matern client misplac death client thank servic provid hospit
+97,1706,Child,Dar,Meningitis,2.0,,7.0,,client thank servic given nurs doctor hospit client misplac death certif
+74,578,Child,Dar,Meningitis,1.0,1.0,,,death certif misplac client said child die due fever
+82,845,Child,Dar,Meningitis,2.0,,9.0,,client thank client misplac death certif
+124,1623,Neonate,Dar,Meningitis/Sepsis,1.0,,,9.0,client thank servic client transfer death certif origin home place
+112,692,Neonate,Dar,Meningitis/Sepsis,1.0,,,7.0,client thank servic client misplac death certif
+116,1217,Neonate,Dar,Meningitis/Sepsis,2.0,,,4.0,client thank servic client misplac death certif
+130,2448,Neonate,Dar,Meningitis/Sepsis,2.0,,,6.0,client thank servic special hospit client misplac death certif
+110,599,Neonate,Dar,Meningitis/Sepsis,2.0,,,20.0,client misplac death client thank servic
+120,1468,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,client servic good death certif misplac
+105,47,Neonate,Dar,Meningitis/Sepsis,2.0,,,3.0,client thank servic provid doctor client misplac certif
+119,1451,Neonate,Dar,Meningitis/Sepsis,2.0,,,9.0,client said servic hospit client nt death certif
+133,2607,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,client thank servic given nurs doctor client misplac death certif
+73,562,Child,Dar,Other Cardiovascular Diseases,2.0,,4.0,,client thank servic servic late client misplac death certif
+101,1849,Child,Dar,Other Cardiovascular Diseases,1.0,5.0,,,client thank client misplac death certif
+21,1942,Adult,Dar,Other Cardiovascular Diseases,1.0,40.0,,,client thank servic client misplac death certif
+17,1380,Adult,Dar,Other Cardiovascular Diseases,1.0,36.0,,,client thank client transfer death certif origin home place
+87,1256,Child,Dar,Other Defined Causes of Child Deaths,1.0,2.0,,,client misplac death certif client thank sarvic provid hospitali
+76,746,Child,Dar,Other Defined Causes of Child Deaths,1.0,5.0,,,client misplac death certif client thank servic
+84,982,Child,Dar,Other Defined Causes of Child Deaths,2.0,1.0,,,client thank client misplac death certif
+78,789,Child,Dar,Other Defined Causes of Child Deaths,2.0,4.0,,,client misplac death certif client thank servic
+81,843,Child,Dar,Other Digestive Diseases,1.0,9.0,,,client misplac death certif client said son death caus sickl cell client thank servic
+67,7789,Adult,Dar,Other Infectious Diseases,2.0,13.0,,,client misplac death certif client thank servic provid doctor hospit client said daughter death caus bvi aid
+95,1630,Child,Dar,Other Infectious Diseases,1.0,8.0,,,client thank servic client misplac death certif
+8,974,Adult,Dar,Other Injuries,1.0,14.0,,,client suggest noth client misplac death certif
+32,3918,Adult,Dar,Other Non-communicable Diseases,1.0,38.0,,,client thank servic client transfer death certif origin home place
+30,3221,Adult,Dar,Other Non-communicable Diseases,1.0,45.0,,,client transfer death certif origin home place client thank servic
+23,2266,Adult,Dar,Other Non-communicable Diseases,1.0,68.0,,,client thank servic client nt death certif death ocur home
+34,4119,Adult,Dar,Other Non-communicable Diseases,1.0,28.0,,,client misplac death client said babi die due skin client thank servic provid hospit
+53,6061,Adult,Dar,Other Non-communicable Diseases,2.0,38.0,,,client thank servic provid client misplac death certif
+12,1130,Adult,Dar,Other Non-communicable Diseases,1.0,999.0,,,client misplac death certif client thank servic provid hospit
+58,6709,Adult,Dar,Other Non-communicable Diseases,1.0,51.0,,,client thank servic client misplac death certif
+113,840,Neonate,Dar,Pneumonia,2.0,,,1.0,client thank client misplac death certif
+117,1291,Neonate,Dar,Pneumonia,2.0,,,1.0,client misplac deartcartif client thank servic
+7,911,Adult,Dar,Pneumonia,2.0,39.0,,,client said servic satisfactori term attend patient death certif misplac
+96,1697,Child,Dar,Pneumonia,2.0,,11.0,,client said servic hospit especi hospit client misplac death client said thank servic
+15,1251,Adult,Dar,Pneumonia,1.0,35.0,,,client thank client misplac death client said deceas die due difficult breath
+109,504,Neonate,Dar,Pneumonia,1.0,,,2.0,client thank servic client nt death certif
+100,1784,Child,Dar,Pneumonia,2.0,,2.0,,client transfer death certif origin home client thank servic
+92,1419,Child,Dar,Pneumonia,2.0,,8.0,,client misplac death client thank servic
+90,1343,Child,Dar,Pneumonia,2.0,2.0,,,client thank client misplac death certif
+71,222,Child,Dar,Pneumonia,1.0,2.0,,,client thank servic client misplac death certif
+72,242,Child,Dar,Pneumonia,1.0,,2.0,,client thank servic client misplac death certif
+80,840,Child,Dar,Pneumonia,1.0,1.0,,,client suggest noth client misplac death certif
+60,6982,Adult,Dar,Poisonings,1.0,25.0,,,client thank client said deceas die due drink alcohol client misplac death certif
+127,1825,Neonate,Dar,Preterm Delivery,1.0,,,2.0,client misplac death certif client thank servic client said babi die due prematur
+123,1588,Neonate,Dar,Preterm Delivery,1.0,,,7.0,client misplac death certif client thank servic
+122,1491,Neonate,Dar,Preterm Delivery,1.0,,,5.0,client thank servic provid doctor hospit client said babi die due difficult breath client misplac death certif
+118,1444,Neonate,Dar,Preterm Delivery,2.0,,,1.0,client said babi die due prematur client misplac death certif client thank servic provid hospit
+115,1131,Neonate,Dar,Preterm Delivery,2.0,,,10.0,client thank servic client said babi die due prematuriy difficult breath client misplac death certif
+114,855,Neonate,Dar,Preterm Delivery,2.0,,,2.0,client misplac death client thank client nt know diseas kill daughter
+111,643,Neonate,Dar,Preterm Delivery,1.0,,,4.0,client thank client said babi die due difficult breath client misplac death certif
+108,421,Neonate,Dar,Preterm Delivery,2.0,,,2.0,client misplac death certif client thank servic client said babi die due prematur
+126,1799,Neonate,Dar,Preterm Delivery,1.0,,,6.0,client thank servic client misplac death certif
+106,57,Neonate,Dar,Preterm Delivery,1.0,,,0.0,client thank client misplac death certif
+125,1722,Neonate,Dar,Preterm Delivery,1.0,,,2.0,client thank death certif thrown away
+129,2384,Neonate,Dar,Preterm Delivery,2.0,,,5.0,client thank servic suggest nurs doctor must care babi client misplac death certif
+131,2458,Neonate,Dar,Preterm Delivery,1.0,,,2.0,client thank thank servic provid hospitali client misplac death certif
+128,2149,Neonate,Dar,Preterm Delivery,2.0,,,5.0,client noth client nt death certif
+48,5695,Adult,Dar,Prostate Cancer,1.0,75.0,,,client thank servic client transfer death certif origin home place
+41,5265,Adult,Dar,Renal Failure,2.0,32.0,,,client thank servic client misplac death certif client said daughter die due bp
+56,6137,Adult,Dar,Road Traffic,1.0,36.0,,,client thank servic client said deceas death caus road accid client misplac death certif
+42,5283,Adult,Dar,Road Traffic,2.0,27.0,,,client thank client misplac death client said deceas death caus road accid
+14,1226,Adult,Dar,Road Traffic,1.0,35.0,,,client thank client transfer death certif origin home place
+1,118,Adult,Dar,Road Traffic,1.0,23.0,,,client thank servic given client misplac death client said deceas death caus road
+91,1380,Child,Dar,Sepsis,2.0,,9.0,,client said babi die due client claim servic provid client misplac death certif
+77,783,Child,Dar,Sepsis,1.0,,9.0,,client misplac death certif client thank servic
+46,5616,Adult,Dar,Stroke,2.0,35.0,,,client thank servic client misplac death certif
+44,5422,Adult,Dar,Stroke,1.0,47.0,,,client thank servic misplac death certif
+16,1266,Adult,Dar,Stroke,1.0,70.0,,,client thank servic client misplac death certif
+11,1124,Adult,Dar,Stroke,2.0,70.0,,,client thank servic death certif lost
+47,5642,Adult,Dar,Stroke,1.0,66.0,,,client misplac death certif client thank servic
+65,7533,Adult,Dar,Suicide,1.0,30.0,,,client thank client misplac death certif
+40,5203,Adult,Dar,Suicide,1.0,25.0,,,client misplac death certif client thank servic provid client said deceas hang due difficult life
+25,2559,Adult,Dar,TB,1.0,37.0,,,client thank servic client misplac death certif
+31,3551,Adult,Dar,TB,1.0,27.0,,,client noth client misplac death certif
+36,4373,Adult,Dar,TB,1.0,35.0,,,client thank servic client left death certif origin home place
+4,527,Adult,Dar,TB,1.0,26.0,,,client said death certif misplac
+0,81,Adult,Dar,TB,1.0,68.0,,,client misplac death certif client thank servic provid hospitali

@@ -1,0 +1,82 @@
+newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
+27,2522,Adult,Dar,AIDS,2.0,32.0,,,client noth comment
+58,6474,Adult,Dar,AIDS,2.0,42.0,,,client noth comment
+47,4548,Adult,Mexico,AIDS,1.0,28.0,,,comment
+35,3626,Adult,Mexico,AIDS,1.0,32.0,,,commentno comment
+7,564,Adult,Mexico,AIDS,1.0,38.0,,,comment
+15,1241,Adult,Mexico,AIDS,1.0,23.0,,,comment
+10,960,Adult,Mexico,AIDS,1.0,27.0,,,commentsno comment
+38,3776,Adult,Mexico,AIDS,1.0,30.0,,,comment
+20,1831,Adult,Mexico,Acute Myocardial Infarction,1.0,74.0,,,commentsno comment
+18,1691,Adult,Mexico,Acute Myocardial Infarction,1.0,55.0,,,comment phone person
+79,2133,Neonate,Dar,Birth asphyxia,1.0,,,0.0,client comment
+62,6778,Adult,Mexico,Breast Cancer,2.0,39.0,,,comment
+67,7503,Adult,Mexico,COPD,1.0,84.0,,,comment
+39,3793,Adult,Mexico,COPD,2.0,77.0,,,comment
+9,905,Adult,Mexico,COPD,2.0,83.0,,,comment
+41,4131,Adult,Dar,Cervical Cancer,2.0,,,,client noth comment
+34,3270,Adult,Dar,Cervical Cancer,2.0,40.0,,,client noth comment
+49,4720,Adult,Mexico,Cirrhosis,1.0,47.0,,,comment
+33,3224,Adult,Mexico,Cirrhosis,1.0,41.0,,,commentno comment
+60,6627,Adult,Mexico,Cirrhosis,2.0,50.0,,,comment
+29,2715,Adult,Mexico,Cirrhosis,1.0,70.0,,,comment
+68,7840,Adult,Mexico,Cirrhosis,1.0,66.0,,,comment
+23,2084,Adult,Mexico,Cirrhosis,2.0,60.0,,,commentsno comment
+25,2370,Adult,Mexico,Colorectal Cancer,2.0,32.0,,,comment
+55,5918,Adult,Mexico,Colorectal Cancer,1.0,51.0,,,comment
+65,6916,Adult,Mexico,Colorectal Cancer,2.0,71.0,,,comment
+72,333,Neonate,Dar,Congenital malformation,2.0,,,0.0,client noth comment
+46,4451,Adult,Mexico,Diabetes,1.0,48.0,,,commentsno comment
+56,6134,Adult,Dar,Diabetes,2.0,999.0,,,client noth comment
+21,1872,Adult,Mexico,Diabetes,2.0,67.0,,,comment
+36,3725,Adult,Dar,Diabetes,1.0,62.0,,,client noth comment
+31,3110,Adult,Mexico,Diabetes,2.0,36.0,,,comment
+61,6643,Adult,Mexico,Diabetes,2.0,57.0,,,comment
+19,1795,Adult,Mexico,Falls,2.0,83.0,,,comment
+45,4388,Adult,Mexico,Homicide,1.0,55.0,,,comment
+2,206,Adult,Mexico,Leukemia/Lymphomas,2.0,36.0,,,comment
+37,3750,Adult,Mexico,Lung Cancer,1.0,64.0,,,commentsno comment
+48,4660,Adult,Dar,Malaria,2.0,27.0,,,client comment
+26,2513,Adult,Dar,Malaria,2.0,13.0,,,client thank servic noth comment
+71,1655,Child,Dar,Malaria,1.0,2.0,,,client noth comment
+1,43,Adult,Dar,Maternal,2.0,23.0,,,client noth comment servic got
+63,6828,Adult,Dar,Maternal,2.0,24.0,,,interviw noth comment
+80,2347,Neonate,Dar,Meningitis/Sepsis,1.0,,,6.0,comment
+75,1160,Neonate,Dar,Meningitis/Sepsis,2.0,,,,client noth comment
+70,1173,Child,Mexico,Other Cancers,1.0,,11.0,,commentsno comment
+8,578,Adult,Mexico,Other Cardiovascular Diseases,2.0,68.0,,,comment
+17,1646,Adult,Mexico,Other Cardiovascular Diseases,1.0,35.0,,,comment
+50,4850,Adult,Mexico,Other Infectious Diseases,2.0,51.0,,,commentno comment
+30,2723,Adult,Mexico,Other Infectious Diseases,1.0,45.0,,,comment
+11,1019,Adult,Mexico,Other Non-communicable Diseases,1.0,84.0,,,comment
+16,1490,Adult,Dar,Other Non-communicable Diseases,1.0,60.0,,,client noth comment
+32,3201,Adult,Mexico,Other Non-communicable Diseases,1.0,75.0,,,comment
+53,5665,Adult,Mexico,Other Non-communicable Diseases,2.0,65.0,,,comment
+44,4364,Adult,Mexico,Other Non-communicable Diseases,1.0,32.0,,,comment
+66,6983,Adult,Dar,Other Non-communicable Diseases,1.0,52.0,,,cliient noth comment
+69,530,Child,Mexico,Pneumonia,1.0,8.0,,,comment
+0,31,Adult,Mexico,Pneumonia,2.0,70.0,,,comment
+40,3814,Adult,Mexico,Pneumonia,1.0,56.0,,,comment
+3,279,Adult,Mexico,Pneumonia,2.0,66.0,,,comment
+4,316,Adult,Mexico,Pneumonia,2.0,47.0,,,commentsno comment
+22,1996,Adult,Mexico,Pneumonia,1.0,47.0,,,comment
+14,1159,Adult,Mexico,Pneumonia,2.0,59.0,,,commentsno comment
+78,1808,Neonate,Mexico,Preterm Delivery,2.0,,,10.0,allther comment
+76,1434,Neonate,Mexico,Preterm Delivery,2.0,,,10.0,comment
+74,1157,Neonate,Mexico,Preterm Delivery,2.0,,,2.0,comment
+52,5526,Adult,Mexico,Renal Failure,1.0,18.0,,,comment
+5,350,Adult,Mexico,Road Traffic,1.0,59.0,,,commentsno comment
+12,1049,Adult,Mexico,Road Traffic,1.0,20.0,,,commentsno comment
+57,6314,Adult,Dar,Road Traffic,1.0,999.0,,,client noth comment
+28,2685,Adult,Dar,Road Traffic,2.0,47.0,,,client comment
+42,4270,Adult,Mexico,Road Traffic,1.0,25.0,,,comment
+51,5035,Adult,Mexico,Road Traffic,2.0,73.0,,,comment
+73,778,Neonate,Dar,Stillbirth,1.0,,,0.0,mother complain nurs comment
+77,1730,Neonate,Dar,Stillbirth,2.0,,,0.0,mother well attend comment
+43,4308,Adult,Dar,Stomach Cancer,2.0,48.0,,,client noth comment
+13,1126,Adult,Mexico,Stomach Cancer,1.0,40.0,,,comment
+24,2250,Adult,Mexico,Stroke,1.0,68.0,,,comment
+6,469,Adult,Mexico,Stroke,1.0,69.0,,,comment
+64,6882,Adult,Mexico,Stroke,2.0,82.0,,,commentsno comment
+59,6603,Adult,Mexico,Stroke,1.0,47.0,,,comment hope inform give usefulno comment everyth fine ladi kind
+54,5715,Adult,Mexico,Stroke,2.0,72.0,,,commentsno comment

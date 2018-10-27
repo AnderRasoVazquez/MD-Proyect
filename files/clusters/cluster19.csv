@@ -1,133 +1,188 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-32,2867,Adult,Dar,AIDS,2.0,45.0,,,client noth say
-66,5562,Adult,Dar,AIDS,1.0,28.0,,,client noth suggest
-81,6885,Adult,Dar,AIDS,1.0,45.0,,,client noth suggest
-82,6932,Adult,Dar,AIDS,2.0,23.0,,,client noth suggest
-63,5390,Adult,Dar,AIDS,1.0,57.0,,,client noth suggest
-87,7084,Adult,Dar,AIDS,2.0,56.0,,,client noth ask suggest
-92,7371,Adult,Dar,AIDS,1.0,36.0,,,client noth suggest
-51,4251,Adult,Dar,AIDS,2.0,36.0,,,client noth suggest
-3,384,Adult,Dar,AIDS,2.0,38.0,,,client noth say
-100,7839,Adult,Dar,AIDS,2.0,49.0,,,client noth say
-67,5568,Adult,Dar,Breast Cancer,2.0,50.0,,,client noth suggest
-45,3789,Adult,Dar,Breast Cancer,2.0,61.0,,,client noth suggest except nurs underdo deceas
-16,1615,Adult,Dar,Breast Cancer,2.0,999.0,,,client noth suggest
-61,5164,Adult,Dar,Cervical Cancer,2.0,58.0,,,interview noth suggest
-20,1894,Adult,Dar,Cervical Cancer,2.0,40.0,,,client noth suggest
-48,4083,Adult,Dar,Cervical Cancer,2.0,40.0,,,client got noth suggest
-42,3527,Adult,Dar,Cervical Cancer,2.0,46.0,,,client noth suggest
-74,6444,Adult,Dar,Cervical Cancer,2.0,56.0,,,client noth suggest
-27,2592,Adult,Dar,Cervical Cancer,2.0,51.0,,,client noth suggest
-83,6955,Adult,Dar,Cervical Cancer,2.0,52.0,,,client noth suggest
-88,7127,Adult,Dar,Cervical Cancer,2.0,37.0,,,client noth suggest
-7,740,Adult,Dar,Cervical Cancer,2.0,55.0,,,client noth suggest
-73,6378,Adult,Dar,Cervical Cancer,2.0,38.0,,,client noth suggest
-0,24,Adult,Dar,Cirrhosis,1.0,999.0,,,client noth suggest
-43,3649,Adult,Dar,Colorectal Cancer,2.0,37.0,,,client noth say
-117,75,Neonate,Dar,Congenital malformation,2.0,,,14.0,client noth suggest
-120,298,Neonate,Dar,Congenital malformation,1.0,,,0.0,suggest
-121,402,Neonate,Dar,Congenital malformation,1.0,,,19.0,client noth suggest client misplac death certif
-127,1629,Neonate,Dar,Congenital malformation,2.0,,,1.0,client noth suggest
-131,2333,Neonate,Dar,Congenital malformation,,,,0.0,client noth say
-8,842,Adult,Dar,Diabetes,1.0,36.0,,,client noth suggest
-57,4999,Adult,Dar,Diabetes,1.0,59.0,,,client noth suggest
-99,7798,Adult,Dar,Diarrhea/Dysentery,2.0,23.0,,,client noth suggest
-96,7649,Adult,Dar,Diarrhea/Dysentery,1.0,50.0,,,noth suggest client
-41,3482,Adult,Dar,Diarrhea/Dysentery,2.0,75.0,,,client noth suggest
-113,1181,Child,Dar,Drowning,1.0,6.0,,,client noth suggest
-38,3454,Adult,Dar,Drowning,1.0,15.0,,,client noth suggest
-26,2499,Adult,Dar,Drowning,1.0,52.0,,,client noth suggest
-55,4802,Adult,Dar,Drowning,1.0,28.0,,,client suggest noth client misplac death certif
-64,5470,Adult,Dar,Epilepsy,2.0,72.0,,,client noth suggest
-22,2229,Adult,Dar,Falls,1.0,45.0,,,client noth suggest
-79,6855,Adult,Dar,Falls,1.0,44.0,,,client noth suggest
-47,4008,Adult,Dar,Falls,1.0,999.0,,,client noth suggest
-53,4458,Adult,Dar,Falls,2.0,18.0,,,client noth suggest
-50,4226,Adult,Dar,Fires,2.0,18.0,,,client noth suggest
-101,49,Child,Dar,Fires,1.0,3.0,,,client noth suggest
-80,6869,Adult,Dar,Homicide,1.0,29.0,,,client suggest noth client misplac death certif
-89,7212,Adult,Dar,Homicide,1.0,58.0,,,client noth suggest
-70,5761,Adult,Dar,Homicide,1.0,23.0,,,client noth suggest
-5,656,Adult,Dar,Homicide,1.0,19.0,,,client suggest noth client misplac death certif
-12,1261,Adult,Dar,Leukemia/Lymphomas,2.0,41.0,,,client suggest
-97,7724,Adult,Dar,Leukemia/Lymphomas,2.0,23.0,,,client noth suggest
-90,7273,Adult,Dar,Lung Cancer,1.0,52.0,,,client noth suggest
-44,3723,Adult,Dar,Lung Cancer,2.0,52.0,,,client noth suggest
-86,7080,Adult,Dar,Malaria,2.0,28.0,,,client noth suggest
-116,1832,Child,Dar,Malaria,1.0,1.0,,,client said noth
-72,6368,Adult,Dar,Malaria,1.0,77.0,,,client noth suggest
-102,208,Child,Dar,Malaria,2.0,3.0,,,client noth suggest
-103,240,Child,Dar,Malaria,2.0,3.0,,,client noth suggest nurs harsh
-19,1700,Adult,Dar,Malaria,1.0,35.0,,,client trnsfer death cerfit origin home place client suggest noth
-39,3461,Adult,Dar,Malaria,1.0,999.0,,,client noth suggest
-112,1093,Child,Dar,Malaria,1.0,2.0,,,client noth suggest
-40,3478,Adult,Dar,Maternal,2.0,19.0,,,client noth suggest
-17,1617,Adult,Dar,Maternal,2.0,25.0,,,client noth suggest
-29,2657,Adult,Dar,Maternal,2.0,35.0,,,client noth suggest
-9,914,Adult,Dar,Maternal,2.0,27.0,,,noth suggest
-56,4970,Adult,Dar,Maternal,2.0,38.0,,,client noth suggest
-2,243,Adult,Dar,Maternal,2.0,36.0,,,client noth suggest
-130,2302,Neonate,Dar,Meningitis/Sepsis,2.0,,,3.0,client suggest noth client nt take death certif
-124,1415,Neonate,Dar,Meningitis/Sepsis,2.0,,,4.0,client noth suggest
-128,1849,Neonate,Dar,Meningitis/Sepsis,2.0,,,9.0,client noth suggest
-119,160,Neonate,Dar,Meningitis/Sepsis,2.0,,,2.0,client noth suggest
-118,83,Neonate,Dar,Meningitis/Sepsis,1.0,,,7.0,client noth suggest client misplac death certfic
-107,633,Child,Dar,Other Cardiovascular Diseases,1.0,,7.0,,client noth suggest
-115,1405,Child,Dar,Other Cardiovascular Diseases,2.0,,4.0,,client noth suggest
-114,1382,Child,Dar,Other Cardiovascular Diseases,2.0,,9.0,,client noth suggest
-78,6725,Adult,Dar,Other Cardiovascular Diseases,2.0,28.0,,,client noth suggest
-46,3840,Adult,Dar,Other Cardiovascular Diseases,1.0,47.0,,,client noth suggest
-68,5634,Adult,Dar,Other Cardiovascular Diseases,2.0,42.0,,,client noth suggest
-59,5129,Adult,Dar,Other Cardiovascular Diseases,1.0,23.0,,,client noth suggest
-98,7739,Adult,Dar,Other Cardiovascular Diseases,1.0,70.0,,,client noth suggest
-108,714,Child,Dar,Other Defined Causes of Child Deaths,1.0,3.0,,,client noth suggest
-105,407,Child,Dar,Other Defined Causes of Child Deaths,1.0,2.0,,,client suggest noth
-71,5877,Adult,Dar,Other Infectious Diseases,1.0,45.0,,,client noth suggest
-4,478,Adult,Dar,Other Infectious Diseases,1.0,33.0,,,client noth suggest
-31,2865,Adult,Dar,Other Infectious Diseases,1.0,54.0,,,client noth suggest
-10,974,Adult,Dar,Other Injuries,1.0,14.0,,,client suggest noth client misplac death certif
-33,3066,Adult,Dar,Other Non-communicable Diseases,1.0,70.0,,,client noth suggest
-91,7350,Adult,Dar,Other Non-communicable Diseases,1.0,24.0,,,client noth suggest
-94,7473,Adult,Dar,Other Non-communicable Diseases,2.0,60.0,,,theclient noth suggest
-11,1209,Adult,Dar,Other Non-communicable Diseases,1.0,999.0,,,client ja noth suggest
-15,1516,Adult,Dar,Other Non-communicable Diseases,1.0,47.0,,,client noth suggest
-52,4454,Adult,Dar,Other Non-communicable Diseases,1.0,14.0,,,client noth suggest
-13,1440,Adult,Dar,Other Non-communicable Diseases,1.0,48.0,,,client noth suggest
-75,6462,Adult,Dar,Other Non-communicable Diseases,1.0,54.0,,,client noth suggest
-18,1634,Adult,Dar,Other Non-communicable Diseases,2.0,45.0,,,client noth suggest
-62,5230,Adult,Dar,Other Non-communicable Diseases,2.0,24.0,,,client noth suggest
-95,7539,Adult,Dar,Pneumonia,1.0,52.0,,,client noth suggest thank servic
-126,1474,Neonate,Dar,Pneumonia,1.0,,,7.0,client noth suggest
-111,840,Child,Dar,Pneumonia,1.0,1.0,,,client suggest noth client misplac death certif
-129,2065,Neonate,Dar,Pneumonia,2.0,,,3.0,client noth suggest
-110,823,Child,Dar,Pneumonia,2.0,,7.0,,client noth
-21,2175,Adult,Dar,Poisonings,2.0,27.0,,,client suggest noth
-123,1295,Neonate,Dar,Preterm Delivery,1.0,,,4.0,client noth suggest certif misplac
-125,1443,Neonate,Dar,Preterm Delivery,2.0,,,1.0,client noth suggest
-122,980,Neonate,Dar,Preterm Delivery,1.0,,,2.0,client noth suggest
-14,1478,Adult,Dar,Renal Failure,2.0,55.0,,,client noth suggest
-36,3177,Adult,Dar,Renal Failure,1.0,65.0,,,client noth suggest
-35,3150,Adult,Dar,Road Traffic,2.0,64.0,,,client noth suggest
-23,2323,Adult,Dar,Road Traffic,1.0,22.0,,,client noth suggest
-106,475,Child,Dar,Road Traffic,2.0,10.0,,,client noth suggest
-34,3125,Adult,Dar,Road Traffic,1.0,25.0,,,client noth suggest
-49,4120,Adult,Dar,Road Traffic,1.0,23.0,,,client noth suggest
-85,7069,Adult,Dar,Road Traffic,1.0,29.0,,,client noth suggest
-109,722,Child,Dar,Road Traffic,1.0,4.0,,,client noth suggest
-104,353,Child,Dar,Sepsis,2.0,3.0,,,particip noth suggest
-76,6607,Adult,Dar,Stomach Cancer,1.0,67.0,,,client noth suggest
-24,2374,Adult,Dar,Stomach Cancer,1.0,60.0,,,client noth suggest
-30,2845,Adult,Dar,Stroke,2.0,53.0,,,client noth suggest
-77,6674,Adult,Dar,Stroke,2.0,70.0,,,client noth suggest
-69,5692,Adult,Dar,Stroke,2.0,55.0,,,client noth suggest
-60,5146,Adult,Dar,Stroke,1.0,48.0,,,client suggest
-37,3286,Adult,Dar,Stroke,1.0,64.0,,,client noth suggest
-28,2641,Adult,Dar,Stroke,2.0,48.0,,,client noth suggest
-84,6985,Adult,Dar,Suicide,1.0,39.0,,,client noth suggest
-93,7386,Adult,Dar,TB,1.0,25.0,,,client noth suggest
-58,5084,Adult,Dar,TB,2.0,21.0,,,client suggest
-54,4642,Adult,Dar,TB,2.0,38.0,,,client noth suggest
-25,2432,Adult,Dar,TB,1.0,50.0,,,client noth suggest
-1,132,Adult,Dar,TB,2.0,30.0,,,client noth suggest
-6,719,Adult,Dar,TB,2.0,70.0,,,client noth suggest
-65,5478,Adult,Dar,TB,2.0,27.0,,,client noth suggest
+105,5784,Adult,Mexico,AIDS,1.0,22.0,,,commentsflu interview inform fulli avail
+65,3594,Adult,Mexico,AIDS,2.0,33.0,,,noneth interview carri insid hous without problem
+137,6972,Adult,Mexico,AIDS,2.0,52.0,,,wit due ill aid deceas want anybodi know itth interview fluent swift
+59,3397,Adult,Mexico,Acute Myocardial Infarction,1.0,69.0,,,thank interview hesh like itth interview took place insid home witouth setback
+14,968,Adult,Mexico,Acute Myocardial Infarction,1.0,76.0,,,hospit treat wife well noth sayth interview took place insid home problem
+13,962,Adult,Mexico,Acute Myocardial Infarction,2.0,73.0,,,noneth interview took place doorway home street although wait long time woman gave interview forc want invonveni
+60,3455,Adult,Mexico,Acute Myocardial Infarction,2.0,57.0,,,think mother die medic neglig phone interview fluent
+128,6815,Adult,Mexico,Acute Myocardial Infarction,1.0,71.0,,,commentsth interview fluent one point inform start cri control decid continu interview reserv cooper
+63,3539,Adult,Mexico,Acute Myocardial Infarction,1.0,77.0,,,commentsth interview bit complic around found interviewe said would come back go moment came back sister also came talk interview went along brother said final agre interview told quick thing end last longer usual sister also gave opinion suppos answer
+42,2389,Adult,Mexico,Acute Myocardial Infarction,1.0,53.0,,,two infarct recoveredflu interview cooper kind ladi
+148,7360,Adult,Mexico,Acute Myocardial Infarction,1.0,62.0,,,noneth interview took place street outsid home calmli car street problem
+2,133,Adult,Mexico,Acute Myocardial Infarction,2.0,69.0,,,attent paid care quicker paperworkth interview took place insid home calmli problem
+46,2570,Adult,Mexico,Acute Myocardial Infarction,2.0,77.0,,,well taken care part doctor gratefulth interview carri insid hous without problem
+49,2701,Adult,Mexico,Asthma,2.0,64.0,,,commentsth interview fluent inform kind end tell question regard socioeconom section howev explain satisfi
+168,896,Neonate,Dar,Birth asphyxia,2.0,,,0.0,respond thank interview
+177,1504,Neonate,Mexico,Birth asphyxia,2.0,,,12.0,noneit sad interview interview mother kind rememb happen babi interview burst tear moreov ask babi father want give name live
+124,6619,Adult,Mexico,Breast Cancer,2.0,83.0,,,commentsth interview fluent peac
+12,956,Adult,Mexico,Breast Cancer,2.0,58.0,,,noneth interview took place outsid home problem although said sisterinlaw complain much almost never said hurt
+4,184,Adult,Mexico,Breast Cancer,2.0,39.0,,,noneth interview carri insid hous famili problem
+57,3212,Adult,Mexico,Breast Cancer,2.0,64.0,,,inform dissemin women get check cancer go went sisterth interview took place doorway home problem
+77,4114,Adult,Mexico,Breast Cancer,2.0,89.0,,,commentsth interview fluent calm inform calm courteou
+72,3849,Adult,Mexico,Breast Cancer,2.0,47.0,,,project interest good luck interview littl bit complic almost year gone hardli rememb correct question alreadi pass rememb interview nice polit interview took place workplac place
+18,1110,Adult,Mexico,Breast Cancer,2.0,74.0,,,given good care told truthth interview took place outsid home problem
+20,1192,Adult,Mexico,Breast Cancer,2.0,44.0,,,commentsth interview took place insid home without problem
+0,75,Adult,Mexico,COPD,2.0,33.0,,,consid medic neglig supposedli good hospit nurs never attend alway dirti want go hospitalth interview fluent
+66,3614,Adult,Mexico,COPD,2.0,76.0,,,nosmooth interview interviewe kind
+39,2302,Adult,Mexico,COPD,1.0,94.0,,,noneth interview took place problem calmli
+115,6402,Adult,Mexico,COPD,2.0,52.0,,,commentth interview went well
+138,6984,Adult,Mexico,COPD,2.0,,,,treat well hospitalth interview fluent first difficult convinc ladi read write afraid sign someth compromis
+146,7288,Adult,Mexico,COPD,2.0,89.0,,,medic staff pay attent term med prescrib sometim help someth make someth els worseth interview carri insid home without problem
+22,1560,Adult,Mexico,COPD,2.0,89.0,,,allth inform seriou curt interview
+33,2137,Adult,Mexico,COPD,2.0,89.0,,,noneth interview carri main entranc informant stay calm share inform without problem
+93,5003,Adult,Mexico,Cervical Cancer,2.0,63.0,,,commentsth interview took place interviewe home without problem although ladi senior citizen section confus side clear abl correct problem
+27,1962,Adult,Dar,Cervical Cancer,2.0,65.0,,,interview guestion suggest
+109,6140,Adult,Mexico,Cirrhosis,1.0,43.0,,,commentsth interview fluent
+144,7259,Adult,Mexico,Cirrhosis,2.0,56.0,,,mani doctor took good care sought medic attent opportun might still us symptom one year ignor remov uteru year old interview fluent problem
+6,439,Adult,Mexico,Cirrhosis,2.0,54.0,,,comment hospit want see anoth state taken interview took place insid home problem
+136,6958,Adult,Mexico,Cirrhosis,1.0,58.0,,,nosmooth interview inform nice
+130,6874,Adult,Mexico,Cirrhosis,2.0,66.0,,,noth interviewe say want excus show death certif pain father father would allow interview take place regard mother diseas would want anyon find type c hepat contagiousth inform bit reluct found pain rememb happen accept understood object questionnair interview took place doorstep want rel find might cancel nevertheless interview calm fluent
+122,6574,Adult,Mexico,Cirrhosis,1.0,75.0,,,commentsth interview fluent without interrupt although interviewe workplac
+15,1024,Adult,Mexico,Cirrhosis,1.0,50.0,,,commentsth interview fluent ant inform cooper
+102,5727,Adult,Mexico,Cirrhosis,1.0,39.0,,,commentsth interview took place entranc inform home peac inform say entertain insid due secur concern say better brother rest alcohol problem seriou
+99,5544,Adult,Mexico,Cirrhosis,1.0,59.0,,,commentsth interview occur outsid home without problem
+79,4250,Adult,Mexico,Cirrhosis,1.0,52.0,,,medic care good hospitalit fluent interview
+73,3900,Adult,Mexico,Cirrhosis,1.0,46.0,,,commentsth interview took place home problem calmli
+68,3687,Adult,Mexico,Cirrhosis,2.0,52.0,,,medic attent receiv hospit good took good care himth interview fluent
+61,3462,Adult,Mexico,Cirrhosis,1.0,36.0,,,commentsth interview fluent none two person present becam sad dishearten time kind cooper actual look quit content
+25,1702,Adult,Mexico,Cirrhosis,2.0,70.0,,,everyth went well medic attent wonder although diseas advancedth interview took place insid home troubl calm atmospher
+52,2824,Adult,Mexico,Cirrhosis,2.0,60.0,,,commentsth interview took place interviewe home calm ambianc problem
+87,4804,Adult,Mexico,Cirrhosis,1.0,43.0,,,commentsth interview took place corner place newspap stand problem interview
+34,2162,Adult,Mexico,Cirrhosis,1.0,29.0,,,commentsth interview took place outsid home problem calmli
+37,2295,Adult,Mexico,Cirrhosis,2.0,49.0,,,go die sooner later one get lossesth interview calm without cri first told stori carri interview
+36,2252,Adult,Mexico,Cirrhosis,1.0,39.0,,,medic attent hospit goodth interview fluent
+41,2371,Adult,Mexico,Cirrhosis,1.0,76.0,,,health servic univers regardless social econom statusth interview took place home relax
+45,2458,Adult,Mexico,Cirrhosis,2.0,66.0,,,pay attent patient sinc alreadi know lot peopl attend human themth interview took place insid home problem
+114,6322,Adult,Dar,Colorectal Cancer,1.0,62.0,,,interview said servic satisfatori
+16,1065,Adult,Mexico,Colorectal Cancer,2.0,79.0,,,doctor nt work properli deceiv peopleth interview carri insid hous without problem
+147,7298,Adult,Mexico,Colorectal Cancer,1.0,55.0,,,hospit space ill personnel give better serviceth interview perform interviewe home although interviewe becam bit sad problem interview
+181,2010,Neonate,Mexico,Congenital malformation,2.0,,,21.0,commentth interview took place outsid inform home problem talk babi death troubl
+172,1287,Neonate,Dar,Congenital malformation,1.0,,,0.0,interview suggest
+178,1573,Neonate,Mexico,Congenital malformation,2.0,,,11.0,medic attent good although lack thing provid good medic attent name father name interview given deceas babi girl grandmoth said mother bit shock tri understand happen problem grandmoth interview peac
+184,2526,Neonate,Mexico,Congenital malformation,2.0,,,0.0,noneth interview took place insid home address without problem parent cooper calm
+179,1577,Neonate,Mexico,Congenital malformation,1.0,,,18.0,commentth interview took place place
+133,6919,Adult,Mexico,Diabetes,1.0,70.0,,,commentsth interview fluent inform cooper peac attitud said deceas leg amput one day death deceas use smoke one packet cigarett daili
+71,3781,Adult,Mexico,Diabetes,2.0,57.0,,,mother poorli treat hospitalth interview went well
+69,3705,Adult,Mexico,Diabetes,2.0,69.0,,,commentsth interview fluent ladi kind
+10,704,Adult,Mexico,Diabetes,1.0,68.0,,,ask autopsi perform knew die saw dieth interview fluent
+7,516,Adult,Mexico,Diabetes,1.0,58.0,,,commentsth interview fluent polit niec deceas say never use health complaint diabet control year approxim inform interviewe wife deceas like father law
+30,2053,Adult,Mexico,Diabetes,1.0,60.0,,,comment everyth fineth interview conduct outsid ladi home ladi seem bit nervou time becam relax interview relax
+84,4715,Adult,Mexico,Diabetes,1.0,44.0,,,commentsth interview pleasant ladi talk much happen husband cooper
+28,2007,Adult,Mexico,Diabetes,1.0,63.0,,,commentsth inform wari first object studi explain agre give interview took place outsid home kind peac
+89,4859,Adult,Mexico,Diabetes,2.0,83.0,,,commentsth interview fluent
+117,6480,Adult,Mexico,Diabetes,1.0,65.0,,,glad questionnair help peopleth interview fluent sinc event occur year ago ladi rememb certain thing person kind interview took place metro station say six month ago suffer brain embol hemorrhag lost abil talk becam distress word want say
+152,7694,Adult,Mexico,Diabetes,1.0,66.0,,,comment interviewe want famili know agre give interviewth interview took place interviewe home kind atmospher calm agre interview day gave time meet met outsid father home seem sister want give interview interviewe agre interview without famili knowledg
+151,7562,Adult,Mexico,Diabetes,1.0,44.0,,,commentsth ladi cooper interview fluent except interrupt explain children one wari although appear satisfi explain everyth declin sign wit said one enough brother use new inform consent form say one wit requir want sign although present throughout entir interview like brother kind despit lack trust
+75,3930,Adult,Mexico,Diarrhea/Dysentery,1.0,71.0,,,year diabet control took mani medicinesth interview fluent except time ladi talk topic regard deceas
+135,6953,Adult,Mexico,Diarrhea/Dysentery,2.0,72.0,,,commentsth interview took place insid home problem
+43,2409,Adult,Mexico,Falls,1.0,84.0,,,interviewe mention want thank hospit provid healthcareth interview fluent
+38,2296,Adult,Mexico,Fires,2.0,98.0,,,senior citizen go hospit reason well taken care due age nobodi pay attent case motherth interview took place insid home even though inform nt want particip final agre interview afterward problem
+88,4840,Adult,Mexico,Leukemia/Lymphomas,2.0,77.0,,,noneth interview without setback famili member calm even though death recent kind
+104,5775,Adult,Mexico,Leukemia/Lymphomas,1.0,25.0,,,commentsth inform kind time notic hold tear time al smile mother law want sign inform consent form said would bring back son howev explain mani time accept interview fluent point told entir medic attent process
+32,2101,Adult,Mexico,Leukemia/Lymphomas,1.0,22.0,,,noneth interview took place insid home problem
+24,1696,Adult,Mexico,Leukemia/Lymphomas,2.0,53.0,,,commentsth inform kind cooper interview mani time hold tear look afflict nevertheless posit attitud
+51,2732,Adult,Mexico,Leukemia/Lymphomas,1.0,20.0,,,commentsth inform calm sad interview shed tear
+108,6098,Adult,Mexico,Leukemia/Lymphomas,1.0,39.0,,,think medic malpractic get fever control know infect locat place next person pneumonia caught itth interview fluent kindli agre sign
+48,2613,Adult,Mexico,Lung Cancer,1.0,51.0,,,attent receiv hospit good brother bad shape suffer lot agoni long painfulth interview fluent ladi sometim cri episod would control continu interview
+67,3645,Adult,Mexico,Lung Cancer,1.0,69.0,,,death certif mention caus death cancer still questionth interview fluent
+62,3496,Adult,Mexico,Lung Cancer,1.0,73.0,,,noneth interview carri insid home without problem everyth went well
+141,7100,Adult,Mexico,Lung Cancer,1.0,77.0,,,everyth went well father receiv good careth interview took place outsid home problem
+131,6887,Adult,Mexico,Lung Cancer,2.0,70.0,,,noneth interview carri insid home without problem although inform young matur gave reliabl interview without problem
+85,4774,Adult,Mexico,Maternal,2.0,25.0,,,noneth interview carri insid home although wait inform hour answer famili question sucess without problem
+157,1527,Child,Mexico,Other Cardiovascular Diseases,1.0,,1.0,,commentsth interview took place insid hous ladi sad cri interview variou breath exercis end calm problem
+125,6660,Adult,Mexico,Other Cardiovascular Diseases,2.0,67.0,,,take anticoagul year test said clot decreas medic enough caus brain hemorrhageth interview fluent
+40,2342,Adult,Mexico,Other Cardiovascular Diseases,1.0,69.0,,,hope inform gave usefulth interviewe strong although point eye fill tear interview took place street mother hous women hurt emot
+154,763,Child,Mexico,Other Cardiovascular Diseases,2.0,,1.0,,congratul hospit alway good treatment toward babi alway explain babi health without liesth interview took place insid home address without problem
+119,6509,Adult,Mexico,Other Cardiovascular Diseases,2.0,77.0,,,add thatat hospit well treat detect diseas notic health unitth interview fluent inform answer question without hesit interview took place home calm atmospher revis questionnair question copd written medic histori mention person interview
+50,2702,Adult,Mexico,Other Cardiovascular Diseases,2.0,72.0,,,commentsth interview fluent interviewe own veget shop peopl would come shop interview interrupt everi time husband kind
+92,4985,Adult,Mexico,Other Cardiovascular Diseases,2.0,97.0,,,commentth interview warm time famili got involv never hinder interview
+54,3012,Adult,Mexico,Other Cardiovascular Diseases,2.0,74.0,,,doubt commentsth interview fast inform go necessari come back death certif problem rel certif
+81,4398,Adult,Mexico,Other Cardiovascular Diseases,2.0,90.0,,,commentsth gentleman wari first final agre give interview
+5,242,Adult,Mexico,Other Cardiovascular Diseases,2.0,45.0,,,commentsat begin interview inform want give felt import howev insist studi object made realiz benefit might come agre give interview went well
+17,1101,Adult,Mexico,Other Cardiovascular Diseases,1.0,71.0,,,health center never medic remain stock varieti medicationsth interview took place insid home problem
+94,5053,Adult,Mexico,Other Cardiovascular Diseases,1.0,59.0,,,attent good although scarciti personnel medicin interviewe complain way rel treat note famili inform diseas everythingth interviewe younger sister help answer question interview took place insid home problem left tranquil calm
+158,1873,Child,Mexico,Other Defined Causes of Child Deaths,2.0,,1.0,,commentsth interview led well
+153,606,Child,Mexico,Other Defined Causes of Child Deaths,1.0,,3.0,,commentth interview took place outsid person home problem end cri bit becam stabl talk peac want give husband name might angri find
+156,1322,Child,Mexico,Other Defined Causes of Child Deaths,1.0,,1.0,,commentth interview took place interviewe home problem answer question inform seriou moment sad calm answer interview finish peac say talk make keep feet ground
+83,4552,Adult,Mexico,Other Infectious Diseases,1.0,66.0,,,commentsth interview took place outsid home problem
+64,3562,Adult,Mexico,Other Infectious Diseases,2.0,80.0,,,commentsth interview took place outsid home calmli
+53,2988,Adult,Mexico,Other Non-communicable Diseases,2.0,64.0,,,noneth interview carri insid hous calmli problem
+55,3065,Adult,Mexico,Other Non-communicable Diseases,2.0,40.0,,,commentsth interview fluent
+56,3156,Adult,Mexico,Other Non-communicable Diseases,2.0,84.0,,,commentsth interview declin give inform question due secur concern think irrelev interview took place offic seem remodel noth peopl call phone fix meet agre ask whether anoth wit could come said point alreadi given inform need would call institut later possibl love mother much child
+116,6470,Adult,Mexico,Other Non-communicable Diseases,1.0,52.0,,,thank hospit doctor servic good complaint hospitalth interview interviewe home ladi calm
+26,1785,Adult,Mexico,Other Non-communicable Diseases,1.0,67.0,,,commentsth inform kind interview took place home ambianc calm kind get work interview appoint alway busi time wife help rememb event present interview gener inform adolesc adult modul
+3,170,Adult,Mexico,Other Non-communicable Diseases,2.0,78.0,,,thing say wife went alreadi said death confusoth interview carri insid home without problem
+29,2051,Adult,Mexico,Other Non-communicable Diseases,2.0,48.0,,,pleas servic although miss tube procur well taken care end unabl perform surgeri heart attackth interview fluent although begin thought gentleman inebri answer confus answer thing suppos howev interview continu adapt way respond
+127,6812,Adult,Mexico,Other Non-communicable Diseases,1.0,89.0,,,want add medic attent good hospit provid doctor good wellth interview took place inform home kind interview fluent calm
+103,5751,Adult,Mexico,Other Non-communicable Diseases,1.0,53.0,,,commentsth inform kind interview calm took place interviewe home fluent
+132,6888,Adult,Mexico,Other Non-communicable Diseases,1.0,44.0,,,patient diseas like cough undergo test husband ill startedth interview took place inform home appear sad somewhat restless felt stronger breakdown thank support brother law mother law came point interview end interview tranquil stabl
+101,5711,Adult,Mexico,Other Non-communicable Diseases,1.0,65.0,,,somehow offer benefit come heart sinc could bring brother back life refus itth interview took place interviewe home peac without problem
+100,5567,Adult,Mexico,Other Non-communicable Diseases,2.0,33.0,,,commentsth interview fluent interrupt due interviewe work
+9,676,Adult,Mexico,Other Non-communicable Diseases,1.0,84.0,,,treat well hospit everyth could help possibl alway clean took good care himth interview fluent
+113,6241,Adult,Mexico,Other Non-communicable Diseases,1.0,69.0,,,commentsther problem interview
+86,4783,Adult,Mexico,Other Non-communicable Diseases,1.0,43.0,,,interview aggress comment furtherth document avail home interview took place person workplac
+35,2242,Adult,Mexico,Pneumonia,1.0,23.0,,,commentsth ladi kind although seem tri answer hurri interview thu quickli wit present son underag
+143,7253,Adult,Mexico,Pneumonia,1.0,45.0,,,commentsthi peac interview inform confus question difficult make understand within interview time frame everyth went well
+155,952,Child,Mexico,Pneumonia,2.0,,2.0,,commentth interview fluent peopl kind poor
+106,5821,Adult,Mexico,Pneumonia,1.0,68.0,,,commentsth interview fluent interviewe kind
+95,5293,Adult,Mexico,Pneumonia,1.0,53.0,,,commentsth interview fluent inform requir emot support
+44,2425,Adult,Mexico,Pneumonia,2.0,96.0,,,comment healthcar excellentth interview fluent pleasant
+123,6583,Adult,Mexico,Pneumonia,1.0,78.0,,,two year previou oper perfor gastric ulcer mental ill temporari could longer hear well like sweet lotth interview fluent inform kind
+58,3372,Adult,Mexico,Poisonings,1.0,32.0,,,commentsth interview took place insid home problem
+150,7559,Adult,Mexico,Poisonings,2.0,21.0,,,commentsth interview took place right sidewalk sit small edg inform happen time choic start interview inform aunt deceas alway good attitud interview went smoothli inform narrat niec came contact marihuana begin move solvent rehabilit mani time attitud chang
+76,3993,Adult,Mexico,Poisonings,1.0,58.0,,,interview carri insid hous without problem
+183,2244,Neonate,Mexico,Preterm Delivery,1.0,,,2.0,commentth interview fluent problem
+182,2016,Neonate,Mexico,Preterm Delivery,1.0,,,3.0,go hospit medic attent deni assist hospit went first possibl babi would aliveth interview took place without problem peopl kind
+180,1752,Neonate,Mexico,Preterm Delivery,1.0,,,3.0,commentit fluent interview
+174,1343,Neonate,Mexico,Preterm Delivery,1.0,,,9.0,commentsth interview led well
+173,1325,Neonate,Mexico,Preterm Delivery,2.0,,,4.0,brain hemorrhag intern organ developth interview fluent inform kind
+162,264,Neonate,Mexico,Preterm Delivery,1.0,,,10.0,well keep studyingth interview took place inform parent home problem
+161,201,Neonate,Mexico,Preterm Delivery,1.0,,,1.0,commentth interview took place outsid inform home said famili would allow give interview person appear disarray gave interview troubl name proxi name sinc child small could take doctor born low weight
+160,153,Neonate,Mexico,Preterm Delivery,1.0,,,9.0,public institut medic attent women sometim women assist lack moneyth interview took place insid home address without problem although begin woman littl bit distrust accept said contact granddaught possibl want give interview assist labor would think take jail someth like interview took place without problem
+176,1499,Neonate,Mexico,Preterm Delivery,2.0,,,16.0,triplet hospit taken incub feel reason wellassist hope hospit would devic necessaryth interview took place insid home address without problem
+166,636,Neonate,Mexico,Preterm Delivery,1.0,,,0.0,commentth interview fluent
+186,2599,Neonate,Mexico,Preterm Delivery,2.0,,,3.0,commentth interview fluent rel cooper kind
+78,4228,Adult,Mexico,Prostate Cancer,1.0,56.0,,,commentsth interview fluent inform cooper peac without prompt took death certif first said rememb caus death mention health personnel later probe correct answer
+120,6526,Adult,Mexico,Renal Failure,2.0,79.0,,,interview good good hope helpsth interview fluent
+23,1609,Adult,Mexico,Renal Failure,1.0,49.0,,,commentsth inform reluct second visit want particip explain studi object agre give interview nurs hospit interview took place outsid home said messi dog inform kind interview flow smoothli peac
+96,5404,Adult,Mexico,Renal Failure,1.0,25.0,,,commentsit fluent interview comment
+19,1149,Adult,Mexico,Renal Failure,2.0,62.0,,,commentsth interview took place inform offic nt express doubt concern consent letter answer onesyl word focus ask ad detail nt show interest particip interview
+149,7393,Adult,Mexico,Renal Failure,1.0,24.0,,,commentsflu interview
+112,6187,Adult,Mexico,Renal Failure,1.0,19.0,,,nurs personnel consciou famili member pacient treat betterth interview took place insid home problem calmli
+1,99,Adult,Mexico,Renal Failure,2.0,72.0,,,nosmooth interview inform nice
+98,5463,Adult,Mexico,Renal Failure,2.0,25.0,,,comment well hospit offer better servic yell rel lot abus doctor give better explan patient diseasesth interview took place interviewe home although two children present problem interview calm
+142,7157,Adult,Mexico,Road Traffic,1.0,19.0,,,noneth interview took place insid home hisher motherinlaw calmli problem
+111,6177,Adult,Mexico,Road Traffic,1.0,43.0,,,give adecu attentionth interview carri insid hous although begin reluct agre interview understood object project problem
+110,6153,Adult,Mexico,Road Traffic,1.0,12.0,,,commentsit bit troublesom interview inform speak clearli spanish countri seem somewhat antisoci still will give interview problem everi thing went well except rememb son birth
+185,2588,Neonate,Mexico,Stillbirth,1.0,,,0.0,commentsth interview develop well alreadi anoth babi five month old
+169,908,Neonate,Mexico,Stillbirth,2.0,,,0.0,everyth right hospit see opportunelyth interview fluent inform famili kind
+170,1177,Neonate,Mexico,Stillbirth,1.0,,,0.0,three day deliveri mother intens pain night want go hospit next dayth interview fluent inform kind
+171,1267,Neonate,Mexico,Stillbirth,1.0,,,0.0,commentth interview fluent
+164,357,Neonate,Mexico,Stillbirth,1.0,,,0.0,hospit realli tell babi die treat badli almost kill meth interview fluent inform calm
+167,784,Neonate,Mexico,Stillbirth,2.0,,,0.0,think doctor fault child die see opportun everyth fine lateth interview fluent inform cooper
+163,299,Neonate,Mexico,Stillbirth,1.0,,,0.0,least alreadi child wil abl moreth interview fluent inform cooper
+165,498,Neonate,Mexico,Stillbirth,2.0,,,1.0,commentth interview took place place kiosk although wait interviewe hour arriv good attitud gave interview problem
+159,150,Neonate,Mexico,Stillbirth,1.0,,,0.0,want add informationth interview led well interview husband kind
+175,1395,Neonate,Mexico,Stillbirth,1.0,,,0.0,babi tangl umbil cord sinc see opportun die asphyxiath inform mother law kind interview fluent
+91,4950,Adult,Mexico,Stomach Cancer,1.0,50.0,,,noneth interview took place insid home problem
+121,6528,Adult,Mexico,Stomach Cancer,1.0,54.0,,,commentsth interview took place interviewe home problem although ladi would go talk talk problem
+80,4396,Adult,Mexico,Stroke,1.0,83.0,,,attent receiv hospit goodth interview good fluent
+74,3927,Adult,Mexico,Stroke,1.0,40.0,,,commentsth interview happen street person kind although peopl premis want anyon wit interview
+70,3745,Adult,Mexico,Stroke,2.0,84.0,,,commentsth inform continu mention throughout interview mother use healthi
+21,1484,Adult,Mexico,Stroke,1.0,60.0,,,author littl humanitarianth interview took place insid home calmli problem
+47,2601,Adult,Mexico,Stroke,2.0,74.0,,,commentsth interview fluent
+82,4470,Adult,Mexico,Stroke,2.0,82.0,,,satisfi care provid hospit doctor nursesth interview took place inform home although arriv agre time wait order explain reason visit fortun agre interview good result everyth flow smoothli
+140,7087,Adult,Mexico,Stroke,2.0,68.0,,,commentsth interview took place interviewe home went slowli interviewe receiv phonecal brother place take
+97,5453,Adult,Mexico,Stroke,1.0,82.0,,,help improv medic servic make sure improp dealingsth interview took place insid home inform howev due advanc age troubl understand use studi despit hear explan mani time confus eventu gave interview without problem
+11,790,Adult,Mexico,Stroke,2.0,92.0,,,senil dementia whimsicalth interview fluent
+118,6489,Adult,Mexico,Stroke,2.0,87.0,,,went hospit reject electr medic servic thu took fluent interview person wait even made photocopi death certif case need
+126,6745,Adult,Mexico,Stroke,1.0,80.0,,,commentsth interview fluent gentleman healthi use go walk amus unfortun suffer fall caus death
+129,6820,Adult,Mexico,Stroke,2.0,78.0,,,commentsth interview took place outsid home problem
+134,6930,Adult,Mexico,Stroke,2.0,86.0,,,medic care good saw immediatelyth interview fluent
+8,673,Adult,Mexico,Stroke,2.0,80.0,,,attent hospit excel hospit stay excellentth interview took place front famili although nobodi particip interviewe answer
+139,7031,Adult,Mexico,Stroke,1.0,48.0,,,noth provid good care certif exwif place way get interviewe touch start convuls taken room interview fluent
+145,7262,Adult,Mexico,Stroke,2.0,84.0,,,commentsth interview fluent interviewe request emot support
+90,4904,Adult,Mexico,Stroke,2.0,65.0,,,commentsquest answer inform sister help interview took place insid home problem
+31,2087,Adult,Mexico,Stroke,2.0,72.0,,,healthcar good hospitalth interview fluent ladi answer question clearli
+107,5841,Adult,Mexico,TB,1.0,46.0,,,noneth interview took place outsid home main entranc ground without problem although begin inform reluct point staff health center previous ask question explain reason object studi final agre

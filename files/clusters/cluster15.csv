@@ -1,83 +1,74 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-27,2522,Adult,Dar,AIDS,2.0,32.0,,,client noth comment
-58,6474,Adult,Dar,AIDS,2.0,42.0,,,client noth comment
-47,4548,Adult,Mexico,AIDS,1.0,28.0,,,comment
-35,3626,Adult,Mexico,AIDS,1.0,32.0,,,commentno comment
-7,564,Adult,Mexico,AIDS,1.0,38.0,,,comment
-15,1241,Adult,Mexico,AIDS,1.0,23.0,,,comment
-10,960,Adult,Mexico,AIDS,1.0,27.0,,,commentsno comment
-38,3776,Adult,Mexico,AIDS,1.0,30.0,,,comment
-20,1831,Adult,Mexico,Acute Myocardial Infarction,1.0,74.0,,,commentsno comment
-18,1691,Adult,Mexico,Acute Myocardial Infarction,1.0,55.0,,,comment phone person
-80,2133,Neonate,Dar,Birth asphyxia,1.0,,,0.0,client comment
-62,6778,Adult,Mexico,Breast Cancer,2.0,39.0,,,comment
-67,7503,Adult,Mexico,COPD,1.0,84.0,,,comment
-39,3793,Adult,Mexico,COPD,2.0,77.0,,,comment
-9,905,Adult,Mexico,COPD,2.0,83.0,,,comment
-41,4131,Adult,Dar,Cervical Cancer,2.0,,,,client noth comment
-34,3270,Adult,Dar,Cervical Cancer,2.0,40.0,,,client noth comment
-49,4720,Adult,Mexico,Cirrhosis,1.0,47.0,,,comment
-33,3224,Adult,Mexico,Cirrhosis,1.0,41.0,,,commentno comment
-60,6627,Adult,Mexico,Cirrhosis,2.0,50.0,,,comment
-29,2715,Adult,Mexico,Cirrhosis,1.0,70.0,,,comment
-68,7840,Adult,Mexico,Cirrhosis,1.0,66.0,,,comment
-23,2084,Adult,Mexico,Cirrhosis,2.0,60.0,,,commentsno comment
-25,2370,Adult,Mexico,Colorectal Cancer,2.0,32.0,,,comment
-55,5918,Adult,Mexico,Colorectal Cancer,1.0,51.0,,,comment
-65,6916,Adult,Mexico,Colorectal Cancer,2.0,71.0,,,comment
-72,333,Neonate,Dar,Congenital malformation,2.0,,,0.0,client noth comment
-46,4451,Adult,Mexico,Diabetes,1.0,48.0,,,commentsno comment
-56,6134,Adult,Dar,Diabetes,2.0,999.0,,,client noth comment
-21,1872,Adult,Mexico,Diabetes,2.0,67.0,,,comment
-36,3725,Adult,Dar,Diabetes,1.0,62.0,,,client noth comment
-31,3110,Adult,Mexico,Diabetes,2.0,36.0,,,comment
-61,6643,Adult,Mexico,Diabetes,2.0,57.0,,,comment
-19,1795,Adult,Mexico,Falls,2.0,83.0,,,comment
-45,4388,Adult,Mexico,Homicide,1.0,55.0,,,comment
-2,206,Adult,Mexico,Leukemia/Lymphomas,2.0,36.0,,,comment
-37,3750,Adult,Mexico,Lung Cancer,1.0,64.0,,,commentsno comment
-48,4660,Adult,Dar,Malaria,2.0,27.0,,,client comment
-26,2513,Adult,Dar,Malaria,2.0,13.0,,,client thank servic noth comment
-71,1655,Child,Dar,Malaria,1.0,2.0,,,client noth comment
-1,43,Adult,Dar,Maternal,2.0,23.0,,,client noth comment servic got
-63,6828,Adult,Dar,Maternal,2.0,24.0,,,interviw noth comment
-81,2347,Neonate,Dar,Meningitis/Sepsis,1.0,,,6.0,comment
-75,1160,Neonate,Dar,Meningitis/Sepsis,2.0,,,,client noth comment
-70,1173,Child,Mexico,Other Cancers,1.0,,11.0,,commentsno comment
-8,578,Adult,Mexico,Other Cardiovascular Diseases,2.0,68.0,,,comment
-17,1646,Adult,Mexico,Other Cardiovascular Diseases,1.0,35.0,,,comment
-50,4850,Adult,Mexico,Other Infectious Diseases,2.0,51.0,,,commentno comment
-30,2723,Adult,Mexico,Other Infectious Diseases,1.0,45.0,,,comment
-11,1019,Adult,Mexico,Other Non-communicable Diseases,1.0,84.0,,,comment
-16,1490,Adult,Dar,Other Non-communicable Diseases,1.0,60.0,,,client noth comment
-32,3201,Adult,Mexico,Other Non-communicable Diseases,1.0,75.0,,,comment
-53,5665,Adult,Mexico,Other Non-communicable Diseases,2.0,65.0,,,comment
-44,4364,Adult,Mexico,Other Non-communicable Diseases,1.0,32.0,,,comment
-66,6983,Adult,Dar,Other Non-communicable Diseases,1.0,52.0,,,cliient noth comment
-69,530,Child,Mexico,Pneumonia,1.0,8.0,,,comment
-0,31,Adult,Mexico,Pneumonia,2.0,70.0,,,comment
-40,3814,Adult,Mexico,Pneumonia,1.0,56.0,,,comment
-3,279,Adult,Mexico,Pneumonia,2.0,66.0,,,comment
-4,316,Adult,Mexico,Pneumonia,2.0,47.0,,,commentsno comment
-22,1996,Adult,Mexico,Pneumonia,1.0,47.0,,,comment
-14,1159,Adult,Mexico,Pneumonia,2.0,59.0,,,commentsno comment
-79,1808,Neonate,Mexico,Preterm Delivery,2.0,,,10.0,allther comment
-77,1434,Neonate,Mexico,Preterm Delivery,2.0,,,10.0,comment
-76,1433,Neonate,Dar,Preterm Delivery,2.0,,,3.0,client comment good servic provid
-74,1157,Neonate,Mexico,Preterm Delivery,2.0,,,2.0,comment
-52,5526,Adult,Mexico,Renal Failure,1.0,18.0,,,comment
-5,350,Adult,Mexico,Road Traffic,1.0,59.0,,,commentsno comment
-57,6314,Adult,Dar,Road Traffic,1.0,999.0,,,client noth comment
-28,2685,Adult,Dar,Road Traffic,2.0,47.0,,,client comment
-42,4270,Adult,Mexico,Road Traffic,1.0,25.0,,,comment
-51,5035,Adult,Mexico,Road Traffic,2.0,73.0,,,comment
-12,1049,Adult,Mexico,Road Traffic,1.0,20.0,,,commentsno comment
-73,778,Neonate,Dar,Stillbirth,1.0,,,0.0,mother complain nurs comment
-78,1730,Neonate,Dar,Stillbirth,2.0,,,0.0,mother well attend comment
-43,4308,Adult,Dar,Stomach Cancer,2.0,48.0,,,client noth comment
-13,1126,Adult,Mexico,Stomach Cancer,1.0,40.0,,,comment
-54,5715,Adult,Mexico,Stroke,2.0,72.0,,,commentsno comment
-6,469,Adult,Mexico,Stroke,1.0,69.0,,,comment
-24,2250,Adult,Mexico,Stroke,1.0,68.0,,,comment
-64,6882,Adult,Mexico,Stroke,2.0,82.0,,,commentsno comment
-59,6603,Adult,Mexico,Stroke,1.0,47.0,,,comment hope inform give usefulno comment everyth fine ladi kind
+40,5011,Adult,Dar,AIDS,1.0,55.0,,,accord particip deceas condit chang suddenli urin away loos hie energi couldt even walk support
+62,7312,Adult,Mexico,AIDS,1.0,39.0,,,noth deceas healthi suddenli condit becam seriou die
+8,1503,Adult,UP,AIDS,1.0,34.0,,,deceas work place last year famili live villag fever sinc last month day earlier retun villag somebodi poison enrout admit district hospit place return admit hospit day hospit day uneasi want get bed day death condit improv start eat recogn peopl eaten medicin suddenli die hiv posit
+10,1892,Adult,AP,AIDS,2.0,38.0,,,get convuls paralysi sinc day doctor said hemorrhag doctor ask us use medicin alright day condit becom seriou thereaft
+0,250,Adult,Mexico,Acute Myocardial Infarction,2.0,76.0,,,deceas chronic respiratori condit emphysema caus cook firewood childhood deceas harden arteri spine problem previou test diabet detect last time wasth interview last hour interviewe narrat anecdot question kind cooper
+5,703,Adult,UP,Acute Myocardial Infarction,1.0,62.0,,,deceas asthma ayurved doctor henc treat day death condit becam seriou thu unabl anyth doctor said one kidney complet stop work hour death suffer third attack
+55,6539,Adult,UP,Acute Myocardial Infarction,2.0,46.0,,,deceas cancer womb extract year ago lot stress also suffer kind respiratori condit long time condit would get aggrav whenev physic work
+27,3811,Adult,UP,Acute Myocardial Infarction,2.0,71.0,,,day breath deceas labor sinc afternoon deceas admit hospit state hallucin discharg morn health worsen even admit hospit die next day patient sugar often given insulin feel pinprick leg disappear given insulin
+4,612,Adult,Mexico,Breast Cancer,2.0,41.0,,,point view case medic neglig condit seriou die day hospit due stomachach supposedli studi would carri never paid
+16,2800,Adult,Mexico,COPD,1.0,64.0,,,think one medic gave alter lot alreadi stabl condit chang medic got sick diedi think one medic gave alter lot alreadi stabl condit chang medic got sick die
+6,978,Adult,UP,COPD,1.0,70.0,,,deceas taken hospit put oxygen remain till death red white spot would often appear back disappear year ago smoker condit deceas decor inject insulin told sugar level high
+9,1610,Adult,UP,Cirrhosis,1.0,50.0,,,deceas alcohol cirrhosi lever treatment continu becam seriou admit hospit death problem eat food
+32,4557,Adult,UP,Cirrhosis,1.0,24.0,,,deceas face problem last day condit deterior last day patient admit hospit till take home medicin day pa stool given medicin jaundic last day nearli unconsci last day faint
+47,5815,Adult,AP,Cirrhosis,1.0,64.0,,,admit father patient hospit vomit blood hous kept icu blood came due throat infect secondli treat jaundic also condit becam seriou admit due financi difficulti treat day said cirrhosi liver treat year expir
+18,2993,Adult,Mexico,Cirrhosis,1.0,36.0,,,would like say hospit take care peopl mani die doctor took anoth bed silenc us son alreadi lost case provid healthcar need hospit need must thought poor provid attent son think condit bed enough die use walk eat seriou condit die think may inject someth inform said first time deceas hospit water taken stomach swell feet went cough improv anxieti went away felt better thought go recov yellow eye went away die
+51,6084,Adult,UP,Diabetes,1.0,65.0,,,memori deceas grown weak consumpt cigarett beetel etc increas condit decor give blood deceas
+15,2759,Adult,AP,Diabetes,2.0,55.0,,,mother suddenli develop stomach pain took hospit blood pressur sugar high doctor told water accumul kidney due condit worsen
+61,7134,Adult,UP,Diabetes,1.0,65.0,,,day ago deceas stumbl hurt due deceas becam feverish sweat excess condit becam seriou due injuri admit health centr condit improv deceas admit hospit wound right leg swell near ankl whole leg pu also flow doctor said tetanu deceas medic pain limb sinc year
+56,6626,Adult,AP,Diarrhea/Dysentery,1.0,62.0,,,due sever problem kidney father suffer lot though treat local administ medicin use admit hospit day admiss condit seriou infus salin given inject also also labor breath die suddenli
+21,3292,Adult,Pemba,Diarrhea/Dysentery,2.0,15.0,,,respond explain deceas stomach pain becam weak sent privat dispensari prescrib metakelfin return home condit still wors sent hospit receiv
+68,7759,Adult,AP,Diarrhea/Dysentery,2.0,62.0,,,patient seriou condit last two day blood pressur level went low took hospit treat told us got infect chest unconsci two day doctor also said live blood pressur level gone much
+60,7119,Adult,AP,Diarrhea/Dysentery,1.0,70.0,,,patient ail day first affect dysenteri vomit led sever weak could even move hand leg taken hospit place medicin given arrest diarrhea urin arrest one day medic urin usual shift privat physician doctor meanwhil leg swell cure seriou condit shift anoth doctor kidney problem diagnos stay one day shift sinc strike go staff reluct admit though admit salin infus patient test conduct unnecessarili patient stay day staff firm refus admiss would taken anoth hospit besid seriou health condit indiffer staff result death patient
+38,4953,Adult,UP,Homicide,1.0,60.0,,,deceas return home pm bodi drench sweat unabl support bodi unabl stand move taken hospit doctor induc vomit water came doctor gave medicin later felt alright condit start decor pm given oxygen condit kept decor blood pressur drop felt thirsti start feel uneasi doctor call come request help lie lie close eye die without open death occur due careless callous junior doctor caus death blood pressur deceas fallen low could control
+35,4772,Adult,AP,Homicide,1.0,25.0,,,come call lift cell brother call said fell seriou condit head fractur critic stage given treatment hospit day die due sever injuri
+26,3766,Adult,UP,Malaria,1.0,47.0,,,main caus death recur malaria would cure everi time medic time deceas becam serious ill admit hospit day improv condit doctor said could save brought hospit improv slightli day condit decor wors condit die day
+50,6081,Adult,AP,Malaria,1.0,55.0,,,day death suffer ill immedi took doctor observ condit doctor refer us hospit admit hospit doctor said complet test said condit seriou could give guarante life even said would trial alright never diseas understand reason behind death
+41,5138,Adult,UP,Other Cardiovascular Diseases,1.0,45.0,,,deceas suffer breath ill last year condit becom wors last one month remain admit day nearbi privat hospit admit hospit day reliev one day later fell ill brother arriv next day place deceas happi see talk brother die accord doctor suffer heart attack excess happi see brother
+65,7547,Adult,Mexico,Other Cardiovascular Diseases,2.0,58.0,,,mother could alreadi foretel could suffer infarct doctor hospit said blood pressur right safe seriou danger taken place suffer infarct emerg roomno comment
+25,3727,Adult,UP,Other Cardiovascular Diseases,2.0,65.0,,,husband deceas die year ago caus remain stress constantli day death suffer paralysi attack right side decemb sugar becam nil blood pressur rose admit hospit condit decor admit hospit place underw ctscan pacemak instal felt uncomfort breath put oxygen admit hospit given blood
+69,706,Child,Mexico,Other Defined Causes of Child Deaths,1.0,,7.0,,sinc prematur birth stay hospit improv took home week hospit intub last month see time blood came tube born hospit later hospit interview took place home mother father deceas babi present caus death hydrocephali reflux ependym due e coli acquir hospit say person
+20,3079,Adult,UP,Other Infectious Diseases,2.0,33.0,,,deceas often stress tension inject two year ago waist result kind black stain spot form blood pressur low caus condit decor admit specialis tuberculosi hospit time taken hospit bring hospit remain seriou condit day lost consciou regain till death hospit blood analyz time spinal cord analyz famili member never told anyth famili member alleg doctor careless neglig duti also said expens medicin bought taken return
+39,4979,Adult,UP,Other Infectious Diseases,2.0,45.0,,,husband die sinc prone stress often suffer low blood pressur would faint hour hour half suffer paralysi cure treatment admit medic colleg famili member found suffer epilepsi stroke pusfil insect bite throat becom infect accord doctor due blood also infect gotten bed sore nail turn blue food doctor put tube insid deceas emit wheez sound breath even novemb suffer convuls novemb admit hospit discharg day though condit stabilis novemb readmit
+49,5891,Adult,UP,Other Infectious Diseases,1.0,38.0,,,deceas brain fever blood clot brain caus death admit place put oxygen doctor refus treat taken medic colleg place famili alleg staff neglig duti nt even administ oxygen die day admiss
+66,7552,Adult,UP,Other Infectious Diseases,2.0,45.0,,,deceas fallen ill suddenli boil appear hip grown ripe burst later made condit wors blood pressur deceas becom low
+53,6185,Adult,UP,Other Infectious Diseases,2.0,48.0,,,deceas ga problem admit hospit also experienc troubl breath administ oxygen administ oxygen felt uneasi anxiou start scream shout condit decor even admit trauma centr date doctor diagnos brain fever deceas suffer fall year ago thu knee pain often deceas low blood pressur later high blood pressur doctor told lie straight one side breath problem uteru remov
+28,3974,Adult,UP,Other Infectious Diseases,2.0,27.0,,,deceas women seriou condit taken hospit deliveri shift place die week
+59,7028,Adult,UP,Other Infectious Diseases,2.0,15.0,,,deceas struck fever could treat time medic hospit famili member alleg doctor extrem careless deceas administ glucos delay admiss medic hospit admit pm die next day
+46,5754,Adult,UP,Other Infectious Diseases,1.0,65.0,,,kidney deceas malfunct treat homeopath medicin two previou month sometim felt reliev condit becam seriou admit privat clinic doctor also work hospit remain day also given two bottl blood condit improv taken trauma centr place put oxygen expir hour admiss
+67,7585,Adult,Dar,Other Infectious Diseases,2.0,31.0,,,respond said hospit slow condit patient got wors die treatment
+44,5545,Adult,UP,Other Infectious Diseases,1.0,60.0,,,deceas cough problem xray done pvt hospit normal treatment gong suddenli condit worsen admit hospit date stay hour given glucos expir per respond someth black right side stomach
+34,4706,Adult,UP,Other Non-communicable Diseases,1.0,70.0,,,deceas fat point interf movement admit hospit month earlier cure stay hospit exactli two day time put oxygen excreta death includ blood
+52,6087,Adult,AP,Other Non-communicable Diseases,1.0,47.0,,,husband fever took hospit place doctor said kidney fail jaundic condit becam seriou refer hospit given treatment conditon critic die
+11,2078,Adult,Mexico,Other Non-communicable Diseases,2.0,75.0,,,moment daughter took insert tube cleans insid see okay condit becam seriou know long sister take got ill took doctor two time shortli die plate made inject serum high fever took hospit state becam grave appli serum
+63,7344,Adult,Mexico,Other Non-communicable Diseases,1.0,43.0,,,commentsth ladi gave interview problem difficulti time paper deceas children ladi point last month condit seriou went hospit mani time rememb mani rememb last time day death
+36,4845,Adult,UP,Pneumonia,2.0,45.0,,,deceas undergo treatment epilepsi doctor conclud checkup final day blood clot brain deceas believ deceas lost life due doctor fault condit slowli stabilis paper kind given famili member patient doctor kept
+1,253,Adult,Bohol,Pneumonia,2.0,94.0,,,mother nt experienc ill bed ridden situat prior sudden bad health condit lead death notic past month alway felt hunger even use eat time time last sept suddenli complain cant breath immedi bring hospit said low hemoglobin uti infect worri day stay hospit improv condit decid transfer arriv start ankl swell ecg result found enlarg heart sever anemia bag blood transfuss done wonder bluetongu blood transfuss improv condit time camel abl continu buy antibiot due fiinanci reason medicin wa expens conditioin worsen septemb thorough medic attent given difficulti breath becom worst day pass away
+3,411,Adult,UP,Pneumonia,2.0,60.0,,,deceas ga problem doctor given painkil condit worsen start feel nausea underw treatment privat nurs home blood pressur deceas becom low sent place doctor said kidney malfunct area knee swell time
+12,2118,Adult,AP,Pneumonia,1.0,20.0,,,condit start worsen three day die patient cold fever headach difficulti breath last three day hospit hospit two day die
+13,2214,Adult,UP,Pneumonia,1.0,35.0,,,deceas suffer problem fever swell bodi sinc year would cure everi time medic everi time happen sugar high condit becam seriou sugar becam low eat medicin deceas said experienc kind pain anywher bodi weak suffer fall bed injur waist
+29,4063,Adult,Mexico,Pneumonia,1.0,48.0,,,healthcar provid hospit bad told us would move intens therapi get medic attent state grave hour late administ medic caus condit worsen
+14,2557,Adult,Bohol,Pneumonia,2.0,29.0,,,gave birth child last octob accord doctor wife preeclampsia blood pressur rise due condit deliv babi cesarean section sent home condit becom better still blood pressur remain higher level also becam edemat time suddenli attitud chang alway say nonsens word asthma also frequent attack even condit still continu smoke condit worsen becam late bring hospit
+23,3476,Adult,UP,Pneumonia,2.0,55.0,,,tb problem one lung occasion cough breath problem day ago condit worsen took chsc breath rapidli shift hospit confus act insan given inject faint unconsci day given oxygen glucos remain suggest day die day ago breathless mild fever semi anxious mild chest pain swell face sometim swell feet giddi occasion medic caught cold
+43,5498,Adult,UP,Pneumonia,1.0,18.0,,,deceas experienc sever pain head taken privat doctor clinic inject twice medicin condit decor steadili taken anoth privat clinic taken hospit mark improv seen health hour condit decor seriou state expir
+2,387,Adult,UP,Poisonings,2.0,58.0,,,deceas sometim complain pain spinal cord also experienc pain sometim chest sometim head sinc last year sometim even felt pain womb often experienc convuls complet cure treatment undergo treatment homeopath doctor reliev taken hospit condit becam seriou die hour later
+24,3637,Adult,UP,Poisonings,1.0,39.0,,,deceas troubl problem relat spine pu come lower portion spine month pain stop found pain never stop quietli consum sulfa without tell anyon condit seem improv next day could save
+22,3332,Adult,UP,Poisonings,1.0,18.0,,,deceas experienc sharp pain abdomen taken hospit tube insert nose accord famili member condit decor tube condit worsen remain admit throughout night improv health die next morn also live stress
+71,1467,Neonate,AP,Preterm Delivery,2.0,,,6.0,patient fine deliveri howev becam weak moreov prematur deliveri doctor said condit seriou treatment six day suddenli die difficulti take breath normal
+58,6976,Adult,UP,Renal Failure,2.0,32.0,,,deceas experienc fail health time time death nearbi region flood day death health decor seriou condit accord inform given husband kidney fail period delay three month
+57,6949,Adult,UP,Renal Failure,1.0,60.0,,,deceas told analysi stone kidney bought hospit treatment due careless doctor could get bed time time bed could arrang condit becom extrem seriou
+70,1506,Child,AP,Sepsis,1.0,,3.0,,son sever cold day die due pain swallow condit becam seriou die
+72,2155,Neonate,Dar,Stillbirth,2.0,,,0.0,respond said nurs nt attend nice clean condit becam wors transef hospit found remain babi last clean
+17,2953,Adult,AP,Stroke,1.0,69.0,,,drunk fell becom death hospit day doctor say anyth condit even ask injuri said noth doctor also hope tri level best treatment wise neglig
+54,6199,Adult,Dar,Stroke,1.0,,,,particip noth add opinion death due rise bodi pressur situat sudden chang condit patient becam seriou
+30,4401,Adult,Mexico,Stroke,2.0,49.0,,,ask doctor seriou wife condit said wife hand said might remain veget state die ask thought unplug machin occur repli need discuss famili anoth doctor said necessari take anoth hospit would taken ask would realli benefit mere go left corridor might well stay knew hospit qualiti health carequest year condit control deceas suffer anoth attack time gentleman year old say suffer first attack one attack question present due postur time remain bed hospit interviewe know answer could talk wife say taken hospit told tingl hand feet swollen ask show part point calf thigh deceas admit hospit put respir respir remain day hospit remain singl posit bed lie food given tube three hour taken hospit told son sever headach
+64,7422,Adult,AP,Stroke,2.0,75.0,,,bp level motherinlaw soar extraordinari level besid also cardiac problem week death shift hospit check administ inject prescrib tablet medic alright coupl day condit becam seriou call rush hospit exactli day death doctor check said suffer high bp brain also affect later die octob year
+31,4509,Adult,Mexico,Stroke,1.0,49.0,,,arriv hospit admit intern medicin take neurolog blood alreadi spill brain noth could done realiz nt know time condit worsen think influenza vaccin administ day earlier time develop dri cough damag himth interview went smoothli
+7,1349,Adult,UP,Stroke,2.0,22.0,,,ct scan revel blood clot brain last day pregnant deliv still born deceas seriou condit day awar fact day excess bleed cure later
+33,4637,Adult,Bohol,Stroke,2.0,74.0,,,alreadi high blood pressur stroke happen long time ago forgot year week death care grandchild gave birth hospit unabl speak sudden rush er hospit bp admit unconsci orogastr tube feed date die
+48,5816,Adult,UP,Stroke,1.0,35.0,,,sharp pain aros bodi deceas death fallen ill day boil appear left leg boil seriou condit becom infect pu insid hurt lot day death boil cure famili member alleg doctor careless deceas treat time medic colleg
+37,4898,Adult,AP,Stroke,2.0,78.0,,,mother suffer asthma joint pain bp paralysi etc differ ailment sinc condit deterior admit hospit die take treatment
+42,5348,Adult,Bohol,Stroke,2.0,71.0,,,diabet high blood pressur day death felt weak fell bed bed ridden week treat liniment also visit tradit healer person place day death brought hospit wk death lost conscious doctor said intern hemorrhag year die
+19,3076,Adult,UP,Stroke,1.0,45.0,,,deceas suffer respiratori condit condit trigger dust smoke etc fell ill week death two day death fever fallen unconsci regain conscious till death condit becom seriou ceil cave die day
+45,5627,Adult,AP,Stroke,2.0,44.0,,,night year saturday drink day got paralysi roam around two three privat hospit told go hospit doctor said surviv condit seriou

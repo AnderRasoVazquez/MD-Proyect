@@ -1,374 +1,74 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-191,5576,Adult,Dar,AIDS,2.0,26.0,,,client addit point
-253,7246,Adult,Dar,AIDS,2.0,50.0,,,client addit point
-233,6493,Adult,Dar,AIDS,1.0,47.0,,,client addit point
-118,3498,Adult,Dar,AIDS,2.0,24.0,,,particip addit point
-251,7217,Adult,Dar,AIDS,2.0,40.0,,,client addit point
-183,5388,Adult,Dar,AIDS,2.0,34.0,,,client addit point
-213,6156,Adult,Dar,AIDS,2.0,42.0,,,client addit point
-28,1055,Adult,Dar,AIDS,2.0,20.0,,,client addit point
-73,2186,Adult,Dar,AIDS,2.0,54.0,,,particip addit point
-126,3741,Adult,Dar,AIDS,1.0,50.0,,,client addit point
-179,5271,Adult,Dar,AIDS,2.0,26.0,,,client addit point
-67,2082,Adult,Dar,AIDS,1.0,42.0,,,client addit point
-36,1256,Adult,Dar,AIDS,2.0,30.0,,,particip addit point
-230,6447,Adult,Dar,AIDS,2.0,34.0,,,client addit point
-41,1461,Adult,Dar,AIDS,2.0,42.0,,,client addit point
-138,4057,Adult,Dar,AIDS,2.0,999.0,,,client addit point
-20,732,Adult,Dar,AIDS,1.0,37.0,,,client addit point
-85,2478,Adult,Dar,AIDS,2.0,999.0,,,client addit point
-137,4011,Adult,Dar,AIDS,1.0,35.0,,,client addit point
-257,7409,Adult,Dar,AIDS,2.0,22.0,,,client addit point
-90,2560,Adult,Dar,AIDS,2.0,58.0,,,client addit point
-93,2582,Adult,Dar,AIDS,2.0,37.0,,,particip addit point
-254,7249,Adult,Dar,AIDS,2.0,40.0,,,client addit point
-190,5571,Adult,Dar,AIDS,1.0,39.0,,,client addit point
-115,3343,Adult,Dar,AIDS,1.0,45.0,,,client addit point
-2,67,Adult,Dar,AIDS,2.0,28.0,,,client addit point
-276,311,Child,Dar,AIDS,2.0,,7.0,,client addit point
-101,2795,Adult,Dar,AIDS,2.0,40.0,,,client addit point
-17,616,Adult,Dar,AIDS,2.0,63.0,,,client addit point
-150,4416,Adult,Dar,AIDS,2.0,25.0,,,client addit point
-159,4627,Adult,Dar,Acute Myocardial Infarction,1.0,17.0,,,particip addit point
-51,1588,Adult,Dar,Asthma,1.0,75.0,,,client addit point
-322,107,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother addit point
-357,1682,Neonate,Dar,Birth asphyxia,2.0,,,0.0,addit point
-325,170,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother addit point
-369,2419,Neonate,Dar,Birth asphyxia,1.0,,,2.0,mother addit point
-323,119,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother addit point
-360,1866,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond thank addit point
-173,5161,Adult,Dar,Breast Cancer,2.0,999.0,,,client addit point
-111,3196,Adult,Dar,Breast Cancer,2.0,28.0,,,client addit point
-195,5743,Adult,Dar,Breast Cancer,2.0,37.0,,,client addit point servic provid good
-268,7838,Adult,Dar,Breast Cancer,2.0,52.0,,,client addit point
-112,3245,Adult,Dar,Breast Cancer,2.0,53.0,,,client addit point
-203,5940,Adult,Dar,Breast Cancer,2.0,48.0,,,client addit point
-210,6070,Adult,Dar,Breast Cancer,2.0,35.0,,,client addit point
-225,6363,Adult,Dar,Breast Cancer,2.0,28.0,,,particip addit point
-12,473,Adult,Dar,Breast Cancer,2.0,49.0,,,client addit point
-259,7467,Adult,Dar,Breast Cancer,2.0,87.0,,,client addit point servic provid good
-46,1522,Adult,Dar,Cervical Cancer,2.0,77.0,,,client addit point servic provid fine
-145,4235,Adult,Dar,Cervical Cancer,2.0,51.0,,,client addit point servic provid good
-9,375,Adult,Dar,Cervical Cancer,2.0,999.0,,,client addit point
-250,7159,Adult,Dar,Cervical Cancer,2.0,42.0,,,client addit point
-44,1513,Adult,Dar,Cervical Cancer,2.0,999.0,,,client addit point
-158,4602,Adult,Dar,Cervical Cancer,2.0,39.0,,,client addit point
-211,6075,Adult,Dar,Cervical Cancer,2.0,61.0,,,client addit point good servic provid
-79,2310,Adult,Dar,Cervical Cancer,2.0,50.0,,,client addit point
-120,3544,Adult,Dar,Cervical Cancer,2.0,999.0,,,client addit point
-23,965,Adult,Dar,Cervical Cancer,2.0,49.0,,,client addit point
-11,415,Adult,Dar,Cervical Cancer,2.0,50.0,,,client addit point
-18,625,Adult,Dar,Cervical Cancer,2.0,999.0,,,particip addit point
-188,5552,Adult,Dar,Cervical Cancer,2.0,999.0,,,client addit point
-209,6046,Adult,Dar,Cervical Cancer,2.0,,,,client addit point
-91,2566,Adult,Dar,Cervical Cancer,2.0,40.0,,,client addit point
-32,1150,Adult,Dar,Cervical Cancer,2.0,72.0,,,client addit point
-66,2058,Adult,Dar,Cervical Cancer,2.0,60.0,,,client addit point
-141,4106,Adult,Dar,Cervical Cancer,2.0,999.0,,,client addit point
-129,3802,Adult,Dar,Cervical Cancer,2.0,37.0,,,client addit point
-236,6561,Adult,Dar,Cervical Cancer,2.0,87.0,,,client addit point
-172,5107,Adult,Dar,Cervical Cancer,2.0,999.0,,,client addit point
-232,6485,Adult,Dar,Cervical Cancer,2.0,46.0,,,client addit point
-62,1977,Adult,Dar,Cervical Cancer,2.0,61.0,,,client addit point
-131,3844,Adult,Dar,Cervical Cancer,2.0,47.0,,,client addit point
-37,1265,Adult,Dar,Cervical Cancer,2.0,58.0,,,client addit point
-241,6847,Adult,Dar,Cervical Cancer,2.0,59.0,,,client addit point
-35,1233,Adult,Dar,Cervical Cancer,2.0,42.0,,,client addit point
-151,4478,Adult,Dar,Cervical Cancer,2.0,67.0,,,client addit point
-94,2619,Adult,Dar,Cirrhosis,2.0,999.0,,,client addit point
-13,479,Adult,Dar,Cirrhosis,1.0,41.0,,,client addit point
-38,1283,Adult,Dar,Cirrhosis,2.0,29.0,,,client addit point
-83,2444,Adult,Dar,Cirrhosis,2.0,36.0,,,client addit point
-15,547,Adult,Dar,Cirrhosis,1.0,40.0,,,client addit point
-178,5268,Adult,Dar,Cirrhosis,1.0,52.0,,,client addit point
-133,3881,Adult,Dar,Colorectal Cancer,2.0,49.0,,,particip addit point
-221,6228,Adult,Dar,Colorectal Cancer,1.0,999.0,,,client addit point
-343,906,Neonate,Dar,Congenital malformation,1.0,,,22.0,client addit point
-328,293,Neonate,Dar,Congenital malformation,1.0,,,0.0,client addit point
-350,1470,Neonate,Dar,Congenital malformation,2.0,,,0.0,client addit point
-324,121,Neonate,Dar,Congenital malformation,1.0,,,0.0,client addit point
-332,462,Neonate,Dar,Congenital malformation,1.0,,,8.0,client addit point
-341,847,Neonate,Dar,Congenital malformation,1.0,,,18.0,client addit point
-114,3310,Adult,Dar,Diabetes,1.0,999.0,,,client addit point
-7,280,Adult,Dar,Diabetes,2.0,40.0,,,client addit point
-4,162,Adult,Dar,Diabetes,2.0,65.0,,,client addit point
-109,3087,Adult,Dar,Diabetes,2.0,40.0,,,client addit point
-182,5370,Adult,Dar,Diabetes,1.0,91.0,,,client addit point
-19,647,Adult,Dar,Diabetes,1.0,52.0,,,client addit point
-180,5351,Adult,Dar,Diabetes,1.0,58.0,,,client addit point
-65,2050,Adult,Dar,Diabetes,2.0,999.0,,,client addit point
-54,1675,Adult,Dar,Diabetes,1.0,50.0,,,client addit point
-16,594,Adult,Dar,Diabetes,1.0,67.0,,,client addit point
-0,26,Adult,Dar,Diabetes,2.0,50.0,,,client addit point
-89,2551,Adult,Dar,Diarrhea/Dysentery,1.0,50.0,,,client addit
-189,5557,Adult,Dar,Diarrhea/Dysentery,2.0,45.0,,,client addit point
-277,323,Child,Dar,Diarrhea/Dysentery,1.0,1.0,,,particip addit point
-100,2781,Adult,Dar,Diarrhea/Dysentery,1.0,34.0,,,particip addit point
-71,2121,Adult,Dar,Diarrhea/Dysentery,1.0,34.0,,,client addit point
-30,1085,Adult,Dar,Diarrhea/Dysentery,2.0,40.0,,,client addit point
-175,5210,Adult,Dar,Esophageal Cancer,1.0,58.0,,,client addit point
-212,6122,Adult,Dar,Esophageal Cancer,2.0,50.0,,,client addit point servic good
-80,2363,Adult,Dar,Esophageal Cancer,2.0,43.0,,,client addit point servic provid nice
-235,6548,Adult,Dar,Esophageal Cancer,2.0,58.0,,,client addit point
-217,6180,Adult,Dar,Esophageal Cancer,2.0,70.0,,,client addit point
-245,6938,Adult,Dar,Esophageal Cancer,1.0,70.0,,,client addit point
-25,1016,Adult,Dar,Esophageal Cancer,1.0,47.0,,,client addit point
-58,1813,Adult,Dar,Esophageal Cancer,2.0,71.0,,,addit point
-104,2972,Adult,Dar,Esophageal Cancer,2.0,999.0,,,client addit point
-102,2802,Adult,Dar,Esophageal Cancer,1.0,49.0,,,client addit point
-113,3279,Adult,Dar,Falls,1.0,40.0,,,particip addit point
-249,7105,Adult,Dar,Falls,2.0,35.0,,,client addit point
-48,1544,Adult,Dar,Fires,1.0,33.0,,,client addit point
-218,6205,Adult,Dar,Fires,1.0,30.0,,,client addit point
-301,1326,Child,Dar,Fires,1.0,2.0,,,client addit point
-202,5930,Adult,Dar,Fires,1.0,28.0,,,particip addit add point
-157,4562,Adult,Dar,Fires,1.0,35.0,,,particip addit point
-81,2382,Adult,Dar,Fires,1.0,23.0,,,particip addit point
-60,1916,Adult,Dar,Fires,1.0,26.0,,,client addit point
-167,5076,Adult,Dar,Leukemia/Lymphomas,2.0,49.0,,,client addit point
-170,5099,Adult,Dar,Leukemia/Lymphomas,1.0,25.0,,,client addit point
-57,1782,Adult,Dar,Leukemia/Lymphomas,1.0,31.0,,,client addit point
-5,175,Adult,Dar,Leukemia/Lymphomas,1.0,48.0,,,client addit point
-164,4996,Adult,Dar,Leukemia/Lymphomas,2.0,40.0,,,client addit point
-140,4086,Adult,Dar,Leukemia/Lymphomas,1.0,999.0,,,client addit point
-197,5768,Adult,Dar,Leukemia/Lymphomas,2.0,42.0,,,client addit point
-176,5235,Adult,Dar,Leukemia/Lymphomas,2.0,48.0,,,particip addit point
-68,2086,Adult,Dar,Leukemia/Lymphomas,2.0,25.0,,,client addit point
-204,5949,Adult,Dar,Leukemia/Lymphomas,1.0,13.0,,,particip addit point
-77,2254,Adult,Dar,Leukemia/Lymphomas,2.0,999.0,,,client addit point
-121,3630,Adult,Dar,Leukemia/Lymphomas,1.0,35.0,,,particip addit point
-86,2500,Adult,Dar,Leukemia/Lymphomas,2.0,999.0,,,client addit point
-56,1775,Adult,Dar,Lung Cancer,2.0,27.0,,,client addit point
-192,5591,Adult,Dar,Malaria,1.0,999.0,,,client addit point
-258,7433,Adult,Dar,Malaria,2.0,20.0,,,client addit point
-296,1211,Child,Dar,Malaria,2.0,5.0,,,particip addit point
-292,1116,Child,Dar,Malaria,1.0,1.0,,,client addit point
-163,4823,Adult,Dar,Malaria,1.0,56.0,,,client addit point
-166,5070,Adult,Dar,Malaria,1.0,999.0,,,client addit point
-305,1403,Child,Dar,Malaria,2.0,1.0,,,particip addit point
-289,950,Child,Dar,Malaria,1.0,1.0,,,particip addit point
-279,543,Child,Dar,Malaria,2.0,2.0,,,client addit point
-215,6172,Adult,Dar,Malaria,2.0,999.0,,,client addit point
-281,715,Child,Dar,Malaria,2.0,4.0,,,client addit point
-219,6207,Adult,Dar,Malaria,1.0,49.0,,,client addit point
-297,1247,Child,Dar,Malaria,1.0,,9.0,,client addit point
-307,1495,Child,Dar,Malaria,2.0,2.0,,,particip addit point
-269,16,Child,Dar,Malaria,2.0,1.0,,,client addit point
-74,2190,Adult,Dar,Malaria,2.0,60.0,,,client addit point
-148,4354,Adult,Dar,Malaria,1.0,20.0,,,client addit point
-310,1569,Child,Dar,Malaria,1.0,,3.0,,client addit point
-316,1870,Child,Dar,Malaria,1.0,1.0,,,client addit point
-8,339,Adult,Dar,Malaria,2.0,47.0,,,client addit point
-314,1732,Child,Dar,Malaria,2.0,,11.0,,client addit point
-6,238,Adult,Dar,Malaria,1.0,999.0,,,client addit point
-31,1127,Adult,Dar,Maternal,2.0,26.0,,,client addit point
-244,6924,Adult,Dar,Maternal,2.0,18.0,,,client addit point
-193,5649,Adult,Dar,Maternal,2.0,999.0,,,client addit point
-107,3057,Adult,Dar,Maternal,2.0,36.0,,,particip addit point
-208,6042,Adult,Dar,Maternal,2.0,20.0,,,client addit point
-154,4505,Adult,Dar,Maternal,2.0,29.0,,,client addit point
-228,6393,Adult,Dar,Maternal,2.0,30.0,,,client addit point
-216,6174,Adult,Dar,Maternal,2.0,35.0,,,client addit point
-136,3979,Adult,Dar,Maternal,2.0,16.0,,,client addit point servic propid good
-134,3906,Adult,Dar,Maternal,2.0,22.0,,,client addit point
-205,5977,Adult,Dar,Maternal,2.0,999.0,,,client noth addit
-169,5098,Adult,Dar,Maternal,2.0,26.0,,,client addit point
-64,2041,Adult,Dar,Maternal,2.0,30.0,,,client addit point
-152,4498,Adult,Dar,Maternal,2.0,24.0,,,client addit point
-223,6348,Adult,Dar,Maternal,2.0,27.0,,,client addit point
-220,6219,Adult,Dar,Maternal,2.0,23.0,,,client addit point
-59,1844,Adult,Dar,Maternal,2.0,17.0,,,client addit point servic provid good
-285,818,Child,Dar,Meningitis,2.0,2.0,,,client addit point
-288,938,Child,Dar,Meningitis,1.0,,4.0,,particip addit point
-272,133,Child,Dar,Meningitis,2.0,5.0,,,client addit point
-311,1690,Child,Dar,Meningitis,2.0,1.0,,,particip addit point
-335,545,Neonate,Dar,Meningitis/Sepsis,1.0,5.0,,,mother addit point well attend
-346,1018,Neonate,Dar,Meningitis/Sepsis,2.0,,,1.0,particip addit point
-345,982,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,particip addit point
-363,2116,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,mother addit point
-330,324,Neonate,Dar,Meningitis/Sepsis,1.0,,,4.0,particip addit point
-370,2502,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,client addit point
-367,2224,Neonate,Dar,Meningitis/Sepsis,1.0,,,7.0,client addit point
-365,2135,Neonate,Dar,Meningitis/Sepsis,2.0,,,7.0,client addit point
-366,2197,Neonate,Dar,Meningitis/Sepsis,1.0,,,0.0,client addit point
-49,1550,Adult,Dar,Other Cardiovascular Diseases,1.0,50.0,,,client addit point
-97,2650,Adult,Dar,Other Cardiovascular Diseases,2.0,45.0,,,client addit point
-201,5927,Adult,Dar,Other Cardiovascular Diseases,2.0,50.0,,,client addit point
-70,2108,Adult,Dar,Other Cardiovascular Diseases,2.0,50.0,,,client addit point
-42,1476,Adult,Dar,Other Cardiovascular Diseases,1.0,52.0,,,client addit point
-33,1191,Adult,Dar,Other Cardiovascular Diseases,2.0,999.0,,,client addit point
-308,1542,Child,Dar,Other Cardiovascular Diseases,2.0,2.0,,,particip addit point
-130,3830,Adult,Dar,Other Cardiovascular Diseases,2.0,71.0,,,client addit point
-300,1301,Child,Dar,Other Cardiovascular Diseases,1.0,19.0,,,particip addit point
-255,7300,Adult,Dar,Other Cardiovascular Diseases,1.0,52.0,,,client addit point
-108,3071,Adult,Dar,Other Cardiovascular Diseases,2.0,85.0,,,client addit point
-234,6521,Adult,Dar,Other Cardiovascular Diseases,2.0,51.0,,,client addit point
-287,847,Child,Dar,Other Cardiovascular Diseases,2.0,,10.0,,client addit point
-139,4058,Adult,Dar,Other Cardiovascular Diseases,2.0,52.0,,,client addit point
-321,2015,Child,Dar,Other Defined Causes of Child Deaths,1.0,2.0,,,particip addit point
-274,227,Child,Dar,Other Defined Causes of Child Deaths,2.0,7.0,,,particip addit point
-319,1935,Child,Dar,Other Defined Causes of Child Deaths,2.0,2.0,,,client addit point
-29,1077,Adult,Dar,Other Infectious Diseases,1.0,55.0,,,client addit point
-309,1561,Child,Dar,Other Infectious Diseases,1.0,3.0,,,client addit point
-160,4721,Adult,Dar,Other Infectious Diseases,2.0,999.0,,,client addit point
-262,7657,Adult,Dar,Other Infectious Diseases,2.0,26.0,,,client addit point
-304,1384,Child,Dar,Other Infectious Diseases,2.0,1.0,,,client addit point
-303,1354,Child,Dar,Other Infectious Diseases,2.0,11.0,,,client addit point
-3,109,Adult,Dar,Other Infectious Diseases,2.0,19.0,,,client addit point
-127,3756,Adult,Dar,Other Infectious Diseases,2.0,65.0,,,client addit point
-125,3704,Adult,Dar,Other Infectious Diseases,2.0,65.0,,,client addit point
-123,3657,Adult,Dar,Other Infectious Diseases,2.0,90.0,,,particip addit point
-318,1883,Child,Dar,Other Infectious Diseases,2.0,11.0,,,client addit point
-320,1980,Child,Dar,Other Infectious Diseases,1.0,,,,client addit point
-84,2462,Adult,Dar,Other Infectious Diseases,1.0,999.0,,,client addit point
-87,2538,Adult,Dar,Other Infectious Diseases,1.0,44.0,,,client addit point
-53,1641,Adult,Dar,Other Infectious Diseases,2.0,30.0,,,client addit point
-96,2648,Adult,Dar,Other Infectious Diseases,1.0,58.0,,,client addit point
-226,6380,Adult,Dar,Other Infectious Diseases,2.0,39.0,,,client addit point
-266,7760,Adult,Dar,Other Injuries,2.0,18.0,,,particip addit point
-155,4510,Adult,Dar,Other Injuries,2.0,26.0,,,client addit point
-88,2548,Adult,Dar,Other Injuries,1.0,32.0,,,client addit point
-214,6167,Adult,Dar,Other Non-communicable Diseases,2.0,37.0,,,particip addit point
-161,4748,Adult,Dar,Other Non-communicable Diseases,2.0,54.0,,,client addit point
-146,4257,Adult,Dar,Other Non-communicable Diseases,1.0,31.0,,,client addit point
-143,4174,Adult,Dar,Other Non-communicable Diseases,2.0,57.0,,,client addit point
-260,7579,Adult,Dar,Other Non-communicable Diseases,1.0,16.0,,,client addit point
-142,4133,Adult,Dar,Other Non-communicable Diseases,1.0,30.0,,,particip addit point
-174,5191,Adult,Dar,Other Non-communicable Diseases,2.0,999.0,,,client addit point
-21,780,Adult,Dar,Other Non-communicable Diseases,2.0,37.0,,,client addit inform
-185,5433,Adult,Dar,Other Non-communicable Diseases,1.0,66.0,,,client addit point
-194,5736,Adult,Dar,Other Non-communicable Diseases,1.0,47.0,,,client addit point
-227,6389,Adult,Dar,Other Non-communicable Diseases,1.0,24.0,,,client addit point
-247,7054,Adult,Dar,Other Non-communicable Diseases,1.0,34.0,,,client addit point
-106,3007,Adult,Dar,Other Non-communicable Diseases,1.0,80.0,,,client addit point
-196,5747,Adult,Dar,Other Non-communicable Diseases,1.0,48.0,,,client addit point
-248,7057,Adult,Dar,Other Non-communicable Diseases,1.0,37.0,,,clieni addit point
-99,2741,Adult,Dar,Other Non-communicable Diseases,2.0,60.0,,,client addit point
-75,2206,Adult,Dar,Other Non-communicable Diseases,2.0,29.0,,,client addit point
-50,1553,Adult,Dar,Other Non-communicable Diseases,1.0,86.0,,,client addit point
-105,2994,Adult,Dar,Other Non-communicable Diseases,1.0,80.0,,,client addit point
-98,2727,Adult,Dar,Other Non-communicable Diseases,2.0,999.0,,,client addit point
-280,567,Child,Dar,Pneumonia,1.0,,7.0,,client addit point
-270,70,Child,Dar,Pneumonia,1.0,,9.0,,client addit point
-271,95,Child,Dar,Pneumonia,1.0,,5.0,,client addit point
-306,1488,Child,Dar,Pneumonia,1.0,,2.0,,client addit point
-273,206,Child,Dar,Pneumonia,1.0,11.0,,,particip addit point
-286,820,Child,Dar,Pneumonia,2.0,3.0,,,client addit point
-326,204,Neonate,Dar,Pneumonia,1.0,,,2.0,client addit point
-291,970,Child,Dar,Pneumonia,1.0,1.0,,,client addit point
-312,1725,Child,Dar,Pneumonia,1.0,,5.0,,client addit point
-302,1335,Child,Dar,Pneumonia,2.0,5.0,,,client addit point
-368,2237,Neonate,Dar,Pneumonia,1.0,,,5.0,particip addit point
-348,1203,Neonate,Dar,Pneumonia,2.0,,,10.0,particip addit point
-317,1871,Child,Dar,Pneumonia,1.0,1.0,,,particip addit point
-293,1122,Child,Dar,Pneumonia,2.0,2.0,,,client addit point
-299,1284,Child,Dar,Pneumonia,2.0,,9.0,,client addit point
-284,805,Child,Dar,Pneumonia,2.0,,3.0,,particip addit point
-282,776,Child,Dar,Pneumonia,2.0,1.0,,,clienbt addit point
-295,1207,Child,Dar,Pneumonia,2.0,,7.0,,client addit point
-278,509,Child,Dar,Pneumonia,2.0,,9.0,,particip addit point
-315,1818,Child,Dar,Pneumonia,2.0,1.0,,,client addit point
-327,221,Neonate,Dar,Pneumonia,1.0,,,10.0,client addit point
-372,2625,Neonate,Dar,Pneumonia,1.0,,,10.0,client addit point
-198,5796,Adult,Dar,Pneumonia,1.0,42.0,,,client addit point
-45,1520,Adult,Dar,Pneumonia,1.0,40.0,,,particip addit point
-95,2620,Adult,Dar,Pneumonia,1.0,39.0,,,client addit point
-206,5986,Adult,Dar,Pneumonia,1.0,21.0,,,particip addit point
-237,6668,Adult,Dar,Pneumonia,1.0,72.0,,,client addit point servic provid good
-238,6683,Adult,Dar,Pneumonia,1.0,45.0,,,client addit point add
-27,1036,Adult,Dar,Pneumonia,1.0,999.0,,,particip addit point
-224,6358,Adult,Dar,Pneumonia,1.0,42.0,,,client addit point
-1,54,Adult,Dar,Pneumonia,1.0,999.0,,,client addit point
-264,7720,Adult,Dar,Pneumonia,2.0,20.0,,,client addit point
-263,7700,Adult,Dar,Pneumonia,2.0,999.0,,,client addit point
-14,503,Adult,Dar,Poisonings,1.0,72.0,,,client addit point
-347,1092,Neonate,Dar,Preterm Delivery,2.0,,,3.0,particip addit point
-349,1364,Neonate,Dar,Preterm Delivery,1.0,,,2.0,particip addit point
-351,1528,Neonate,Dar,Preterm Delivery,2.0,,,4.0,client addit point
-371,2510,Neonate,Dar,Preterm Delivery,2.0,,,4.0,client addit point
-353,1569,Neonate,Dar,Preterm Delivery,2.0,,,1.0,client addit point
-354,1625,Neonate,Dar,Preterm Delivery,1.0,,,7.0,client addit point
-355,1669,Neonate,Dar,Preterm Delivery,1.0,,,0.0,client addit point
-356,1672,Neonate,Dar,Preterm Delivery,1.0,,,2.0,particip addit point
-339,806,Neonate,Dar,Preterm Delivery,1.0,,,0.0,client addit point servic good
-333,496,Neonate,Dar,Preterm Delivery,1.0,,,0.0,particip addit point
-338,737,Neonate,Dar,Preterm Delivery,2.0,,,1.0,particip addit point
-359,1736,Neonate,Dar,Preterm Delivery,1.0,,,1.0,particip addit point
-337,671,Neonate,Dar,Preterm Delivery,1.0,,,2.0,client addit point
-342,865,Neonate,Dar,Preterm Delivery,1.0,,,0.0,client addit point
-361,1869,Neonate,Dar,Preterm Delivery,1.0,,,12.0,particip addit point
-362,2030,Neonate,Dar,Preterm Delivery,2.0,,,8.0,client addit point
-329,300,Neonate,Dar,Preterm Delivery,2.0,,,0.0,mother addit point
-331,444,Neonate,Dar,Preterm Delivery,1.0,,,1.0,particip addit point
-364,2131,Neonate,Dar,Preterm Delivery,1.0,,,0.0,client addit point well attend
-336,565,Neonate,Dar,Preterm Delivery,2.0,,,0.0,client addit point
-334,528,Neonate,Dar,Preterm Delivery,1.0,,,1.0,client addit point
-340,828,Neonate,Dar,Preterm Delivery,2.0,,,8.0,client addit point
-132,3851,Adult,Dar,Prostate Cancer,1.0,85.0,,,client addit point
-103,2941,Adult,Dar,Prostate Cancer,1.0,70.0,,,client addit point
-240,6792,Adult,Dar,Prostate Cancer,1.0,79.0,,,client addit point
-22,923,Adult,Dar,Prostate Cancer,1.0,58.0,,,client addit point
-246,6961,Adult,Dar,Prostate Cancer,1.0,43.0,,,client addit point
-207,6004,Adult,Dar,Renal Failure,1.0,26.0,,,client addit point
-135,3917,Adult,Dar,Renal Failure,1.0,50.0,,,client addit point
-128,3780,Adult,Dar,Renal Failure,1.0,80.0,,,client addit point
-256,7334,Adult,Dar,Renal Failure,2.0,60.0,,,client addit point
-10,383,Adult,Dar,Renal Failure,2.0,24.0,,,client addit point
-119,3513,Adult,Dar,Renal Failure,1.0,33.0,,,client addit point
-78,2256,Adult,Dar,Renal Failure,2.0,31.0,,,client addit point
-200,5924,Adult,Dar,Renal Failure,2.0,19.0,,,client addit point
-110,3174,Adult,Dar,Renal Failure,2.0,62.0,,,client addit point
-34,1227,Adult,Dar,Road Traffic,1.0,31.0,,,client addit point
-61,1959,Adult,Dar,Road Traffic,1.0,20.0,,,client addit point
-24,1000,Adult,Dar,Road Traffic,1.0,28.0,,,client addit point
-186,5492,Adult,Dar,Road Traffic,1.0,49.0,,,client addit point
-177,5240,Adult,Dar,Road Traffic,1.0,27.0,,,client addit point
-242,6860,Adult,Dar,Road Traffic,2.0,68.0,,,client addit point
-283,779,Child,Dar,Road Traffic,2.0,4.0,,,particip addit point
-290,958,Child,Dar,Road Traffic,1.0,9.0,,,client addit point
-294,1189,Child,Dar,Road Traffic,1.0,9.0,,,client addit point
-313,1727,Child,Dar,Road Traffic,1.0,9.0,,,client addit point
-267,7764,Adult,Dar,Road Traffic,1.0,89.0,,,client addit point
-156,4536,Adult,Dar,Road Traffic,2.0,15.0,,,client addit point
-275,243,Child,Dar,Sepsis,2.0,2.0,,,client addit inform
-298,1257,Child,Dar,Sepsis,1.0,2.0,,,particip addit point
-358,1717,Neonate,Dar,Stillbirth,1.0,,,0.0,mother well attend addit point
-352,1538,Neonate,Dar,Stillbirth,1.0,,,0.0,mother addit point
-344,943,Neonate,Dar,Stillbirth,2.0,,,0.0,mother addit point
-231,6468,Adult,Dar,Stomach Cancer,2.0,55.0,,,client addit point
-187,5507,Adult,Dar,Stomach Cancer,2.0,65.0,,,particip addit point
-162,4790,Adult,Dar,Stomach Cancer,2.0,67.0,,,client addit point
-265,7727,Adult,Dar,Stomach Cancer,1.0,55.0,,,particip addit point
-122,3653,Adult,Dar,Stomach Cancer,1.0,80.0,,,particip addit point
-165,5033,Adult,Dar,Stroke,2.0,76.0,,,client addit point
-261,7627,Adult,Dar,Stroke,2.0,999.0,,,client addit point
-92,2572,Adult,Dar,Stroke,1.0,85.0,,,client addit point
-252,7223,Adult,Dar,Stroke,2.0,999.0,,,client addit point
-82,2420,Adult,Dar,Stroke,1.0,57.0,,,client addit point
-239,6788,Adult,Dar,Stroke,2.0,34.0,,,client addit point
-76,2210,Adult,Dar,Stroke,2.0,56.0,,,client addit point
-229,6410,Adult,Dar,Stroke,1.0,78.0,,,client addit point
-222,6315,Adult,Dar,Stroke,2.0,999.0,,,client addit point
-153,4501,Adult,Dar,Stroke,2.0,86.0,,,client addit point
-199,5836,Adult,Dar,Stroke,1.0,82.0,,,client addit point
-69,2091,Adult,Dar,Stroke,2.0,70.0,,,client addit point
-116,3396,Adult,Dar,Stroke,2.0,999.0,,,client addit point
-168,5083,Adult,Dar,Stroke,2.0,70.0,,,client addit point
-40,1427,Adult,Dar,Stroke,1.0,50.0,,,client addit point
-52,1624,Adult,Dar,Stroke,1.0,61.0,,,client addit point
-181,5357,Adult,Dar,Stroke,1.0,999.0,,,client addit point
-47,1528,Adult,Dar,Stroke,1.0,58.0,,,client addit point
-144,4212,Adult,Dar,Suicide,2.0,22.0,,,particip addit point
-55,1720,Adult,Dar,TB,1.0,999.0,,,client addit point
-243,6881,Adult,Dar,TB,2.0,26.0,,,client addit point
-149,4394,Adult,Dar,TB,1.0,55.0,,,client addit point
-26,1017,Adult,Dar,TB,2.0,19.0,,,client addit point
-63,1995,Adult,Dar,TB,2.0,26.0,,,client addit point
-147,4320,Adult,Dar,TB,1.0,47.0,,,client addit point
-43,1499,Adult,Dar,TB,1.0,88.0,,,client addit point
-72,2135,Adult,Dar,TB,1.0,44.0,,,client addit point
-39,1285,Adult,Dar,TB,2.0,25.0,,,particip addit point
-184,5432,Adult,Dar,TB,1.0,53.0,,,particip addit point
-124,3686,Adult,Dar,TB,1.0,23.0,,,particip addit point
-117,3409,Adult,Dar,TB,2.0,36.0,,,particip addit point
-171,5105,Adult,Dar,TB,,999.0,,,client addit point
+35,6275,Adult,Mexico,AIDS,1.0,28.0,,,
+32,5730,Adult,Mexico,AIDS,1.0,30.0,,,
+15,2589,Adult,AP,AIDS,1.0,42.0,,,
+42,7667,Adult,Mexico,Acute Myocardial Infarction,1.0,76.0,,,
+10,1750,Adult,Mexico,Acute Myocardial Infarction,2.0,89.0,,,
+28,5132,Adult,Mexico,Acute Myocardial Infarction,2.0,71.0,,,
+69,1941,Neonate,UP,Birth asphyxia,2.0,,,0.0,
+67,1462,Neonate,Mexico,Birth asphyxia,1.0,,,17.0,
+65,1078,Neonate,AP,Birth asphyxia,2.0,,,2.0,
+59,1,Neonate,AP,Birth asphyxia,2.0,,,3.0,
+17,2931,Adult,AP,Bite of Venomous Animal,1.0,50.0,,,
+5,916,Adult,AP,Bite of Venomous Animal,2.0,33.0,,,
+44,107,Child,AP,Bite of Venomous Animal,2.0,9.0,,,
+29,5286,Adult,AP,Bite of Venomous Animal,2.0,19.0,,,
+27,5010,Adult,Mexico,COPD,1.0,81.0,,,
+18,3109,Adult,Mexico,Cirrhosis,1.0,37.0,,,
+72,2523,Neonate,AP,Congenital malformation,1.0,,,12.0,
+40,7368,Adult,Mexico,Diabetes,2.0,61.0,,,
+36,6488,Adult,AP,Diabetes,2.0,22.0,,,
+13,2280,Adult,Mexico,Diabetes,2.0,62.0,,,
+50,867,Child,AP,Diarrhea/Dysentery,1.0,1.0,,,
+51,959,Child,AP,Drowning,1.0,5.0,,,
+33,5895,Adult,AP,Drowning,1.0,36.0,,,
+24,4365,Adult,AP,Drowning,1.0,18.0,,,
+49,702,Child,UP,Encephalitis,1.0,3.0,,,
+8,1367,Adult,AP,Epilepsy,1.0,60.0,,,
+30,5418,Adult,AP,Falls,1.0,35.0,,,
+56,1650,Child,AP,Fires,1.0,10.0,,,
+47,506,Child,AP,Fires,1.0,10.0,,,
+46,375,Child,AP,Hemorrhagic fever,1.0,,3.0,,
+2,347,Adult,Mexico,Homicide,1.0,24.0,,,
+25,4526,Adult,Mexico,Leukemia/Lymphomas,1.0,84.0,,,
+23,4175,Adult,Mexico,Lung Cancer,2.0,37.0,,,
+41,7483,Adult,AP,Malaria,1.0,37.0,,,
+20,3465,Adult,AP,Maternal,2.0,38.0,,,
+19,3297,Adult,AP,Maternal,2.0,20.0,,,
+48,595,Child,AP,Other Defined Causes of Child Deaths,1.0,5.0,,,
+53,1222,Child,UP,Other Defined Causes of Child Deaths,1.0,,4.0,,
+39,7178,Adult,Mexico,Other Infectious Diseases,2.0,31.0,,,
+43,8,Child,AP,Other Infectious Diseases,1.0,,11.0,,
+31,5601,Adult,Bohol,Other Infectious Diseases,1.0,13.0,,,
+9,1546,Adult,AP,Other Injuries,1.0,18.0,,,
+16,2786,Adult,Bohol,Other Non-communicable Diseases,2.0,53.0,,,
+3,570,Adult,AP,Other Non-communicable Diseases,2.0,65.0,,,
+1,145,Adult,AP,Other Non-communicable Diseases,1.0,18.0,,,
+58,1927,Child,AP,Pneumonia,2.0,3.0,,,
+54,1415,Child,AP,Pneumonia,1.0,5.0,,,
+55,1512,Child,Mexico,Pneumonia,2.0,,2.0,,
+21,3791,Adult,AP,Poisonings,1.0,24.0,,,
+62,517,Neonate,Mexico,Preterm Delivery,2.0,,,5.0,
+63,687,Neonate,AP,Preterm Delivery,2.0,,,3.0,
+68,1687,Neonate,Mexico,Preterm Delivery,2.0,,,24.0,
+60,155,Neonate,AP,Preterm Delivery,1.0,,,3.0,
+71,2357,Neonate,UP,Preterm Delivery,1.0,,,1.0,
+0,13,Adult,AP,Renal Failure,2.0,53.0,,,
+6,1053,Adult,Mexico,Renal Failure,2.0,89.0,,,
+14,2416,Adult,UP,Renal Failure,1.0,25.0,,,
+11,1929,Adult,UP,Renal Failure,1.0,85.0,,,
+34,6108,Adult,AP,Road Traffic,1.0,24.0,,,
+57,1812,Child,UP,Sepsis,1.0,2.0,,,
+45,252,Child,UP,Sepsis,2.0,1.0,,,
+61,349,Neonate,AP,Stillbirth,1.0,,,0.0,
+64,856,Neonate,UP,Stillbirth,1.0,,,0.0,
+66,1299,Neonate,UP,Stillbirth,1.0,,,0.0,
+70,2159,Neonate,AP,Stillbirth,1.0,,,0.0,
+26,4778,Adult,Mexico,Stomach Cancer,2.0,44.0,,,
+37,6734,Adult,Mexico,Stroke,2.0,53.0,,,
+22,3968,Adult,AP,Stroke,1.0,45.0,,,
+7,1188,Adult,Mexico,Suicide,1.0,62.0,,,
+38,6896,Adult,AP,TB,1.0,57.0,,,
+4,766,Adult,AP,TB,1.0,51.0,,,
+12,2094,Adult,Mexico,TB,1.0,65.0,,,
+52,1101,Child,AP,Violent Death,2.0,3.0,,,

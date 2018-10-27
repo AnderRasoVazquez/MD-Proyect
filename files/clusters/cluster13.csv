@@ -1,413 +1,60 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-0,39,Adult,Dar,AIDS,2.0,56.0,,,particip noth add
-42,2279,Adult,Dar,AIDS,2.0,28.0,,,client noth add
-126,6652,Adult,Dar,AIDS,2.0,34.0,,,client noth add
-183,1199,Child,Dar,AIDS,1.0,,11.0,,client noth add death certif misplacrd
-128,6714,Adult,Dar,AIDS,1.0,18.0,,,deceas uncl noth add
-28,1570,Adult,Dar,AIDS,1.0,35.0,,,respond noth add
-68,3271,Adult,Dar,AIDS,2.0,38.0,,,client noth add
-85,4358,Adult,Dar,AIDS,1.0,45.0,,,respond noth add
-32,1871,Adult,Dar,AIDS,2.0,35.0,,,client noth add
-35,1908,Adult,Dar,AIDS,1.0,39.0,,,client noth add death certif misplac
-137,7219,Adult,Dar,AIDS,2.0,28.0,,,client noth add
-52,2636,Adult,Dar,AIDS,2.0,41.0,,,particip noth add
-142,7333,Adult,Dar,AIDS,2.0,,,,particip noth add
-45,2400,Adult,Dar,AIDS,2.0,33.0,,,particip noth add
-44,2286,Adult,Dar,AIDS,1.0,62.0,,,client noth add
-133,7023,Adult,Dar,AIDS,2.0,39.0,,,client noth add
-17,846,Adult,Dar,AIDS,2.0,50.0,,,particip noth add
-79,4112,Adult,Dar,AIDS,2.0,32.0,,,particip noth add
-15,679,Adult,Dar,AIDS,1.0,35.0,,,respond noth add said husband die leg cancer
-103,5151,Adult,Dar,AIDS,1.0,54.0,,,respond noth add
-109,5546,Adult,Dar,AIDS,2.0,32.0,,,particip noth add
-110,5565,Adult,Dar,AIDS,2.0,29.0,,,particip noth add
-8,344,Adult,Dar,AIDS,2.0,23.0,,,particip noth add
-16,814,Adult,Dar,AIDS,1.0,62.0,,,particip noth add
-143,7342,Adult,Dar,AIDS,2.0,43.0,,,particip noth add
-71,3512,Adult,Dar,Acute Myocardial Infarction,1.0,52.0,,,particip noth add
-97,4923,Adult,Dar,Asthma,2.0,69.0,,,particip noth add
-224,352,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother noth add
-261,768,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add
-232,430,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add
-253,657,Neonate,Dar,Birth asphyxia,1.0,,,4.0,mother noth add medic record
-340,1716,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother noth add servic hospit good
-270,957,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add
-231,418,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother noth add servic hospit good
-280,1056,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add
-322,1507,Neonate,Dar,Birth asphyxia,2.0,,,1.0,mother noth add servic hospit good
-302,1275,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add
-319,1457,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add
-275,1006,Neonate,Dar,Birth asphyxia,2.0,,,2.0,mother noth add
-272,995,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add servic good
-248,561,Neonate,Dar,Birth asphyxia,2.0,,,0.0,respond noth add
-242,530,Neonate,Dar,Birth asphyxia,2.0,,,0.0,respond noth add
-274,1004,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add
-211,141,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add
-333,1656,Neonate,Dar,Birth asphyxia,2.0,,,0.0,respond noth add
-255,691,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add
-353,1881,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add
-390,2360,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother noth add servic hospit good
-391,2374,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add
-394,2417,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add servic good
-379,2218,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother noth add
-349,1807,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother noth add
-395,2427,Neonate,Dar,Birth asphyxia,2.0,,,2.0,respond noth add
-408,2580,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond noth add
-403,2549,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother noth add
-74,3869,Adult,Dar,Breast Cancer,2.0,29.0,,,particip noth add
-139,7251,Adult,Dar,Cervical Cancer,2.0,999.0,,,particip noth add
-148,7610,Adult,Dar,Cervical Cancer,2.0,999.0,,,particip noth add
-83,4262,Adult,Dar,Cervical Cancer,2.0,70.0,,,particip noth add
-34,1904,Adult,Dar,Cervical Cancer,2.0,52.0,,,particip noth add
-132,7000,Adult,Dar,Cervical Cancer,2.0,45.0,,,particip noth add
-61,2936,Adult,Dar,Cervical Cancer,2.0,40.0,,,particip noth add
-76,4021,Adult,Dar,Cervical Cancer,2.0,76.0,,,particip noth add
-63,2984,Adult,Dar,Cervical Cancer,2.0,43.0,,,particip noth add
-65,3145,Adult,Dar,Cervical Cancer,2.0,60.0,,,particip noth add
-116,5932,Adult,Dar,Cervical Cancer,2.0,58.0,,,particip noth add
-14,568,Adult,Dar,Cervical Cancer,2.0,44.0,,,particip noth add
-12,430,Adult,Dar,Cirrhosis,1.0,999.0,,,particip noth add
-152,7828,Adult,Dar,Cirrhosis,2.0,23.0,,,particip noth add
-40,2188,Adult,Dar,Colorectal Cancer,1.0,40.0,,,particip noth add
-102,5147,Adult,Dar,Colorectal Cancer,2.0,48.0,,,particip noth add
-62,2977,Adult,Dar,Colorectal Cancer,2.0,999.0,,,respond noth add thank appreaci visit
-124,6549,Adult,Dar,Colorectal Cancer,1.0,44.0,,,particip noth add
-21,1175,Adult,Dar,Colorectal Cancer,1.0,35.0,,,particip noth add
-56,2805,Adult,Dar,Colorectal Cancer,1.0,57.0,,,particip noth add
-341,1729,Neonate,Dar,Congenital malformation,1.0,,,0.0,mother noth add
-397,2447,Neonate,Dar,Congenital malformation,1.0,,,1.0,particip noth add
-250,598,Neonate,Dar,Congenital malformation,2.0,,,18.0,particip noth add
-339,1702,Neonate,Dar,Congenital malformation,1.0,,,0.0,mother noth add
-258,749,Neonate,Dar,Congenital malformation,2.0,,,0.0,respond noth add
-326,1520,Neonate,Dar,Congenital malformation,1.0,,,0.0,respond noth add given medic record
-350,1823,Neonate,Dar,Congenital malformation,2.0,,,0.0,respond noth add
-239,507,Neonate,Dar,Congenital malformation,1.0,,,1.0,particip noth add
-288,1137,Neonate,Dar,Congenital malformation,1.0,,,0.0,respond noth add
-313,1393,Neonate,Dar,Congenital malformation,1.0,,,0.0,respond noth add
-284,1116,Neonate,Dar,Congenital malformation,2.0,,,99.0,particip noth add
-222,327,Neonate,Dar,Congenital malformation,2.0,,,3.0,particip noth add
-290,1142,Neonate,Dar,Congenital malformation,2.0,,,0.0,respond noth add
-228,405,Neonate,Dar,Congenital malformation,2.0,,,13.0,client noth add
-343,1760,Neonate,Dar,Congenital malformation,1.0,,,1.0,particip noth add
-387,2294,Neonate,Dar,Congenital malformation,2.0,,,1.0,mother noth add servic hospit good
-368,2068,Neonate,Dar,Congenital malformation,2.0,,,14.0,mother noth add
-144,7511,Adult,Dar,Diabetes,2.0,60.0,,,particip noth add
-23,1204,Adult,Dar,Diabetes,1.0,58.0,,,particip noth add
-111,5569,Adult,Dar,Diabetes,2.0,80.0,,,particip noth add
-57,2825,Adult,Dar,Diabetes,2.0,16.0,,,client noth add
-184,1255,Child,Dar,Diarrhea/Dysentery,2.0,2.0,,,client noth add cri
-197,1786,Child,Dar,Diarrhea/Dysentery,2.0,,6.0,,particip noth add
-180,1156,Child,Dar,Diarrhea/Dysentery,2.0,1.0,,,client noth add
-166,547,Child,Dar,Diarrhea/Dysentery,1.0,,8.0,,particip noth add
-187,1355,Child,Dar,Diarrhea/Dysentery,2.0,4.0,,,particip paint noth add
-175,1014,Child,Dar,Diarrhea/Dysentery,2.0,2.0,,,client noth add
-181,1185,Child,Dar,Diarrhea/Dysentery,2.0,1.0,,,client noth add
-185,1269,Child,Dar,Diarrhea/Dysentery,1.0,,9.0,,particip noth add
-161,330,Child,Dar,Diarrhea/Dysentery,1.0,2.0,,,client noth add
-167,584,Child,Dar,Diarrhea/Dysentery,1.0,10.0,,,particip noth add
-174,1010,Child,Dar,Diarrhea/Dysentery,2.0,,5.0,,client noth add
-172,866,Child,Dar,Diarrhea/Dysentery,2.0,,11.0,,particip noth add
-173,1002,Child,Dar,Diarrhea/Dysentery,2.0,,7.0,,particip noth add
-5,288,Adult,Dar,Diarrhea/Dysentery,1.0,50.0,,,particip noth add
-169,764,Child,Dar,Drowning,2.0,5.0,,,client noth add
-199,1819,Child,Dar,Drowning,1.0,2.0,,,client noth add
-194,1749,Child,Dar,Drowning,1.0,9.0,,,particip noth add
-50,2514,Adult,Dar,Epilepsy,1.0,71.0,,,mother noth add
-140,7258,Adult,Dar,Esophageal Cancer,2.0,65.0,,,client noth add
-47,2457,Adult,Dar,Esophageal Cancer,2.0,81.0,,,particip noth add
-115,5931,Adult,Dar,Esophageal Cancer,1.0,65.0,,,client noth add
-11,410,Adult,Dar,Esophageal Cancer,1.0,41.0,,,respond noth add
-129,6727,Adult,Dar,Falls,1.0,34.0,,,client noth add
-73,3775,Adult,Dar,Fires,1.0,28.0,,,client noth add
-37,2038,Adult,Dar,Homicide,1.0,24.0,,,client noth add
-98,4989,Adult,Dar,Homicide,1.0,27.0,,,particip noth add
-93,4672,Adult,Dar,Homicide,2.0,55.0,,,client noth add
-92,4670,Adult,Dar,Homicide,1.0,30.0,,,client noth add
-145,7520,Adult,Dar,Leukemia/Lymphomas,1.0,53.0,,,client noth add
-112,5631,Adult,Dar,Leukemia/Lymphomas,1.0,57.0,,,client noth add
-20,932,Adult,Dar,Leukemia/Lymphomas,2.0,12.0,,,particip noth add also misplac death certif
-60,2929,Adult,Dar,Lung Cancer,1.0,32.0,,,particip noth add
-158,253,Child,Dar,Malaria,2.0,6.0,,,particip noth add
-168,744,Child,Dar,Malaria,2.0,3.0,,,client noth add
-81,4171,Adult,Dar,Malaria,1.0,38.0,,,client noth add
-170,790,Child,Dar,Malaria,1.0,1.0,,,particip noth add
-159,282,Child,Dar,Malaria,2.0,,11.0,,particip noth add
-153,67,Child,Dar,Malaria,2.0,9.0,,,particip noth add also misplac death certif
-176,1040,Child,Dar,Malaria,1.0,9.0,,,particip noth add
-155,128,Child,Dar,Malaria,2.0,,9.0,,particip noth add
-157,232,Child,Dar,Malaria,1.0,,4.0,,particip noth add
-160,292,Child,Dar,Malaria,1.0,10.0,,,client noth add
-154,77,Child,Dar,Malaria,,,9.0,,particip noth add
-120,6242,Adult,Dar,Malaria,2.0,32.0,,,particip noth add
-9,373,Adult,Dar,Maternal,2.0,35.0,,,particip noth add
-22,1195,Adult,Dar,Maternal,2.0,30.0,,,client noth add
-18,861,Adult,Dar,Maternal,2.0,28.0,,,particip noth add
-24,1216,Adult,Dar,Maternal,2.0,29.0,,,respond noth add medic record misplac
-30,1823,Adult,Dar,Maternal,2.0,25.0,,,particip noth add
-100,5049,Adult,Dar,Maternal,2.0,17.0,,,respond noth add medic record deceas father
-43,2284,Adult,Dar,Maternal,2.0,25.0,,,client noth add
-141,7277,Adult,Dar,Maternal,2.0,21.0,,,respond noth add medic record misplac
-91,4594,Adult,Dar,Maternal,2.0,999.0,,,particip noth add
-55,2776,Adult,Dar,Maternal,2.0,31.0,,,particp noth add
-58,2923,Adult,Dar,Maternal,2.0,37.0,,,respond noth add
-66,3232,Adult,Dar,Maternal,2.0,34.0,,,particip noth add
-70,3393,Adult,Dar,Maternal,2.0,999.0,,,particip noth add
-125,6576,Adult,Dar,Maternal,2.0,24.0,,,respond noth add pleas hospit servic
-201,1842,Child,Dar,Meningitis,1.0,1.0,,,client noth add
-271,970,Neonate,Dar,Meningitis/Sepsis,2.0,,,0.0,mother noth add servic hospit good
-273,999,Neonate,Dar,Meningitis/Sepsis,2.0,,,1.0,client noth add nt know caus death
-238,494,Neonate,Dar,Meningitis/Sepsis,2.0,,,5.0,respond noth add
-392,2394,Neonate,Dar,Meningitis/Sepsis,2.0,,,1.0,mother noth add
-237,476,Neonate,Dar,Meningitis/Sepsis,1.0,,,6.0,particip noth add
-289,1140,Neonate,Dar,Meningitis/Sepsis,2.0,,,7.0,particip noth add
-298,1239,Neonate,Dar,Meningitis/Sepsis,1.0,,,3.0,client noth add
-304,1294,Neonate,Dar,Meningitis/Sepsis,2.0,,,1.0,respond noth add
-388,2304,Neonate,Dar,Meningitis/Sepsis,2.0,,,0.0,mother noth add
-346,1789,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,mother noth add
-314,1407,Neonate,Dar,Meningitis/Sepsis,1.0,,,2.0,respond noth add
-210,130,Neonate,Dar,Meningitis/Sepsis,1.0,,,4.0,mother noth add
-262,807,Neonate,Dar,Meningitis/Sepsis,2.0,,,7.0,client noth add
-375,2185,Neonate,Dar,Meningitis/Sepsis,1.0,,,3.0,mother noth add
-371,2107,Neonate,Dar,Meningitis/Sepsis,1.0,,,11.0,particip noth add
-342,1759,Neonate,Dar,Meningitis/Sepsis,1.0,,,0.0,mother noth add
-301,1258,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,respond noth add
-286,1123,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,client noth add
-205,52,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,mother noth add
-107,5515,Adult,Dar,Other Cardiovascular Diseases,2.0,65.0,,,particip noth add
-13,493,Adult,Dar,Other Cardiovascular Diseases,1.0,19.0,,,particip noth add
-89,4516,Adult,Dar,Other Cardiovascular Diseases,2.0,22.0,,,particip noth add
-95,4860,Adult,Dar,Other Cardiovascular Diseases,1.0,58.0,,,client noth add
-135,7213,Adult,Dar,Other Cardiovascular Diseases,,27.0,,,particip noth add
-82,4176,Adult,Dar,Other Cardiovascular Diseases,2.0,41.0,,,particip noth add
-33,1886,Adult,Dar,Other Cardiovascular Diseases,2.0,38.0,,,particip noth add
-101,5096,Adult,Dar,Other Cardiovascular Diseases,1.0,90.0,,,particip noth add
-117,6053,Adult,Dar,Other Cardiovascular Diseases,1.0,73.0,,,particip noth add
-179,1136,Child,Dar,Other Defined Causes of Child Deaths,2.0,3.0,,,particip noth add
-192,1644,Child,Dar,Other Defined Causes of Child Deaths,1.0,4.0,,,particip noth add
-202,1930,Child,Dar,Other Defined Causes of Child Deaths,1.0,6.0,,,particip noth add
-177,1089,Child,Dar,Other Digestive Diseases,1.0,10.0,,,particip noth add
-203,2004,Child,Dar,Other Digestive Diseases,2.0,2.0,,,particip noth add
-31,1824,Adult,Dar,Other Injuries,1.0,52.0,,,client noth add
-2,178,Adult,Dar,Other Injuries,2.0,16.0,,,particip noth add
-1,167,Adult,Dar,Other Injuries,1.0,999.0,,,particip noth add
-131,6747,Adult,Dar,Other Injuries,1.0,22.0,,,particip noth add
-138,7236,Adult,Dar,Other Injuries,1.0,50.0,,,client noth add
-41,2248,Adult,Dar,Other Non-communicable Diseases,1.0,999.0,,,particip noth add
-134,7062,Adult,Dar,Other Non-communicable Diseases,1.0,73.0,,,client noth add
-118,6123,Adult,Dar,Other Non-communicable Diseases,1.0,29.0,,,particip noth add
-27,1557,Adult,Dar,Other Non-communicable Diseases,1.0,64.0,,,particip noth add
-53,2720,Adult,Dar,Other Non-communicable Diseases,2.0,36.0,,,particip noth add
-127,6701,Adult,Dar,Other Non-communicable Diseases,1.0,23.0,,,particip noth add
-94,4711,Adult,Dar,Other Non-communicable Diseases,1.0,35.0,,,particip noth add
-106,5380,Adult,Dar,Other Non-communicable Diseases,2.0,23.0,,,particip noth add
-67,3254,Adult,Dar,Other Non-communicable Diseases,1.0,63.0,,,client noth add death certif lost
-105,5272,Adult,Dar,Other Non-communicable Diseases,1.0,73.0,,,particip noth add
-48,2460,Adult,Dar,Other Non-communicable Diseases,1.0,28.0,,,particip noth add
-78,4102,Adult,Dar,Other Non-communicable Diseases,2.0,46.0,,,particip noth add
-87,4441,Adult,Dar,Pneumonia,1.0,44.0,,,particip noth add
-99,5042,Adult,Dar,Pneumonia,1.0,40.0,,,particip noth add
-171,859,Child,Dar,Pneumonia,1.0,,9.0,,particip noth add
-29,1633,Adult,Dar,Pneumonia,1.0,64.0,,,particip noth add
-104,5259,Adult,Dar,Pneumonia,2.0,26.0,,,particip noth add
-240,512,Neonate,Dar,Pneumonia,1.0,,,5.0,particip noth add
-312,1386,Neonate,Dar,Pneumonia,1.0,,,0.0,respond noth add
-243,535,Neonate,Dar,Pneumonia,1.0,,,1.0,particip noth add
-348,1801,Neonate,Dar,Pneumonia,2.0,,,7.0,particip noth add
-75,3914,Adult,Dar,Pneumonia,2.0,70.0,,,particip noth add
-411,2609,Neonate,Dar,Pneumonia,1.0,,,4.0,particip noth add
-374,2173,Neonate,Dar,Pneumonia,2.0,,,15.0,particip noth add
-196,1783,Child,Dar,Pneumonia,2.0,1.0,,,particip noth add
-4,270,Adult,Dar,Pneumonia,2.0,28.0,,,particip noth add
-191,1639,Child,Dar,Pneumonia,1.0,,11.0,,particip noth add
-190,1538,Child,Dar,Pneumonia,2.0,,8.0,,particip noth add
-189,1523,Child,Dar,Pneumonia,1.0,,4.0,,particip noth add
-198,1808,Child,Dar,Pneumonia,2.0,8.0,,,particip noth add
-188,1420,Child,Dar,Pneumonia,1.0,,7.0,,particip noth add
-186,1353,Child,Dar,Pneumonia,2.0,1.0,,,partcip noth add
-193,1681,Child,Dar,Pneumonia,1.0,1.0,,,particip noth add
-149,7674,Adult,Dar,Pneumonia,1.0,22.0,,,particip noth add
-10,397,Adult,Dar,Pneumonia,1.0,999.0,,,particip noth add
-182,1197,Child,Dar,Pneumonia,1.0,1.0,,,particip noth add
-25,1511,Adult,Dar,Pneumonia,2.0,45.0,,,particip noth add
-195,1759,Child,Dar,Pneumonia,2.0,,2.0,,particip noth add
-156,129,Child,Dar,Pneumonia,1.0,3.0,,,particip noth add
-162,427,Child,Dar,Pneumonia,1.0,,2.0,,particip noth add
-163,462,Child,Dar,Pneumonia,2.0,,10.0,,particip noth add
-164,496,Child,Dar,Pneumonia,1.0,1.0,,,client noth add
-200,1839,Child,Dar,Pneumonia,2.0,,6.0,,particip noth point add
-331,1622,Neonate,Dar,Preterm Delivery,1.0,,,7.0,particip noth add misplac death certif
-317,1452,Neonate,Dar,Preterm Delivery,1.0,,,5.0,particip noth add
-252,648,Neonate,Dar,Preterm Delivery,1.0,,,0.0,mother noth add servic hospit good
-384,2269,Neonate,Dar,Preterm Delivery,2.0,,,0.0,respond noth add
-315,1408,Neonate,Dar,Preterm Delivery,1.0,,,1.0,client noth add
-307,1312,Neonate,Dar,Preterm Delivery,2.0,,,1.0,particip noth add
-263,821,Neonate,Dar,Preterm Delivery,1.0,,,6.0,particip noth add
-294,1229,Neonate,Dar,Preterm Delivery,1.0,,,1.0,particip noth add
-291,1172,Neonate,Dar,Preterm Delivery,1.0,,,3.0,client noth add
-401,2519,Neonate,Dar,Preterm Delivery,2.0,,,23.0,particip noth add
-305,1298,Neonate,Dar,Preterm Delivery,2.0,,,2.0,particip noth add
-282,1085,Neonate,Dar,Preterm Delivery,2.0,,,8.0,client noth add
-229,408,Neonate,Dar,Preterm Delivery,2.0,,,2.0,particip noth add
-376,2196,Neonate,Dar,Preterm Delivery,1.0,,,3.0,respond noth add
-393,2406,Neonate,Dar,Preterm Delivery,2.0,,,15.0,particip noth add
-220,314,Neonate,Dar,Preterm Delivery,1.0,,,14.0,client noth add
-386,2275,Neonate,Dar,Preterm Delivery,,,,1.0,particip noth add
-230,410,Neonate,Dar,Preterm Delivery,2.0,,,3.0,respond noth add
-369,2073,Neonate,Dar,Preterm Delivery,1.0,,,6.0,client noth add
-366,2062,Neonate,Dar,Preterm Delivery,2.0,,,15.0,particip noth add
-373,2145,Neonate,Dar,Preterm Delivery,1.0,,,1.0,particip noth add
-234,451,Neonate,Dar,Preterm Delivery,1.0,,,0.0,mother noth add servic hospit good
-219,309,Neonate,Dar,Preterm Delivery,1.0,,,1.0,client noth add
-206,66,Neonate,Dar,Preterm Delivery,1.0,,,0.0,respond noth add
-410,2600,Neonate,Dar,Preterm Delivery,2.0,,,2.0,particip noth add
-204,11,Neonate,Dar,Preterm Delivery,1.0,,,0.0,mother noth add servic hospit good
-352,1862,Neonate,Dar,Preterm Delivery,2.0,,,,client noth add
-383,2236,Neonate,Dar,Preterm Delivery,2.0,,,0.0,mother noth add
-396,2437,Neonate,Dar,Preterm Delivery,1.0,,,4.0,client noth add
-359,1955,Neonate,Dar,Preterm Delivery,2.0,,,2.0,particip noth add
-389,2350,Neonate,Dar,Preterm Delivery,,,,0.0,particip noth add
-84,4306,Adult,Dar,Renal Failure,2.0,55.0,,,client noth add
-46,2403,Adult,Dar,Renal Failure,2.0,85.0,,,client noth add
-150,7777,Adult,Dar,Renal Failure,1.0,75.0,,,particip noth add
-119,6146,Adult,Dar,Renal Failure,1.0,85.0,,,client noth add
-38,2054,Adult,Dar,Renal Failure,1.0,999.0,,,client noth add
-123,6496,Adult,Dar,Road Traffic,1.0,999.0,,,client noth add
-6,299,Adult,Dar,Road Traffic,1.0,29.0,,,client noth add
-178,1121,Child,Dar,Road Traffic,2.0,6.0,,,client noth add
-130,6733,Adult,Dar,Road Traffic,1.0,38.0,,,client noth add
-51,2626,Adult,Dar,Road Traffic,2.0,25.0,,,client noth add
-165,522,Child,Dar,Sepsis,1.0,,8.0,,particip noth add
-278,1036,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-227,399,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-370,2105,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-367,2066,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-233,449,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-365,2055,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-364,2052,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-363,2048,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
-362,2045,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
-361,1982,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-360,1977,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-235,454,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-358,1953,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-372,2119,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-357,1921,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-355,1892,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-354,1889,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-236,471,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-241,521,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-351,1847,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add complain
-244,538,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
-347,1792,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-345,1786,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-277,1024,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-245,540,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-246,550,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-247,556,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-356,1916,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-338,1697,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-226,394,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-223,341,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-409,2591,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-407,2576,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-406,2570,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-405,2558,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-404,2550,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-402,2529,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-400,2517,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add servic hospit good
-399,2500,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add complain
-398,2456,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-207,99,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
-208,104,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-209,117,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-225,373,Neonate,Dar,Stillbirth,2.0,,,14.0,mother noth add
-212,144,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-214,157,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-215,163,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-216,176,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add medic record misplac
-385,2271,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-217,227,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-218,270,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-382,2228,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
-381,2221,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-380,2219,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-378,2211,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-377,2210,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-221,317,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-213,147,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-337,1683,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-344,1770,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-335,1673,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-310,1362,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-309,1355,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-308,1342,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
-259,752,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-336,1675,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-260,765,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-303,1288,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-264,825,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-300,1255,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-299,1248,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-265,866,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-297,1238,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-296,1236,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add hospit servic good
-295,1233,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-266,874,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-293,1194,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-267,902,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-268,915,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-269,954,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-287,1125,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-285,1121,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-283,1086,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-276,1007,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-281,1079,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-279,1044,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good misplac medic record
-311,1379,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-257,742,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
-306,1304,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-256,724,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-334,1664,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-249,583,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-332,1643,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-330,1620,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-329,1601,Neonate,Dar,Stillbirth,1.0,,,0.0,respond noth add
-327,1532,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-325,1518,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-324,1515,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-323,1510,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-328,1599,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add servic hospit good
-316,1417,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-254,686,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-321,1465,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-251,603,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-318,1453,Neonate,Dar,Stillbirth,2.0,,,0.0,respond noth add
-292,1193,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add
-320,1464,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add
-59,2925,Adult,Dar,Stomach Cancer,2.0,34.0,,,particip noth add
-113,5812,Adult,Dar,Stomach Cancer,2.0,35.0,,,particip noth add
-88,4448,Adult,Dar,Stroke,2.0,63.0,,,particip noth add
-49,2510,Adult,Dar,Stroke,2.0,17.0,,,client noth add
-122,6426,Adult,Dar,Stroke,1.0,46.0,,,particip bad noth add
-26,1556,Adult,Dar,Stroke,2.0,45.0,,,particip noth toa add
-108,5525,Adult,Dar,Stroke,1.0,82.0,,,particip noth add
-64,3098,Adult,Dar,Stroke,2.0,39.0,,,partcip noth add
-136,7216,Adult,Dar,Stroke,2.0,65.0,,,client noth add
-3,239,Adult,Dar,Stroke,2.0,42.0,,,client noth add
-80,4148,Adult,Dar,Stroke,1.0,51.0,,,client noth add
-69,3340,Adult,Dar,Stroke,1.0,999.0,,,particip noth add
-96,4919,Adult,Dar,TB,2.0,999.0,,,particip noth add
-36,2029,Adult,Dar,TB,2.0,51.0,,,particip noth add
-151,7796,Adult,Dar,TB,2.0,38.0,,,particip noth add
-114,5865,Adult,Dar,TB,2.0,37.0,,,particip noth add
-19,867,Adult,Dar,TB,2.0,23.0,,,particip noth add
-121,6343,Adult,Dar,TB,2.0,79.0,,,respond noth add
-147,7546,Adult,Dar,TB,1.0,56.0,,,client noth add
-90,4558,Adult,Dar,TB,2.0,27.0,,,particip noth toa add
-146,7528,Adult,Dar,TB,1.0,999.0,,,client noth add
-72,3672,Adult,Dar,TB,2.0,28.0,,,particip noth add
-86,4435,Adult,Dar,TB,2.0,34.0,,,particip noth add
-39,2107,Adult,Dar,TB,1.0,57.0,,,particip noth add
-7,310,Adult,Dar,TB,1.0,28.0,,,particip noth add
-77,4046,Adult,Dar,TB,1.0,46.0,,,client noth add
-54,2743,Adult,Dar,TB,2.0,26.0,,,particip noth add
+48,1709,Neonate,Pemba,Birth asphyxia,1.0,,,0.0,respond explain babi die immedi deliv mother excess bleed deliveri
+46,1523,Neonate,Pemba,Birth asphyxia,1.0,,,0.0,respond explain babi born eight month deliveri mother excess bleed
+16,3880,Adult,UP,Homicide,2.0,25.0,,,deceas woman month pregnant deceas felt slight headach afternoon suddenli began bleed soon faint breath becam labor deceas die could reach hospit abort child still within womb bleed excess
+0,11,Adult,UP,Maternal,2.0,35.0,,,deceas deliv twin die day deceas suffer excess bleed
+28,7616,Adult,UP,Maternal,2.0,28.0,,,deceas gave birth girl continu bleed excess bleed could stop deceas die
+27,7502,Adult,Pemba,Maternal,2.0,29.0,,,deceas die due excess blood loss deliveri
+26,7381,Adult,UP,Maternal,2.0,20.0,,,deceas suffer excess bleed deliveri
+25,7254,Adult,UP,Maternal,2.0,21.0,,,deceas began experienc labour pain hour later gave birth girl hospit hour normal deliveri deceas began bleed excess hour bleed deceas refer hospit continu bled deceas stop bleed pm die hour later pm
+24,6921,Adult,Pemba,Maternal,2.0,30.0,,,respond explain deceas die post oper excess bleed deliveryaph
+23,6739,Adult,Pemba,Maternal,2.0,35.0,,,respond explain caus death excess bleed deliveri pph want contribut blood laboratori technician
+22,6609,Adult,UP,Maternal,2.0,35.0,,,deceas age year pregnant deliveri normal womb damag deceas kid womb oper done bleed also excess deliveri given bottl blood child healthi child
+21,6515,Adult,Pemba,Maternal,2.0,24.0,,,respond explain deceas die excess bleed csection
+20,6131,Adult,UP,Maternal,2.0,35.0,,,deceas bled excess blood foul smell bleed could control till death deceas start bleed half hour deliveri
+18,4446,Adult,Pemba,Maternal,2.0,45.0,,,respond explain deceas die deliv home excess bleed sent hospit die
+17,3902,Adult,Pemba,Maternal,2.0,30.0,,,deceas die due excess blood loss deliveri
+29,7695,Adult,UP,Maternal,2.0,22.0,,,swell leg deceas suddenli start bleed excess continu till death color lip chang complain abdomin pain pregnant month die within minut deliveri child stillborn
+14,2974,Adult,Pemba,Maternal,2.0,39.0,,,respond explain deceas die due excess bleed deliveryaph pph
+2,315,Adult,Pemba,Maternal,2.0,21.0,,,respond explain deceas seven month pregnanc die convuls deliveri also excess bleed deliveri
+1,45,Adult,UP,Maternal,2.0,26.0,,,deceas weak pregnanc deceas pregnant sinc month ago deliveri child normal excess bleed occur deliveri deceas given blood could save
+3,562,Adult,Pemba,Maternal,2.0,30.0,,,respond explain deceas die due remain placenta uteru caus excess bleed retain placenta
+4,765,Adult,Pemba,Maternal,2.0,40.0,,,respond explain caus death excess bleed deliveri csection die oper babi aliv
+6,900,Adult,Pemba,Maternal,2.0,30.0,,,mother die second day deliveri caus death consequ pregnanc excess bleed deliveri
+7,1013,Adult,Pemba,Maternal,2.0,37.0,,,respond explain deceas die deliveri excess bleed
+5,882,Adult,UP,Maternal,2.0,26.0,,,deceas die hour give birth still born child deceas undergon normal deliveri deceas bled excess given oxygen deceas felt uneasi anxiou deceas taken hospit due excess bleed
+9,1698,Adult,UP,Maternal,2.0,20.0,,,death occur due excess bleed deliveri
+10,1707,Adult,UP,Maternal,2.0,25.0,,,deceas month pregnant suddenli began bleed child deliv oper stillborn bleed continu deceas given blood
+11,1736,Adult,UP,Maternal,2.0,20.0,,,deceas becom weak due bleed
+12,1822,Adult,UP,Maternal,2.0,20.0,,,deceas suffer bleed deliveri deceas die
+13,2600,Adult,UP,Maternal,2.0,26.0,,,deceas time deliveri suffer light bleed sinc month ago increas slowli time deceas kept bleed deliveri
+8,1631,Adult,Pemba,Maternal,2.0,30.0,,,respond explain deceas die deliveri excess bleed pph
+15,3873,Adult,UP,Maternal,2.0,20.0,,,mth pregnant normal deliveri post deliveri condit deterior excess bleed difficulti breath faint
+39,816,Neonate,Pemba,Preterm Delivery,1.0,,,1.0,caus death prematur born eighth month pregnanc mother excess bleed deliveri
+54,2140,Neonate,Pemba,Preterm Delivery,1.0,,,0.0,caus death prematur excess bleed deliveri
+47,1684,Neonate,Pemba,Preterm Delivery,2.0,,,1.0,caus death excess bleed labour deliveri
+44,1416,Neonate,Pemba,Preterm Delivery,2.0,,,1.0,respond explain excess bleed labour aph pregnanc seven month prematur babi placenta praevia
+43,1366,Neonate,Pemba,Preterm Delivery,2.0,,,0.0,babi deliv seven month mother excess bleed deliveri
+40,918,Neonate,UP,Preterm Delivery,2.0,,,2.0,vagin bleed day deliveri admit day month deliveri day month clock morn babi die clock afternoon babi seventh month born month day deliveri babi weak put oxygen labor pain excess bleed day deliveri
+37,501,Neonate,Pemba,Preterm Delivery,2.0,,,2.0,mother excess bleed deliveri
+58,2593,Neonate,Pemba,Preterm Delivery,2.0,,,0.0,respond explain excess bleed deliveri babi born seven month also bleed first month fourth month
+35,340,Neonate,Pemba,Preterm Delivery,2.0,,,0.0,respond explain babi born eight month deliveri mother excess bleed
+33,215,Neonate,Pemba,Preterm Delivery,2.0,,,0.0,caus death prematur born eighth month mother excess bleed deliveri
+32,169,Neonate,Pemba,Preterm Delivery,2.0,,,0.0,babi deliv seven month mother excess bleed deliveri
+31,166,Neonate,Pemba,Preterm Delivery,1.0,,,0.0,respond explain mother deliv prematur babi eight month alreadi die excess bleed deliveri
+19,5118,Adult,UP,Road Traffic,1.0,15.0,,,deceas hurt back head die uncontrol excess bleed
+56,2272,Neonate,AP,Stillbirth,1.0,,,0.0,deliveri month pregnant extrem anemia due bleed deliveri pregnanc month complet pregnant bleed doctor said babi die due prematur deliveri
+55,2158,Neonate,Pemba,Stillbirth,1.0,,,0.0,respond explain excess bleed deliveri convuls accord hospit record got placenta praevia cord prolaps
+53,2114,Neonate,Pemba,Stillbirth,2.0,,,0.0,babi die due excess bleed deliveri
+52,2028,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain excess bleed deliveri deliv sb macer
+51,1932,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain excess bleed bleed record show abryo placenta
+50,1893,Neonate,Pemba,Stillbirth,2.0,,,0.0,babi die due excess bleed deliveri
+38,738,Neonate,Pemba,Stillbirth,2.0,,,0.0,caus death prematur excess bleed
+36,497,Neonate,Pemba,Stillbirth,1.0,,,1.0,babi die mother excess bleed babi bad posit womb
+30,48,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain excess bleed deliveri hospit record show abrupt placenta
+45,1514,Neonate,Pemba,Stillbirth,1.0,,,0.0,babi die due excess bleed deliveri
+42,1237,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain babi deliv alreadi dead mother excess bleed deliveri
+41,1208,Neonate,Pemba,Stillbirth,1.0,,,0.0,respond explain excess bleed deliveri moment deliveri felf babi stop move deliv small babi alreadi die
+34,303,Neonate,Pemba,Stillbirth,2.0,,,0.0,caus death sbf excess bleed deliveri
+49,1827,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain excess bleed deliveri oper given babi alreadi die accord detail hospit book abrupt placenta
+57,2449,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain excess bleed deliveri babi born alreadi dead

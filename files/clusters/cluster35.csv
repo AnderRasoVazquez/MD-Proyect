@@ -1,92 +1,24 @@
 newid,module,site,gs_text34,sex,age_years,age_months,age_days,open_response
-8,3379,Adult,Dar,AIDS,1.0,52.0,,,respond satisfi hospit servic
-20,5,Child,Dar,AIDS,2.0,6.0,,,father deceas satisfi hospit servic
-11,3976,Adult,Dar,AIDS,1.0,43.0,,,respond thank servic brother receiv satisfi
-12,4036,Adult,Dar,AIDS,1.0,54.0,,,client satisfi servic
-44,884,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother satisfi hospit servic
-40,769,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother satisfi servic
-75,2132,Neonate,Dar,Birth asphyxia,2.0,,,0.0,respond satisfi servic
-76,2178,Neonate,Dar,Birth asphyxia,2.0,,,0.0,mother noth add satisfi servic
-67,1952,Neonate,Dar,Birth asphyxia,1.0,,,0.0,respond satisfi hospit servic medic record deceas mother alreadi divorc
-57,1613,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother satisfi hospit servic except water problem
-58,1721,Neonate,Dar,Birth asphyxia,1.0,,,0.0,mother satisfi hospit servic
-64,1935,Neonate,Dar,Birth asphyxia,1.0,,,0.0,interview satisfi sevic got hospit
-23,64,Neonate,Dar,Birth asphyxia,1.0,,,1.0,respond satisfi hospit servic claim doctor cooper
-18,7413,Adult,Dar,Breast Cancer,2.0,46.0,,,client satisfi servic
-0,100,Adult,Dar,Breast Cancer,2.0,41.0,,,particip satisfi medic servic provid media personel hospit hospit
-1,1132,Adult,Dar,Breast Cancer,2.0,54.0,,,client satisfi servic
-15,5640,Adult,Dar,COPD,2.0,82.0,,,client satisfi nb certif place
-2,1899,Adult,Dar,Colorectal Cancer,1.0,60.0,,,interview satisfi servic
-70,1991,Neonate,Dar,Congenital malformation,2.0,,,0.0,respond noth add satisfi hospit servic
-4,2341,Adult,Dar,Diarrhea/Dysentery,2.0,38.0,,,client satisfi servic
-13,4456,Adult,Dar,Lung Cancer,1.0,53.0,,,client satisfi servic
-9,3525,Adult,Dar,Maternal,2.0,17.0,,,respond nt satisfi servic
-16,5890,Adult,Dar,Maternal,2.0,29.0,,,respond nt satisfi surgic servic even condit got wors nt transfer patient hospit
-19,7506,Adult,Dar,Maternal,2.0,30.0,,,client satisfi servic
-55,1562,Neonate,Dar,Meningitis/Sepsis,1.0,,,16.0,respond satisfi servic receiv
-31,434,Neonate,Dar,Meningitis/Sepsis,1.0,,,5.0,respond satisfi servic
-26,132,Neonate,Dar,Meningitis/Sepsis,2.0,,,2.0,mother satisfi hospit servic
-77,2181,Neonate,Dar,Meningitis/Sepsis,2.0,,,5.0,particip satisfi servic provid hospit
-33,635,Neonate,Dar,Meningitis/Sepsis,1.0,,,1.0,respond satisfi servic receiv
-7,3300,Adult,Dar,Other Cardiovascular Diseases,1.0,74.0,,,client said satisfi servic
-17,6212,Adult,Dar,Other Non-communicable Diseases,2.0,69.0,,,particip satisfi servic provid patient
-3,2160,Adult,Dar,Other Non-communicable Diseases,,999.0,,,particip satisfi medic servic provid hospit
-35,645,Neonate,Dar,Pneumonia,1.0,,,3.0,client thank servic satisfi
-21,274,Child,Dar,Pneumonia,2.0,,3.0,,particip satisfi servic
-10,3541,Adult,Dar,Pneumonia,2.0,32.0,,,particip satisfi servic provid hospit
-51,1333,Neonate,Dar,Preterm Delivery,1.0,,,0.0,respond satisfi servic
-62,1882,Neonate,Dar,Preterm Delivery,1.0,,,9.0,particip satisfi servic provid hospit
-61,1795,Neonate,Dar,Preterm Delivery,2.0,,,3.0,particip satisfi medic servic provid hospit
-14,4752,Adult,Dar,Prostate Cancer,1.0,62.0,,,particip satisfi servic provid hospit deceas suffer bladder cancer
-65,1939,Neonate,Dar,Stillbirth,2.0,,,0.0,mother satisfi servic
-63,1898,Neonate,Dar,Stillbirth,2.0,,,0.0,respond satisfi servic receiv
-68,1963,Neonate,Dar,Stillbirth,2.0,,,0.0,respond satisfi servic hospit
-69,1985,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add satisfi servic
-66,1942,Neonate,Dar,Stillbirth,1.0,0.0,,,respond satisfi servic
-81,2323,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add satisfi servic
-72,2070,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic hospit
-73,2101,Neonate,Dar,Stillbirth,2.0,,,0.0,respond satisfi servic nurs bad word patient
-74,2130,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add satisfi servic
-78,2251,Neonate,Dar,Stillbirth,1.0,,,0.0,mother satisfi hospit servic noth add
-79,2308,Neonate,Dar,Stillbirth,2.0,,,0.0,mother satisfi hospit servic
-80,2321,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic receiv
-82,2351,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add satisfi servic
-83,2466,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add satisfi servic
-84,2474,Neonate,Dar,Stillbirth,2.0,,,0.0,mother accept situat lost babi also satisfi servic receiv
-85,2478,Neonate,Dar,Stillbirth,2.0,,,0.0,respond satisfi servic receiv
-86,2487,Neonate,Dar,Stillbirth,2.0,,,0.0,respond satisfi servic receiv
-87,2528,Neonate,Dar,Stillbirth,1.0,,,0.0,respond thank servic receiv though satisfi
-88,2557,Neonate,Dar,Stillbirth,2.0,,,0.0,respond satisfi servic
-71,2046,Neonate,Dar,Stillbirth,2.0,,,0.0,respond said servic satisfi enough
-60,1772,Neonate,Dar,Stillbirth,2.0,,,0.0,mother satisfi hospit servic
-45,919,Neonate,Dar,Stillbirth,2.0,,,1.0,mother noth add satisfi servic
-56,1591,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic
-22,53,Neonate,Dar,Stillbirth,2.0,,,0.0,mother nt satisfi hospit servic nt receiv care suppos deliv csection nt
-24,105,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add satisfi servic
-25,108,Neonate,Dar,Stillbirth,2.0,,,0.0,respond satisfi servic receiv
-27,156,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic nt know husband keep medic record
-28,312,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add satisfi servic
-29,396,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic hospit
-30,415,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add satisfi servic
-32,623,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic receiv
-34,637,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic receiv
-36,654,Neonate,Dar,Stillbirth,1.0,,,0.0,mother noth add satisfi servic
-37,717,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add satisfi servic
-59,1740,Neonate,Dar,Stillbirth,2.0,,,0.0,respond satisfi servic
-38,729,Neonate,Dar,Stillbirth,1.0,,,0.0,mother satisfi hospit servic
-41,823,Neonate,Dar,Stillbirth,2.0,,,0.0,respond satisfi servic receiv medic record left hospit
-42,827,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi hospit servic
-43,851,Neonate,Dar,Stillbirth,2.0,,,0.0,respond satisfi servic receiv
-89,2561,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic
-46,950,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic
-47,1150,Neonate,Dar,Stillbirth,2.0,,,0.0,mother noth add satisfi servic
-48,1165,Neonate,Dar,Stillbirth,2.0,,,0.0,respond satisfi servic
-49,1231,Neonate,Dar,Stillbirth,2.0,,,0.0,respond satisfi servic receiv
-50,1318,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic
-52,1414,Neonate,Dar,Stillbirth,2.0,,,0.0,mother satisfi servic
-53,1447,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic
-54,1495,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic receiv
-39,732,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic receiv
-90,2621,Neonate,Dar,Stillbirth,1.0,,,0.0,respond satisfi servic receiv
-5,2832,Adult,Dar,Stroke,2.0,70.0,,,client said servic slow said care satisfi
-6,2954,Adult,Dar,Suicide,1.0,20.0,,,particip satisfi servic provid hospit
+3,335,Neonate,Pemba,Birth asphyxia,1.0,,,0.0,respond explain deceas die due blood stool prolong labour interview show babi birth asphyxia
+18,2239,Neonate,Pemba,Birth asphyxia,1.0,,,0.0,caus death prolong labour
+7,850,Neonate,Pemba,Birth asphyxia,2.0,,,0.0,babi die prolong labour mother could nt push
+14,1615,Neonate,Pemba,Birth asphyxia,1.0,,,2.0,respond explain deceas die two day deliveri prolong labour help vaccuum
+13,1544,Neonate,Pemba,Birth asphyxia,2.0,,,0.0,respond explain prolong labour deliv babi alreadi die main caus death witch
+12,1230,Neonate,Pemba,Birth asphyxia,1.0,,,0.0,caus death prolong labour
+19,2274,Neonate,Pemba,Congenital malformation,2.0,,,0.0,caus death prolong labour
+0,7311,Adult,Pemba,Other Non-communicable Diseases,1.0,75.0,,,deceas die fever prolong cough tuberclosi
+20,2423,Neonate,Pemba,Stillbirth,2.0,,,0.0,babi die prolong labour
+17,2072,Neonate,Pemba,Stillbirth,1.0,,,0.0,caus death prolong labour
+16,2060,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain minor bleed deliveri prolong labour accord card cpd
+15,1778,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain deliv sb thought caus prolong labour
+11,1186,Neonate,Pemba,Stillbirth,1.0,,,0.0,babi born alreadi die due mother aph prolong labour
+10,1153,Neonate,Pemba,Stillbirth,2.0,,,0.0,caus death prolong labour babi born bveech
+9,883,Neonate,Pemba,Stillbirth,1.0,,,0.0,respond said prolong labour deliv sb fresh
+8,872,Neonate,Pemba,Stillbirth,2.0,,,0.0,death caus prolong labour mother labour three day
+6,771,Neonate,Pemba,Stillbirth,2.0,,,0.0,caus death stop urin prolong labour
+5,676,Neonate,Pemba,Stillbirth,1.0,,,0.0,babi die prolong labour
+4,460,Neonate,Pemba,Stillbirth,1.0,,,0.0,caus death prolong labour second stage labour
+2,247,Neonate,Pemba,Stillbirth,2.0,,,0.0,babi born sb due mother prolong labour doctor midwiferi help
+1,46,Neonate,Pemba,Stillbirth,2.0,,,0.0,respond explain caus death prolong labour hospit book show babi face present prolong labour asphyxia
+21,2442,Neonate,Pemba,Stillbirth,1.0,,,0.0,respond explain deceas die passageway prolong labour
+22,2485,Neonate,Dar,Stillbirth,1.0,,,0.0,respond claim deceas mother prolong labour even receiv exytocin may caus death
