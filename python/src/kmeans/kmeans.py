@@ -11,18 +11,21 @@ class KMeans:
     INIT_RANDOM = "random"
     INIT_FOO = "foo"  # placeholder for future initialization methods
 
+    TFIDF = 'tfidf'
+    WEMBEDDINGS = 'word_embeddings'
+
     @staticmethod
     def main(data_path, output_folder, k, m, verbose=True):
         data = pd.read_csv(data_path, header=0)
         print("loaded data")
-        kmeans = KMeans(output_folder, data, k=k, m=m)
+        kmeans = KMeans(output_folder, data, k=k, m=m, w2v_strat=KMeans.TFIDF)
         kmeans.form_clusters(verbose=True)
         if verbose:
             print("Finished clustering. Saving results...")
-        kmeans.save_instances()
+        kmeans.save_instances()  # a efectos, redundante con save_clusters()
         if verbose:
             print("Instances Saved")
-        kmeans.save_clusters(verbose)
+        kmeans.save_clusters()
         if verbose:
             print("Clusters Saved")
         kmeans.save_evaluation()
@@ -34,7 +37,7 @@ class KMeans:
         if verbose:
             print("Finished")
 
-    def __init__(self, output_folder, data, k=10, tolerance=0.1, m=2, init_strat="random", max_it=50):
+    def __init__(self, output_folder, data, k=10, tolerance=0.1, m=2, w2v_strat='tfidf', init_strat="random", max_it=50):
         self._data = data
         self._instances = None
         self._k = min(k, len(self._data))
@@ -44,14 +47,13 @@ class KMeans:
         self._belonging_bits = [[False for i in range(k)] for t in range(len(self._data))]
         self._tolerance = tolerance
         self._distance = MDistance(m)
+        self._w2v_strat = w2v_strat
         self._max_it = max_it
         self._init_strat = init_strat.lower()
         self._output_folder = output_folder
 
     def form_clusters(self, verbose=False):
-        wv_matrix = utils.tfidf_filter(self._data, 'open_response')
-        self._instances = wv_matrix.A
-
+        self._load_instances(w2v_strat=self._w2v_strat, attribute='open_response')
         self._initialize_centroids(self._init_strat)
         it = 0
 
@@ -63,6 +65,13 @@ class KMeans:
             self._update_centroids()
 
         self._update_belonging_bits()
+
+    def _load_instances(self, w2v_strat, attribute):
+        if w2v_strat == self.TFIDF:
+            wv_matrix = utils.tfidf_filter(self._data, attribute)
+            self._instances = wv_matrix.A
+        elif w2v_strat == self.WEMBEDDINGS:
+            self._instances = utils.word_embeddings(self._data, attribute)
 
     def _initialize_centroids(self, init_strat):
         # default: INIT_RANDOM
@@ -144,39 +153,46 @@ class KMeans:
                         f.write('INSTANCE {} -> CLUSTER {} // {}\n'
                                 .format(t, i, str(self._data.get_values()[t]).replace('\n', '')))
 
-    def save_clusters(self, verbose=False):
-        output_path = os.path.join(self._output_folder, 'clusters')
-        try:
-            os.mkdir(output_path)
-        except FileExistsError:
-            pass
+    def save_clusters(self):
+        output_path = os.path.join(self._output_folder, 'clusters.csv')
 
-        for i in range(self._k):
-            cluster = pd.SparseDataFrame(columns=self._data.columns)
-            for t in range(len(self._instances)):
+        results = self._data.copy()
+        clusters = []
+        for t in range(len(self._instances)):
+            for i in range(self._k):
                 if self._belonging_bits[t][i]:
-                    instance_data = pd.SparseDataFrame([self._data.get_values()[t]], columns=self._data.columns)
-                    cluster = cluster.append(instance_data.copy(), ignore_index=True)
+                    clusters.append(i)
+                    break
 
-            cluster_path = os.path.join(output_path, 'cluster{}.csv'.format(i))
-            cluster = cluster.sort_values(by=['gs_text34'])
-            cluster.to_csv(path_or_buf=cluster_path, index_label=False)
-            if verbose:
-                print("Saved cluster nº {}".format(i))
+        results['cluster'] = clusters
+        cols = list(results)
+        cols.insert(0, cols.pop(cols.index('cluster')))
+        results = results.ix[:, cols]
+        results.to_csv(output_path, index=False)
 
     def save_evaluation(self):
-        output_path = os.path.join(self._output_folder, 'evaluation.txt')
+        output_path1 = os.path.join(self._output_folder, 'evaluation.txt')
+        output_path2 = os.path.join(self._output_folder, 'evaluation.csv')
         cohesion = 0
-        clusters_ss = ''
+        clusters_sse = ''
+
+        dataframe_columns = ['cluster', 'n_instances', 'sse', 'sse_avg']
+        dataframe = pd.DataFrame(columns=dataframe_columns)
         for i in range(len(self._centroids)):
             sse_i = self._sse(i)
             n_instances = self._centroid_instances[i]
             cohesion += sse_i
-            clusters_ss += 'CLUSTER {} ({} instances) -> SSE = {} // {} avg.\n'.\
+            clusters_sse += 'CLUSTER {} ({} instances) -> SSE = {} // {} avg.\n'.\
                 format(i, n_instances, sse_i, sse_i/n_instances)
-        with open(output_path, 'w') as f:
+
+            dataframe = dataframe.append(pd.DataFrame([[i, n_instances, sse_i, sse_i/n_instances]],
+                                          columns=dataframe_columns),
+                             ignore_index=True)
+        with open(output_path1, 'w') as f:
             f.write("TOTAL COHESION = {}\n".format(cohesion))
-            f.write(clusters_ss)
+            f.write(clusters_sse)
+
+        dataframe.to_csv(output_path2, index=False)
 
     def _sse(self, cluster_index):
         sse = 0
