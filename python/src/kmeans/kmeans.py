@@ -25,7 +25,7 @@ class KMeans:
         kmeans.save_instances()  # a efectos, redundante con save_clusters()
         if verbose:
             print("Instances Saved")
-        kmeans.save_clusters()
+        kmeans.save_clusters(sorted=True)
         if verbose:
             print("Clusters Saved")
         kmeans.save_evaluation()
@@ -41,10 +41,10 @@ class KMeans:
         self._data = data
         self._instances = None
         self._k = min(k, len(self._data))
-        self._centroids = [None] * k
-        self._centroid_instances = [0] * k
+        self._centroids = np.empty(k, dtype='object')
+        self._centroid_instances = np.full(self._k, 0, dtype='int64')
         self._prev_centroids = None
-        self._belonging_bits = [[False for i in range(k)] for t in range(len(self._data))]
+        self._belonging_bits = np.full((len(self._data), self._k), 0, dtype='int8')
         self._tolerance = tolerance
         self._distance = MDistance(m)
         self._w2v_strat = w2v_strat
@@ -106,7 +106,8 @@ class KMeans:
         return True
 
     def _update_belonging_bits(self):
-        self._belonging_bits = [[False for i in range(self._k)] for t in range(len(self._instances))]
+        self._belonging_bits = np.full((len(self._data), self._k), 0, dtype='int8')
+        self._centroid_instances = np.full(self._k, 0, dtype='int64')
 
         for t in range(len(self._instances)):
             min_diff = 99999
@@ -123,26 +124,33 @@ class KMeans:
                     min_diff = diff
                     min_i = i
 
-            self._belonging_bits[t][min_i] = True
+            self._belonging_bits[t][min_i] = 1
             self._centroid_instances[min_i] += 1
 
     def _update_centroids(self):
         self._prev_centroids = self._centroids.copy()
 
-        for i in range(self._k):
-            bits_i = 0
-            instance_sum = None
+        bits_T = self._belonging_bits.T
 
-            for t in range(len(self._instances)):
-                if self._belonging_bits[t][i]:
-                    bits_i += 1
-                    if instance_sum is None:
-                        instance_sum = np.array([x if utils.is_number(x) else np.nan for x in self._instances[t].copy()])
-                    else:
-                        instance_sum = instance_sum + self._instances[t]
+        for i in range(len(self._centroids)):
+            column = bits_T[i]
+            new_centroid = column.dot(self._instances) / column.sum()
+            self._centroids[i] = new_centroid
 
-            self._centroids[i] = np.divide(instance_sum, bits_i)
-            self._centroid_instances[i] = 0
+        # for i in range(self._k):
+        #     bits_i = 0
+        #     instance_sum = None
+        #
+        #     for t in range(len(self._instances)):
+        #         if self._belonging_bits[t][i]:
+        #             bits_i += 1
+        #             if instance_sum is None:
+        #                 instance_sum = np.array([x if utils.is_number(x) else np.nan for x in self._instances[t].copy()])
+        #             else:
+        #                 instance_sum = instance_sum + self._instances[t]
+        #
+        #     self._centroids[i] = np.divide(instance_sum, bits_i)
+        #     self._centroid_instances[i] = 0
 
     def save_instances(self):
         output_path = os.path.join(self._output_folder, 'assigned_instances.txt')
@@ -153,7 +161,7 @@ class KMeans:
                         f.write('INSTANCE {} -> CLUSTER {} // {}\n'
                                 .format(t, i, str(self._data.get_values()[t]).replace('\n', '')))
 
-    def save_clusters(self):
+    def save_clusters(self, sorted=False):
         output_path = os.path.join(self._output_folder, 'clusters.csv')
 
         results = self._data.copy()
@@ -168,6 +176,8 @@ class KMeans:
         cols = list(results)
         cols.insert(0, cols.pop(cols.index('cluster')))
         results = results.ix[:, cols]
+        if sorted:
+            results = results.sort_values(['cluster', 'gs_text34'])
         results.to_csv(output_path, index=False)
 
     def save_evaluation(self):
