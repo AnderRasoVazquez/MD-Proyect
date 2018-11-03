@@ -39,7 +39,7 @@ class KMeans:
 
     def __init__(self, output_folder, data, k=10, tolerance=0.1, m=2, w2v_strat='tfidf', init_strat="random", max_it=50):
         self._data = data
-        self._instances = None
+        self._instances = np.empty(len(data), dtype='object')
         self._k = min(k, len(self._data))
         self._centroids = np.empty(k, dtype='object')
         self._centroid_instances = np.full(self._k, 0, dtype='int64')
@@ -69,7 +69,9 @@ class KMeans:
     def _load_instances(self, w2v_strat, attribute):
         if w2v_strat == self.TFIDF:
             wv_matrix = utils.tfidf_filter(self._data, attribute)
-            self._instances = wv_matrix.A
+            matrix = wv_matrix.A
+            for i in range(len(matrix)):
+                self._instances[i] = matrix[i]
         elif w2v_strat == self.WEMBEDDINGS:
             self._instances = utils.word_embeddings(self._data, attribute)
 
@@ -129,28 +131,14 @@ class KMeans:
 
     def _update_centroids(self):
         self._prev_centroids = self._centroids.copy()
+        self._centroids = self._instances.dot(self._belonging_bits) / np.sum(self._belonging_bits, axis=0)
 
-        bits_T = self._belonging_bits.T
 
-        for i in range(len(self._centroids)):
-            column = bits_T[i]
-            new_centroid = column.dot(self._instances) / column.sum()
-            self._centroids[i] = new_centroid
-
-        # for i in range(self._k):
-        #     bits_i = 0
-        #     instance_sum = None
-        #
-        #     for t in range(len(self._instances)):
-        #         if self._belonging_bits[t][i]:
-        #             bits_i += 1
-        #             if instance_sum is None:
-        #                 instance_sum = np.array([x if utils.is_number(x) else np.nan for x in self._instances[t].copy()])
-        #             else:
-        #                 instance_sum = instance_sum + self._instances[t]
-        #
-        #     self._centroids[i] = np.divide(instance_sum, bits_i)
-        #     self._centroid_instances[i] = 0
+        # bits_T = self._belonging_bits.T
+        # for i in range(len(self._centroids)):
+        #     column = bits_T[i]
+        #     new_centroid = column.dot(self._instances) / column.sum()
+        #     self._centroids[i] = new_centroid
 
     def save_instances(self):
         output_path = os.path.join(self._output_folder, 'assigned_instances.txt')
@@ -162,23 +150,25 @@ class KMeans:
                                 .format(t, i, str(self._data.get_values()[t]).replace('\n', '')))
 
     def save_clusters(self, sorted=False):
-        output_path = os.path.join(self._output_folder, 'clusters.csv')
+        output_path_clusters = os.path.join(self._output_folder, 'clusters.csv')
+        output_path_centroids = os.path.join(self._output_folder, 'centroids')
 
         results = self._data.copy()
-        clusters = []
+        cluster_col = []
         for t in range(len(self._instances)):
             for i in range(self._k):
                 if self._belonging_bits[t][i]:
-                    clusters.append(i)
+                    cluster_col.append(i)
                     break
 
-        results['cluster'] = clusters
+        results['cluster'] = cluster_col
         cols = list(results)
         cols.insert(0, cols.pop(cols.index('cluster')))
         results = results.ix[:, cols]
         if sorted:
             results = results.sort_values(['cluster', 'gs_text34'])
-        results.to_csv(output_path, index=False)
+        results.to_csv(output_path_clusters, index=False)
+        np.save(output_path_centroids, self._centroids)
 
     def save_evaluation(self):
         output_path1 = os.path.join(self._output_folder, 'evaluation.txt')
