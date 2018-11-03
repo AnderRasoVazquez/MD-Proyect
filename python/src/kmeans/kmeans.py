@@ -8,23 +8,20 @@ from src.utils.distance import MDistance
 
 
 class KMeans:
-    INIT_RANDOM = "random"
-    INIT_FOO = "foo"  # placeholder for future initialization methods
+    INIT_RANDOM = 'random'
+    INIT_FOO = 'foo'  # placeholder for future initialization methods
 
     TFIDF = 'tfidf'
     WEMBEDDINGS = 'word_embeddings'
 
     @staticmethod
-    def main(data_path, output_folder, k, m, verbose=True):
+    def main(data_path, output_folder, k, tolerance=0.1, m=2, init_strat=INIT_RANDOM, max_it=50, verbose=True):
         data = pd.read_csv(data_path, header=0)
         print("loaded data")
-        kmeans = KMeans(output_folder, data, k=k, m=m, w2v_strat=KMeans.TFIDF)
+        kmeans = KMeans(output_folder, data, k=k, tolerance=tolerance, m=m, init_strat=init_strat, max_it=max_it)
         kmeans.form_clusters(verbose=True)
         if verbose:
             print("Finished clustering. Saving results...")
-        kmeans.save_instances()  # a efectos, redundante con save_clusters()
-        if verbose:
-            print("Instances Saved")
         kmeans.save_clusters(sorted=True)
         if verbose:
             print("Clusters Saved")
@@ -36,8 +33,9 @@ class KMeans:
         # kmeans.plot(separate=False)
         if verbose:
             print("Finished")
+        return kmeans
 
-    def __init__(self, output_folder, data, k=10, tolerance=0.1, m=2, w2v_strat='tfidf', init_strat="random", max_it=50):
+    def __init__(self, output_folder, data, k=10, tolerance=0.1, m=2, w2v_strat='tfidf', init_strat='random', max_it=50):
         self._data = data
         self._instances = np.empty(len(data), dtype='object')
         self._k = min(k, len(self._data))
@@ -47,8 +45,8 @@ class KMeans:
         self._belonging_bits = np.full((len(self._data), self._k), 0, dtype='int8')
         self._tolerance = tolerance
         self._distance = MDistance(m)
-        self._w2v_strat = w2v_strat
         self._max_it = max_it
+        self._w2v_strat = w2v_strat
         self._init_strat = init_strat.lower()
         self._output_folder = output_folder
 
@@ -91,6 +89,7 @@ class KMeans:
             self._centroids[i] = self._instances[index].copy()
             used.append(index)
 
+
     # placeholder for future initialization methods
     def _init_foo(self):
         pass
@@ -132,22 +131,6 @@ class KMeans:
     def _update_centroids(self):
         self._prev_centroids = self._centroids.copy()
         self._centroids = self._instances.dot(self._belonging_bits) / np.sum(self._belonging_bits, axis=0)
-
-
-        # bits_T = self._belonging_bits.T
-        # for i in range(len(self._centroids)):
-        #     column = bits_T[i]
-        #     new_centroid = column.dot(self._instances) / column.sum()
-        #     self._centroids[i] = new_centroid
-
-    def save_instances(self):
-        output_path = os.path.join(self._output_folder, 'assigned_instances.txt')
-        with open(output_path, 'w') as f:
-            for t in range(len(self._instances)):
-                for i in range(self._k):
-                    if self._belonging_bits[t][i]:
-                        f.write('INSTANCE {} -> CLUSTER {} // {}\n'
-                                .format(t, i, str(self._data.get_values()[t]).replace('\n', '')))
 
     def save_clusters(self, sorted=False):
         output_path_clusters = os.path.join(self._output_folder, 'clusters.csv')
@@ -202,9 +185,12 @@ class KMeans:
                 sse += self._distance.distance(self._instances[t], centroid) ** 2
         return sse
 
-    def plot(self, separate):
+    def plot(self, separate=False):
         if self._instances is not None:
-            pca = utils.pca_filter(self._instances, 2)
+            tmp_instances = []
+            for instance in self._instances:
+                tmp_instances.append(list(instance))
+            pca = utils.pca_filter(tmp_instances, 2)
             for i in range(len(self._centroids)):
                 if separate:
                     plt.figure(i)
@@ -218,11 +204,62 @@ class KMeans:
                     plt.title("Cluster {}".format(i))
             plt.show()
 
+    def data(self):
+        return self._data.copy()
+
+    def instances(self):
+        return self._instances.copy()
+
+    def k(self):
+        return self._k
+
+    def set_k(self, k):
+        self._k = k
+
+    def centroids(self):
+        return self._centroids
+
+    def bits(self):
+        return self._belonging_bits
+
+    def tolerance(self):
+        return self._tolerance
+
+    def set_tolerance(self, tolerance):
+        self._tolerance = tolerance
+
+    def distance_m(self):
+        return self._distance.m()
+
+    def set_distance_m(self, m):
+        return self._distance.set_m(m)
+
+    def max_it(self):
+        return self._max_it
+
+    def set_max_it(self, max_it):
+        self._max_it = max_it
+
+    def w2v_strat(self):
+        return self._w2v_strat
+
+    def set_w2v_strat(self, w2v_strat):
+        self._w2v_strat = w2v_strat
+
+    def init_strat(self):
+        return self._init_strat
+
+    def set_init_strat(self, init_strat):
+        self._init_strat = init_strat
+
+    def output_folder(self):
+        return self._output_folder
+
+    def set_output_folder(self, output_folder):
+        self._output_folder = output_folder
+
 
 if __name__ == '__main__':
     KMeans.main("/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_clean.csv",
                 "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files",
-                96, 2)
-    # KMeans.main("/home/ander/github/MD-Proyect/files/verbal_autopsies_tfidf_s.csv",
-    #             "/home/ander/github/MD-Proyect/files",
-    #             48, 2)
+                k=96, m=2)
