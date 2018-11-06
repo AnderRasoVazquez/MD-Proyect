@@ -1,4 +1,17 @@
-"""Utiliza un csv que contiene los errores de los clusters para generar graficos."""
+"""Utiliza un csv que contiene los errores de los clusters para generar graficos.
+
+usage: plot_sse.py [-h] csv_file output_folder
+
+positional arguments:
+  csv_file       Archivo csv a analizar
+  output_folder  Carpeta donde guardar los graficos
+
+optional arguments:
+  -h, --help     show this help message and exit
+
+example:
+python3 plot_sse.py evaluation.csv files/
+"""
 
 import os
 import pandas as pd
