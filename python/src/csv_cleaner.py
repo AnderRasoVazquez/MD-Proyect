@@ -219,12 +219,13 @@ def main():
 def clean_string(t, use_stemmer):
     # Genera un array de palabras (word_tokenize)
     tokens = word_tokenize(t)
+
     # Convierte las palabras en minúsculas(to lower case)
     tokens = [w.lower() for w in tokens]
+
     # Elimina signos de puntuación
     table = str.maketrans('', '', string.punctuation)
     stripped = [w.translate(table) for w in tokens]
-
 
     # Elimina símbolos no alfabéticos
     words = [word for word in stripped if word.isalpha()]

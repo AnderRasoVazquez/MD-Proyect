@@ -18,13 +18,16 @@ class KMeans:
     def main(data_path, output_folder, k, tolerance=0.1, m=2, init_strat=INIT_RANDOM, max_it=50, verbose=True):
         data = pd.read_csv(data_path, header=0)
         print("loaded data")
-        kmeans = KMeans(output_folder, data, k=k, tolerance=tolerance, m=m, init_strat=init_strat, max_it=max_it)
+        kmeans = KMeans(output_folder, data=data, k=k, tolerance=tolerance, m=m, init_strat=init_strat, max_it=max_it)
         kmeans.form_clusters(verbose=True)
         if verbose:
             print("Finished clustering. Saving results...")
         kmeans.save_clusters(sorted=True)
         if verbose:
             print("Clusters Saved")
+        kmeans.save_centroids()
+        if verbose:
+            print("Centroids Saved")
         kmeans.save_evaluation()
         if verbose:
             print("Evaluation Saved")
@@ -35,7 +38,18 @@ class KMeans:
             print("Finished")
         return kmeans
 
-    def __init__(self, output_folder, data, k=10, tolerance=0.1, m=2, w2v_strat='tfidf', init_strat='random', max_it=50):
+    def __init__(self, output_folder, data=None, k=10, tolerance=0.1, m=2, w2v_strat='tfidf', init_strat='random', max_it=50):
+        """Constructor de la clase KMeans.
+
+        output_folder: directorio donde se guardarán los resultados.
+        data: DataFrame con los datos a agrupar.
+        k: número de clusters a crear.
+        tolerance: distancia mínima que tienen que moverse ál menos un cluster para continuar con el algortimo.
+        m: parámetro para la distancia de Minkowski.
+        w2v_strat: método para convertir los textos a valores numéricos ('tfidf', 'word_embbedings').
+        init_strat: método para inicializar los centroides ('random', 'foo').
+        max_it: número máximo de iteraciones a realizar, independientemente de la tolerancia.
+        """
         self._data = data
         self._instances = np.empty(len(data), dtype='object')
         self._k = min(k, len(self._data))
@@ -49,8 +63,18 @@ class KMeans:
         self._w2v_strat = w2v_strat
         self._init_strat = init_strat.lower()
         self._output_folder = output_folder
+        self._pca = None
+
+    def read_data_csv(self, data_path):
+        """Carga los datos de un archivo csv."""
+
+        self._data = pd.read_csv(data_path, header=0)
 
     def form_clusters(self, verbose=False):
+        """Inicia el proceso de clustering."""
+
+        self._pca = None
+
         self._load_instances(w2v_strat=self._w2v_strat, attribute='open_response')
         self._initialize_centroids(self._init_strat)
         it = 0
@@ -65,6 +89,8 @@ class KMeans:
         self._update_belonging_bits()
 
     def _load_instances(self, w2v_strat, attribute):
+        """Convierte las instancias a datos para utilizan en el clustering."""
+
         if w2v_strat == self.TFIDF:
             wv_matrix = utils.tfidf_filter(self._data, attribute)
             matrix = wv_matrix.A
@@ -74,6 +100,8 @@ class KMeans:
             self._instances = utils.word_embeddings(self._data, attribute)
 
     def _initialize_centroids(self, init_strat):
+        """Inicializa los centroides."""
+
         # default: INIT_RANDOM
         return {
             KMeans.INIT_RANDOM: self._init_random_centroids,
@@ -81,6 +109,8 @@ class KMeans:
         }.get(init_strat, KMeans.INIT_RANDOM)()
 
     def _init_random_centroids(self):
+        """Inicializa los centroides de forma aleatoria."""
+
         used = [-1]
         for i in range(self._k):
             index = -1
@@ -92,9 +122,13 @@ class KMeans:
 
     # placeholder for future initialization methods
     def _init_foo(self):
+        """Inicializa los centroides de forma foo."""
+
         pass
 
     def _check_finished(self):
+        """Comprueba si los centroides se han desplazado los suficiete como para continuar."""
+
         if self._prev_centroids is None:
             return False
 
@@ -107,6 +141,8 @@ class KMeans:
         return True
 
     def _update_belonging_bits(self):
+        """Actualiza la matriz de bits de pertenencia."""
+
         self._belonging_bits = np.full((len(self._data), self._k), 0, dtype='int8')
         self._centroid_instances = np.full(self._k, 0, dtype='int64')
 
@@ -129,12 +165,23 @@ class KMeans:
             self._centroid_instances[min_i] += 1
 
     def _update_centroids(self):
+        """Actualiza los centroides."""
+
         self._prev_centroids = self._centroids.copy()
         self._centroids = self._instances.dot(self._belonging_bits) / np.sum(self._belonging_bits, axis=0)
 
     def save_clusters(self, sorted=False):
+        """Guarda los clusters obtenidos.
+
+        Los centroides se guardan en un archivo csv en el mismo formato
+        que las instancias originales con un atributo nuevo que indica
+        a que cluster pertenece cada instancia.
+
+        Si el parámetro sorted es True, la instancias se ordenarán según
+        su cluster.
+        """
+
         output_path_clusters = os.path.join(self._output_folder, 'clusters.csv')
-        output_path_centroids = os.path.join(self._output_folder, 'centroids')
 
         results = self._data.copy()
         cluster_col = []
@@ -151,9 +198,30 @@ class KMeans:
         if sorted:
             results = results.sort_values(['cluster', 'gs_text34'])
         results.to_csv(output_path_clusters, index=False)
+
+    def save_centroids(self):
+        """Guarda los centroides obtenidos
+
+        Los centroides se guardan en un archivo binario npy.
+        """
+
+        output_path_centroids = os.path.join(self._output_folder, 'centroids')
         np.save(output_path_centroids, self._centroids)
 
     def save_evaluation(self):
+        """Guarda la evaluación del modelo entrenado.
+
+        Para la evaluación se utiliza el criterio SSE.
+        La evaluación se guarda en dos archivos.
+
+        - Un archivo txt en el que se muestra la cohesión total de los clusteres
+        y, después, por cada cluster, cuantas instancias contiene, el SSE total
+        del cluster y el SSE medio por cada instancia.
+
+        - Un archivo csv en el que se almacena por cada cluster, cuantas instancias
+        contiene, el SSE total del cluster y el SSE medio por cada instancia.
+        """
+
         output_path1 = os.path.join(self._output_folder, 'evaluation.txt')
         output_path2 = os.path.join(self._output_folder, 'evaluation.csv')
         cohesion = 0
@@ -169,8 +237,8 @@ class KMeans:
                 format(i, n_instances, sse_i, sse_i/n_instances)
 
             dataframe = dataframe.append(pd.DataFrame([[i, n_instances, sse_i, sse_i/n_instances]],
-                                          columns=dataframe_columns),
-                             ignore_index=True)
+                                                      columns=dataframe_columns),
+                                         ignore_index=True)
         with open(output_path1, 'w') as f:
             f.write("TOTAL COHESION = {}\n".format(cohesion))
             f.write(clusters_sse)
@@ -178,6 +246,8 @@ class KMeans:
         dataframe.to_csv(output_path2, index=False)
 
     def _sse(self, cluster_index):
+        """Calcula el SSE de un cluster."""
+
         sse = 0
         centroid = self._centroids[cluster_index]
         for t in range(len(self._instances)):
@@ -185,23 +255,44 @@ class KMeans:
                 sse += self._distance.distance(self._instances[t], centroid) ** 2
         return sse
 
-    def plot(self, separate=False):
+    def plot(self, indices=None, separate=False):
+        """Representa los clusteres en un plano cartesiano.
+
+        Solo se dibujarán los clusteres cuyo indice apaecezca en el
+        parámetro indices.
+
+        En el plano aparecerán todas las instancias de los clusteres a
+        dibujar. Las instancias que pertenecen al mismo cluster tendrán
+        el mismo color.
+
+        Si separate en True, se crea un gráfico por cada cluster en lugar
+        de dibujarlos todos en el mismo gráfico.
+
+        Para representar las instancias en dos dimensiones se les
+        aplica primero en filtro PCA.
+        """
+
+        if indices is None:
+            indices = range(len(self._centroids))
+
         if self._instances is not None:
-            tmp_instances = []
-            for instance in self._instances:
-                tmp_instances.append(list(instance))
-            pca = utils.pca_filter(tmp_instances, 2)
+            if self._pca is None:
+                tmp_instances = []
+                for instance in self._instances:
+                    tmp_instances.append(list(instance))
+                self._pca = utils.pca_filter(tmp_instances, 2)
             for i in range(len(self._centroids)):
-                if separate:
-                    plt.figure(i)
-                c = [[random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1)]]
-                for t in range(len(self._instances)):
-                    if self._belonging_bits[t][i]:
-                        plt.scatter(pca[t][0], pca[t][1], c=c)
-                        if separate:
-                            plt.text(pca[t][0], pca[t][1], s=self._data['gs_text34'][t], fontsize=10)
-                if separate:
-                    plt.title("Cluster {}".format(i))
+                if i in indices:
+                    if separate:
+                        plt.figure(i)
+                    c = [[random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1)]]
+                    for t in range(len(self._instances)):
+                        if self._belonging_bits[t][i]:
+                            plt.scatter(self._pca[t][0], self._pca[t][1], c=c)
+                            if separate:
+                                plt.text(self._pca[t][0], self._pca[t][1], s=self._data['gs_text34'][t], fontsize=10)
+                    if separate:
+                        plt.title("Cluster {}".format(i))
             plt.show()
 
     def data(self):
