@@ -308,7 +308,7 @@ class KMeans:
                 sse += self._distance.distance(self._instances[t], centroid) ** 2
         return sse
 
-    def plot(self, indices=None, separate=False):
+    def plot(self, indices=None, separate=False, tags=False):
         """Representa los clusteres en un plano cartesiano.
 
         Solo se dibujarán los clusteres cuyo indice apaecezca en el
@@ -323,6 +323,9 @@ class KMeans:
 
         Para representar las instancias en dos dimensiones se les
         aplica primero en filtro PCA.
+
+        Si el parámetro tags es True, a cada instancia se le añade una
+        etiqueta con el valor de su clase.
         """
 
         if not self._ready_to_save:
@@ -334,6 +337,8 @@ class KMeans:
         if self._instances is not None:
             if self._pca is None:
                 tmp_instances = []
+                for centroid in self._centroids:
+                    tmp_instances.append(list(centroid))
                 for instance in self._instances:
                     tmp_instances.append(list(instance))
                 self._pca = utils.pca_filter(tmp_instances, 2)
@@ -342,11 +347,12 @@ class KMeans:
                     if separate:
                         plt.figure(i)
                     c = [[random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1)]]
+                    plt.scatter(self._pca[i][0], self._pca[i][1], c=c, marker='P')
                     for t in range(len(self._instances)):
                         if self._belonging_bits[t][i]:
-                            plt.scatter(self._pca[t][0], self._pca[t][1], c=c)
-                            if separate:
-                                plt.text(self._pca[t][0], self._pca[t][1], s=self._data['gs_text34'][t], fontsize=10)
+                            plt.scatter(self._pca[t + self._k][0], self._pca[t + self._k][1], c=c, marker='.')
+                            if tags:
+                                plt.text(self._pca[t + self._k][0], self._pca[t + self._k][1], s=self._data['gs_text34'][t], fontsize=10)
                     if separate:
                         plt.title("Cluster {}".format(i))
             plt.show()
