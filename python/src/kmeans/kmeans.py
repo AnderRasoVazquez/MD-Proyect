@@ -34,8 +34,8 @@ class KMeans:
         try:
             data_path = sys.argv[1]
             output_folder = sys.argv[2]
-            k = sys.argv[3]
-            tolerance = sys.argv[4]
+            k = int(sys.argv[3])
+            tolerance = float(sys.argv[4])
         except IndexError:
             # TODO rewrite doc.
             documentation = "Reformatea un archivo .cvs para eliminar los saltos de linea en campos de tipo string" \
@@ -48,7 +48,7 @@ class KMeans:
             sys.exit(1)
 
         try:
-            m = sys.argv[5]
+            m = int(sys.argv[5])
         except IndexError:
             m = 2
 
@@ -58,7 +58,7 @@ class KMeans:
             init_strat = KMeans.INIT_RANDOM
 
         try:
-            max_it = sys.argv[7]
+            max_it = int(sys.argv[7])
         except IndexError:
             max_it = 50
 
