@@ -32,7 +32,7 @@ def main():
                         "\t1 - Ruta del archivo .csv que se quiere limpiar.\n" \
                         "\t2 - Ruta del archivo .csv en el que guardar el resultado.\n" \
                         "Ejemplo: python csv_cleaner.py file.csv file_clean.csv"
-        utils.print_warning(documentation)
+        print(documentation)
         sys.exit(1)
 
     # ordenadas de mayor a menor número de apariciones

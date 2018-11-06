@@ -1,3 +1,4 @@
+import sys
 import os
 import pandas as pd
 import numpy as np
@@ -15,9 +16,60 @@ class KMeans:
     WEMBEDDINGS = 'word_embeddings'
 
     @staticmethod
-    def main(data_path, output_folder, k, tolerance=0.1, m=2, init_strat=INIT_RANDOM, max_it=50, verbose=True):
+    def test():
+        data_path = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_clean.csv"
+        output_folder = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files"
+        k = 96
+        tolerance = 0.1
+        m = 2
+        init_strat = 'random'
+        max_it = 50
+
         data = pd.read_csv(data_path, header=0)
-        print("loaded data")
+        kmeans = KMeans(output_folder, data=data, k=k, tolerance=tolerance, m=m, init_strat=init_strat, max_it=max_it)
+        return kmeans
+
+    @staticmethod
+    def main():
+        try:
+            data_path = sys.argv[1]
+            output_folder = sys.argv[2]
+            k = sys.argv[3]
+            tolerance = sys.argv[4]
+        except IndexError:
+            # TODO rewrite doc.
+            documentation = "Reformatea un archivo .cvs para eliminar los saltos de linea en campos de tipo string" \
+                            "en la posición que puedan causar problemas.\n" \
+                            "Dos argumentos esperados:\n" \
+                            "\t1 - Ruta del archivo .csv que se quiere limpiar.\n" \
+                            "\t2 - Ruta del archivo .csv en el que guardar el resultado.\n" \
+                            "Ejemplo: python csv_cleaner.py file.csv file_clean.csv"
+            print(documentation)
+            sys.exit(1)
+
+        try:
+            m = sys.argv[5]
+        except IndexError:
+            m = 2
+
+        try:
+            init_strat = sys.argv[6]
+        except IndexError:
+            init_strat = KMeans.INIT_RANDOM
+
+        try:
+            max_it = sys.argv[7]
+        except IndexError:
+            max_it = 50
+
+        try:
+            verbose = sys.argv[8]
+        except IndexError:
+            verbose = True
+
+        data = pd.read_csv(data_path, header=0)
+        if verbose:
+            print("loaded data")
         kmeans = KMeans(output_folder, data=data, k=k, tolerance=tolerance, m=m, init_strat=init_strat, max_it=max_it)
         kmeans.form_clusters(verbose=True)
         if verbose:
@@ -31,14 +83,10 @@ class KMeans:
         kmeans.save_evaluation()
         if verbose:
             print("Evaluation Saved")
-        # if verbose:
-        #     print("Plotting Results...")
-        # kmeans.plot(separate=False)
-        if verbose:
             print("Finished")
         return kmeans
 
-    def __init__(self, output_folder, data=None, k=10, tolerance=0.1, m=2, w2v_strat='tfidf', init_strat='random', max_it=50):
+    def __init__(self, output_folder, data, k=10, tolerance=0.1, m=2, w2v_strat='tfidf', init_strat='random', max_it=50):
         """Constructor de la clase KMeans.
 
         output_folder: directorio donde se guardarán los resultados.
@@ -51,10 +99,10 @@ class KMeans:
         max_it: número máximo de iteraciones a realizar, independientemente de la tolerancia.
         """
         self._data = data
-        self._instances = np.empty(len(data), dtype='object')
+        self._instances = np.empty(len(self._data), dtype='object')
         self._k = min(k, len(self._data))
-        self._centroids = np.empty(k, dtype='object')
-        self._centroid_instances = np.full(self._k, 0, dtype='int64')
+        self._centroids = np.empty(self._k, dtype='object')
+        self._centroid_instances = np.full(k, 0, dtype='int64')
         self._prev_centroids = None
         self._belonging_bits = np.full((len(self._data), self._k), 0, dtype='int8')
         self._tolerance = tolerance
@@ -64,16 +112,10 @@ class KMeans:
         self._init_strat = init_strat.lower()
         self._output_folder = output_folder
         self._pca = None
-
-    def read_data_csv(self, data_path):
-        """Carga los datos de un archivo csv."""
-
-        self._data = pd.read_csv(data_path, header=0)
+        self._ready_to_save = False
 
     def form_clusters(self, verbose=False):
         """Inicia el proceso de clustering."""
-
-        self._pca = None
 
         self._load_instances(w2v_strat=self._w2v_strat, attribute='open_response')
         self._initialize_centroids(self._init_strat)
@@ -87,6 +129,8 @@ class KMeans:
             self._update_centroids()
 
         self._update_belonging_bits()
+
+        self._ready_to_save = True
 
     def _load_instances(self, w2v_strat, attribute):
         """Convierte las instancias a datos para utilizan en el clustering."""
@@ -181,6 +225,9 @@ class KMeans:
         su cluster.
         """
 
+        if not self._ready_to_save:
+            return False
+
         output_path_clusters = os.path.join(self._output_folder, 'clusters.csv')
 
         results = self._data.copy()
@@ -205,6 +252,9 @@ class KMeans:
         Los centroides se guardan en un archivo binario npy.
         """
 
+        if not self._ready_to_save:
+            return False
+
         output_path_centroids = os.path.join(self._output_folder, 'centroids')
         np.save(output_path_centroids, self._centroids)
 
@@ -221,6 +271,9 @@ class KMeans:
         - Un archivo csv en el que se almacena por cada cluster, cuantas instancias
         contiene, el SSE total del cluster y el SSE medio por cada instancia.
         """
+
+        if not self._ready_to_save:
+            return False
 
         output_path1 = os.path.join(self._output_folder, 'evaluation.txt')
         output_path2 = os.path.join(self._output_folder, 'evaluation.csv')
@@ -271,6 +324,9 @@ class KMeans:
         Para representar las instancias en dos dimensiones se les
         aplica primero en filtro PCA.
         """
+
+        if not self._ready_to_save:
+            return False
 
         if indices is None:
             indices = range(len(self._centroids))
@@ -351,6 +407,4 @@ class KMeans:
 
 
 if __name__ == '__main__':
-    KMeans.main("/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_clean.csv",
-                "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files",
-                k=96, m=2)
+    KMeans.main()
