@@ -60,6 +60,8 @@ class PlotSSE(object):
 
     def create_plots(self):
         """Crea graficos de error a partir de un csv."""
+        if not os.path.exists(self.output_folder):
+            os.makedirs(self.output_folder)
         self._sse_plot()
         self._avg_sse_plot()
 
