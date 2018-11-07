@@ -76,8 +76,7 @@ def main():
     ax.set_yticklabels(sorted_death)
 
     # Rotate the tick labels and set their alignment.
-    plt.setp(ax.get_xticklabels(), rotation=90, ha="right",
-             rotation_mode="anchor")
+    plt.setp(ax.get_xticklabels(), rotation=90, ha="right", rotation_mode="anchor")
 
     ax.set_title("Heatmap")
     fig.tight_layout()
