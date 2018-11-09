@@ -370,10 +370,10 @@ class KMeans:
         self._k = k
 
     def centroids(self):
-        return self._centroids
+        return self._centroids.copy()
 
     def bits(self):
-        return self._belonging_bits
+        return self._belonging_bits.copy()
 
     def tolerance(self):
         return self._tolerance
