@@ -34,11 +34,11 @@ def _get_args():
 class PlotSSE(object):
     """Se encarga de hacer graficos de la evaluacion del SSE."""
     
-    def __init__(self, csv_file, output_folder):
+    def __init__(self, csv_file, output_folder, plot_width=15, plot_height=3):
         self.output_folder = output_folder
         self.df = pd.read_csv(csv_file)
-        self._plot_width = 15
-        self._plot_height = 3
+        self._plot_width = plot_width
+        self._plot_height = plot_height
 
     def _sse_plot(self):
         """Crea un grafico usando la columna sse del dataframe."""
