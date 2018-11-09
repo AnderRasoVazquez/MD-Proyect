@@ -342,11 +342,42 @@ class KMeans:
     def _single_link(self, first_c, second_c):
         """Calcula la distancia single-link entre los clusters"""
 
-        pass
+        min_dist = -1
+        first_instances = []
+        second_instances = []
+        for i in range(len(self._instances)):
+            if self._belonging_bits[i][first_c]:
+                first_instances.append(self._instances[i])
+            elif self._belonging_bits[i][second_c]:
+                first_instances.append(self._instances[i])
+
+        for a in first_instances:
+            for b in second_instances:
+                dist = self._distance.distance(a, b)
+                if dist < min_dist:
+                    min_dist = dist
+
+        return min_dist
 
     def _complete_link(self, first_c, second_c):
         """Calcula la distancia complete-link entre los clusters"""
-        pass
+
+        min_dist = 99999
+        first_instances = []
+        second_instances = []
+        for i in range(len(self._instances)):
+            if self._belonging_bits[i][first_c]:
+                first_instances.append(self._instances[i])
+            elif self._belonging_bits[i][second_c]:
+                first_instances.append(self._instances[i])
+
+        for a in first_instances:
+            for b in second_instances:
+                dist = self._distance.distance(a, b)
+                if dist > min_dist:
+                    min_dist = dist
+
+        return min_dist
 
     def plot(self, indices=None, separate=False, tags=False):
         """Representa los clusteres en un plano cartesiano.
@@ -426,6 +457,12 @@ class KMeans:
 
     def set_distance_m(self, m):
         return self._distance.set_m(m)
+
+    def inter_cluster_dist(self):
+        return self._inter_cluster_dist
+
+    def set_inter_cluster_dist(self, inter_cluster_dist):
+        self._inter_cluster_dist = inter_cluster_dist
 
     def max_it(self):
         return self._max_it
