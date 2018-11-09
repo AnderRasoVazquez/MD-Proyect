@@ -60,7 +60,7 @@ class KMeans:
         try:
             max_it = int(sys.argv[7])
         except IndexError:
-            max_it = 50
+            max_it = 1
 
         try:
             verbose = sys.argv[8]
