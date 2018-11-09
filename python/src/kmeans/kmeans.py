@@ -15,6 +15,9 @@ class KMeans:
     TFIDF = 'tfidf'
     WEMBEDDINGS = 'word_embeddings'
 
+    SINGLE_LINK = 'single_link'
+    COMPLETE_LINK = 'complete_link'
+
     @staticmethod
     def test():
         data_path = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_clean.csv"
@@ -22,11 +25,14 @@ class KMeans:
         k = 96
         tolerance = 0.1
         m = 2
+        inter_cluster_dist = 'single_link'
         init_strat = 'random'
         max_it = 50
 
         data = pd.read_csv(data_path, header=0)
-        kmeans = KMeans(output_folder, data=data, k=k, tolerance=tolerance, m=m, init_strat=init_strat, max_it=max_it)
+        kmeans = KMeans(output_folder, data=data, k=k, tolerance=tolerance,
+                        m=m, inter_cluster_dist=inter_cluster_dist,
+                        init_strat=init_strat, max_it=max_it)
         return kmeans
 
     @staticmethod
@@ -53,24 +59,32 @@ class KMeans:
             m = 2
 
         try:
-            init_strat = sys.argv[6]
+            inter_cluster_dist = sys.argv[6]
+        except IndexError:
+            inter_cluster_dist = KMeans.SINGLE_LINK
+
+
+        try:
+            init_strat = sys.argv[7]
         except IndexError:
             init_strat = KMeans.INIT_RANDOM
 
         try:
-            max_it = int(sys.argv[7])
+            max_it = int(sys.argv[8])
         except IndexError:
             max_it = 1
 
         try:
-            verbose = sys.argv[8]
+            verbose = sys.argv[9]
         except IndexError:
             verbose = True
 
         data = pd.read_csv(data_path, header=0)
         if verbose:
             print("loaded data")
-        kmeans = KMeans(output_folder, data=data, k=k, tolerance=tolerance, m=m, init_strat=init_strat, max_it=max_it)
+        kmeans = KMeans(output_folder, data=data, k=k, tolerance=tolerance, m=m,
+                        inter_cluster_dist=inter_cluster_dist, init_strat=init_strat,
+                        max_it=max_it)
         kmeans.form_clusters(verbose=True)
         if verbose:
             print("Finished clustering. Saving results...")
@@ -86,7 +100,9 @@ class KMeans:
             print("Finished")
         return kmeans
 
-    def __init__(self, output_folder, data, k=10, tolerance=0.1, m=2, w2v_strat='tfidf', init_strat='random', max_it=50):
+    def __init__(self, output_folder, data, k=10, tolerance=0.1, m=2,
+                 inter_cluster_dist='single_link', w2v_strat='tfidf',
+                 init_strat='random', max_it=50):
         """Constructor de la clase KMeans.
 
         output_folder: directorio donde se guardarán los resultados.
@@ -107,6 +123,7 @@ class KMeans:
         self._belonging_bits = np.full((len(self._data), self._k), 0, dtype='int8')
         self._tolerance = tolerance
         self._distance = MDistance(m)
+        self._inter_cluster_dist = inter_cluster_dist
         self._max_it = max_it
         self._w2v_strat = w2v_strat
         self._init_strat = init_strat.lower()
@@ -116,6 +133,8 @@ class KMeans:
 
     def form_clusters(self, verbose=False):
         """Inicia el proceso de clustering."""
+
+        self._pca = None
 
         self._load_instances(w2v_strat=self._w2v_strat, attribute='open_response')
         self._initialize_centroids(self._init_strat)
@@ -155,6 +174,8 @@ class KMeans:
     def _init_random_centroids(self):
         """Inicializa los centroides de forma aleatoria."""
 
+        self._pca = None
+
         used = [-1]
         for i in range(self._k):
             index = -1
@@ -163,10 +184,11 @@ class KMeans:
             self._centroids[i] = self._instances[index].copy()
             used.append(index)
 
-
     # placeholder for future initialization methods
     def _init_foo(self):
         """Inicializa los centroides de forma foo."""
+
+        self._pca = None
 
         pass
 
@@ -307,6 +329,24 @@ class KMeans:
             if self._belonging_bits[t][cluster_index]:
                 sse += self._distance.distance(self._instances[t], centroid) ** 2
         return sse
+
+    def _inter_cluster_distance(self, inter_cluster_dist, first_c, second_c):
+        """Calcula la distancia inter-cluster"""
+
+        # default: INIT_RANDOM
+        return {
+            KMeans.SINGLE_LINK: self._single_link,
+            KMeans.COMPLETE_LINK: self._complete_link
+        }.get(inter_cluster_dist, KMeans.SINGLE_LINK)(first_c, second_c)
+
+    def _single_link(self, first_c, second_c):
+        """Calcula la distancia single-link entre los clusters"""
+
+        pass
+
+    def _complete_link(self, first_c, second_c):
+        """Calcula la distancia complete-link entre los clusters"""
+        pass
 
     def plot(self, indices=None, separate=False, tags=False):
         """Representa los clusteres en un plano cartesiano.
