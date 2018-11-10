@@ -10,7 +10,7 @@ from src.utils.distance import MDistance
 
 class KMeans:
     INIT_RANDOM = 'random'
-    INIT_FOO = 'foo'  # placeholder for future initialization methods
+    INIT_2K = '2k'
 
     TFIDF = 'tfidf'
     WEMBEDDINGS = 'word_embeddings'
@@ -168,7 +168,7 @@ class KMeans:
         # default: INIT_RANDOM
         return {
             KMeans.INIT_RANDOM: self._init_random_centroids,
-            KMeans.INIT_FOO: self._init_foo
+            KMeans.INIT_2K: self._init_2k
         }.get(init_strat, KMeans.INIT_RANDOM)()
 
     def _init_random_centroids(self):
@@ -184,13 +184,58 @@ class KMeans:
             self._centroids[i] = self._instances[index].copy()
             used.append(index)
 
-    # placeholder for future initialization methods
-    def _init_foo(self):
-        """Inicializa los centroides de forma foo."""
+    def _init_2k(self):
+        """Inicializa los centroides de a partir de 2k centroides"""
 
         self._pca = None
 
-        pass
+        # se crea un nuevo modelo con las mismas características y k'=2k
+        tmp_kmeans = KMeans("", self.data(), 2 * self.k(), tolerance=self.tolerance(),
+                            m=self.distance_m(), inter_cluster_dist=self.inter_cluster_dist(),
+                            w2v_strat=self.w2v_strat(), init_strat=KMeans.INIT_RANDOM,
+                            max_it=1)
+        tmp_kmeans._instances = self.instances()
+        # se crean los 2k clusters en el nuevo modelo
+        tmp_kmeans.form_clusters()
+        # se calcula la distancia entre cada par de clusters
+        distances = {}
+        for i in range(2 * self.k()):
+            for j in range(2 * self.k()):
+                key = (i, j)
+                key2 = (j, i)
+                if key not in distances and key2 not in distances:
+                    distances[key] = tmp_kmeans._inter_cluster_distance(self._inter_cluster_dist,
+                                                                        i, j)
+        # de entre los 2k clusters, se buscan los k clusters más separados
+        started = False
+        used = []
+        for i in range(self._k):
+            if not started:
+                # para el primer cluster se busca aquel cuya suma de todas
+                # las distancias al resto de clusters sea mayor
+                to_check = range(2 * self._k)
+                started = True
+            else:
+                # para el resto de clusters, se busca aquel cuya suma
+                # de las distancias al resto de clusters ya seleccionados
+                # sea mayor
+                to_check = used
+            max_dist = -1
+            index = -1
+            # se itera sobre todos los clusters no seleccionados
+            for j in range(2 * self._k):
+                if j not in used:
+                    cum_dist = 0
+                    # se itera sobre todos los clusters a comparar
+                    for j2 in to_check:
+                        key = (j, j2)
+                        key2 = (j2, j)
+                        cum_dist += distances.get(key, distances.get(key2))
+                    if cum_dist > max_dist:
+                        max_dist = cum_dist
+                        index = j
+            self._centroids[i] = tmp_kmeans._centroids[index]
+            used.append(index)
 
     def _check_finished(self):
         """Comprueba si los centroides se han desplazado los suficiete como para continuar."""
