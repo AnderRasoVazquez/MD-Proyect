@@ -338,7 +338,7 @@ class KMeans:
             KMeans.AVERAGE_LINK: self._avg_link,
             KMeans.SINGLE_LINK: self._single_link,
             KMeans.COMPLETE_LINK: self._complete_link
-        }.get(inter_cluster_dist, KMeans.SINGLE_LINK)(first_c, second_c)
+        }.get(inter_cluster_dist, KMeans.AVERAGE_LINK)(first_c, second_c)
 
     def _single_link(self, first_c, second_c):
         """Calcula la distancia single-link entre los clusters"""
@@ -346,11 +346,11 @@ class KMeans:
         min_dist = 99999
         first_instances = []
         second_instances = []
-        for i in range(len(self._instances)):
-            if self._belonging_bits[i][first_c]:
-                first_instances.append(self._instances[i])
-            elif self._belonging_bits[i][second_c]:
-                first_instances.append(self._instances[i])
+        for t in range(len(self._instances)):
+            if self._belonging_bits[t][first_c]:
+                first_instances.append(self._instances[t])
+            elif self._belonging_bits[t][second_c]:
+                second_instances.append(self._instances[t])
 
         for a in first_instances:
             for b in second_instances:
@@ -363,14 +363,14 @@ class KMeans:
     def _complete_link(self, first_c, second_c):
         """Calcula la distancia complete-link entre los clusters"""
 
-        min_dist = 99999
+        min_dist = -1
         first_instances = []
         second_instances = []
-        for i in range(len(self._instances)):
-            if self._belonging_bits[i][first_c]:
-                first_instances.append(self._instances[i])
-            elif self._belonging_bits[i][second_c]:
-                first_instances.append(self._instances[i])
+        for t in range(len(self._instances)):
+            if self._belonging_bits[t][first_c]:
+                first_instances.append(self._instances[t])
+            elif self._belonging_bits[t][second_c]:
+                second_instances.append(self._instances[t])
 
         for a in first_instances:
             for b in second_instances:
