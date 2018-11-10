@@ -1,4 +1,4 @@
-\select@language {spanish}
+\babel@toc {spanish}{}
 \contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}
 \contentsline {subsection}{\numberline {1.1}Objetivo de la tarea}{3}
 \contentsline {subsection}{\numberline {1.2}Propuesta de trabajo del grupo}{3}
@@ -8,3 +8,4 @@
 \contentsline {subsection}{\numberline {3.2}\textit {Word vector}}{7}
 \contentsline {section}{\numberline {4}Clustering}{7}
 \contentsline {subsection}{\numberline {4.1}Representaci\IeC {\'o}n gr\IeC {\'a}fica}{8}
+\contentsline {section}{\numberline {5}Evaluaci\IeC {\'o}n}{8}

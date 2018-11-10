@@ -137,9 +137,52 @@ Sin embargo nos encontramos con un problema: el PCA es un método costoso, tanto
 
 Pensamos en llevar a cabo el PCA individualmente en cada clusters, dividiendo la carga en distintos intentos, pero como el PCA utiliza todo el conjunto para determinar los componentes principales, creemos que realizar el proceso en cada cluster de forma separada en lugar de sobre todo el conjunto podría causa inconsistencias a la hora de reducir los vectores.
 
-%\section{Evaluación}
+\section{Evaluación}
+
+% TODO: está poniendo estas imágenes como le da la gana. - Ander
+
+\begin{figure}[h] % sin esta "h" la figura se va a la seccion anterior ¿?
+  \centerline{\includegraphics[scale=.6]{figures/sse_plot.png}}
+  \caption{SSE por cluster}
+  \label{fig:sse_graph}
+\end{figure} 
+
+\begin{figure}[h]
+  \centerline{\includegraphics[scale=.6]{figures/sse_avg_plot.png}}
+  \caption{Media del SSE por cluster}
+  \label{fig:sse_avg_graph}
+\end{figure} 
+
+\begin{figure}[h]
+  \leftskip-3.5cm
+  \includegraphics[scale=0.37]{figures/heatmap.png}
+  \caption{Mapa de calor de las enfermedades por cluster}
+  \label{fig:heatmap_graph}
+\end{figure}
+
+Como se puede observar en la figura \ref{fig:heatmap_graph}, hemos realizado un mapa de calor para poder ver de una forma más clara las enfermedades que han sido agrupadas en cada cluster. Considerando las casillas que contienen un mayor valor hemos ordenado las columnas de izquierda a derecha y las filas de arriba a abajo. De esta manera tenemos organizados en la diagonal los clusters más específicos. Si examinamos el resultado final son interesantes los siguientes clusters:
+
+\begin{itemize}
+\item \textbf{Cluster 80:} este cluster ha agrupado mayormente \textit{stillbirt} y en mucha menor medida \textit{preterm delivery} y \textit{birh asphyxia} que también están relacionadas con el embarazo
+\item \textbf{Cluster 36:} es muy parecido al cluster 80 pero este tiene menos \textit{stillbirt} aunque muchos más \textit{preterm delivery} y \textit{birth asphyxia}. Además, también se encuentran \textit{maternal} y \textit{congenital marformation} lo que en definitiva lo hace un cluster muy interesante para agrupar causas de muerte relacionadas con el embarazo.
+\item \textbf{Cluster 59:} se encuentran sobre todo \textit{road traffic} y en menor cantidad \textit{falls}. Este cluster ha sido capaz de agrupar causas de muerte relacionadas con accidentes.
+\item \textbf{Cluster 21:} las causas de muerte con mayor número de casos de este cluster han sido \textit{stroke}, \textit{acute myocardial infarction} y \textit{other cardiovascular diseases}. Todas ellas relacionadas con enfermedades cardiovasculares pero también se encuentran en menor medida \textit{diabetes}, \textit{renal failure} y \textit{AIDS} entre otras.
+\item \textbf{Cluster 34:} este es muy específico para \textit{fires}, \textit{suicide} y contiene unos pocos de \textit{homicide}.
+\item \textbf{Cluster 91:} es similar al cluster 21 pero se han agrupado aquí más \textit{acute myocardial infarction} que \textit{stroke}.
+\item \textbf{Cluster 79:} sobre todo encontramos \textit{diarrhea/disentery}. Ha sido muy específico.
+\item \textbf{Cluster 84:} principalmente se haya \textit{bite of venomous animal}.
+\item \textbf{Cluster 57 y 92:} han agrupado casos que tienen que ver con el embarazo como lo ha hecho el cluster 36, pero estos lo han hecho de forma más general.
+
+Si nos seguimos moviendo por las columnas de la derecha vemos clusters en los que no predomina una causa de muerte y empiezan a agrupar cada vez más causas diferentes que no parecen estar relacionadas.
+
+\end{itemize}
+
+
+
+
 %\section{Experimentos}
 %\section{Conclusiones}
+
 %\section{Bibliografía}
 
 \end{document}
