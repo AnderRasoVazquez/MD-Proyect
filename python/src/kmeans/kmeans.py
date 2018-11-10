@@ -37,54 +37,15 @@ class KMeans:
         return kmeans
 
     @staticmethod
-    def main():
-        try:
-            data_path = sys.argv[1]
-            output_folder = sys.argv[2]
-            k = int(sys.argv[3])
-            tolerance = float(sys.argv[4])
-        except IndexError:
-            # TODO rewrite doc.
-            documentation = "Reformatea un archivo .cvs para eliminar los saltos de linea en campos de tipo string" \
-                            "en la posición que puedan causar problemas.\n" \
-                            "Dos argumentos esperados:\n" \
-                            "\t1 - Ruta del archivo .csv que se quiere limpiar.\n" \
-                            "\t2 - Ruta del archivo .csv en el que guardar el resultado.\n" \
-                            "Ejemplo: python csv_cleaner.py file.csv file_clean.csv"
-            print(documentation)
-            sys.exit(1)
-
-        try:
-            m = int(sys.argv[5])
-        except IndexError:
-            m = 2
-
-        try:
-            inter_cluster_dist = sys.argv[6].lower()
-        except IndexError:
-            inter_cluster_dist = KMeans.SINGLE_LINK
-
-        try:
-            init_strat = sys.argv[7].lower()
-        except IndexError:
-            init_strat = KMeans.INIT_RANDOM
-
-        try:
-            max_it = int(sys.argv[8])
-        except IndexError:
-            max_it = 1
-
-        try:
-            verbose = sys.argv[9].lower() == "true"
-        except IndexError:
-            verbose = True
-
+    def main(data_path, output_folder, k=10, tolerance=0.1, m=2,
+             inter_cluster_dist='average_link', w2v_strat='tfidf',
+             init_strat='random', max_it=50, verbose=False):
         data = pd.read_csv(data_path, header=0)
         if verbose:
             print("loaded data")
         kmeans = KMeans(output_folder, data=data, k=k, tolerance=tolerance, m=m,
-                        inter_cluster_dist=inter_cluster_dist, init_strat=init_strat,
-                        max_it=max_it)
+                        inter_cluster_dist=inter_cluster_dist, w2v_strat=w2v_strat,
+                        init_strat=init_strat, max_it=max_it)
         kmeans.form_clusters(verbose=True)
         if verbose:
             print("Finished clustering. Saving results...")
@@ -281,7 +242,7 @@ class KMeans:
         self._prev_centroids = self._centroids.copy()
         self._centroids = self._instances.dot(self._belonging_bits) / np.sum(self._belonging_bits, axis=0)
 
-    def save_clusters(self, sorted=False):
+    def save_clusters(self, sorted=True):
         """Guarda los clusters obtenidos.
 
         Los centroides se guardan en un archivo csv en el mismo formato
