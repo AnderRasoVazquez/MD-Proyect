@@ -15,6 +15,7 @@ class KMeans:
     TFIDF = 'tfidf'
     WEMBEDDINGS = 'word_embeddings'
 
+    AVERAGE_LINK = 'average_link'
     SINGLE_LINK = 'single_link'
     COMPLETE_LINK = 'complete_link'
 
@@ -59,13 +60,12 @@ class KMeans:
             m = 2
 
         try:
-            inter_cluster_dist = sys.argv[6]
+            inter_cluster_dist = sys.argv[6].lower()
         except IndexError:
             inter_cluster_dist = KMeans.SINGLE_LINK
 
-
         try:
-            init_strat = sys.argv[7]
+            init_strat = sys.argv[7].lower()
         except IndexError:
             init_strat = KMeans.INIT_RANDOM
 
@@ -75,7 +75,7 @@ class KMeans:
             max_it = 1
 
         try:
-            verbose = sys.argv[9]
+            verbose = sys.argv[9].lower() == "true"
         except IndexError:
             verbose = True
 
@@ -101,7 +101,7 @@ class KMeans:
         return kmeans
 
     def __init__(self, output_folder, data, k=10, tolerance=0.1, m=2,
-                 inter_cluster_dist='single_link', w2v_strat='tfidf',
+                 inter_cluster_dist='average_link', w2v_strat='tfidf',
                  init_strat='random', max_it=50):
         """Constructor de la clase KMeans.
 
@@ -335,6 +335,7 @@ class KMeans:
 
         # default: INIT_RANDOM
         return {
+            KMeans.AVERAGE_LINK: self._avg_link,
             KMeans.SINGLE_LINK: self._single_link,
             KMeans.COMPLETE_LINK: self._complete_link
         }.get(inter_cluster_dist, KMeans.SINGLE_LINK)(first_c, second_c)
@@ -342,7 +343,7 @@ class KMeans:
     def _single_link(self, first_c, second_c):
         """Calcula la distancia single-link entre los clusters"""
 
-        min_dist = -1
+        min_dist = 99999
         first_instances = []
         second_instances = []
         for i in range(len(self._instances)):
@@ -378,6 +379,11 @@ class KMeans:
                     min_dist = dist
 
         return min_dist
+
+    def _avg_link(self, first_c, second_c):
+        """Calcula la distancia average-link entre los clusters"""
+
+        return self._distance.distance(self._centroids[first_c], self._centroids[second_c])
 
     def plot(self, indices=None, separate=False, tags=False):
         """Representa los clusteres en un plano cartesiano.

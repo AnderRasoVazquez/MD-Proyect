@@ -14,5 +14,5 @@ class MDistance:
 
     def distance(self, instance_a, instance_b):
         difference = instance_a - instance_b
-        distance = np.sum(difference ** self._m) ** (1 / self._m)
+        distance = np.sum(abs(difference) ** self._m) ** (1 / self._m)
         return distance
