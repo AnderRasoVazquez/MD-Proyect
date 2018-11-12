@@ -56,7 +56,6 @@
 	\begin{itemize}
 		\item \textbf{newid:} Identificador numérico de la instancia.
 		\item \textbf{module:} Grupo de edad del fallecido. Los valores posibles son ``neonate'', ``child'' y ``adult'' (Fig: \ref{fig:age_graph}).
-
 		\item \textbf{site:} Lugar del que proviene la autopsia: los valores posibles para este campo son (Fig: \ref{fig:loc_graph}):
 	    \begin{itemize}
 		    \item AP=Andhra Pradesh, India
@@ -107,7 +106,6 @@
 		\item \textbf{Números:} Los números, pese a ser uno de los elementos más comunes en los textos, han sido uno de los más difíciles de preprocesar, no por su dificultad en cuanto a programar, sino a la decisión que tomar en cuanto a ellos. Esto se debe a que se toman como una palabra por si mismos y pese a tener un peso informativo alto, sólo es así cuando va acompañado de otra palabra a la que calificar. Ya que los programas de \textit{Text Mining} los van a considerar independientes del resto de palabras, hemos considerado que la información que van a aportar es suficientemente baja como para simplemente eliminarlos del texto.
 		\item \textbf{Tokens:} Se consideran tokens a todas las palabras recurrentes que no tienen ni significado ni peso informativo, como por ejemplo ``the'' o ``a''. Mediante un diccionario de tokens en la lengua inglesa hemos podido detectar todos ellos y eliminarlos del texto.
 		\item \textbf{Símbolos:} Aquí tenemos varios problemas que debemos arreglar de diferentes formas.
-
 		\begin{itemize}
 			\item \textbf{Barras ``/'':} En ocasiones nos encontramos con dos palabras escritas de modo "palabra1/palabra2". Para evitar que se procesen ambas como una misma palabra, realizamos el mismo procedimiento que utilizamos con los saltos de línea: cambiamos las barras por espacios.
 			\item \textbf{Corchetes ``[ ]'':} En gran parte de las instancias que disponen de autopsia verbal nos encontramos con referencias a nombres de personas, hospitales, años concretos, etc. Para preservar la privacidad de los fallecidos y sus relativos estos han sido sustituidos por sus correspondientes palabras clave entre corchetes, como por ejemplo ``[PATIENT]'' o ``[HOSPITAL]''. Ya que estos datos son en la inmensa mayoría de casos de poca utilidad, hemos decidido que estás palabras serán completamente eliminadas de los textos.
@@ -123,31 +121,24 @@
 \section{Clustering}
 	\paragraph{}
 	Para el \textit{clustering} hemos decidido utilizar el algoritmo K-Means, el cual implementaremos en Python. Opciones para el algoritmo a tener en cuenta son:
-
 	\begin{itemize}
 		\item \textbf{inicialización de los centroides:} hay varias formas de elegir los valores iniciales de los centroides, su inicialización puede tener un gran efecto en los resultados.
-
-			\begin{itemize}
-			    \item inicialización a instancias aleatorias.
-			    \item inicialización a partir de un \textit{clustering} previo.
-		    \end{itemize}
+		\begin{itemize}
+		    \item inicialización a instancias aleatorias.
+		    \item inicialización a partir de un \textit{clustering} previo.
+	    \end{itemize}
 		\item \textbf{cálculo de las distancias:} la fórmula para calcular la distancia será la distancia Minkowski, con \(m \in \Re\). \(m=1\) es la distancia Manhattan y \(m=2\) es la distancia Euclidea.
 		\item \textbf{definición de distancia \textit{inter-cluster}:} también hay varias formas para buscar la distancia entre dos clusters distintos. En este caso, vamos atrabajar con dos:
-
-			\begin{itemize}
-			    \item \textit{complete-link}. La distancia entre dos clusters es igual a la distancia entre las dos instancias, una de cada cluster, más lejanas entre sí.
-			    \item \textit{single-link}. La distancia entre dos clusters es igual a la distancia entre las dos instancias, una de cada cluster, más cercanas entre sí.
-			    \item \textit{average-link}. La distancia entre dos clusters es igual a la distancia entre los centroides de cada cluster.
-		    \end{itemize}
+		\begin{itemize}
+		    \item \textit{complete-link}. La distancia entre dos clusters es igual a la distancia entre las dos instancias, una de cada cluster, más lejanas entre sí.
+		    \item \textit{single-link}. La distancia entre dos clusters es igual a la distancia entre las dos instancias, una de cada cluster, más cercanas entre sí.
+		    \item \textit{average-link}. La distancia entre dos clusters es igual a la distancia entre los centroides de cada cluster.
+	    \end{itemize}
 	\end{itemize}
 
 	\subsection{Representación gráfica}
 	\paragraph{}
-	Una vez que tenemos las instancias separadas en clusters, sería interesante representarlas gráficamente para poder ver como se relacionan los clusters, calculados a partir del texto describiendo la enfermedad, con la causa de la muerte anotada en las autopsias. Para ello, tenemos que reducir el enorme espacio de atributos de las instancias a algo que podamos representar en un espacio de no más de tres dimensiones. Para ello pensamos en utilizar el método PCA (\textit{Principal Components}) que hace precisamente eso: reduce un gran número de variables a una serie de valores representativos, ortogonales entre sí para representarlos en espacios de pocas dimensiones.
-	\paragraph{}
-	Sin embargo nos encontramos con un problema: el PCA es un método costoso, tanto en tiempo como en uso de memoria. Al tratar de aplicar el PCA a nunestro conjunto de casi 12000 instancias, y teniendo alrededor de 8000 atributos en cada una de ellas (a causa del formato TF-IDF) el programa no fue capaz de terminar el proceso, siempre resultando en una falta de memoria, sin importar le permitiésemos utilizar.
-	\paragraph{}
-	Pensamos en llevar a cabo el PCA individualmente en cada clusters, dividiendo la carga en distintos intentos, pero como el PCA utiliza todo el conjunto para determinar los componentes principales, creemos que realizar el proceso en cada cluster de forma separada en lugar de sobre todo el conjunto podría causa inconsistencias a la hora de reducir los vectores.
+	Una vez que tenemos las instancias separadas en clusters, sería interesante representarlas gráficamente para poder ver como se relacionan los clusters, calculados a partir del texto describiendo la enfermedad, con la causa de la muerte anotada en las autopsias. Para ello, tenemos que reducir el enorme espacio de atributos de las instancias a algo que podamos representar en un espacio de no más de tres dimensiones. Para ello pensamos en utilizar el método PCA (\textit{Principal Components}) el cual reduce un gran número de variables a una serie de valores representativos, ortogonales entre sí para representarlos en espacios de pocas dimensiones. Con este método podemos convertir nuestras instancias con cerca de 8000 atributos a dos atributos cada una para poder representarlas en un plano cartesiano.
 
 %\section{Evaluación}
 %\section{Experimentos}
