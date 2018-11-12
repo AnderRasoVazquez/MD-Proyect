@@ -19,5 +19,3 @@
 \contentsline {paragraph}{}{7}
 \contentsline {subsection}{\numberline {4.1}Representaci\IeC {\'o}n gr\IeC {\'a}fica}{8}
 \contentsline {paragraph}{}{8}
-\contentsline {paragraph}{}{8}
-\contentsline {paragraph}{}{8}

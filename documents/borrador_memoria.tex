@@ -5,6 +5,7 @@
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{graphicx}
+\usepackage{algorithm2e}
 \author{Markus Fischer • Guzmán López • David Pérez • Ander Raso}
 \title{Proyecto de Minería de Datos: \linebreak Borrador de memoria completa}
 \date{}
@@ -120,7 +121,7 @@
 
 \section{Clustering}
 	\paragraph{}
-	Para el \textit{clustering} hemos decidido utilizar el algoritmo K-Means, el cual implementaremos en Python. Opciones para el algoritmo a tener en cuenta son:
+	Para el \textit{clustering} hemos decidido utilizar el algoritmo \textit{k-means clustering}, el cual implementaremos en Python. Opciones para el algoritmo a tener en cuenta son:
 	\begin{itemize}
 		\item \textbf{inicialización de los centroides:} hay varias formas de elegir los valores iniciales de los centroides, su inicialización puede tener un gran efecto en los resultados.
 		\begin{itemize}
@@ -135,6 +136,40 @@
 		    \item \textit{average-link}. La distancia entre dos clusters es igual a la distancia entre los centroides de cada cluster.
 	    \end{itemize}
 	\end{itemize}
+
+	\begin{algorithm}
+		\SetAlgoLined
+		\SetKwInOut{Input}{input}
+		%\SetKwInOut{Output}{output}
+		
+		\Input{Conjunto de instancias $\mathrm{X}$}
+		%\Output{A partition of the bitmap}
+		\BlankLine
+		\tcp{inicializar los $k$ centroides}
+		inicializar $m_i, i \in [1, k]$\;
+		$terminado \leftarrow False$\;
+		\While{no terminado}{
+			\tcp{para cada instancia, activar el bit correspondiente al centroide más cercano}
+			\ForEach{$x^t \in \mathrm{X}$}{
+				\eIf{$\|x^t - m_i\| = min_j\|x^t - m_i\|$}{
+					$b^t_i \leftarrow 1$\;
+				}{
+					$b^t_i \leftarrow 0$\;
+				}		
+			}
+			\tcp{guardar los centroides anteriores para comparación}
+			$n \leftarrow m$\;
+			\tcp{actualizar los nuevos centroides como la media de todas sus instancias}
+			\ForEach{$m_i, i \in [1, k]$}{
+				$m_i \leftarrow \sum_{t} b^t_i x^t / \sum_{t} b^t_i$\;
+			}
+			\tcp{comprobar convergencia de los centroides}
+			\If{$\|n - m\| < threshold$}{
+				$terminado \leftarrow True$\;
+			}
+		}
+		\caption{Algoritmo \textit{k-means clustering} (pseudocódigo)}
+	\end{algorithm}
 
 	\subsection{Representación gráfica}
 	\paragraph{}
