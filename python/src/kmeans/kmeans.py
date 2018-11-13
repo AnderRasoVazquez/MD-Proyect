@@ -242,7 +242,23 @@ class KMeans:
         self._prev_centroids = self._centroids.copy()
         self._centroids = self._instances.dot(self._belonging_bits) / np.sum(self._belonging_bits, axis=0)
 
-    def save_clusters(self, sorted=True):
+    def save_results(self):
+        """Guarda los resultados obtenidos
+
+        Esto incluye los clusters, los centroides y la evaluación.
+        """
+
+        if not self._ready_to_save:
+            return False
+
+        path_clusters = os.path.join(self._output_folder, 'clusters.csv')
+        path_centroids = os.path.join(self._output_folder, 'centroids')
+        path_evaluation = os.path.join(self._output_folder, 'evaluation.csv')
+        self.save_clusters(path_clusters)
+        self.save_centroids(path_centroids)
+        self.save_evaluation(path_evaluation)
+
+    def save_clusters(self, path, sorted=True):
         """Guarda los clusters obtenidos.
 
         Los centroides se guardan en un archivo csv en el mismo formato
@@ -255,8 +271,6 @@ class KMeans:
 
         if not self._ready_to_save:
             return False
-
-        output_path_clusters = os.path.join(self._output_folder, 'clusters.csv')
 
         results = self._data.copy()
         cluster_col = []
@@ -272,9 +286,9 @@ class KMeans:
         results = results.ix[:, cols]
         if sorted:
             results = results.sort_values(['cluster', 'gs_text34'])
-        results.to_csv(output_path_clusters, index=False)
+        results.to_csv(path, index=False)
 
-    def save_centroids(self):
+    def save_centroids(self, path):
         """Guarda los centroides obtenidos
 
         Los centroides se guardan en un archivo binario npy.
@@ -283,48 +297,31 @@ class KMeans:
         if not self._ready_to_save:
             return False
 
-        output_path_centroids = os.path.join(self._output_folder, 'centroids')
-        np.save(output_path_centroids, self._centroids)
+        np.save(path, self._centroids)
 
-    def save_evaluation(self):
+    def save_evaluation(self, path):
         """Guarda la evaluación del modelo entrenado.
 
         Para la evaluación se utiliza el criterio SSE.
-        La evaluación se guarda en dos archivos.
-
-        - Un archivo txt en el que se muestra la cohesión total de los clusteres
-        y, después, por cada cluster, cuantas instancias contiene, el SSE total
-        del cluster y el SSE medio por cada instancia.
-
-        - Un archivo csv en el que se almacena por cada cluster, cuantas instancias
-        contiene, el SSE total del cluster y el SSE medio por cada instancia.
+        La evaluación se guarda en un archivo csv en el que se almacena,
+        por cada cluster, cuantas instancias contiene, el SSE total del
+        cluster y el SSE medio por cada instancia.
         """
 
         if not self._ready_to_save:
             return False
 
-        output_path1 = os.path.join(self._output_folder, 'evaluation.txt')
-        output_path2 = os.path.join(self._output_folder, 'evaluation.csv')
         cohesion = 0
-        clusters_sse = ''
-
         dataframe_columns = ['cluster', 'n_instances', 'sse', 'sse_avg']
         dataframe = pd.DataFrame(columns=dataframe_columns)
         for i in range(len(self._centroids)):
             sse_i = self._sse(i)
             n_instances = self._centroid_instances[i]
             cohesion += sse_i
-            clusters_sse += 'CLUSTER {} ({} instances) -> SSE = {} // {} avg.\n'.\
-                format(i, n_instances, sse_i, sse_i/n_instances)
-
             dataframe = dataframe.append(pd.DataFrame([[i, n_instances, sse_i, sse_i/n_instances]],
                                                       columns=dataframe_columns),
                                          ignore_index=True)
-        with open(output_path1, 'w') as f:
-            f.write("TOTAL COHESION = {}\n".format(cohesion))
-            f.write(clusters_sse)
-
-        dataframe.to_csv(output_path2, index=False)
+        dataframe.to_csv(path, index=False)
 
     def _sse(self, cluster_index):
         """Calcula el SSE de un cluster."""
@@ -391,7 +388,7 @@ class KMeans:
 
         return self._distance.distance(self._centroids[first_c], self._centroids[second_c])
 
-    def plot(self, indices=None, separate=False, tags=False):
+    def plot(self, indices=None, separate=False, tags=False, save_path=None):
         """Representa los clusteres en un plano cartesiano.
 
         Solo se dibujarán los clusteres cuyo indice apaecezca en el
@@ -438,6 +435,8 @@ class KMeans:
                                 plt.text(self._pca[t + self._k][0], self._pca[t + self._k][1], s=self._data['gs_text34'][t], fontsize=10)
                     if separate:
                         plt.title("Cluster {}".format(i))
+            if save_path is not None:
+                plt.savefig(save_path)
             plt.show()
 
     def data(self):
