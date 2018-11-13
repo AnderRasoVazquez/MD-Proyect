@@ -9,6 +9,8 @@ from src.utils.distance import MDistance
 
 
 def _get_args():
+    """Devuelve los argumentos introducidos por la terminal."""
+
     parser = ArgumentParser()
     parser.add_argument('-d', '--data_path',
                         type=str,
@@ -21,7 +23,7 @@ def _get_args():
     parser.add_argument('-a', '--text_attribute',
                         type=str,
                         help='atributo texto de las instancias sobre el que'
-                             'hacer el clustering',
+                             ' hacer el clustering',
                         default='open_response')
     parser.add_argument('-y', '--class_attribute',
                         type=str,
@@ -38,7 +40,7 @@ def _get_args():
     parser.add_argument('-t', '--tolerance',
                         type=float,
                         help='distancia mínima que debe variar al menos un centroide'
-                             'tras una iteración para continual el algoritmo',
+                             ' tras una iteración para continual el algoritmo',
                         default=0.1)
     parser.add_argument('-c', '--inter_cluster_distance',
                         type=str,
@@ -57,12 +59,12 @@ def _get_args():
     parser.add_argument('-p', '--plot_indices',
                         type=list,
                         help='matriz de índices de los clusters a representar'
-                             'gráficamente. Por defecto, todos en un solo gráfico',
+                             ' gráficamente. Por defecto, todos en un solo gráfico',
                         default=None)
     parser.add_argument('-g', '--plot_tags',
                         type=bool,
                         help='flag para incluir etiquetas con las clases de las'
-                             'instancias en el gráfico',
+                             ' instancias en el gráfico',
                         default=False)
     parser.add_argument('-s', '--plot_save_folder',
                         type=str,
@@ -113,6 +115,8 @@ class KMeans:
         if verbose:
             print("Loading data...")
         data = pd.read_csv(data_path, header=0)
+        if verbose:
+            print("done")
         kmeans = KMeans(output_folder=output_folder, data=data,
                         text_attr=text_attr, class_attr=class_attr,
                         k=k, tolerance=tolerance, m=m,
@@ -164,13 +168,17 @@ class KMeans:
         self._load_instances(w2v_strat=self._w2v_strat, attribute=self._text_attr)
 
         if verbose:
-            print("Initializing centroids")
+            print("Initializing centroids...")
 
         self._initialize_centroids(self._init_strat)
+
+        if verbose:
+            print("done")
+
         it = 0
 
         if verbose:
-            print("Starting clustering")
+            print("Starting clustering...")
 
         while it < self._max_it and not self._check_finished():
             it += 1
@@ -329,13 +337,13 @@ class KMeans:
         evaluation_path = os.path.join(self._output_folder, 'evaluation.csv')
         self.save_clusters(clusters_path)
         if verbose:
-            print("Save clusters in {}".format(clusters_path))
+            print("Saved clusters in {}".format(clusters_path))
         self.save_centroids(centroids_path)
         if verbose:
-            print("Save centroids in {}".format(centroids_path))
+            print("Saved centroids in {}".format(centroids_path))
         self.save_evaluation(evaluation_path)
         if verbose:
-            print("Save evaluation in {}".format(evaluation_path))
+            print("Saved evaluation in {}".format(evaluation_path))
 
     def save_clusters(self, path, sorted=True):
         """Guarda los clusters obtenidos.
@@ -574,7 +582,7 @@ class KMeans:
     def init_strat(self):
         return self._init_strat
 
-    def set_init_strat(self, init_strat):
+    def set_init_stradt(self, init_strat):
         self._init_strat = init_strat
 
     def output_folder(self):
@@ -585,6 +593,7 @@ class KMeans:
 
 
 if __name__ == '__main__':
+    # -d "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_clean.csv" -o "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files" -k 96 -m 2 -i "2k" -v true
     args = _get_args()
     data_path = args.data_path
     output_folder = args.output_folder
