@@ -1,3 +1,45 @@
+"""
+usage: kmeans.py [-h] -d DATA_PATH -o OUTPUT_FOLDER [-a TEXT_ATTRIBUTE]
+                 [-y CLASS_ATTRIBUTE] [-k K] [-m M] [-t TOLERANCE]
+                 [-c {average-link,single-link,complete-link}]
+                 [-i {random,2k}] [-x MAX_IT] [-p PLOT] [-n PLOT_INDICES]
+                 [-g PLOT_TAGS] [-s PLOT_SAVE_FOLDER] [-v VERBOSE]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -d DATA_PATH, --data_path DATA_PATH
+                        ruta del archivo csv con las instancias
+  -o OUTPUT_FOLDER, --output_folder OUTPUT_FOLDER
+                        ruta del directorio en el que guardar los resultados
+  -a TEXT_ATTRIBUTE, --text_attribute TEXT_ATTRIBUTE
+                        atributo texto de las instancias sobre el que hacer el
+                        clustering
+  -y CLASS_ATTRIBUTE, --class_attribute CLASS_ATTRIBUTE
+                        atributo clase de las instancias
+  -k K                  número de cluster a crear
+  -m M                  paŕametro para la distancia Minkowski
+  -t TOLERANCE, --tolerance TOLERANCE
+                        distancia mínima que debe variar al menos un centroide
+                        tras una iteración para continual el algoritmo
+  -c {average-link,single-link,complete-link}, --inter_cluster_distance {average-link,single-link,complete-link}
+                        método para calcular la distancia inter-cluster
+  -i {random,2k}, --init_strategy {random,2k}
+                        método para inicializar los centroides
+  -x MAX_IT, --max_it MAX_IT
+                        número máximo de iteraciones a realizar
+  -p PLOT, --plot PLOT  flag para dibujar los clusters en un gráfico
+  -n PLOT_INDICES, --plot_indices PLOT_INDICES
+                        matriz de índices de los clusters a representar
+                        gráficamente. Por defecto, todos en un solo gráfico
+  -g PLOT_TAGS, --plot_tags PLOT_TAGS
+                        flag para incluir etiquetas con las clases de las
+                        instancias en el gráfico
+  -s PLOT_SAVE_FOLDER, --plot_save_folder PLOT_SAVE_FOLDER
+                        ruta del directorio en el que guardar los gráficos
+  -v VERBOSE, --verbose VERBOSE
+                        flag verbose
+"""
+
 import os
 import pandas as pd
 import numpy as np
@@ -56,7 +98,11 @@ def _get_args():
                         type=int,
                         help='número máximo de iteraciones a realizar',
                         default=50)
-    parser.add_argument('-p', '--plot_indices',
+    parser.add_argument('-p', '--plot',
+                        type=bool,
+                        help='flag para dibujar los clusters en un gráfico',
+                        default=False)
+    parser.add_argument('-n', '--plot_indices',
                         type=list,
                         help='matriz de índices de los clusters a representar'
                              ' gráficamente. Por defecto, todos en un solo gráfico',
@@ -91,26 +137,26 @@ class KMeans:
 
     @staticmethod
     def test():
-        # data_path = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_clean.csv"
-        # output_folder = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files"
-        # k = 96
-        # tolerance = 0.1
-        # m = 2
-        # inter_cluster_dist = 'single_link'
-        # init_strat = 'random'
-        # max_it = 50
-        #
-        # data = pd.read_csv(data_path, header=0)
-        # kmeans = KMeans(output_folder, data=data, k=k, tolerance=tolerance,
-        #                 m=m, inter_cluster_dist=inter_cluster_dist,
-        #                 init_strat=init_strat, max_it=max_it)
-        # return kmeans
-        pass
+        data_path = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_clean.csv"
+        output_folder = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files"
+        text_attr = 'open_response'
+        k = 96
+        tolerance = 0.1
+        m = 2
+        inter_cluster_dist = 'single_link'
+        init_strat = 'random'
+        max_it = 50
+
+        data = pd.read_csv(data_path, header=0)
+        kmeans = KMeans(output_folder, data=data, text_attr=text_attr, k=k,
+                        tolerance=tolerance, m=m, inter_cluster_dist=inter_cluster_dist,
+                        init_strat=init_strat, max_it=max_it)
+        return kmeans
 
     @staticmethod
     def main(data_path, output_folder, text_attr, class_attr, k=10,
              tolerance=0.1, m=2, inter_cluster_dist='average_link',
-             init_strat='random', max_it=50, plot_indices=None,
+             init_strat='random', max_it=50, plot=False, plot_indices=None,
              plot_tags=False, plot_save_folder=None, verbose=False):
         if verbose:
             print("Loading data...")
@@ -124,7 +170,8 @@ class KMeans:
                         init_strat=init_strat, max_it=max_it)
         kmeans.form_clusters(verbose)
         kmeans.save_results(verbose)
-        # kmeans.plot(indices_matrix=plot_indices, tags=plot_tags, save_path_folder=plot_save_folder)
+        if plot:
+            kmeans.plot(indices_matrix=plot_indices, tags=plot_tags, save_path_folder=plot_save_folder)
         return kmeans
 
     def __init__(self, output_folder, data, text_attr, class_attr=None,
@@ -510,15 +557,17 @@ class KMeans:
                 for instance in self._instances:
                     tmp_instances.append(list(instance))
                 self._pca = utils.pca_filter(tmp_instances, 2)
-            for row in range(indices_matrix):
-                plt.figure(row)
-                if len(indices_matrix[row]) > 5:
-                    title = "Clusters [{} ... {}]".format(indices_matrix[row][0], indices_matrix[row][-1])
+            for row in indices_matrix:
+                plt.figure(row[0])
+                # TODO: Ejes personalizados no funcionando. Los valores de abajo son los óptimos.
+                #plt.axis(-0.25, 0.95, -0.45, 0.60)
+                if len(row) > 5:
+                    title = "Clusters [{} ... {}]".format(row[0], row[-1])
                 else:
-                    title = "Clusters {}".format(indices_matrix[row])
+                    title = "Clusters {}".format(row)
                 plt.title(title)
                 # iterate on clusters
-                for i in range(indices_matrix[row]):
+                for i in row:
                     c = [[random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1)]]
                     # cluster centroid
                     plt.scatter(self._pca[i][0], self._pca[i][1], c=c, marker='P')
@@ -528,8 +577,9 @@ class KMeans:
                             if tags and self._class_attr is not None:
                                 plt.text(self._pca[t + self._k][0], self._pca[t + self._k][1], s=self._data[self._class_attr][t], fontsize=10)
                 if save_path_folder is not None:
-                    plt.savefig(save_path_folder)
-                plt.show()
+                    file_path = os.path.join(save_path_folder, "Clusters [{} ... {}]".format(row[0], row[-1]) + ".png")
+                    plt.savefig(file_path)
+            plt.show()
 
     def data(self):
         return self._data.copy()
@@ -606,13 +656,14 @@ def main():
     init_strategy = args.init_strategy
     max_it = args.max_it
     verbose = args.verbose
+    plot = args.plot
     plot_indices = args.plot_indices
     plot_tags = args.plot_tags
     plot_save_folder = args.plot_save_folder
     KMeans.main(data_path=data_path, output_folder=output_folder, text_attr=text_attr,
                 class_attr=class_attr, k=k, tolerance=tolerance, m=m,
                 inter_cluster_dist=inter_cluster_distance, init_strat=init_strategy,
-                max_it=max_it, plot_indices=plot_indices, plot_tags=plot_tags,
+                max_it=max_it, plot=plot, plot_indices=plot_indices, plot_tags=plot_tags,
                 plot_save_folder=plot_save_folder, verbose=verbose)
 
 
