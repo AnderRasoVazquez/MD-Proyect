@@ -1,11 +1,67 @@
-import sys
 import os
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import random
+from argparse import ArgumentParser
 from src.utils import utils
 from src.utils.distance import MDistance
+
+
+def _get_args():
+    parser = ArgumentParser()
+    parser.add_argument('-d', '--data_path',
+                        type=str,
+                        help='',
+                        required=True)
+    parser.add_argument('-o', '--output_folder',
+                        type=str,
+                        help='',
+                        required=True)
+    parser.add_argument('-k',
+                        type=int,
+                        help='',
+                        default=10)
+    parser.add_argument('-m',
+                        type=int,
+                        help='',
+                        default=2)
+    parser.add_argument('-t', '--tolerance',
+                        type=float,
+                        help='',
+                        default=0.1)
+    parser.add_argument('-c', '--inter_cluster_distance',
+                        type=str,
+                        help='',
+                        default='average-link',
+                        choices=['average-link', 'single-link', 'complete-link'])
+    parser.add_argument('-i', '--init_strategy',
+                        type=str,
+                        help='',
+                        default='random',
+                        choices=['random', '2k'])
+    parser.add_argument('-x', '--max_it',
+                        type=int,
+                        help='',
+                        default=50)
+    parser.add_argument('-p', '--plot_indices',
+                        type=list,
+                        help='',
+                        default=None)
+    parser.add_argument('-g', '--plot_tags',
+                        type=bool,
+                        help='',
+                        default=False)
+    parser.add_argument('-s', '--plot_save_folder',
+                        type=str,
+                        help='',
+                        default=None)
+    parser.add_argument('-v', '--verbose',
+                        type=bool,
+                        help='',
+                        default=False)
+
+    return parser.parse_args()
 
 
 class KMeans:
@@ -21,45 +77,37 @@ class KMeans:
 
     @staticmethod
     def test():
-        data_path = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_clean.csv"
-        output_folder = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files"
-        k = 96
-        tolerance = 0.1
-        m = 2
-        inter_cluster_dist = 'single_link'
-        init_strat = 'random'
-        max_it = 50
-
-        data = pd.read_csv(data_path, header=0)
-        kmeans = KMeans(output_folder, data=data, k=k, tolerance=tolerance,
-                        m=m, inter_cluster_dist=inter_cluster_dist,
-                        init_strat=init_strat, max_it=max_it)
-        return kmeans
+        # data_path = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_clean.csv"
+        # output_folder = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files"
+        # k = 96
+        # tolerance = 0.1
+        # m = 2
+        # inter_cluster_dist = 'single_link'
+        # init_strat = 'random'
+        # max_it = 50
+        #
+        # data = pd.read_csv(data_path, header=0)
+        # kmeans = KMeans(output_folder, data=data, k=k, tolerance=tolerance,
+        #                 m=m, inter_cluster_dist=inter_cluster_dist,
+        #                 init_strat=init_strat, max_it=max_it)
+        # return kmeans
+        pass
 
     @staticmethod
-    # TODO do the argparse thing
     def main(data_path, output_folder, k=10, tolerance=0.1, m=2,
-             inter_cluster_dist='average_link', w2v_strat='tfidf',
-             init_strat='random', max_it=50, verbose=False):
+             inter_cluster_dist='average_link', init_strat='random',
+             max_it=50, plot_indices=None, plot_tags=False,
+             plot_save_folder=None, verbose=False):
+        if verbose:
+            print("Loading data...")
         data = pd.read_csv(data_path, header=0)
-        if verbose:
-            print("loaded data")
-        kmeans = KMeans(output_folder, data=data, k=k, tolerance=tolerance, m=m,
-                        inter_cluster_dist=inter_cluster_dist, w2v_strat=w2v_strat,
+        kmeans = KMeans(output_folder=output_folder, data=data, k=k,
+                        tolerance=tolerance, m=m,
+                        inter_cluster_dist=inter_cluster_dist,
                         init_strat=init_strat, max_it=max_it)
-        kmeans.form_clusters(verbose=True)
-        if verbose:
-            print("Finished clustering. Saving results...")
-        kmeans.save_clusters(sorted=True)
-        if verbose:
-            print("Clusters Saved")
-        kmeans.save_centroids()
-        if verbose:
-            print("Centroids Saved")
-        kmeans.save_evaluation()
-        if verbose:
-            print("Evaluation Saved")
-            print("Finished")
+        kmeans.form_clusters(verbose)
+        kmeans.save_results(verbose)
+        kmeans.plot(indices_matrix=plot_indices, tags=plot_tags, save_path_folder=plot_save_folder)
         return kmeans
 
     def __init__(self, output_folder, data, k=10, tolerance=0.1, m=2,
@@ -99,8 +147,15 @@ class KMeans:
         self._pca = None
 
         self._load_instances(w2v_strat=self._w2v_strat, attribute='open_response')
+
+        if verbose:
+            print("Initializing centroids")
+
         self._initialize_centroids(self._init_strat)
         it = 0
+
+        if verbose:
+            print("Starting clustering")
 
         while it < self._max_it and not self._check_finished():
             it += 1
@@ -112,6 +167,9 @@ class KMeans:
         self._update_belonging_bits()
 
         self._ready_to_save = True
+
+        if verbose:
+            print("Clustering finished")
 
     def _load_instances(self, w2v_strat, attribute):
         """Convierte las instancias a datos para utilizan en el clustering."""
@@ -243,7 +301,7 @@ class KMeans:
         self._prev_centroids = self._centroids.copy()
         self._centroids = self._instances.dot(self._belonging_bits) / np.sum(self._belonging_bits, axis=0)
 
-    def save_results(self):
+    def save_results(self, verbose=False):
         """Guarda los resultados obtenidos
 
         Esto incluye los clusters, los centroides y la evaluación.
@@ -252,12 +310,18 @@ class KMeans:
         if not self._ready_to_save:
             return False
 
-        path_clusters = os.path.join(self._output_folder, 'clusters.csv')
-        path_centroids = os.path.join(self._output_folder, 'centroids')
-        path_evaluation = os.path.join(self._output_folder, 'evaluation.csv')
-        self.save_clusters(path_clusters)
-        self.save_centroids(path_centroids)
-        self.save_evaluation(path_evaluation)
+        clusters_path = os.path.join(self._output_folder, 'clusters.csv')
+        centroids_path = os.path.join(self._output_folder, 'centroids')
+        evaluation_path = os.path.join(self._output_folder, 'evaluation.csv')
+        self.save_clusters(clusters_path)
+        if verbose:
+            print("Save clusters in {}".format(clusters_path))
+        self.save_centroids(centroids_path)
+        if verbose:
+            print("Save centroids in {}".format(centroids_path))
+        self.save_evaluation(evaluation_path)
+        if verbose:
+            print("Save evaluation in {}".format(evaluation_path))
 
     def save_clusters(self, path, sorted=True):
         """Guarda los clusters obtenidos.
@@ -389,9 +453,8 @@ class KMeans:
 
         return self._distance.distance(self._centroids[first_c], self._centroids[second_c])
 
-    def plot(self, indices_matrix=None, tags=False, save_path=None):
+    def plot(self, indices_matrix=None, tags=False, save_path_folder=None):
         """Representa los clusteres en un plano cartesiano.
-
 
         indices_matrix debe ser un array bidimensional con los índices
         de los centroides que se quieren dibujar. Cada línea de clusters
@@ -442,8 +505,8 @@ class KMeans:
                             plt.scatter(self._pca[t + self._k][0], self._pca[t + self._k][1], c=c, marker='.')
                             if tags:
                                 plt.text(self._pca[t + self._k][0], self._pca[t + self._k][1], s=self._data['gs_text34'][t], fontsize=10)
-                if save_path is not None:
-                    plt.savefig(save_path)
+                if save_path_folder is not None:
+                    plt.savefig(save_path_folder)
                 plt.show()
 
     def data(self):
@@ -508,4 +571,20 @@ class KMeans:
 
 
 if __name__ == '__main__':
-    KMeans.main()
+    args = _get_args()
+    data_path = args.data_path
+    output_folder = args.output_folder
+    k = args.k
+    m = args.m
+    tolerance = args.tolerance
+    inter_cluster_distance = args.inter_cluster_distance
+    init_strategy = args.init_strategy
+    max_it = args.max_it
+    verbose = args.verbose
+    plot_indices = args.plot_indices
+    plot_tags = args.plot_tags
+    plot_save_folder = args.plot_save_folder
+    KMeans.main(data_path=data_path, output_folder=output_folder, k=k,
+                tolerance=tolerance, m=m, inter_cluster_dist=inter_cluster_distance,
+                init_strat=init_strategy, max_it=max_it, plot_indices=plot_indices,
+                plot_tags=plot_tags, plot_save_folder=plot_save_folder, verbose=verbose)
