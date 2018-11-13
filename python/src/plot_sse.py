@@ -37,22 +37,22 @@ class PlotSSE(object):
     def __init__(self, csv_file, output_folder, plot_width=15, plot_height=3):
         self.output_folder = output_folder
         self.df = pd.read_csv(csv_file)
-        self._plot_width = plot_width
-        self._plot_height = plot_height
+        self.plot_width = plot_width
+        self.plot_height = plot_height
 
-    def _sse_plot(self):
+    def sse_plot(self):
         """Crea un grafico usando la columna sse del dataframe."""
         df_sse = self.df["sse"].sort_values(ascending=False)
-        plt.figure(figsize=(self._plot_width, self._plot_height))
+        plt.figure(figsize=(self.plot_width, self.plot_height))
         df_sse.plot("bar")
         plt.title("SSE por cluster")
         output_path_sse = os.path.join(self.output_folder, 'sse_plot.png')
         plt.savefig(output_path_sse)
 
-    def _avg_sse_plot(self):
+    def avg_sse_plot(self):
         """Crea un grafico usando la columna sse_avg del dataframe."""
         df_sse = self.df["sse_avg"].sort_values(ascending=False)
-        plt.figure(figsize=(self._plot_width, self._plot_height))
+        plt.figure(figsize=(self.plot_width, self.plot_height))
         df_sse.plot("bar")
         plt.title("Media SSE por cluster")
         output_path_sse = os.path.join(self.output_folder, 'sse_avg_plot.png')
@@ -62,8 +62,8 @@ class PlotSSE(object):
         """Crea graficos de error a partir de un csv."""
         if not os.path.exists(self.output_folder):
             os.makedirs(self.output_folder)
-        self._sse_plot()
-        self._avg_sse_plot()
+        self.sse_plot()
+        self.avg_sse_plot()
 
 
 def main():
