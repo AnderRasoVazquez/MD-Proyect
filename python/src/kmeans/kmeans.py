@@ -21,8 +21,8 @@ class KMeans:
 
     @staticmethod
     def test():
-        data_path = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_clean.csv"
-        output_folder = "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files"
+        data_path = "/home/guzman/Universidad/4/1/Mineria de Datos/Trabajos/MD-Proyect/files/verbal_autopsies_clean.csv"
+        output_folder = "/home/guzman/Universidad/4/1/Mineria de Datos/Trabajos/MD-Proyect/files"
         k = 96
         tolerance = 0.1
         m = 2
@@ -49,16 +49,32 @@ class KMeans:
         kmeans.form_clusters(verbose=True)
         if verbose:
             print("Finished clustering. Saving results...")
-        kmeans.save_clusters(sorted=True)
+        #kmeans.save_clusters(sorted=True)
         if verbose:
             print("Clusters Saved")
-        kmeans.save_centroids()
+        #kmeans.save_centroids()
         if verbose:
             print("Centroids Saved")
-        kmeans.save_evaluation()
+        #kmeans.save_evaluation()
+        "Las lineas comentadas de arriba se pueden sustituir por la de abajo. Menos configuración necesaria abajo."
+        kmeans.save_results()
         if verbose:
             print("Evaluation Saved")
             print("Finished")
+        # TODO: Poner groups como parámetro de entrada??? Puede que lo de abajo sea optimizable
+        groups = 10
+        indices_matrix = []
+        i = 1
+        group_size = k//groups
+        while i <= groups:
+            if i != groups:
+                indices_matrix.append(range((i-1) * group_size, i * group_size))
+            else:
+                indices_matrix.append(range((i-1) * group_size, (i * group_size) + k % groups))
+            i += 1
+        print(indices_matrix)
+        print("Plotting...")
+        kmeans.plot(indices_matrix=indices_matrix, save_path="/home/guzman/Universidad/4/1/Mineria de Datos/Trabajos/MD-Proyect/files")
         return kmeans
 
     def __init__(self, output_folder, data, k=10, tolerance=0.1, m=2,
@@ -422,15 +438,17 @@ class KMeans:
                 for instance in self._instances:
                     tmp_instances.append(list(instance))
                 self._pca = utils.pca_filter(tmp_instances, 2)
-            for row in range(indices_matrix):
-                plt.figure(row)
-                if len(indices_matrix[row]) > 5:
-                    title = "Clusters [{} ... {}]".format(indices_matrix[row][0], indices_matrix[row][-1])
+            for row in indices_matrix:
+                plt.figure(row[0])
+                # TODO: Ejes personalizados no funcionando. Los valores de abajo son los óptimos.
+                #plt.axis(-0.25, 0.95, -0.45, 0.60)
+                if len(row) > 5:
+                    title = "Clusters [{} ... {}]".format(row[0], row[-1])
                 else:
-                    title = "Clusters {}".format(indices_matrix[row])
+                    title = "Clusters {}".format(row)
                 plt.title(title)
                 # iterate on clusters
-                for i in range(indices_matrix[row]):
+                for i in row:
                     c = [[random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1)]]
                     # cluster centroid
                     plt.scatter(self._pca[i][0], self._pca[i][1], c=c, marker='P')
@@ -440,7 +458,7 @@ class KMeans:
                             if tags:
                                 plt.text(self._pca[t + self._k][0], self._pca[t + self._k][1], s=self._data['gs_text34'][t], fontsize=10)
                 if save_path is not None:
-                    plt.savefig(save_path)
+                    plt.savefig(save_path + "/Clusters [{} ... {}]".format(row[0], row[-1]) + ".png")
                 plt.show()
 
     def data(self):
@@ -505,4 +523,5 @@ class KMeans:
 
 
 if __name__ == '__main__':
-    KMeans.main()
+    KMeans.main("/home/guzman/Universidad/4/1/Mineria de Datos/Trabajos/MD-Proyect/files/verbal_autopsies_clean.csv",
+                "/home/guzman/Universidad/4/1/Mineria de Datos/Trabajos/MD-Proyect/files", k=96)
