@@ -37,6 +37,7 @@ class KMeans:
         return kmeans
 
     @staticmethod
+    # TODO do the argparse thing
     def main(data_path, output_folder, k=10, tolerance=0.1, m=2,
              inter_cluster_dist='average_link', w2v_strat='tfidf',
              init_strat='random', max_it=50, verbose=False):
@@ -391,21 +392,23 @@ class KMeans:
     def plot(self, indices_matrix=None, tags=False, save_path=None):
         """Representa los clusteres en un plano cartesiano.
 
-        Solo se dibujarán los clusteres cuyo indice aparezca en el
-        parámetro indices.
+
+        indices_matrix debe ser un array bidimensional con los índices
+        de los centroides que se quieren dibujar. Cada línea de clusters
+        se dibujarán en el mismo gráfico, separado del resto de líneas.
 
         En el plano aparecerán todas las instancias de los clusteres a
         dibujar. Las instancias que pertenecen al mismo cluster tendrán
         el mismo color.
-
-        Si separate en True, se crea un gráfico por cada cluster en lugar
-        de dibujarlos todos en el mismo gráfico.
 
         Para representar las instancias en dos dimensiones se les
         aplica primero en filtro PCA.
 
         Si el parámetro tags es True, a cada instancia se le añade una
         etiqueta con el valor de su clase.
+
+        save_path es el nombre del directorio en el que se guadarán los
+        gráficos.
         """
 
         if not self._ready_to_save:
