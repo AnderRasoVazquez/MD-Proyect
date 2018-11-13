@@ -194,8 +194,8 @@ class KMeans:
             matrix = wv_matrix.A
             for i in range(len(matrix)):
                 self._instances[i] = matrix[i]
-        elif w2v_strat == self.WEMBEDDINGS:
-            self._instances = utils.word_embeddings(self._data, attribute)
+        # elif w2v_strat == self.WEMBEDDINGS:
+        #     self._instances = utils.word_embeddings(self._data, attribute)
 
     def _initialize_centroids(self, init_strat):
         """Inicializa los centroides."""
@@ -204,7 +204,7 @@ class KMeans:
         return {
             KMeans.INIT_RANDOM: self._init_random_centroids,
             KMeans.INIT_2K: self._init_2k
-        }.get(init_strat, KMeans.INIT_RANDOM)()
+        }.get(init_strat, self._init_random_centroids)()
 
     def _init_random_centroids(self):
         """Inicializa los centroides de forma aleatoria."""
@@ -420,7 +420,7 @@ class KMeans:
             KMeans.AVERAGE_LINK: self._avg_link,
             KMeans.SINGLE_LINK: self._single_link,
             KMeans.COMPLETE_LINK: self._complete_link
-        }.get(inter_cluster_dist, KMeans.AVERAGE_LINK)(first_c, second_c)
+        }.get(inter_cluster_dist, self._avg_link)(first_c, second_c)
 
     def _single_link(self, first_c, second_c):
         """Calcula la distancia single-link entre los clusters"""
