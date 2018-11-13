@@ -125,8 +125,8 @@
 	\begin{itemize}
 		\item \textbf{inicialización de los centroides:} hay varias formas de elegir los valores iniciales de los centroides, su inicialización puede tener un gran efecto en los resultados.
 		\begin{itemize}
-		    \item inicialización a instancias aleatorias.
-		    \item inicialización a partir de un \textit{clustering} previo.
+		    \item \textbf{inicialización a instancias aleatorias: } cada centroide se toma el valor de una instancia elegia aleatoriamente.
+		    \item \textbf{inicialización a partir de un \textit{clustering} previo:} se realiza una agrupación preeliminar a $2k$ clusters. De esos clusters se eligen los $k$ que más separados estén entre para la inicialización.
 	    \end{itemize}
 		\item \textbf{cálculo de las distancias:} la fórmula para calcular la distancia será la distancia Minkowski, con \(m \in \Re\). \(m=1\) es la distancia Manhattan y \(m=2\) es la distancia Euclidea.
 		\item \textbf{definición de distancia \textit{inter-cluster}:} también hay varias formas para buscar la distancia entre dos clusters distintos. En este caso, vamos atrabajar con dos:
@@ -135,6 +135,7 @@
 		    \item \textit{single-link}. La distancia entre dos clusters es igual a la distancia entre las dos instancias, una de cada cluster, más cercanas entre sí.
 		    \item \textit{average-link}. La distancia entre dos clusters es igual a la distancia entre los centroides de cada cluster.
 	    \end{itemize}
+	    \item \textbf{criterio de convergencia:} parámetro para decidir cuándo dar por finalizado \textit{clustering}. Terminamos el algoritmo cuando la variación de los centroides sea muy pequeña de una iteración a la siguiente. También tenemos un número máximo de iteraciones tras las cuales el algortimo termina forzosamente.
 	\end{itemize}
 
 	\begin{algorithm}
