@@ -388,10 +388,10 @@ class KMeans:
 
         return self._distance.distance(self._centroids[first_c], self._centroids[second_c])
 
-    def plot(self, indices=None, separate=False, tags=False, save_path=None):
+    def plot(self, indices_matrix=None, tags=False, save_path=None):
         """Representa los clusteres en un plano cartesiano.
 
-        Solo se dibujarán los clusteres cuyo indice apaecezca en el
+        Solo se dibujarán los clusteres cuyo indice aparezca en el
         parámetro indices.
 
         En el plano aparecerán todas las instancias de los clusteres a
@@ -411,8 +411,8 @@ class KMeans:
         if not self._ready_to_save:
             return False
 
-        if indices is None:
-            indices = range(len(self._centroids))
+        if indices_matrix is None:
+            indices_matrix = [range(len(self._centroids))]
 
         if self._instances is not None:
             if self._pca is None:
@@ -422,22 +422,26 @@ class KMeans:
                 for instance in self._instances:
                     tmp_instances.append(list(instance))
                 self._pca = utils.pca_filter(tmp_instances, 2)
-            for i in range(len(self._centroids)):
-                if i in indices:
-                    if separate:
-                        plt.figure(i)
+            for row in range(indices_matrix):
+                plt.figure(row)
+                if len(indices_matrix[row]) > 5:
+                    title = "Clusters [{} ... {}]".format(indices_matrix[row][0], indices_matrix[row][-1])
+                else:
+                    title = "Clusters {}".format(indices_matrix[row])
+                plt.title(title)
+                # iterate on clusters
+                for i in range(indices_matrix[row]):
                     c = [[random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1)]]
+                    # cluster centroid
                     plt.scatter(self._pca[i][0], self._pca[i][1], c=c, marker='P')
                     for t in range(len(self._instances)):
                         if self._belonging_bits[t][i]:
                             plt.scatter(self._pca[t + self._k][0], self._pca[t + self._k][1], c=c, marker='.')
                             if tags:
                                 plt.text(self._pca[t + self._k][0], self._pca[t + self._k][1], s=self._data['gs_text34'][t], fontsize=10)
-                    if separate:
-                        plt.title("Cluster {}".format(i))
-            if save_path is not None:
-                plt.savefig(save_path)
-            plt.show()
+                if save_path is not None:
+                    plt.savefig(save_path)
+                plt.show()
 
     def data(self):
         return self._data.copy()
