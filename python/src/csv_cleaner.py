@@ -1,10 +1,25 @@
+""""Reformatea un archivo .cvs para eliminar los saltos de linea en campos
+de tipo string en la última posición que puedan causar problemas.
+
+usage: csv_cleaner.py [-h] csv_file clean_csv_file
+
+positional arguments:
+  csv_file        Archivo csv a limpiar
+  clean_csv_file  Nombre del archivo a guardar
+
+optional arguments:
+  -h, --help      show this help message and exit
+
+    Ejemplo: python3 csv_cleaner.py file.csv file_clean.csv
+"""
+
 import sys
 import csv
 import string
 import nltk
 import itertools
 
-from utils import utils
+from argparse import ArgumentParser
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
@@ -21,7 +36,24 @@ except LookupError:
     nltk.download('stopwords')
 
 
+def _get_args():
+    """Devuelve los argumentos introducidos por la terminal."""
+    parser = ArgumentParser()
+    parser.add_argument('csv_file',
+                        type=str,
+                        help='Archivo csv a limpiar')
+    parser.add_argument('clean_csv_file',
+                        type=str,
+                        help='Nombre del archivo a guardar')
+    return parser.parse_args()
+
+
 def main():
+    args = _get_args()
+    clean_file(args.csv_file, args.clean_csv_file)
+
+
+def clean_file(file, new_file):
     try:
         file = sys.argv[1]
         new_file = sys.argv[2]
@@ -212,11 +244,11 @@ def main():
                 new_row = row.copy()
                 # clean last attribute of each row (the string)
                 if not new_row[-1] in strings_to_ommit:
-                    new_row[-1] = clean_string(new_row[-1], True)
+                    new_row[-1] = _clean_string(new_row[-1], True)
                     writer.writerow(new_row)
 
 
-def clean_string(t, use_stemmer):
+def _clean_string(t, use_stemmer):
     # Genera un array de palabras (word_tokenize)
     tokens = word_tokenize(t)
 
