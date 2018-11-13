@@ -592,7 +592,7 @@ class KMeans:
         self._output_folder = output_folder
 
 
-if __name__ == '__main__':
+def main():
     # -d "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files/verbal_autopsies_clean.csv" -o "/home/david/Documentos/Universidad/4º/Minería de Datos/Proyecto/files" -k 96 -m 2 -i "2k" -v true
     args = _get_args()
     data_path = args.data_path
@@ -614,3 +614,7 @@ if __name__ == '__main__':
                 inter_cluster_dist=inter_cluster_distance, init_strat=init_strategy,
                 max_it=max_it, plot_indices=plot_indices, plot_tags=plot_tags,
                 plot_save_folder=plot_save_folder, verbose=verbose)
+
+
+if __name__ == '__main__':
+    main()
