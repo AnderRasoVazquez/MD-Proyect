@@ -176,8 +176,25 @@
 	\paragraph{}
 	Una vez que tenemos las instancias separadas en clusters, sería interesante representarlas gráficamente para poder ver como se relacionan los clusters, calculados a partir del texto describiendo la enfermedad, con la causa de la muerte anotada en las autopsias. Para ello, tenemos que reducir el enorme espacio de atributos de las instancias a algo que podamos representar en un espacio de no más de tres dimensiones. Para ello pensamos en utilizar el método PCA (\textit{Principal Components}) el cual reduce un gran número de variables a una serie de valores representativos, ortogonales entre sí para representarlos en espacios de pocas dimensiones. Con este método podemos convertir nuestras instancias con cerca de 8000 atributos a dos atributos cada una para poder representarlas en un plano cartesiano.
 
-%\section{Evaluación}
-%\section{Experimentos}
+\section{Evaluación}
+	\paragraph{}
+	Para evaluar el modelo obtenido vamos a utilizar la métrica de SSE (\textit{Sum of Square Errors}). Para cada uno de los clusters calculamos el error (distancia) cuadrático de cada instancia con respecto al centroide, y sumando todos estas distancias obtenemos el SSE total del cluster; su cohesión.
+	\begin{center}
+		$$SSE(C_i) = \sum_{x \in C_i} d^2(x, c_i)$$
+	\end{center}
+	\paragraph{}
+	De la misma forma, sumando el SSE de cada cluster podemos obtener la cohesión total de la partición.
+	\begin{center}
+		$$C = \{C_1, C_2, C_3, ..., C_k\}$$
+		%\linebreak[0.5in]
+		$$SSE(C) = \sum^{k}_{i=1} SSE(C_i) = \sum^{k}_{i=1} \sum_{x \in C_i} d^2(x, c_i)$$
+	\end{center}
+	Para comparar cohesión entre clusters, calcularemos primero el SSE medio de los clusters, dividiendo el SSE de cada uno entre el número de instancias que contiene, ya que los clusters más poblados tendrán, por lo general, un SSE mayor solamente por su alto número de instancias, independientemente de su cohesión.
+	
+\section{Experimentos}
+	\paragraph{}
+	#TODO no estoy seguro de que poner aquí
+%\section{Resultados}
 %\section{Conclusiones}
 %\section{Bibliografía}
 
