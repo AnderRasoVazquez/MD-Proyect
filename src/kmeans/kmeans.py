@@ -188,7 +188,7 @@ class KMeans:
         init_strat: método para inicializar los centroides ('random', 'foo').
         max_it: número máximo de iteraciones a realizar, independientemente de la tolerancia.
         """
-        self._data = data
+        self._data = data.copy()
         self._instances = np.empty(len(self._data), dtype='object')
         self._text_attr = text_attr
         self._class_attr = class_attr
