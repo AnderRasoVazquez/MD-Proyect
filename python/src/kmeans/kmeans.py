@@ -154,7 +154,7 @@ class KMeans:
         return kmeans
 
     @staticmethod
-    def main(data_path, output_folder, text_attr, class_attr, k=10,
+    def main(data_path, output_folder, text_attr, class_attr=None, k=10,
              tolerance=0.1, m=2, inter_cluster_dist='average_link',
              init_strat='random', max_it=50, plot=False, plot_indices=None,
              plot_tags=False, plot_save_folder=None, verbose=False):
