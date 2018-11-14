@@ -154,7 +154,7 @@ class KMeans:
         return kmeans
 
     @staticmethod
-    def main(data_path, output_folder, text_attr, class_attr, k=10,
+    def main(data_path, output_folder, text_attr, class_attr=None, k=10,
              tolerance=0.1, m=2, inter_cluster_dist='average_link',
              init_strat='random', max_it=50, plot=False, plot_indices=None,
              plot_tags=False, plot_save_folder=None, verbose=False):
@@ -171,7 +171,7 @@ class KMeans:
         kmeans.form_clusters(verbose)
         kmeans.save_results(verbose)
         if plot:
-            kmeans.plot(indices_matrix=plot_indices, tags=plot_tags, save_path_folder=plot_save_folder)
+            kmeans.plot(indices_matrix=plot_indices, tags=plot_tags, save_folder=plot_save_folder)
         return kmeans
 
     def __init__(self, output_folder, data, text_attr, class_attr=None,
@@ -379,6 +379,9 @@ class KMeans:
         if not self._ready_to_save:
             return False
 
+        if not os.path.isdir(self._output_folder):
+            os.makedirs(self._output_folder)
+
         clusters_path = os.path.join(self._output_folder, 'clusters.csv')
         centroids_path = os.path.join(self._output_folder, 'centroids')
         evaluation_path = os.path.join(self._output_folder, 'evaluation.csv')
@@ -522,7 +525,7 @@ class KMeans:
 
         return self._distance.distance(self._centroids[first_c], self._centroids[second_c])
 
-    def plot(self, indices_matrix=None, tags=False, save_path_folder=None):
+    def plot(self, indices_matrix=None, tags=False, save_folder=None):
         """Representa los clusteres en un plano cartesiano.
 
         indices_matrix debe ser un array bidimensional con los índices
@@ -539,7 +542,7 @@ class KMeans:
         Si el parámetro tags es True, a cada instancia se le añade una
         etiqueta con el valor de su clase.
 
-        save_path es el nombre del directorio en el que se guadarán los
+        save_folder es el nombre del directorio en el que se guadarán los
         gráficos.
         """
 
@@ -576,8 +579,8 @@ class KMeans:
                             plt.scatter(self._pca[t + self._k][0], self._pca[t + self._k][1], c=c, marker='.')
                             if tags and self._class_attr is not None:
                                 plt.text(self._pca[t + self._k][0], self._pca[t + self._k][1], s=self._data[self._class_attr][t], fontsize=10)
-                if save_path_folder is not None:
-                    file_path = os.path.join(save_path_folder, "Clusters [{} ... {}]".format(row[0], row[-1]) + ".png")
+                if save_folder is not None:
+                    file_path = os.path.join(save_folder, "Clusters [{} ... {}]".format(row[0], row[-1]) + ".png")
                     plt.savefig(file_path)
             plt.show()
 
