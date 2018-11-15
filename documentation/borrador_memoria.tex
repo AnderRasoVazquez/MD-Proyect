@@ -248,13 +248,13 @@
 	\begin{figure}
 		\centering
 		\makebox[\columnwidth]{\includegraphics[width=\paperwidth]{figures/sse_plot_k96_m2_initrandom.png}}
-		\caption{Heatmap (k=96, m=2, init=random)}
+		\caption{SSE por cluster (k=96, m=2, init=random)}
 		\label{fig:sse_96_2_random}
 	\end{figure}
 	\begin{figure}
 		\centering
 		\makebox[\columnwidth]{\includegraphics[width=\paperwidth]{figures/sse_plot_k96_m2_init2k.png}}
-		\caption{Heatmap (k=96, m=2, init=2k)}
+		\caption{SSE por cluster (k=96, m=2, init=2k)}
 		\label{fig:sse_96_2_2k}
 	\end{figure}
 	\begin{figure}
@@ -264,10 +264,23 @@
 		\label{fig:htm_96_2_2k}
 	\end{figure}
 	\paragraph{}
-	Parece que al inicial el clustering con centroides más separados entre sí, las distribución de instancias ha sido menos uniforme, haciendo que algunos clusers sean más densos y que otros lo sean menos al comparar con la inicialización aleatoria. Por esta razón, la relación entre los clusters y las clases está menos definida. Esto también se ve comparando el heatmap de la inicialización 2k (Fig \ref{fig:htm_96_2_2k}) con el de la inicialiazción aleatoria (Fig \ref{fig:htm_96_2_random}).
+	Parece que al iniciar el clustering con centroides más separados entre sí, las distribución de instancias ha sido menos uniforme, haciendo que algunos clusers sean más densos y que otros lo sean menos al comparar con la inicialización aleatoria. Por esta razón, la relación entre los clusters y las clases está menos definida. Esto también se ve comparando el heatmap de la inicialización 2k (Fig \ref{fig:htm_96_2_2k}) con el de la inicialiazción aleatoria (Fig \ref{fig:htm_96_2_random}).
 	
 	\subsubsection{Distancia Minkowski}
 	Por último, probamos a variar el parámetro $m$ de la distancia Minkowski
+	
+	\begin{figure}
+		\centering
+		\makebox[\columnwidth]{\includegraphics[width=\paperwidth]{figures/sse_plot_k96_m4_initrandom.png}}
+		\caption{SSE por cluster(k=96, m=4, init=random)}
+		\label{fig:sse_96_4_random}
+	\end{figure}	
+	\begin{figure}
+		\centering
+		\makebox[\columnwidth]{\includegraphics[width=\paperwidth]{figures/heatmap_k96_m4_initrandom.png}}
+		\caption{Heatmap (k=96, m=4, init=random)}
+		\label{fig:htm_96_4_random}
+	\end{figure}
 	
 \section{Conclusiones}
 	foo
