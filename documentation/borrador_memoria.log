@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.13)  15 NOV 2018 18:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.14)  15 NOV 2018 21:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -700,19 +700,19 @@ ine 280.
 (pdftex.def)             Requested size: 597.50787pt x 239.01003pt.
  [12 <./figures/sse_plot_k96_m2_initrandom.png> <./figures/sse_plot_k96_m2_init
 2k.png>] [13 <./figures/heatmap_k96_m2_init2k.png> <./figures/sse_plot_k96_m4_i
-nitrandom.png>] [14 <./figures/heatmap_k96_m4_initrandom.png>] (./borrador_memo
-ria.aux
+nitrandom.png>] [14 <./figures/heatmap_k96_m4_initrandom.png>] [15] (./borrador
+_memoria.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
  4640 strings out of 494747
  63509 string characters out of 6176206
- 140092 words of memory out of 5000000
+ 140091 words of memory out of 5000000
  7879 multiletter control sequences out of 15000+600000
  12735 words of font info for 49 fonts, out of 8000000 for 9000
  107 hyphenation exceptions out of 8191
- 41i,15n,30p,856b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,15n,30p,961b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/t
@@ -728,10 +728,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on borrador_memoria.pdf (14 pages, 997839 bytes).
+Output written on borrador_memoria.pdf (15 pages, 1000656 bytes).
 PDF statistics:
- 132 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
+ 135 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
