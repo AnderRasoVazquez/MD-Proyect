@@ -115,6 +115,24 @@
 	\subsection{\textit{Word vector}}
 	\paragraph{}
 	Después de limpiar los textos de las instancias necesitamos convertir ese texto a un formato que podamos utilizar. El formato escogido es el TF-IDF, el cual consiste en una representación vectorial del conjunto de palabras presentes en todos los documentos (instancias). Cada una de las palabras se evalúa individualmente y se le asigna un valor numérico en función al número de apariciones que tiene en cada documento, pero teniendo en cuenta también en cuántos de los documentos aparece para evitar darle excesiva importancia a palabras que simplemente se repiten por ser comunes.
+	La definición matemática es: 
+		\begin{equation}
+	tf(t,d)=\frac{f(t,d)}{max[f(t,d):t \in d]}
+	\end{equation}
+	\begin{itemize}
+	    \item t: término
+	    \item d: documento
+	\end{itemize}
+	\begin{equation}
+	idf(t,D)=\log \frac{|D|}{[d \in D : t \in d]}
+	\end{equation}
+	\begin{itemize}
+	    \item D: Numero de documentos en la colección
+	\end{itemize}
+	\begin{equation}
+	TFIDF(t,d,D)=tf(t,d) \dot idf(t,D)
+	\end{equation}
+	\newline \cite{WikipediaTFIDF}
 	\paragraph{}
 	Escogimos la representación TF-IDF en favor de \textit{Bag of Words} por el hecho de que aporta más información. \textit{Bag of Words} se limita a indicar la presencia o ausencia de palabras en los documentos mientras que TF-IDF le asigna un valor en función de su aparente importancia teniendo en cuenta todos los documentos.
 
