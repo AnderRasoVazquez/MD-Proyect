@@ -279,7 +279,20 @@
 	\end{figure}
 	
 \section{Conclusiones}
-	foo
+	%Describir muy brevemente la motivación para llevar a cabo técnicas de clustering
+	\paragraph{}
+	Gracias a este proyecto hemos podido ver de primera mano una de las posibles aplicaciones de las técnicas de clustering. Hemos de tener en cuenta que es una técnica ampliamente utilizada en el mundo empresarial y laboral a unas escalas que no son comparables a nuestro pequeño proyecto, pero éste sirve como una buena aproximación a un mundo que todavía está en auge y en el que aún no hay muchas normas impuestas. 
+	%Describir muy brevemente las conclusiones obtenidas a la vista de los resultados más relevantes	
+	\paragraph{}
+	En cuanto a los resultados del proyecto, .......
+	%Conclusiones generales (análisis de fortalezas del software implementado y reflexiones más importantes sobre la tarea)
+	\paragraph{}
+	En general nuestro programa cumple satisfactoriamente con los objetivos propuestos. Hemos sido capaces de desarrollarlo de forma que sea lo más potente, versátil y eficiente posible. Han sido estos dos últimos de especial importancia para nuestro grupo, puesto que por un lado la versatilidad nos ha permitido realizar pruebas con diferentes escenarios y parámetros para poder buscar fácilmente la mejor opción de clustering, y por otro lado hemos tenido que hacer nuestro código lo más eficiente posible ya que ha habido que realizar una gran cantidad de operaciones sobre un conjunto de datos de por si bastantegrande, y en las primeras iteraciones del programa los ordenadores menos potentes del grupo no eran capaces de realizar estas tareas correctamente. Esto fue corregido posteriormente, consiguiendo que con el código final se pueda realizar la tarea en tiempos bastante bajos para la magnitud de ésta.
+	%Propuestas para mejorar o ampliar la funcionalidad del software diseñado en trabajo futuro (análisis de puntos débiles y propuesta para solucionarlos)
+	\paragraph{}
+	Sin embargo, si tuviésemos que mejorar nuestro software una de las cosas en las que podríamos centrarnos es en dividir las instancias de forma previa al clustering en función de ciertos parámetros que hacen que estas instancias no sean completamente homogeneas. Un claro ejemplo de esto son los rangos de edad con los que están etiquetadas las instancias, en los que podemos ver que para aquellas instancias catalogadas como neonatos el abanico de causas de muerte es muy reducido. Otro posible ejemplo es el sexo de cada una de las personas, ya que es posible que no se pueda padecer alguna enfermedad según éste (un claro caso sería un cancer testicular), o simplemente influir mucho en el conjunto de enfermedades que le pueden afectar. En ambos casos podría ser muy interesante disponer de la funcionalidad de realizar un clustering por separado.
+	\paragraph{}
+	Otro de las posibles áreas de mejora tiene que ver con los parámetros que nuestro algoritmo utiliza, tales como el número de clusters, el orden de la distancia de Minkowski, o la inicialización de los clusters. En este momento todos estos valores son introducidos por el usuario y, si bien eso añade versatilidad a nuestro programa, podría ser el propio programa el que ofreciese la posibilidad de probar con diferentes valores y ofrecer al usuario la mejor solución que pueda encontrar.
 \section{Bibliografía}
 \def\section*#1{} %Elimina el título "Referencias".
 \bibliographystyle{unsrtnat}

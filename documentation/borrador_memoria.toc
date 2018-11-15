@@ -33,5 +33,10 @@
 \contentsline {paragraph}{}{12}
 \contentsline {paragraph}{}{12}
 \contentsline {subsubsection}{\numberline {6.1.3}Distancia Minkowski}{13}
-\contentsline {section}{\numberline {7}Conclusiones}{13}
-\contentsline {section}{\numberline {8}Bibliograf\IeC {\'\i }a}{14}
+\contentsline {section}{\numberline {7}Conclusiones}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {paragraph}{}{15}
+\contentsline {section}{\numberline {8}Bibliograf\IeC {\'\i }a}{15}
