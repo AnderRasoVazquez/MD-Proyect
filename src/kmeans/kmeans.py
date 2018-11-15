@@ -465,9 +465,10 @@ class KMeans:
 
         sse = 0
         centroid = self._centroids[cluster_index]
+        distance = MDistance(2)
         for t in range(len(self._instances)):
             if self._belonging_bits[t][cluster_index]:
-                sse += self._distance.distance(self._instances[t], centroid) ** 2
+                sse += distance.distance(self._instances[t], centroid) ** 2
         return sse
 
     def _inter_cluster_distance(self, inter_cluster_dist, first_c, second_c):
