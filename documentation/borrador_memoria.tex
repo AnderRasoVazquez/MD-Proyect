@@ -244,7 +244,7 @@
 	\paragraph{}
 	Los dos métodos de inicialización que hemos probado son, inicialización aleatoria e inicialización a partir de una partición anterior de 2k clusters, de los cuales se eligen los k clusters más separados entre sí.
 	\paragraph{}
-	Comparando los resultados, para los dos casos el SSE medio por cluster es similar, sin embargo el SSE total por cluster es considerablemente distinto. En la inicialización aleatoria los clusters los cluster con mayor SSE tiene menos error que sus contrarios, mientras que en el otro extremo, los clusters de inicialización aleatoria con menor error tienen más error que los de inicialización a partir de partición previa. Esto se debe a que la densidad de instancias está más centralizada en la inicialización 2k que en la aleatoria; hay más clusters con muchas instancias y más clusters con pocas.
+	Comparando los resultados, para los dos casos el SSE medio por cluster es similar, sin embargo el SSE total por cluster es considerablemente distinto. En la inicialización aleatoria los clusters con mayor SSE tiene menos error que sus contrarios, mientras que en el otro extremo, los clusters de inicialización aleatoria con menor SSE tienen más error que los de inicialización a partir de partición previa. Esto se debe a que la densidad de instancias está más centralizada en la inicialización 2k que en la aleatoria; hay más clusters con muchas instancias y más clusters con pocas.
 	\begin{figure}
 		\centering
 		\makebox[\columnwidth]{\includegraphics[width=\paperwidth]{figures/sse_plot_k96_m2_initrandom.png}}
@@ -264,10 +264,10 @@
 		\label{fig:htm_96_2_2k}
 	\end{figure}
 	\paragraph{}
-	Parece que al iniciar el clustering con centroides más separados entre sí, las distribución de instancias ha sido menos uniforme, haciendo que algunos clusers sean más densos y que otros lo sean menos al comparar con la inicialización aleatoria. Por esta razón, la relación entre los clusters y las clases está menos definida. Esto también se ve comparando el heatmap de la inicialización 2k (Fig \ref{fig:htm_96_2_2k}) con el de la inicialiazción aleatoria (Fig \ref{fig:htm_96_2_random}).
+	Parece que al iniciar el clustering con centroides más separados entre sí, las distribución de instancias ha sido menos uniforme, haciendo que algunos clusers sean más densos y que otros lo sean menos en comparación a la inicialización aleatoria. Por esta razón, la relación entre los clusters y las clases está menos definida. Esto también se ve comparando el heatmap de la inicialización 2k (Fig \ref{fig:htm_96_2_2k}) con el de la inicialiazción aleatoria (Fig \ref{fig:htm_96_2_random}).
 	
 	\subsubsection{Distancia Minkowski}
-	Por último, probamos a variar el parámetro $m$ de la distancia Minkowski
+	Por último, probamos a variar el parámetro $m$ de la distancia Minkowski y elegimos los valores 2 y 4. El resultado de utilizar $m=4$ es un el error total de los clusters (Fig \ref{fig:sse_96_4_random}) lígeramente más alto en comparación a la misma operación realizada con $m=2$ (Fig \ref{fig:sse_96_2_random}). Sin embargo, comparando los mapas de calor (Figs \ref{fig:htm_96_2_random} y \ref{fig:htm_96_4_random}), parece que $m=4$ hace un trabajo ligeramente mejor de segregar las instancias según su clase.
 	
 	\begin{figure}
 		\centering
