@@ -121,21 +121,45 @@
 
 \section{Clustering}
 	\paragraph{}
-	Para el \textit{clustering} hemos decidido utilizar el algoritmo \textit{k-means clustering}, el cual implementaremos en Python. Opciones para el algoritmo a tener en cuenta son:
+	Para el \textit{clustering} hemos decidido utilizar el algoritmo \textit{k-means clustering}, el cual implementaremos en Python. Algunas de las opciones para el algoritmo a tener en cuenta son:
 	\begin{itemize}
-		\item \textbf{inicialización de los centroides:} hay varias formas de elegir los valores iniciales de los centroides, su inicialización puede tener un gran efecto en los resultados.
+		\item \textbf{Inicialización de los centroides:} Hay varias formas de elegir los valores iniciales de los centroides, y su inicialización podría tener repercusíon en los resultados.
 		\begin{itemize}
-		    \item \textbf{inicialización a instancias aleatorias: } cada centroide se toma el valor de una instancia elegia aleatoriamente.
-		    \item \textbf{inicialización a partir de un \textit{clustering} previo:} se realiza una agrupación preeliminar a $2k$ clusters. De esos clusters se eligen los $k$ que más separados estén entre para la inicialización.
+		    \item \textbf{Inicialización a instancias aleatorias: } cada centroide se toma el valor de una instancia elegia aleatoriamente. En nuestro caso los inicializamos de esta manera.
+		    \item \textbf{Inicialización a partir de un \textit{clustering} previo:} Se realiza una agrupación preeliminar a $2k$ clusters. De esos clusters se eligen los $k$ que más separados estén para la inicialización.
 	    \end{itemize}
-		\item \textbf{cálculo de las distancias:} la fórmula para calcular la distancia será la distancia Minkowski, con \(m \in \Re\). \(m=1\) es la distancia Manhattan y \(m=2\) es la distancia Euclidea.
-		\item \textbf{definición de distancia \textit{inter-cluster}:} también hay varias formas para buscar la distancia entre dos clusters distintos. En este caso, vamos atrabajar con dos:
+		\item \textbf{Cálculo de las distancias:} La fórmula utilizada para calcular la distancia será la distancia Minkowski, con \(m \in \Re\). \(m=1\) es la distancia Manhattan y \(m=2\) es la distancia Euclidea.
+		Cálculo de la distancia con Minkowski: \cite{Minkowski} 
+		    \begin{equation}
+		    	 D(X,Y)=(\sum_{i=1}^n |x_i - y_i|^p)^\frac{1}{p}
+			\end{equation}		    
+		    D: distancia \newline
+		    X,Y: vectores  \newline
+		    p: orden (normalmente 1 o 2 para las distancias Manhattan o Euclídea respectivamente)\newline
+		En el caso concreto del cálculo de la distancia segun Manhattan (\(m=1\))\cite{Minkowski}:
+		\begin{equation}
+		    D(X,Y)=\sum_{i=1}^n |x_i - y_i|
+		\end{equation}
+		\newline
+		
+		\item \textbf{Definición de distancia \textit{inter-cluster}:} También existen varias formas para buscar la distancia entre dos clusters distintos. En este caso, vamos a trabajar con dos:
 		\begin{itemize}
-		    \item \textit{complete-link}. La distancia entre dos clusters es igual a la distancia entre las dos instancias, una de cada cluster, más lejanas entre sí.
-		    \item \textit{single-link}. La distancia entre dos clusters es igual a la distancia entre las dos instancias, una de cada cluster, más cercanas entre sí.
-		    \item \textit{average-link}. La distancia entre dos clusters es igual a la distancia entre los centroides de cada cluster.
+		    \item \textit{Complete-link}. La distancia entre dos clusters es igual a la distancia entre las dos instancias, una de cada cluster, más lejanas entre sí.
+		    \begin{equation}
+		    d(C_i,C_j)=\smash{\displaystyle\max_{ \forall x^{(r)}\in C_i ; \forall x^{(s)} \in C_j}} d(x^{(r)},x^{(s)})
+	    	\end{equation}
+		    \item \textit{Single-link}. La distancia d entre dos clusters (C$_i$, C$_j$) es igual a la distancia entre las dos instancias (x$^{(r)}$,x$^{(s)}$), una de cada cluster, más cercanas entre sí.
+		    \begin{equation}
+		    d(C_i,C_j)=\smash{\displaystyle\min_{\forall x^{(r)}\in C_i ; \forall x^{(s)} \in C_j}} d(x^{(r)},x^{(s)})
+		    \end{equation}
+		    \item \textit{Average-link}. La distancia entre dos clusters (C$_i$, C$_j$) es igual a la distancia entre los centroides (m$_i$,m$_j$) de cada cluster.
+		    \begin{equation}
+		    d(C_i,C_j)=d(m_i,mj) \text{  para  } m_i=\frac{1}{|C_i|}\sum_{\forall x^{(r)} \in C_i} x^{(r)}  
+	    	\end{equation}
+
+	    	\cite{AliciaPerez}\newline
 	    \end{itemize}
-	    \item \textbf{criterio de convergencia:} parámetro para decidir cuándo dar por finalizado \textit{clustering}. Terminamos el algoritmo cuando la variación de los centroides sea muy pequeña de una iteración a la siguiente. También tenemos un número máximo de iteraciones tras las cuales el algortimo termina forzosamente.
+	    \item \textbf{Criterio de convergencia:} Parámetro para decidir cuándo dar por finalizado el algoritmo de \textit{clustering}. Terminamos éste cuando la variación de los centroides sea más pequeña que nuestro umbral de una iteración a la siguiente. También tenemos un número máximo de iteraciones tras las cuales el algortimo termina forzosamente, para evitar posibles ciclos.
 	\end{itemize}
 
 	\begin{algorithm}
@@ -247,7 +271,22 @@
 	\subsubsection{Distancia Minkowski}
 	Por último, probamos a variar el parámetro $m$ de la distancia Minkowski
 	
-%\section{Conclusiones}
-%\section{Bibliografía}
+\section{Conclusiones}
+	foo
+\section{Bibliografía}
+\def\section*#1{} %Elimina el título "Referencias".
+\bibliographystyle{unsrtnat}
+\begin{thebibliography}{}
+\bibitem{WikipediaTFIDF}
+N.N., Wikipedia, 30 Octubre 2018, https://en.wikipedia.org/wiki/Tf-idf 
+
+\bibitem{Minkowski} 
+Binbin Lu et Al., The Minkowski approach for choosing the distance metric in geographically weighted regression, International Journal of Geographical Information Science, 2015
+
+\bibitem{AliciaPerez} 
+Alicia Pérez, Tema 2: CLUSTERING, UPV/EHU Bilbao, 10 Septiembre 2018
+
+
+\end{thebibliography}
 
 \end{document}
