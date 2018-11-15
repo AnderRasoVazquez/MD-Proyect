@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.14)  15 NOV 2018 23:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.13)  15 NOV 2018 23:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -704,7 +704,7 @@ LaTeX Info: Redefining \% on input line 7.
 Here is how much of TeX's memory you used:
  4638 strings out of 494747
  63485 string characters out of 6176206
- 142099 words of memory out of 5000000
+ 142100 words of memory out of 5000000
  7877 multiletter control sequences out of 15000+600000
  12735 words of font info for 49 fonts, out of 8000000 for 9000
  107 hyphenation exceptions out of 8191
@@ -724,7 +724,7 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on borrador_memoria.pdf (15 pages, 1002332 bytes).
+Output written on borrador_memoria.pdf (15 pages, 1002335 bytes).
 PDF statistics:
  135 PDF objects out of 1000 (max. 8388607)
  84 compressed objects within 1 object stream

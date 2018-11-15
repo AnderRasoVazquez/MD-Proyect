@@ -253,7 +253,7 @@
 	\end{figure}
 	
 	\paragraph{}
-	No resultó haber gran diferencia en los SSE medios de los clusters, pero mirando a los heatmaps de las particiones (Figs \ref{fig:htm_48_2_random} y \ref{fig:htm_96_2_random}) se puede notar como la relación entre cluster y causa de muerte está bastante más dispersa cuando tenemos solo 48 clusters que cuando tenemos 96.
+	No resultó haber gran diferencia en los SSE medios de los clusters, pero mirando a los heatmaps de las particiones (Fig: \ref{fig:htm_48_2_random} y \ref{fig:htm_96_2_random}) se puede notar como la relación entre cluster y causa de muerte está bastante más dispersa cuando tenemos solo 48 clusters que cuando tenemos 96.
 	
 	\subsubsection{Inicialización de centroides}
 	\paragraph{}
@@ -279,10 +279,10 @@
 		\label{fig:htm_96_2_2k}
 	\end{figure}
 	\paragraph{}
-	Parece que al iniciar el clustering con centroides más separados entre sí, las distribución de instancias ha sido menos uniforme, haciendo que algunos clusters sean más densos y que otros lo sean menos en comparación a la inicialización aleatoria. Por esta razón, la relación entre los clusters y las clases está menos definida. Esto también se ve comparando el heatmap de la inicialización 2k (Fig \ref{fig:htm_96_2_2k}) con el de la inicialización aleatoria (Fig \ref{fig:htm_96_2_random}).
+	Parece que al iniciar el clustering con centroides más separados entre sí, las distribución de instancias ha sido menos uniforme, haciendo que algunos clusters sean más densos y que otros lo sean menos en comparación a la inicialización aleatoria. Por esta razón, la relación entre los clusters y las clases está menos definida. Esto también se ve comparando el heatmap de la inicialización 2k (Fig: \ref{fig:htm_96_2_2k}) con el de la inicialización aleatoria (Fig: \ref{fig:htm_96_2_random}).
 	
 	\subsubsection{Distancia Minkowski}
-	Por último, probamos a variar el parámetro $m$ de la distancia Minkowski y elegimos los valores 2 y 4. El resultado de utilizar $m=4$ es un el error total de los clusters (Fig \ref{fig:sse_96_4_random}) ligeramente más alto en comparación a la misma operación realizada con $m=2$ (Fig \ref{fig:sse_96_2_random}). Sin embargo, comparando los mapas de calor (Figs \ref{fig:htm_96_2_random} y \ref{fig:htm_96_4_random}), parece que $m=4$ hace un trabajo ligeramente mejor de segregar las instancias según su clase.
+	Por último, probamos a variar el parámetro $m$ de la distancia Minkowski y elegimos los valores 2 y 4. El resultado de utilizar $m=4$ es un el error total de los clusters (Fig: \ref{fig:sse_96_4_random}) ligeramente más alto en comparación a la misma operación realizada con $m=2$ (Fig: \ref{fig:sse_96_2_random}). Sin embargo, comparando los mapas de calor (Fig: \ref{fig:htm_96_2_random} y \ref{fig:htm_96_4_random}), parece que $m=4$ hace un trabajo ligeramente mejor de segregar las instancias según su clase.
 	
 	\begin{figure}
 		\centering
