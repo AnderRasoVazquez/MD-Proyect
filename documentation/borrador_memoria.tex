@@ -131,16 +131,15 @@
 		\item \textbf{Cálculo de las distancias:} La fórmula utilizada para calcular la distancia será la distancia Minkowski, con \(m \in \Re\). \(m=1\) es la distancia Manhattan y \(m=2\) es la distancia Euclidea.
 		Cálculo de la distancia con Minkowski: \cite{Minkowski} 
 		    \begin{equation}
-		    	 D(X,Y)=(\sum_{i=1}^n |x_i - y_i|^p)^\frac{1}{p}
+		    	 D(X,Y)=(\sum_{i=1}^n |x_i - y_i|^m)^\frac{1}{m}
 			\end{equation}		    
-		    D: distancia \newline
-		    X,Y: vectores  \newline
-		    p: orden (normalmente 1 o 2 para las distancias Manhattan o Euclídea respectivamente)\newline
+		    $D$: distancia \newline
+		    $x$, $y$: vectores  \newline
+		    $m$: orden (normalmente 1 o 2 para las distancias Manhattan o Euclídea respectivamente)\newline
 		En el caso concreto del cálculo de la distancia segun Manhattan (\(m=1\))\cite{Minkowski}:
 		\begin{equation}
 		    D(X,Y)=\sum_{i=1}^n |x_i - y_i|
 		\end{equation}
-		\newline
 		
 		\item \textbf{Definición de distancia \textit{inter-cluster}:} También existen varias formas para buscar la distancia entre dos clusters distintos. En este caso, vamos a trabajar con dos:
 		\begin{itemize}
@@ -203,16 +202,15 @@
 \section{Evaluación}
 	\paragraph{}
 	Para evaluar el modelo obtenido vamos a utilizar la métrica de SSE (\textit{Sum of Square Errors}). Para cada uno de los clusters calculamos el error (distancia) cuadrático de cada instancia con respecto al centroide, y sumando todos estas distancias obtenemos el SSE total del cluster; su cohesión.
-	\begin{center}
-		$$SSE(C_i) = \sum_{x \in C_i} d^2(x, c_i)$$
-	\end{center}
+	\begin{equation}
+		SSE(C_i) = \sum_{x \in C_i} d^2(x, c_i)
+	\end{equation}
 	\paragraph{}
 	De la misma forma, sumando el SSE de cada cluster podemos obtener la cohesión total de la partición.
-	\begin{center}
 		$$C = \{C_1, C_2, C_3, ..., C_k\}$$
-		%\linebreak[0.5in]
-		$$SSE(C) = \sum^{k}_{i=1} SSE(C_i) = \sum^{k}_{i=1} \sum_{x \in C_i} d^2(x, c_i)$$
-	\end{center}
+	\begin{equation}
+		SSE(C) = \sum^{k}_{i=1} SSE(C_i) = \sum^{k}_{i=1} \sum_{x \in C_i} d^2(x, c_i)
+	\end{equation}
 	Para comparar cohesión entre clusters, calcularemos primero el SSE medio de los clusters, dividiendo el SSE de cada uno entre el número de instancias que contiene, ya que los clusters más poblados tendrán, por lo general, un SSE mayor solamente por su alto número de instancias, independientemente de su cohesión.
 	
 \section{Experimentos}
