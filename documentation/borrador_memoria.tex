@@ -34,14 +34,13 @@
 \section{Introducción}
 	\subsection{Objetivo de la tarea}
 	\paragraph{}
-	En este proyecto se nos encarga la tarea de trabajar en el campo del \textit{Text Mining} y del \textit{clustering} de documentos. Nuestro objetivo es, a partir de una gran colección de textos, buscar formas de agruparlos y tratar de extraer conclusiones de los resultados que obtengamos.
+	En este proyecto se nos encarga la tarea de trabajar en el campo del \textit{Text Mining} y del \textit{clustering} de documentos. Nuestro objetivo consiste en realizar una clasificación no supervisada de una gran cantidad de textos. La clasificación no supervisada consiste en agrupar las instancias en distintos grupos, o clusters, según su similaridad. Se intenta conseguir que las instancias de un cluster determinado sean similares entre sí a la vez que distintas de las instancias que no pertenecen al cluster.
 
 	\subsection{Propuesta de trabajo del grupo}
 	\paragraph{}
 	Como grupo, hemos decidido realizar la tarea sobre la colección de autopsias verbales que se propuso como opción. Esto se debe a que, ademas de considerar el tema muy interesante, creemos que es una propuesta que se encuentra muy próxima al uso que se da al \textit{Text Mining} en el ámbito científico.
 	\paragraph{}
     Sin embargo, de esta decisión también surgen ciertos retos a los que debemos poner solución:
-
 	\begin{itemize}
 		\item Muchos de los reportes de autopsia están en un lenguaje poco preciso y muchas veces ininteligible, probablemente causado tanto por el desconocimiento de los que dieron el reporte, como por las traducciones que se han hecho a estos.
 		\item En muchas ocasiones no hay reporte verbal o este es irrelevante, por lo que la única información útil de que se dispone es de los datos del difunto, tales como país, edad, sexo, etc.
@@ -50,7 +49,7 @@
 
 \section{Descripción y análisis de datos}
 	\paragraph{}
-	En este proyecto vamos a trabajar con autopsias verbales. Éstas son reportes que dan familiares o personas cercanas a un fallecido en lugares donde, por norma general, no se realiza una autopsia post-mortem a menos que sea estrictamente necesario. Estas autopsias se componen de información básica del paciente (edad, sexo, etc.) así como del reporte oral que ha dado el relativo al que se ha entrevistado.
+	En este proyecto vamos a trabajar con autopsias verbales. Estas son reportes que dan familiares o personas cercanas a un fallecido en lugares donde, por norma general, no se realiza una autopsia post-mortem a menos que sea estrictamente necesario. Estas autopsias se componen de información básica del paciente (edad, sexo, etc.) así como del reporte oral que ha dado el relativo al que se ha entrevistado.
 	\paragraph{}
 	La base de datos de las autopsias verbales se compone de casi 12000 instancias. En cada instancia disponemos de una serie de atributos:
 
@@ -217,10 +216,7 @@
 	\paragraph{}
 	Como experimentos vamos a realizar el clustering con distintos valores en los principales parámetros: k (número de clusters a crear), m (parámetro para la distancia Minkowski) y la estrategia de inicialización de centroides.
 	
-	\subsection{Resultados}
-	\paragraph{}
-	blah blah blah
-	
+	\subsection{Resultados}	
 	\subsubsection{Parámetro k}
 	\paragraph{}
 	Hemos probado a hacer el clustering con dos valores distintos de k: 48 y 96. En los datos hay un total de 46 causas de muerte registradas por lo que decidimos crear, por un lado, tantos clusters como clases, y, por otro, el doble, para ver si había alguna diferencia notable.
