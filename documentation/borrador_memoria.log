@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.14)  15 NOV 2018 23:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.14)  15 NOV 2018 23:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -653,13 +653,13 @@ es/plot_sexo.png>] [5] [6] [7] [8]
 File: figures/heatmap_k48_m2_initrandom.png Graphic file (type png)
 <use figures/heatmap_k48_m2_initrandom.png>
 Package pdftex.def Info: figures/heatmap_k48_m2_initrandom.png  used on input l
-ine 227.
+ine 244.
 (pdftex.def)             Requested size: 597.50787pt x 239.01003pt.
 <figures/heatmap_k96_m2_initrandom.png, id=52, 1806.75pt x 722.7pt>
 File: figures/heatmap_k96_m2_initrandom.png Graphic file (type png)
 <use figures/heatmap_k96_m2_initrandom.png>
 Package pdftex.def Info: figures/heatmap_k96_m2_initrandom.png  used on input l
-ine 233.
+ine 250.
 (pdftex.def)             Requested size: 597.50787pt x 239.01003pt.
  [9] [10 <./figures/heatmap_k48_m2_initrandom.png> <./figures/heatmap_k96_m2_in
 itrandom.png>]
@@ -667,19 +667,19 @@ itrandom.png>]
 File: figures/sse_plot_k96_m2_initrandom.png Graphic file (type png)
 <use figures/sse_plot_k96_m2_initrandom.png>
 Package pdftex.def Info: figures/sse_plot_k96_m2_initrandom.png  used on input 
-line 248.
+line 265.
 (pdftex.def)             Requested size: 597.50787pt x 119.5039pt.
 <figures/sse_plot_k96_m2_init2k.png, id=62, 1084.05pt x 216.81pt>
 File: figures/sse_plot_k96_m2_init2k.png Graphic file (type png)
 <use figures/sse_plot_k96_m2_init2k.png>
 Package pdftex.def Info: figures/sse_plot_k96_m2_init2k.png  used on input line
- 254.
+ 271.
 (pdftex.def)             Requested size: 597.50787pt x 119.5039pt.
 <figures/heatmap_k96_m2_init2k.png, id=63, 1806.75pt x 722.7pt>
 File: figures/heatmap_k96_m2_init2k.png Graphic file (type png)
 <use figures/heatmap_k96_m2_init2k.png>
 Package pdftex.def Info: figures/heatmap_k96_m2_init2k.png  used on input line 
-260.
+277.
 (pdftex.def)             Requested size: 597.50787pt x 239.01003pt.
  [11 <./figures/sse_plot_k96_m2_initrandom.png> <./figures/sse_plot_k96_m2_init
 2k.png>]
@@ -687,16 +687,16 @@ Package pdftex.def Info: figures/heatmap_k96_m2_init2k.png  used on input line
 File: figures/sse_plot_k96_m4_initrandom.png Graphic file (type png)
 <use figures/sse_plot_k96_m4_initrandom.png>
 Package pdftex.def Info: figures/sse_plot_k96_m4_initrandom.png  used on input 
-line 272.
+line 289.
 (pdftex.def)             Requested size: 597.50787pt x 119.5039pt.
 <figures/heatmap_k96_m4_initrandom.png, id=70, 1806.75pt x 722.7pt>
 File: figures/heatmap_k96_m4_initrandom.png Graphic file (type png)
 <use figures/heatmap_k96_m4_initrandom.png>
 Package pdftex.def Info: figures/heatmap_k96_m4_initrandom.png  used on input l
-ine 278.
+ine 295.
 (pdftex.def)             Requested size: 597.50787pt x 239.01003pt.
- [12 <./figures/heatmap_k96_m2_init2k.png> <./figures/sse_plot_k96_m4_initrando
-m.png>] [13 <./figures/heatmap_k96_m4_initrandom.png>] [14] (./borrador_memoria
+ [12 <./figures/heatmap_k96_m2_init2k.png>] [13 <./figures/sse_plot_k96_m4_init
+random.png> <./figures/heatmap_k96_m4_initrandom.png>] [14] (./borrador_memoria
 .aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
@@ -704,7 +704,7 @@ LaTeX Info: Redefining \% on input line 7.
 Here is how much of TeX's memory you used:
  4638 strings out of 494747
  63485 string characters out of 6176206
- 141099 words of memory out of 5000000
+ 142099 words of memory out of 5000000
  7877 multiletter control sequences out of 15000+600000
  12735 words of font info for 49 fonts, out of 8000000 for 9000
  107 hyphenation exceptions out of 8191
@@ -724,7 +724,7 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on borrador_memoria.pdf (15 pages, 1001379 bytes).
+Output written on borrador_memoria.pdf (15 pages, 1002332 bytes).
 PDF statistics:
  135 PDF objects out of 1000 (max. 8388607)
  84 compressed objects within 1 object stream
