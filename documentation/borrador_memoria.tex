@@ -7,7 +7,8 @@
 \usepackage{graphicx}
 \usepackage{algorithm2e}
 \author{Markus Fischer • Guzmán López • David Pérez • Ander Raso}
-\title{Proyecto de Minería de Datos: \linebreak Borrador de memoria completa}
+\title{Proyecto de Minería de Datos: \linebreak Clustering aplicado a Autopsias Verbales}
+
 \date{}
 
 %Borrador de la memoria completa: estructura con todas las secciones y en cada sección esquema del contenido
@@ -26,19 +27,21 @@
 
 \begin{document}
 \maketitle
-\newpage
+\pagenumbering{gobble}
 
+\newpage
+\pagenumbering{arabic}
 \tableofcontents
-\newpage
 
+\newpage
 \section{Introducción}
 	\subsection{Objetivo de la tarea}
 	\paragraph{}
-	En este proyecto se nos encarga la tarea de trabajar en el campo del \textit{Text Mining} y del \textit{clustering} de documentos. Nuestro objetivo consiste en realizar una clasificación no supervisada de una gran cantidad de textos. La clasificación no supervisada consiste en agrupar las instancias en distintos grupos, o clusters, según su similaridad. Se intenta conseguir que las instancias de un cluster determinado sean similares entre sí a la vez que distintas de las instancias que no pertenecen al cluster.
+	En este proyecto se nos encarga la tarea de trabajar en el campo del \textit{Text Mining} y del \textit{clustering} de documentos. Nuestro objetivo consiste en realizar una clasificación no supervisada de una gran cantidad de textos. La clasificación no supervisada consiste en agrupar las instancias en distintos grupos, o clusters, según su similitud. Se intenta conseguir que las instancias de un cluster determinado sean similares entre sí a la vez que distintas de las instancias que no pertenecen al cluster.
 
 	\subsection{Propuesta de trabajo del grupo}
 	\paragraph{}
-	Como grupo, hemos decidido realizar la tarea sobre la colección de autopsias verbales que se propuso como opción. Esto se debe a que, ademas de considerar el tema muy interesante, creemos que es una propuesta que se encuentra muy próxima al uso que se da al \textit{Text Mining} en el ámbito científico.
+	Como grupo, hemos decidido realizar la tarea sobre la colección de autopsias verbales que se nos propuso como una de las posibles opciones. Esto se debe a que, además de considerar el tema muy interesante, creemos que es una propuesta que se encuentra muy próxima al uso que se da al \textit{Text Mining} en el ámbito científico.
 	\paragraph{}
     Sin embargo, de esta decisión también surgen ciertos retos a los que debemos poner solución:
 	\begin{itemize}
@@ -96,7 +99,7 @@
 	\paragraph{}
 	El formato original del archivo de autopsias es un xlsx, es decir, una hoja de cálculo de Microsoft Office. Esto nos facilita mucho la tarea de procesar los textos, ya que es muy fácil convertir de xlsx a formatos de texto plano. En nuestro caso elegimos csv, ya que es un formato muy limpio, fácil de entender y compatible con gran parte de las librerías que vamos a utilizar.
 
-	\subsection{Limpeza de textos}
+	\subsection{Limpieza de textos}
 	\paragraph{}
 	Una vez tenemos nuestro documento como csv, procedemos a preprocesarlo. Ya que los valores de identificador, grupo de edad, lugar, diagnóstico, sexo y edad están codificados según unos criterios que se mantienen a lo largo de todas las instancias, sabemos que no debemos preprocesarlos. Sin embargo, en el campo de la respuesta verbal sí que tenemos que solucionar algunas anomalías:
 
@@ -122,20 +125,20 @@
 	\paragraph{}
 	Para el \textit{clustering} hemos decidido utilizar el algoritmo \textit{k-means clustering}, el cual implementaremos en Python. Algunas de las opciones para el algoritmo a tener en cuenta son:
 	\begin{itemize}
-		\item \textbf{Inicialización de los centroides:} Hay varias formas de elegir los valores iniciales de los centroides, y su inicialización podría tener repercusíon en los resultados.
+		\item \textbf{Inicialización de los centroides:} Hay varias formas de elegir los valores iniciales de los centroides, y su inicialización podría tener repercusión en los resultados.
 		\begin{itemize}
 		    \item \textbf{Inicialización a instancias aleatorias: } cada centroide se toma el valor de una instancia elegia aleatoriamente. En nuestro caso los inicializamos de esta manera.
-		    \item \textbf{Inicialización a partir de un \textit{clustering} previo:} Se realiza una agrupación preeliminar a $2k$ clusters. De esos clusters se eligen los $k$ que más separados estén para la inicialización.
+		    \item \textbf{Inicialización a partir de un \textit{clustering} previo:} Se realiza una agrupación preliminar a $2k$ clusters. De esos clusters se eligen los $k$ que más separados estén para la inicialización.
 	    \end{itemize}
-		\item \textbf{Cálculo de las distancias:} La fórmula utilizada para calcular la distancia será la distancia Minkowski, con \(m \in \Re\). \(m=1\) es la distancia Manhattan y \(m=2\) es la distancia Euclidea.
-		Cálculo de la distancia con Minkowski: \cite{Minkowski} 
+		\item \textbf{Cálculo de las distancias:} La fórmula utilizada para calcular la distancia será la distancia Minkowski, con \(m \in \Re\). \(m=1\) es la distancia Manhattan y \(m=2\) es la distancia Euclídea.
+		Cálculo de la distancia con Minkowski \cite{Minkowski}: 
 		    \begin{equation}
 		    	 D(X,Y)=(\sum_{i=1}^n |x_i - y_i|^m)^\frac{1}{m}
 			\end{equation}		    
 		    $D$: distancia \newline
 		    $x$, $y$: vectores  \newline
 		    $m$: orden (normalmente 1 o 2 para las distancias Manhattan o Euclídea respectivamente)\newline
-		En el caso concreto del cálculo de la distancia segun Manhattan (\(m=1\))\cite{Minkowski}:
+		En el caso concreto del cálculo de la distancia segun Manhattan (\(m=1\)) \cite{Minkowski}:
 		\begin{equation}
 		    D(X,Y)=\sum_{i=1}^n |x_i - y_i|
 		\end{equation}
@@ -150,14 +153,13 @@
 		    \begin{equation}
 		    d(C_i,C_j)=\smash{\displaystyle\min_{\forall x^{(r)}\in C_i ; \forall x^{(s)} \in C_j}} d(x^{(r)},x^{(s)})
 		    \end{equation}
-		    \item \textit{Average-link}. La distancia entre dos clusters (C$_i$, C$_j$) es igual a la distancia entre los centroides (m$_i$,m$_j$) de cada cluster.
+		    \item \textit{Average-link}. La distancia entre dos clusters (C$_i$, C$_j$) es igual a la distancia entre los centroides (m$_i$,m$_j$) de cada cluster. \cite{AliciaPerez}
+
 		    \begin{equation}
 		    d(C_i,C_j)=d(m_i,mj) \text{  para  } m_i=\frac{1}{|C_i|}\sum_{\forall x^{(r)} \in C_i} x^{(r)}  
 	    	\end{equation}
-
-	    	\cite{AliciaPerez}\newline
 	    \end{itemize}
-	    \item \textbf{Criterio de convergencia:} Parámetro para decidir cuándo dar por finalizado el algoritmo de \textit{clustering}. Terminamos éste cuando la variación de los centroides sea más pequeña que nuestro umbral de una iteración a la siguiente. También tenemos un número máximo de iteraciones tras las cuales el algortimo termina forzosamente, para evitar posibles ciclos.
+	    \item \textbf{Criterio de convergencia:} Parámetro para decidir cuándo dar por finalizado el algoritmo de \textit{clustering}. Terminamos éste cuando la variación de los centroides sea más pequeña que nuestro umbral de una iteración a la siguiente. También tenemos un número máximo de iteraciones tras las cuales el algoritmo termina forzosamente, para evitar posibles ciclos.
 	\end{itemize}
 
 	\begin{algorithm}
@@ -260,10 +262,10 @@
 		\label{fig:htm_96_2_2k}
 	\end{figure}
 	\paragraph{}
-	Parece que al iniciar el clustering con centroides más separados entre sí, las distribución de instancias ha sido menos uniforme, haciendo que algunos clusers sean más densos y que otros lo sean menos en comparación a la inicialización aleatoria. Por esta razón, la relación entre los clusters y las clases está menos definida. Esto también se ve comparando el heatmap de la inicialización 2k (Fig \ref{fig:htm_96_2_2k}) con el de la inicialiazción aleatoria (Fig \ref{fig:htm_96_2_random}).
+	Parece que al iniciar el clustering con centroides más separados entre sí, las distribución de instancias ha sido menos uniforme, haciendo que algunos clusters sean más densos y que otros lo sean menos en comparación a la inicialización aleatoria. Por esta razón, la relación entre los clusters y las clases está menos definida. Esto también se ve comparando el heatmap de la inicialización 2k (Fig \ref{fig:htm_96_2_2k}) con el de la inicialización aleatoria (Fig \ref{fig:htm_96_2_random}).
 	
 	\subsubsection{Distancia Minkowski}
-	Por último, probamos a variar el parámetro $m$ de la distancia Minkowski y elegimos los valores 2 y 4. El resultado de utilizar $m=4$ es un el error total de los clusters (Fig \ref{fig:sse_96_4_random}) lígeramente más alto en comparación a la misma operación realizada con $m=2$ (Fig \ref{fig:sse_96_2_random}). Sin embargo, comparando los mapas de calor (Figs \ref{fig:htm_96_2_random} y \ref{fig:htm_96_4_random}), parece que $m=4$ hace un trabajo ligeramente mejor de segregar las instancias según su clase.
+	Por último, probamos a variar el parámetro $m$ de la distancia Minkowski y elegimos los valores 2 y 4. El resultado de utilizar $m=4$ es un el error total de los clusters (Fig \ref{fig:sse_96_4_random}) ligeramente más alto en comparación a la misma operación realizada con $m=2$ (Fig \ref{fig:sse_96_2_random}). Sin embargo, comparando los mapas de calor (Figs \ref{fig:htm_96_2_random} y \ref{fig:htm_96_4_random}), parece que $m=4$ hace un trabajo ligeramente mejor de segregar las instancias según su clase.
 	
 	\begin{figure}
 		\centering
@@ -282,30 +284,24 @@
 	%Describir muy brevemente la motivación para llevar a cabo técnicas de clustering
 	\paragraph{}
 	Gracias a este proyecto hemos podido ver de primera mano una de las posibles aplicaciones de las técnicas de clustering. Hemos de tener en cuenta que es una técnica ampliamente utilizada en el mundo empresarial y laboral a unas escalas que no son comparables a nuestro pequeño proyecto, pero éste sirve como una buena aproximación a un mundo que todavía está en auge y en el que aún no hay muchas normas impuestas. 
-	%Describir muy brevemente las conclusiones obtenidas a la vista de los resultados más relevantes	
-	\paragraph{}
-	En cuanto a los resultados del proyecto, .......
 	%Conclusiones generales (análisis de fortalezas del software implementado y reflexiones más importantes sobre la tarea)
 	\paragraph{}
-	En general nuestro programa cumple satisfactoriamente con los objetivos propuestos. Hemos sido capaces de desarrollarlo de forma que sea lo más potente, versátil y eficiente posible. Han sido estos dos últimos de especial importancia para nuestro grupo, puesto que por un lado la versatilidad nos ha permitido realizar pruebas con diferentes escenarios y parámetros para poder buscar fácilmente la mejor opción de clustering, y por otro lado hemos tenido que hacer nuestro código lo más eficiente posible ya que ha habido que realizar una gran cantidad de operaciones sobre un conjunto de datos de por si bastantegrande, y en las primeras iteraciones del programa los ordenadores menos potentes del grupo no eran capaces de realizar estas tareas correctamente. Esto fue corregido posteriormente, consiguiendo que con el código final se pueda realizar la tarea en tiempos bastante bajos para la magnitud de ésta.
+	En general nuestro programa cumple satisfactoriamente con los objetivos propuestos. Hemos sido capaces de desarrollarlo de forma que sea lo más potente, versátil y eficiente posible. Han sido estos dos últimos de especial importancia para nuestro grupo, puesto que por un lado la versatilidad nos ha permitido realizar pruebas con diferentes escenarios y parámetros para poder buscar fácilmente la mejor opción de clustering, y por otro lado hemos tenido que hacer nuestro código lo más eficiente posible ya que ha habido que realizar una gran cantidad de operaciones sobre un conjunto de datos de por si bastante grande, y en las primeras iteraciones del programa los ordenadores menos potentes del grupo no eran capaces de realizar estas tareas correctamente. Esto fue corregido posteriormente, consiguiendo que con el código final se pueda realizar la tarea en tiempos bastante bajos para la magnitud de ésta.
 	%Propuestas para mejorar o ampliar la funcionalidad del software diseñado en trabajo futuro (análisis de puntos débiles y propuesta para solucionarlos)
 	\paragraph{}
-	Sin embargo, si tuviésemos que mejorar nuestro software una de las cosas en las que podríamos centrarnos es en dividir las instancias de forma previa al clustering en función de ciertos parámetros que hacen que estas instancias no sean completamente homogeneas. Un claro ejemplo de esto son los rangos de edad con los que están etiquetadas las instancias, en los que podemos ver que para aquellas instancias catalogadas como neonatos el abanico de causas de muerte es muy reducido. Otro posible ejemplo es el sexo de cada una de las personas, ya que es posible que no se pueda padecer alguna enfermedad según éste (un claro caso sería un cancer testicular), o simplemente influir mucho en el conjunto de enfermedades que le pueden afectar. En ambos casos podría ser muy interesante disponer de la funcionalidad de realizar un clustering por separado.
+	Sin embargo, si tuviésemos que mejorar nuestro software una de las cosas en las que podríamos centrarnos es en dividir las instancias de forma previa al clustering en función de ciertos parámetros que hacen que estas instancias no sean completamente homogéneas. Un claro ejemplo de esto son los rangos de edad con los que están etiquetadas las instancias, en los que podemos ver que para aquellas instancias catalogadas como neonatos el abanico de causas de muerte es muy reducido. Otro posible ejemplo es el sexo de cada una de las personas, ya que es posible que no se pueda padecer alguna enfermedad según éste (un claro caso sería un cáncer testicular), o simplemente influir mucho en el conjunto de enfermedades que le pueden afectar. En ambos casos podría ser muy interesante disponer de la funcionalidad de realizar un clustering por separado.
 	\paragraph{}
 	Otro de las posibles áreas de mejora tiene que ver con los parámetros que nuestro algoritmo utiliza, tales como el número de clusters, el orden de la distancia de Minkowski, o la inicialización de los clusters. En este momento todos estos valores son introducidos por el usuario y, si bien eso añade versatilidad a nuestro programa, podría ser el propio programa el que ofreciese la posibilidad de probar con diferentes valores y ofrecer al usuario la mejor solución que pueda encontrar.
 \section{Bibliografía}
 \def\section*#1{} %Elimina el título "Referencias".
 \bibliographystyle{unsrtnat}
 \begin{thebibliography}{}
-\bibitem{WikipediaTFIDF}
-N.N., Wikipedia, 30 Octubre 2018, https://en.wikipedia.org/wiki/Tf-idf 
 
 \bibitem{Minkowski} 
 Binbin Lu et Al., The Minkowski approach for choosing the distance metric in geographically weighted regression, International Journal of Geographical Information Science, 2015
 
 \bibitem{AliciaPerez} 
 Alicia Pérez, Tema 2: CLUSTERING, UPV/EHU Bilbao, 10 Septiembre 2018
-
 
 \end{thebibliography}
 

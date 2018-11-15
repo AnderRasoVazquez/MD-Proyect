@@ -1,42 +1,41 @@
 \babel@toc {spanish}{}
-\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}
-\contentsline {subsection}{\numberline {1.1}Objetivo de la tarea}{3}
-\contentsline {paragraph}{}{3}
-\contentsline {subsection}{\numberline {1.2}Propuesta de trabajo del grupo}{3}
-\contentsline {paragraph}{}{3}
-\contentsline {paragraph}{}{3}
-\contentsline {section}{\numberline {2}Descripci\IeC {\'o}n y an\IeC {\'a}lisis de datos}{3}
-\contentsline {paragraph}{}{3}
-\contentsline {paragraph}{}{3}
-\contentsline {section}{\numberline {3}Preproceso de datos}{6}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{2}
+\contentsline {subsection}{\numberline {1.1}Objetivo de la tarea}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {subsection}{\numberline {1.2}Propuesta de trabajo del grupo}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {section}{\numberline {2}Descripci\IeC {\'o}n y an\IeC {\'a}lisis de datos}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {section}{\numberline {3}Preproceso de datos}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {subsection}{\numberline {3.1}Limpieza de textos}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {subsection}{\numberline {3.2}\textit {Word vector}}{6}
 \contentsline {paragraph}{}{6}
-\contentsline {subsection}{\numberline {3.1}Limpeza de textos}{6}
 \contentsline {paragraph}{}{6}
-\contentsline {subsection}{\numberline {3.2}\textit {Word vector}}{7}
+\contentsline {section}{\numberline {4}Clustering}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {subsection}{\numberline {4.1}Representaci\IeC {\'o}n gr\IeC {\'a}fica}{7}
 \contentsline {paragraph}{}{7}
-\contentsline {paragraph}{}{7}
-\contentsline {section}{\numberline {4}Clustering}{7}
-\contentsline {paragraph}{}{7}
-\contentsline {subsection}{\numberline {4.1}Representaci\IeC {\'o}n gr\IeC {\'a}fica}{8}
-\contentsline {paragraph}{}{8}
-\contentsline {section}{\numberline {5}Evaluaci\IeC {\'o}n}{10}
-\contentsline {paragraph}{}{10}
-\contentsline {paragraph}{}{10}
-\contentsline {section}{\numberline {6}Experimentos}{10}
-\contentsline {paragraph}{}{10}
-\contentsline {subsection}{\numberline {6.1}Resultados}{10}
-\contentsline {subsubsection}{\numberline {6.1.1}Par\IeC {\'a}metro k}{10}
-\contentsline {paragraph}{}{10}
-\contentsline {paragraph}{}{10}
-\contentsline {subsubsection}{\numberline {6.1.2}Inicializaci\IeC {\'o}n de centroides}{12}
-\contentsline {paragraph}{}{12}
-\contentsline {paragraph}{}{12}
-\contentsline {paragraph}{}{12}
-\contentsline {subsubsection}{\numberline {6.1.3}Distancia Minkowski}{13}
-\contentsline {section}{\numberline {7}Conclusiones}{14}
+\contentsline {section}{\numberline {5}Evaluaci\IeC {\'o}n}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {section}{\numberline {6}Experimentos}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {subsection}{\numberline {6.1}Resultados}{9}
+\contentsline {subsubsection}{\numberline {6.1.1}Par\IeC {\'a}metro k}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {subsubsection}{\numberline {6.1.2}Inicializaci\IeC {\'o}n de centroides}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {subsubsection}{\numberline {6.1.3}Distancia Minkowski}{12}
+\contentsline {section}{\numberline {7}Conclusiones}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{}{13}
 \contentsline {paragraph}{}{14}
-\contentsline {paragraph}{}{14}
-\contentsline {paragraph}{}{14}
-\contentsline {paragraph}{}{14}
-\contentsline {paragraph}{}{15}
-\contentsline {section}{\numberline {8}Bibliograf\IeC {\'\i }a}{15}
+\contentsline {section}{\numberline {8}Bibliograf\IeC {\'\i }a}{14}
