@@ -45,6 +45,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import random
+import ast
 from argparse import ArgumentParser
 from src.utils import utils
 from src.utils.distance import MDistance
@@ -103,7 +104,7 @@ def _get_args():
                         help='flag para dibujar los clusters en un gráfico',
                         default=False)
     parser.add_argument('-n', '--plot_indices',
-                        type=list,
+                        type=str,
                         help='matriz de índices de los clusters a representar'
                              ' gráficamente. Por defecto, todos en un solo gráfico',
                         default=None)
@@ -661,8 +662,28 @@ def main():
     max_it = args.max_it
     verbose = args.verbose
     plot = args.plot
-    plot_indices = args.plot_indices
-    plot_tags = args.plot_tags
+    if plot:
+        if args.plot_indices:
+            try:
+                plot_indices = ast.literal_eval(args.plot_indices)
+                if plot_indices and type(plot_indices) is not list:
+                    plot = False
+                    if verbose:
+                        print("Incorrectly formatted list. Skipping plotting.")
+                elif type(plot_indices[0]) is not list:
+                    plot_indices = [plot_indices]
+            except (SyntaxError, ValueError):
+                plot = False
+                plot_indices = None
+                if verbose:
+                    print("Incorrectly formatted list. Skipping plotting.")
+        else:
+            plot_indices = args.plot_indices
+        plot_tags = args.plot_tags
+    else:
+        plot_indices = None
+        plot_tags = False
+
     plot_save_folder = args.plot_save_folder
     KMeans.main(data_path=data_path, output_folder=output_folder, text_attr=text_attr,
                 class_attr=class_attr, k=k, tolerance=tolerance, m=m,
